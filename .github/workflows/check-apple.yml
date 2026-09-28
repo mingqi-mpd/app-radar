@@ -1,0 +1,35 @@
+name: Check Apple chart access
+
+# Manual test only: fetches all 8 charts with the same validation as the daily job,
+# but writes nothing and never touches rolling-state.json.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch all eight charts (read-only)
+        working-directory: app-radar
+        run: |
+          python3 - <<'PY'
+          import sys
+          from radar import CATEGORIES, fetch
+          failed = 0
+          for category, genre in CATEGORIES.items():
+              try:
+                  snap = fetch(category, genre)
+                  print(f"OK    {category:<18} {len(snap['apps'])} apps, source updated {snap['source_updated']}")
+              except Exception as exc:
+                  failed += 1
+                  print(f"FAIL  {category:<18} {exc}")
+          print(f"\n{8 - failed}/8 charts reachable")
+          sys.exit(1 if failed else 0)
+          PY
