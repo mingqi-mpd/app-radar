@@ -1,0 +1,91 @@
+name: Daily App Radar
+
+on:
+  schedule:
+    # GitHub cron uses UTC. 07:00 and 08:00 UTC cover 09:00 Europe/Rome in both
+    # summer and winter time; the gate step below skips the run that is too early.
+    - cron: '0 7 * * *'
+    - cron: '0 8 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: app-radar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      skip: ${{ steps.gate.outputs.skip }}
+      collect_rc: ${{ steps.collect.outputs.rc }}
+    steps:
+      - name: Skip scheduled runs before 09:00 Rome time
+        id: gate
+        run: |
+          hour=$(TZ=Europe/Rome date +%-H)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$hour" -lt 9 ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.skip != 'true'
+
+      - uses: actions/setup-python@v5
+        if: steps.gate.outputs.skip != 'true'
+        with:
+          python-version: '3.12'
+
+      - name: Collect charts
+        id: collect
+        if: steps.gate.outputs.skip != 'true'
+        run: |
+          set +e
+          python3 app-radar/radar.py
+          echo "rc=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Build public site data
+        if: steps.gate.outputs.skip != 'true'
+        run: python3 app-radar-site/build_data.py
+
+      - name: Save rolling state to the repository
+        if: steps.gate.outputs.skip != 'true'
+        run: |
+          git config user.name "app-radar-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A app-radar app-radar-site/dist
+          if git diff --cached --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "Daily App Radar update $(TZ=Europe/Rome date +%F)"
+            git push
+          fi
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.gate.outputs.skip != 'true'
+        with:
+          path: app-radar-site/dist
+
+  deploy:
+    needs: update
+    if: needs.update.outputs.skip != 'true'
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy website
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Fail the run if collection was incomplete
+        if: needs.update.outputs.collect_rc != '0'
+        run: |
+          echo "Chart collection was incomplete (exit code ${{ needs.update.outputs.collect_rc }}). No leads were published today."
+          exit 1
