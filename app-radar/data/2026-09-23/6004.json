@@ -1,0 +1,708 @@
+{
+  "category": "Sports",
+  "source": "https://itunes.apple.com/us/rss/topfreeapplications/limit=100/genre=6004/json",
+  "source_updated": "2026-09-23T07:49:16-07:00",
+  "collected_at": "2026-09-23T16:51:14.053315+02:00",
+  "apps": [
+    {
+      "id": "1375031369",
+      "rank": 1,
+      "name": "DraftKings: Sports & Casino",
+      "developer": "DraftKings",
+      "url": "https://apps.apple.com/us/app/id1375031369"
+    },
+    {
+      "id": "513135722",
+      "rank": 2,
+      "name": "MLB Ballpark",
+      "developer": "MLB",
+      "url": "https://apps.apple.com/us/app/id513135722"
+    },
+    {
+      "id": "1413721906",
+      "rank": 3,
+      "name": "FanDuel Sportsbook & Casino",
+      "developer": "FanDuel, Inc.",
+      "url": "https://apps.apple.com/us/app/id1413721906"
+    },
+    {
+      "id": "555376968",
+      "rank": 4,
+      "name": "ESPN Fantasy Sports & More",
+      "developer": "Disney",
+      "url": "https://apps.apple.com/us/app/id555376968"
+    },
+    {
+      "id": "1437843273",
+      "rank": 5,
+      "name": "PrizePicks - Sports Picks",
+      "developer": "SidePrize, LLC",
+      "url": "https://apps.apple.com/us/app/id1437843273"
+    },
+    {
+      "id": "317469184",
+      "rank": 6,
+      "name": "ESPN: Live Sports & Scores",
+      "developer": "Disney",
+      "url": "https://apps.apple.com/us/app/id317469184"
+    },
+    {
+      "id": "6745190566",
+      "rank": 7,
+      "name": "NBA 2K HQ",
+      "developer": "2K",
+      "url": "https://apps.apple.com/us/app/id6745190566"
+    },
+    {
+      "id": "493619333",
+      "rank": 8,
+      "name": "MLB",
+      "developer": "MLB",
+      "url": "https://apps.apple.com/us/app/id493619333"
+    },
+    {
+      "id": "389781154",
+      "rank": 9,
+      "name": "NFL",
+      "developer": "NFL Enterprises LLC",
+      "url": "https://apps.apple.com/us/app/id389781154"
+    },
+    {
+      "id": "712661687",
+      "rank": 10,
+      "name": "Fanatics: Shop NFL, NBA & MLB",
+      "developer": "Fanatics, Inc.",
+      "url": "https://apps.apple.com/us/app/id712661687"
+    },
+    {
+      "id": "412223222",
+      "rank": 11,
+      "name": "Hudl",
+      "developer": "Agile Sports Technologies, Inc.",
+      "url": "https://apps.apple.com/us/app/id412223222"
+    },
+    {
+      "id": "1465717844",
+      "rank": 12,
+      "name": "bet365 - Sportsbook & Casino",
+      "developer": "Hillside Technology Limited",
+      "url": "https://apps.apple.com/us/app/id1465717844"
+    },
+    {
+      "id": "6443958997",
+      "rank": 13,
+      "name": "Novig: Prediction Market",
+      "developer": "Novig, Inc.",
+      "url": "https://apps.apple.com/us/app/id6443958997"
+    },
+    {
+      "id": "1186906455",
+      "rank": 14,
+      "name": "sportsYou",
+      "developer": "sportsYou",
+      "url": "https://apps.apple.com/us/app/id1186906455"
+    },
+    {
+      "id": "1616738407",
+      "rank": 15,
+      "name": "Fanatics Sports & Casino",
+      "developer": "FBG ENTERPRISES OPCO, LLC",
+      "url": "https://apps.apple.com/us/app/id1616738407"
+    },
+    {
+      "id": "1514665962",
+      "rank": 16,
+      "name": "Underdog Sports",
+      "developer": "Underdog Sports, Inc.",
+      "url": "https://apps.apple.com/us/app/id1514665962"
+    },
+    {
+      "id": "1308415878",
+      "rank": 17,
+      "name": "GameChanger",
+      "developer": "GameChanger Media, Inc.",
+      "url": "https://apps.apple.com/us/app/id1308415878"
+    },
+    {
+      "id": "987367543",
+      "rank": 18,
+      "name": "Sleeper - Fantasy Sports",
+      "developer": "Blitz Studios",
+      "url": "https://apps.apple.com/us/app/id987367543"
+    },
+    {
+      "id": "1635215598",
+      "rank": 19,
+      "name": "Betr - Sports & Gaming",
+      "developer": "Betr Holdings, Inc.",
+      "url": "https://apps.apple.com/us/app/id1635215598"
+    },
+    {
+      "id": "1129523589",
+      "rank": 20,
+      "name": "DAZN: Stream Live Sports",
+      "developer": "DAZN Limited",
+      "url": "https://apps.apple.com/us/app/id1129523589"
+    },
+    {
+      "id": "1049091284",
+      "rank": 21,
+      "name": "GoFan: Buy Tickets to Events",
+      "developer": "Huddle Tickets, LLC",
+      "url": "https://apps.apple.com/us/app/id1049091284"
+    },
+    {
+      "id": "6759112783",
+      "rank": 22,
+      "name": "Courtside - Social Sportsbook",
+      "developer": "Courtside Games Inc",
+      "url": "https://apps.apple.com/us/app/id6759112783"
+    },
+    {
+      "id": "6502530085",
+      "rank": 23,
+      "name": "RotoBot - AI Sports Insights",
+      "developer": "Rotobot.ai",
+      "url": "https://apps.apple.com/us/app/id6502530085"
+    },
+    {
+      "id": "1572525917",
+      "rank": 24,
+      "name": "Hard Rock Bet Sportsbook",
+      "developer": "Seminole Hard Rock Digital, LLC.",
+      "url": "https://apps.apple.com/us/app/id1572525917"
+    },
+    {
+      "id": "6475806539",
+      "rank": 25,
+      "name": "Fans First Tickets",
+      "developer": "Fans First Entertainment, LLC",
+      "url": "https://apps.apple.com/us/app/id6475806539"
+    },
+    {
+      "id": "1141119371",
+      "rank": 26,
+      "name": "FantasyPros - Fantasy Advice",
+      "developer": "Marzen Media LLC",
+      "url": "https://apps.apple.com/us/app/id1141119371"
+    },
+    {
+      "id": "6670517733",
+      "rank": 27,
+      "name": "TeamSnap ONE",
+      "developer": "TeamSnap, Inc.",
+      "url": "https://apps.apple.com/us/app/id6670517733"
+    },
+    {
+      "id": "328415391",
+      "rank": 28,
+      "name": "Yahoo Fantasy Sports: NFL, MLB",
+      "developer": "Yahoo",
+      "url": "https://apps.apple.com/us/app/id328415391"
+    },
+    {
+      "id": "6446788829",
+      "rank": 29,
+      "name": "Apple Sports",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/us/app/id6446788829"
+    },
+    {
+      "id": "980665604",
+      "rank": 30,
+      "name": "MaxPreps: High School Sports",
+      "developer": "MaxPreps Inc.",
+      "url": "https://apps.apple.com/us/app/id980665604"
+    },
+    {
+      "id": "6575377429",
+      "rank": 31,
+      "name": "BMW BERLIN-MARATHON 2026",
+      "developer": "Mika timing",
+      "url": "https://apps.apple.com/us/app/id6575377429"
+    },
+    {
+      "id": "1522405338",
+      "rank": 32,
+      "name": "1v1Me - Esports Staking",
+      "developer": "1v1Me, Inc",
+      "url": "https://apps.apple.com/us/app/id1522405338"
+    },
+    {
+      "id": "6747457568",
+      "rank": 33,
+      "name": "DraftKings Predictions",
+      "developer": "DraftKings",
+      "url": "https://apps.apple.com/us/app/id6747457568"
+    },
+    {
+      "id": "1101253705",
+      "rank": 34,
+      "name": "TeamReach – Your Team App",
+      "developer": "TeamReach",
+      "url": "https://apps.apple.com/us/app/id1101253705"
+    },
+    {
+      "id": "1430875409",
+      "rank": 35,
+      "name": "BetMGM - Sportsbook & Casino",
+      "developer": "BetMGM",
+      "url": "https://apps.apple.com/us/app/id1430875409"
+    },
+    {
+      "id": "1581164444",
+      "rank": 36,
+      "name": "CollX: Sports Card Scanner",
+      "developer": "CollX LLC",
+      "url": "https://apps.apple.com/us/app/id1581164444"
+    },
+    {
+      "id": "1546059696",
+      "rank": 37,
+      "name": "Fanatics Collect",
+      "developer": "Fanatics Collectibles AD, Inc.",
+      "url": "https://apps.apple.com/us/app/id1546059696"
+    },
+    {
+      "id": "477967747",
+      "rank": 38,
+      "name": "Fishbrain - Fishing App",
+      "developer": "FishBrain",
+      "url": "https://apps.apple.com/us/app/id477967747"
+    },
+    {
+      "id": "393048976",
+      "rank": 39,
+      "name": "TeamSnap",
+      "developer": "TeamSnap, Inc.",
+      "url": "https://apps.apple.com/us/app/id393048976"
+    },
+    {
+      "id": "6757574302",
+      "rank": 40,
+      "name": "Tailgate: Call the Shots",
+      "developer": "OverHerd",
+      "url": "https://apps.apple.com/us/app/id6757574302"
+    },
+    {
+      "id": "6801197851",
+      "rank": 41,
+      "name": "New Ryan Field",
+      "developer": "Northwestern University",
+      "url": "https://apps.apple.com/us/app/id6801197851"
+    },
+    {
+      "id": "892700751",
+      "rank": 42,
+      "name": "18Birdies: Golf GPS Tracker",
+      "developer": "18Birdies LLC",
+      "url": "https://apps.apple.com/us/app/id892700751"
+    },
+    {
+      "id": "1521523140",
+      "rank": 43,
+      "name": "WalterPicks – Fantasy Football",
+      "developer": "WalterPicks LLC",
+      "url": "https://apps.apple.com/us/app/id1521523140"
+    },
+    {
+      "id": "1514546162",
+      "rank": 44,
+      "name": "Real - Sports",
+      "developer": "Real Vault, Inc.",
+      "url": "https://apps.apple.com/us/app/id1514546162"
+    },
+    {
+      "id": "6742016186",
+      "rank": 45,
+      "name": "TW 2.0",
+      "developer": "Teamworks Innovations Inc",
+      "url": "https://apps.apple.com/us/app/id6742016186"
+    },
+    {
+      "id": "6473803892",
+      "rank": 46,
+      "name": "Snap! Mobile",
+      "developer": "Snap! Mobile, Inc.",
+      "url": "https://apps.apple.com/us/app/id6473803892"
+    },
+    {
+      "id": "1450640824",
+      "rank": 47,
+      "name": "PlayMetrics",
+      "developer": "ReverbNation",
+      "url": "https://apps.apple.com/us/app/id1450640824"
+    },
+    {
+      "id": "1489145500",
+      "rank": 48,
+      "name": "Fliff - Social Sportsbook",
+      "developer": "Fliff Inc.",
+      "url": "https://apps.apple.com/us/app/id1489145500"
+    },
+    {
+      "id": "1116186798",
+      "rank": 49,
+      "name": "NFHS Network",
+      "developer": "NFHS Network",
+      "url": "https://apps.apple.com/us/app/id1116186798"
+    },
+    {
+      "id": "1570396662",
+      "rank": 50,
+      "name": "Arbiter",
+      "developer": "ArbiterSports LLC",
+      "url": "https://apps.apple.com/us/app/id1570396662"
+    },
+    {
+      "id": "499597400",
+      "rank": 51,
+      "name": "SportsEngine - Team management",
+      "developer": "SportsEngine, Inc.",
+      "url": "https://apps.apple.com/us/app/id499597400"
+    },
+    {
+      "id": "1447215452",
+      "rank": 52,
+      "name": "HryFine",
+      "developer": "Shenzhen United Power Technology Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id1447215452"
+    },
+    {
+      "id": "1556279241",
+      "rank": 53,
+      "name": "Hometown Fan",
+      "developer": "HomeTown Ticketing, Inc",
+      "url": "https://apps.apple.com/us/app/id1556279241"
+    },
+    {
+      "id": "1099295160",
+      "rank": 54,
+      "name": "Moultrie",
+      "developer": "PRADCO Outdoor Brands",
+      "url": "https://apps.apple.com/us/app/id1099295160"
+    },
+    {
+      "id": "6467868797",
+      "rank": 55,
+      "name": "Dabble - Real Money Pick 'Em",
+      "developer": "Dabble Sports",
+      "url": "https://apps.apple.com/us/app/id6467868797"
+    },
+    {
+      "id": "6789690562",
+      "rank": 56,
+      "name": "Snapp AI: Sports Bets, Fantasy",
+      "developer": "Snapp Stats, Inc.",
+      "url": "https://apps.apple.com/us/app/id6789690562"
+    },
+    {
+      "id": "1534160239",
+      "rank": 57,
+      "name": "LeagueApps Play",
+      "developer": "LeagueApps",
+      "url": "https://apps.apple.com/us/app/id1534160239"
+    },
+    {
+      "id": "1413099571",
+      "rank": 58,
+      "name": "Caesars Sportsbook & Casino",
+      "developer": "Computerized Bookmaking Systems, Inc.",
+      "url": "https://apps.apple.com/us/app/id1413099571"
+    },
+    {
+      "id": "1342386997",
+      "rank": 59,
+      "name": "Bound Sports",
+      "developer": "ASPi Solutions, Inc.",
+      "url": "https://apps.apple.com/us/app/id1342386997"
+    },
+    {
+      "id": "6762001564",
+      "rank": 60,
+      "name": "Sports Card Scanner - Cardora",
+      "developer": "Troodon",
+      "url": "https://apps.apple.com/us/app/id6762001564"
+    },
+    {
+      "id": "1635246793",
+      "rank": 61,
+      "name": "Linemate: Find Your Next Bet",
+      "developer": "Linemate Inc.",
+      "url": "https://apps.apple.com/us/app/id1635246793"
+    },
+    {
+      "id": "1590163866",
+      "rank": 62,
+      "name": "Fusion Play",
+      "developer": "InnoSoft Canada Inc.",
+      "url": "https://apps.apple.com/us/app/id1590163866"
+    },
+    {
+      "id": "1259009536",
+      "rank": 63,
+      "name": "IMLeagues",
+      "developer": "IMLeagues, LLC",
+      "url": "https://apps.apple.com/us/app/id1259009536"
+    },
+    {
+      "id": "6760366949",
+      "rank": 64,
+      "name": "BRAWLER- Future of Boxing",
+      "developer": "Brawler LLC",
+      "url": "https://apps.apple.com/us/app/id6760366949"
+    },
+    {
+      "id": "6504260173",
+      "rank": 65,
+      "name": "MN DNR Licensing",
+      "developer": "Sovereign Sportsman Solutions, LLC",
+      "url": "https://apps.apple.com/us/app/id6504260173"
+    },
+    {
+      "id": "6760282962",
+      "rank": 66,
+      "name": "MainCardMMA",
+      "developer": "Shant Arslanian",
+      "url": "https://apps.apple.com/us/app/id6760282962"
+    },
+    {
+      "id": "489689106",
+      "rank": 67,
+      "name": "PGA Tour",
+      "developer": "PGATOUR.com LLC",
+      "url": "https://apps.apple.com/us/app/id489689106"
+    },
+    {
+      "id": "1573754839",
+      "rank": 68,
+      "name": "Veo: Watch & Analyze",
+      "developer": "Veo Technologies ApS",
+      "url": "https://apps.apple.com/us/app/id1573754839"
+    },
+    {
+      "id": "1541535971",
+      "rank": 69,
+      "name": "Card Ladder",
+      "developer": "Ladder Studios, Inc",
+      "url": "https://apps.apple.com/us/app/id1541535971"
+    },
+    {
+      "id": "6476565235",
+      "rank": 70,
+      "name": "LA Clippers + Intuit Dome",
+      "developer": "LaClippers",
+      "url": "https://apps.apple.com/us/app/id6476565235"
+    },
+    {
+      "id": "6752947519",
+      "rank": 71,
+      "name": "StarSnap: Sports Card Scanner",
+      "developer": "Next Vision Limited",
+      "url": "https://apps.apple.com/us/app/id6752947519"
+    },
+    {
+      "id": "6469419630",
+      "rank": 72,
+      "name": "Pick6 DraftKings Sports Picks",
+      "developer": "DraftKings",
+      "url": "https://apps.apple.com/us/app/id6469419630"
+    },
+    {
+      "id": "294056623",
+      "rank": 73,
+      "name": "FOX Sports: Watch Live Games",
+      "developer": "FOX Sports Interactive",
+      "url": "https://apps.apple.com/us/app/id294056623"
+    },
+    {
+      "id": "465092669",
+      "rank": 74,
+      "name": "NHL",
+      "developer": "NHL Interactive Cyberenterprises, LLC",
+      "url": "https://apps.apple.com/us/app/id465092669"
+    },
+    {
+      "id": "488575683",
+      "rank": 75,
+      "name": "FotMob - Soccer Live Scores",
+      "developer": "FotMob AS",
+      "url": "https://apps.apple.com/us/app/id488575683"
+    },
+    {
+      "id": "755596884",
+      "rank": 76,
+      "name": "Spond",
+      "developer": "SPOND AS",
+      "url": "https://apps.apple.com/us/app/id755596884"
+    },
+    {
+      "id": "6799588005",
+      "rank": 77,
+      "name": "Flock Fantasy",
+      "developer": "Flock Fantasy",
+      "url": "https://apps.apple.com/us/app/id6799588005"
+    },
+    {
+      "id": "555651262",
+      "rank": 78,
+      "name": "Golf Genius",
+      "developer": "Golf Genius Software, Inc.",
+      "url": "https://apps.apple.com/us/app/id555651262"
+    },
+    {
+      "id": "6470957382",
+      "rank": 79,
+      "name": "FUT.GG - FC 27 Evos & Prices",
+      "developer": "FutGG",
+      "url": "https://apps.apple.com/us/app/id6470957382"
+    },
+    {
+      "id": "1467419938",
+      "rank": 80,
+      "name": "Volo Sports",
+      "developer": "Volo Inc.",
+      "url": "https://apps.apple.com/us/app/id1467419938"
+    },
+    {
+      "id": "6751832231",
+      "rank": 81,
+      "name": "rackline.ai - AI Deer Scoring",
+      "developer": "Nathan Jewell",
+      "url": "https://apps.apple.com/us/app/id6751832231"
+    },
+    {
+      "id": "1489084813",
+      "rank": 82,
+      "name": "Chalkboard Sports",
+      "developer": "Taild Sports Inc.",
+      "url": "https://apps.apple.com/us/app/id1489084813"
+    },
+    {
+      "id": "307184892",
+      "rank": 83,
+      "name": "CBS Sports: Live Scores & News",
+      "developer": "CBS Interactive",
+      "url": "https://apps.apple.com/us/app/id307184892"
+    },
+    {
+      "id": "6449098724",
+      "rank": 84,
+      "name": "Hudl Fan: Find. Watch. Follow.",
+      "developer": "Agile Sports Technologies, Inc.",
+      "url": "https://apps.apple.com/us/app/id6449098724"
+    },
+    {
+      "id": "542511686",
+      "rank": 85,
+      "name": "NBC Sports",
+      "developer": "NBCUniversal Media, LLC",
+      "url": "https://apps.apple.com/us/app/id542511686"
+    },
+    {
+      "id": "1616691213",
+      "rank": 86,
+      "name": "LUDEX Sports Card Scanner +TCG",
+      "developer": "Ludex, LLC",
+      "url": "https://apps.apple.com/us/app/id1616691213"
+    },
+    {
+      "id": "1176147574",
+      "rank": 87,
+      "name": "Sofascore: Live Sports Scores",
+      "developer": "Sofascore",
+      "url": "https://apps.apple.com/us/app/id1176147574"
+    },
+    {
+      "id": "1012871328",
+      "rank": 88,
+      "name": "得物 - 得到美好事物",
+      "developer": "Shanghai Dewu Information Group Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id1012871328"
+    },
+    {
+      "id": "1351001083",
+      "rank": 89,
+      "name": "Trace Teams",
+      "developer": "AlpineReplay, Inc.",
+      "url": "https://apps.apple.com/us/app/id1351001083"
+    },
+    {
+      "id": "641992398",
+      "rank": 90,
+      "name": "WNBA: Live Games & Scores",
+      "developer": "NBA",
+      "url": "https://apps.apple.com/us/app/id641992398"
+    },
+    {
+      "id": "6451190245",
+      "rank": 91,
+      "name": "Splash Sports | Survivor & DFS",
+      "developer": "BetterPool, LLC (dba Splash)",
+      "url": "https://apps.apple.com/us/app/id6451190245"
+    },
+    {
+      "id": "710535379",
+      "rank": 92,
+      "name": "DraftKings Fantasy Sports",
+      "developer": "DraftKings",
+      "url": "https://apps.apple.com/us/app/id710535379"
+    },
+    {
+      "id": "1183983404",
+      "rank": 93,
+      "name": "IRONMAN Tracker",
+      "developer": "Dilltree Inc",
+      "url": "https://apps.apple.com/us/app/id1183983404"
+    },
+    {
+      "id": "6748405452",
+      "rank": 94,
+      "name": "Winible: Expert Sports Picks",
+      "developer": "Winible",
+      "url": "https://apps.apple.com/us/app/id6748405452"
+    },
+    {
+      "id": "285692706",
+      "rank": 95,
+      "name": "theScore: Sports News & Scores",
+      "developer": "Score Media and Gaming Inc.",
+      "url": "https://apps.apple.com/us/app/id285692706"
+    },
+    {
+      "id": "6463805689",
+      "rank": 96,
+      "name": "theScore Bet Sportsbook Casino",
+      "developer": "Score Media and Gaming Inc.",
+      "url": "https://apps.apple.com/us/app/id6463805689"
+    },
+    {
+      "id": "6450125219",
+      "rank": 97,
+      "name": "Ball AI - Basketball Training",
+      "developer": "Automatic AI, LLC",
+      "url": "https://apps.apple.com/us/app/id6450125219"
+    },
+    {
+      "id": "6444681820",
+      "rank": 98,
+      "name": "Bally Sports Live",
+      "developer": "Bally's Corporation",
+      "url": "https://apps.apple.com/us/app/id6444681820"
+    },
+    {
+      "id": "411930498",
+      "rank": 99,
+      "name": "GolfNow Book TeeTimes Golf GPS",
+      "developer": "GolfNow.com",
+      "url": "https://apps.apple.com/us/app/id411930498"
+    },
+    {
+      "id": "1586567110",
+      "rank": 100,
+      "name": "Pikkit: Sports Betting Tracker",
+      "developer": "Pikkit, Inc.",
+      "url": "https://apps.apple.com/us/app/id1586567110"
+    }
+  ]
+}

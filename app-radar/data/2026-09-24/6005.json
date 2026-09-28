@@ -1,0 +1,708 @@
+{
+  "category": "Social Networking",
+  "source": "https://itunes.apple.com/us/rss/topfreeapplications/limit=100/genre=6005/json",
+  "source_updated": "2026-09-24T00:43:09-07:00",
+  "collected_at": "2026-09-24T09:43:10.786257+02:00",
+  "apps": [
+    {
+      "id": "6446901002",
+      "rank": 1,
+      "name": "Threads",
+      "developer": "Instagram, Inc.",
+      "url": "https://apps.apple.com/us/app/id6446901002"
+    },
+    {
+      "id": "310633997",
+      "rank": 2,
+      "name": "WhatsApp Messenger",
+      "developer": "WhatsApp Inc.",
+      "url": "https://apps.apple.com/us/app/id310633997"
+    },
+    {
+      "id": "686449807",
+      "rank": 3,
+      "name": "Telegram Messenger",
+      "developer": "Telegram FZ-LLC",
+      "url": "https://apps.apple.com/us/app/id686449807"
+    },
+    {
+      "id": "284882215",
+      "rank": 4,
+      "name": "Facebook",
+      "developer": "Meta Platforms, Inc.",
+      "url": "https://apps.apple.com/us/app/id284882215"
+    },
+    {
+      "id": "384830320",
+      "rank": 5,
+      "name": "Life360: Family Safety & GPS",
+      "developer": "Life360",
+      "url": "https://apps.apple.com/us/app/id384830320"
+    },
+    {
+      "id": "985746746",
+      "rank": 6,
+      "name": "Discord - Talk, Play, Hang Out",
+      "developer": "Discord Inc.",
+      "url": "https://apps.apple.com/us/app/id985746746"
+    },
+    {
+      "id": "392796698",
+      "rank": 7,
+      "name": "GroupMe",
+      "developer": "Skype Communications S.a.r.l",
+      "url": "https://apps.apple.com/us/app/id392796698"
+    },
+    {
+      "id": "874139669",
+      "rank": 8,
+      "name": "Signal - Private Messenger",
+      "developer": "Signal Messenger, LLC",
+      "url": "https://apps.apple.com/us/app/id874139669"
+    },
+    {
+      "id": "454638411",
+      "rank": 9,
+      "name": "Messenger",
+      "developer": "Meta Platforms, Inc.",
+      "url": "https://apps.apple.com/us/app/id454638411"
+    },
+    {
+      "id": "1096918571",
+      "rank": 10,
+      "name": "Google Meet",
+      "developer": "Google",
+      "url": "https://apps.apple.com/us/app/id1096918571"
+    },
+    {
+      "id": "314716233",
+      "rank": 11,
+      "name": "TextNow: Call + Text Unlimited",
+      "developer": "TextNow, Inc.",
+      "url": "https://apps.apple.com/us/app/id314716233"
+    },
+    {
+      "id": "542613198",
+      "rank": 12,
+      "name": "BAND - App for all groups",
+      "developer": "NAVER Corp.",
+      "url": "https://apps.apple.com/us/app/id542613198"
+    },
+    {
+      "id": "6742024490",
+      "rank": 13,
+      "name": "Reco Social",
+      "developer": "Reco Social, Inc.",
+      "url": "https://apps.apple.com/us/app/id6742024490"
+    },
+    {
+      "id": "1573043816",
+      "rank": 14,
+      "name": "Yik Yak",
+      "developer": "Yik Yak, Inc.",
+      "url": "https://apps.apple.com/us/app/id1573043816"
+    },
+    {
+      "id": "1600525061",
+      "rank": 15,
+      "name": "Locket Widget",
+      "developer": "Locket Labs, Inc.",
+      "url": "https://apps.apple.com/us/app/id1600525061"
+    },
+    {
+      "id": "6761864604",
+      "rank": 16,
+      "name": "Facebook Creator Studio",
+      "developer": "Meta Platforms, Inc.",
+      "url": "https://apps.apple.com/us/app/id6761864604"
+    },
+    {
+      "id": "6755367062",
+      "rank": 17,
+      "name": "Valid - Compliment Classmates",
+      "developer": "RevueAI, Inc",
+      "url": "https://apps.apple.com/us/app/id6755367062"
+    },
+    {
+      "id": "399355755",
+      "rank": 18,
+      "name": "Text Free: Second Phone Number",
+      "developer": "Pinger, Inc.",
+      "url": "https://apps.apple.com/us/app/id399355755"
+    },
+    {
+      "id": "1044878258",
+      "rank": 19,
+      "name": "ZeeMee: Meet College Friends",
+      "developer": "ZeeMee",
+      "url": "https://apps.apple.com/us/app/id1044878258"
+    },
+    {
+      "id": "414478124",
+      "rank": 20,
+      "name": "WeChat",
+      "developer": "WeChat",
+      "url": "https://apps.apple.com/us/app/id414478124"
+    },
+    {
+      "id": "1077137248",
+      "rank": 21,
+      "name": "BIGO LIVE-Live Stream, Go Live",
+      "developer": "BIGO TECHNOLOGY PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id1077137248"
+    },
+    {
+      "id": "514485964",
+      "rank": 22,
+      "name": "Text Me - Phone Call + Texting",
+      "developer": "TextMe, Inc.",
+      "url": "https://apps.apple.com/us/app/id514485964"
+    },
+    {
+      "id": "549493839",
+      "rank": 23,
+      "name": "Zangi - Private Messenger",
+      "developer": "Secret Phone, Inc",
+      "url": "https://apps.apple.com/us/app/id549493839"
+    },
+    {
+      "id": "6447270545",
+      "rank": 24,
+      "name": "Skool Communities",
+      "developer": "Skool.com, Inc.",
+      "url": "https://apps.apple.com/us/app/id6447270545"
+    },
+    {
+      "id": "1054271011",
+      "rank": 25,
+      "name": "Letterboxd",
+      "developer": "Letterboxd",
+      "url": "https://apps.apple.com/us/app/id1054271011"
+    },
+    {
+      "id": "6758308862",
+      "rank": 26,
+      "name": "Forum, a Facebook app",
+      "developer": "Meta Platforms, Inc.",
+      "url": "https://apps.apple.com/us/app/id6758308862"
+    },
+    {
+      "id": "6756442328",
+      "rank": 27,
+      "name": "Instants, an Instagram app",
+      "developer": "Instagram, Inc.",
+      "url": "https://apps.apple.com/us/app/id6756442328"
+    },
+    {
+      "id": "6740692268",
+      "rank": 28,
+      "name": "Giggles: Videos & Trends",
+      "developer": "Giggles Platforms Inc",
+      "url": "https://apps.apple.com/us/app/id6740692268"
+    },
+    {
+      "id": "319881193",
+      "rank": 29,
+      "name": "Grindr - Gay Dating & Chat",
+      "developer": "Grindr LLC",
+      "url": "https://apps.apple.com/us/app/id319881193"
+    },
+    {
+      "id": "1522122685",
+      "rank": 30,
+      "name": "Clapper: Video, Live, Chat",
+      "developer": "CLAPPER MEDIA GROUP INC.",
+      "url": "https://apps.apple.com/us/app/id1522122685"
+    },
+    {
+      "id": "1452906710",
+      "rank": 31,
+      "name": "Wizz App - chat now",
+      "developer": "VLB",
+      "url": "https://apps.apple.com/us/app/id1452906710"
+    },
+    {
+      "id": "1641107226",
+      "rank": 32,
+      "name": "Widgetable: Besties & Couples",
+      "developer": "Widgetable,Inc.",
+      "url": "https://apps.apple.com/us/app/id1641107226"
+    },
+    {
+      "id": "1086013687",
+      "rank": 33,
+      "name": "Flare - For Groups",
+      "developer": "Flare App, Inc.",
+      "url": "https://apps.apple.com/us/app/id1086013687"
+    },
+    {
+      "id": "397648381",
+      "rank": 34,
+      "name": "Talkatone: WiFi Text & Calls",
+      "developer": "TALKATONE, INC.",
+      "url": "https://apps.apple.com/us/app/id397648381"
+    },
+    {
+      "id": "1038653883",
+      "rank": 35,
+      "name": "Yubo: Chat Meet & Make Friends",
+      "developer": "Twelve APP",
+      "url": "https://apps.apple.com/us/app/id1038653883"
+    },
+    {
+      "id": "907226423",
+      "rank": 36,
+      "name": "GettingOut",
+      "developer": "Telmate, LLC",
+      "url": "https://apps.apple.com/us/app/id907226423"
+    },
+    {
+      "id": "1478573199",
+      "rank": 37,
+      "name": "BFF: Make friends & meet up",
+      "developer": "Geneva Technologies, Inc.",
+      "url": "https://apps.apple.com/us/app/id1478573199"
+    },
+    {
+      "id": "1499137942",
+      "rank": 38,
+      "name": "Upward Dating: Meet Singles",
+      "developer": "Affinity Apps, LLC",
+      "url": "https://apps.apple.com/us/app/id1499137942"
+    },
+    {
+      "id": "1059629706",
+      "rank": 39,
+      "name": "Securus Mobile",
+      "developer": "SECURUS TECHNOLOGIES LLC",
+      "url": "https://apps.apple.com/us/app/id1059629706"
+    },
+    {
+      "id": "443904275",
+      "rank": 40,
+      "name": "LINE",
+      "developer": "LINE Corporation",
+      "url": "https://apps.apple.com/us/app/id443904275"
+    },
+    {
+      "id": "375990038",
+      "rank": 41,
+      "name": "Meetup: Social Events & Groups",
+      "developer": "Meetup LLC",
+      "url": "https://apps.apple.com/us/app/id375990038"
+    },
+    {
+      "id": "1477248221",
+      "rank": 42,
+      "name": "Howbout: shared calendar",
+      "developer": "Howbout Ltd.",
+      "url": "https://apps.apple.com/us/app/id1477248221"
+    },
+    {
+      "id": "6449230971",
+      "rank": 43,
+      "name": "Redz: Explore content nearby",
+      "developer": "Homyt",
+      "url": "https://apps.apple.com/us/app/id6449230971"
+    },
+    {
+      "id": "1458740001",
+      "rank": 44,
+      "name": "Sticker.ly - Sticker Maker",
+      "developer": "NAVER Z Corporation",
+      "url": "https://apps.apple.com/us/app/id1458740001"
+    },
+    {
+      "id": "1342522622",
+      "rank": 45,
+      "name": "GettingOut Visits",
+      "developer": "Telmate, LLC",
+      "url": "https://apps.apple.com/us/app/id1342522622"
+    },
+    {
+      "id": "1282966364",
+      "rank": 46,
+      "name": "Taimi LGBTQ+ Dating & Chat App",
+      "developer": "Social Impact Inc.",
+      "url": "https://apps.apple.com/us/app/id1282966364"
+    },
+    {
+      "id": "741292507",
+      "rank": 47,
+      "name": "rednote",
+      "developer": "Xingin",
+      "url": "https://apps.apple.com/us/app/id741292507"
+    },
+    {
+      "id": "382617920",
+      "rank": 48,
+      "name": "Rakuten Viber Messenger",
+      "developer": "Viber Media SARL.",
+      "url": "https://apps.apple.com/us/app/id382617920"
+    },
+    {
+      "id": "1054747306",
+      "rank": 49,
+      "name": "Plato: Fun Multiplayer Games",
+      "developer": "Plato Team Inc",
+      "url": "https://apps.apple.com/us/app/id1054747306"
+    },
+    {
+      "id": "1440822962",
+      "rank": 50,
+      "name": "Seasoned: Jobs & Community",
+      "developer": "Seasoned, LLC",
+      "url": "https://apps.apple.com/us/app/id1440822962"
+    },
+    {
+      "id": "305343404",
+      "rank": 51,
+      "name": "Tumblr: Social Media & Art",
+      "developer": "Tumblr, Inc.",
+      "url": "https://apps.apple.com/us/app/id305343404"
+    },
+    {
+      "id": "6471519217",
+      "rank": 52,
+      "name": "Bump - real life is happening",
+      "developer": "amo",
+      "url": "https://apps.apple.com/us/app/id6471519217"
+    },
+    {
+      "id": "1253586891",
+      "rank": 53,
+      "name": "BLK: Black Singles Dating App",
+      "developer": "Affinity Apps, LLC",
+      "url": "https://apps.apple.com/us/app/id1253586891"
+    },
+    {
+      "id": "6745533235",
+      "rank": 54,
+      "name": "ThingsBook",
+      "developer": "Naver U.Hub Inc.",
+      "url": "https://apps.apple.com/us/app/id6745533235"
+    },
+    {
+      "id": "389638243",
+      "rank": 55,
+      "name": "Plenty of Fish : Dating App",
+      "developer": "PlentyOfFish",
+      "url": "https://apps.apple.com/us/app/id389638243"
+    },
+    {
+      "id": "1455336523",
+      "rank": 56,
+      "name": "Bumpy – International Dating",
+      "developer": "Bumpy Inc.",
+      "url": "https://apps.apple.com/us/app/id1455336523"
+    },
+    {
+      "id": "1550351929",
+      "rank": 57,
+      "name": "Garmin Messenger™",
+      "developer": "Garmin",
+      "url": "https://apps.apple.com/us/app/id1550351929"
+    },
+    {
+      "id": "6587576438",
+      "rank": 58,
+      "name": "setlog - friends camera",
+      "developer": "new chat",
+      "url": "https://apps.apple.com/us/app/id6587576438"
+    },
+    {
+      "id": "305939712",
+      "rank": 59,
+      "name": "Match Dating App: Chat & Meet",
+      "developer": "Match Group Americas, LLC",
+      "url": "https://apps.apple.com/us/app/id305939712"
+    },
+    {
+      "id": "1608870673",
+      "rank": 60,
+      "name": "Nicegram: AI for Telegram X",
+      "developer": "Appvillis",
+      "url": "https://apps.apple.com/us/app/id1608870673"
+    },
+    {
+      "id": "6444654663",
+      "rank": 61,
+      "name": "Hunch Dating App: Vibe & Meet",
+      "developer": "INKS TECHNOLOGY SERVICES PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6444654663"
+    },
+    {
+      "id": "1011085984",
+      "rank": 62,
+      "name": "Curvy Dating App: WooPlus",
+      "developer": "DATING OASIS LIMITED",
+      "url": "https://apps.apple.com/us/app/id1011085984"
+    },
+    {
+      "id": "1459645446",
+      "rank": 63,
+      "name": "BeReal: Photos & Friends Daily",
+      "developer": "BeReal",
+      "url": "https://apps.apple.com/us/app/id1459645446"
+    },
+    {
+      "id": "6747054496",
+      "rank": 64,
+      "name": "MONOPOLY GO!Chat",
+      "developer": "Scopely, Inc.",
+      "url": "https://apps.apple.com/us/app/id6747054496"
+    },
+    {
+      "id": "1593515263",
+      "rank": 65,
+      "name": "Linktree: Link in Bio Creator",
+      "developer": "Linktree",
+      "url": "https://apps.apple.com/us/app/id1593515263"
+    },
+    {
+      "id": "6742028281",
+      "rank": 66,
+      "name": "Root: Built for Community",
+      "developer": "Root Communications, Inc",
+      "url": "https://apps.apple.com/us/app/id6742028281"
+    },
+    {
+      "id": "6783769467",
+      "rank": 67,
+      "name": "GТL: Gеtting Оut Messaging",
+      "developer": "Telmate product INC.",
+      "url": "https://apps.apple.com/us/app/id6783769467"
+    },
+    {
+      "id": "1481469888",
+      "rank": 68,
+      "name": "Reports+ Unfollowers Follower",
+      "developer": "Deep Vision Labs",
+      "url": "https://apps.apple.com/us/app/id1481469888"
+    },
+    {
+      "id": "1289684085",
+      "rank": 69,
+      "name": "Chispa: Dating App for Latinos",
+      "developer": "Affinity Apps, LLC",
+      "url": "https://apps.apple.com/us/app/id1289684085"
+    },
+    {
+      "id": "1219890480",
+      "rank": 70,
+      "name": "Coverstar - Positive Social",
+      "developer": "Norae Inc.",
+      "url": "https://apps.apple.com/us/app/id1219890480"
+    },
+    {
+      "id": "1285713171",
+      "rank": 71,
+      "name": "Messenger Kids",
+      "developer": "Meta Platforms, Inc.",
+      "url": "https://apps.apple.com/us/app/id1285713171"
+    },
+    {
+      "id": "1499924074",
+      "rank": 72,
+      "name": "Reports Unfollowers Followers+",
+      "developer": "BYTECORE MOBILITY LIMITED",
+      "url": "https://apps.apple.com/us/app/id1499924074"
+    },
+    {
+      "id": "1509651625",
+      "rank": 73,
+      "name": "Circle Communities",
+      "developer": "CircleCo Inc",
+      "url": "https://apps.apple.com/us/app/id1509651625"
+    },
+    {
+      "id": "6758125008",
+      "rank": 74,
+      "name": "ClearTok: Repost Remover",
+      "developer": "Data-Traces LLC",
+      "url": "https://apps.apple.com/us/app/id6758125008"
+    },
+    {
+      "id": "6753156888",
+      "rank": 75,
+      "name": "Vlogit: Vlogs With Friends",
+      "developer": "Vlogit",
+      "url": "https://apps.apple.com/us/app/id6753156888"
+    },
+    {
+      "id": "1574436604",
+      "rank": 76,
+      "name": "SUGO-Online Chat Party",
+      "developer": "MOBILE ALPHA LIMITED",
+      "url": "https://apps.apple.com/us/app/id1574436604"
+    },
+    {
+      "id": "912561374",
+      "rank": 77,
+      "name": "Marco Polo - Video Messenger",
+      "developer": "Joya Communications",
+      "url": "https://apps.apple.com/us/app/id912561374"
+    },
+    {
+      "id": "960804043",
+      "rank": 78,
+      "name": "LineLeap",
+      "developer": "LineLeap",
+      "url": "https://apps.apple.com/us/app/id960804043"
+    },
+    {
+      "id": "6761046869",
+      "rank": 79,
+      "name": "Tato Talk",
+      "developer": "BackEndTech",
+      "url": "https://apps.apple.com/us/app/id6761046869"
+    },
+    {
+      "id": "1571680865",
+      "rank": 80,
+      "name": "Publer: Social Media Tools",
+      "developer": "Kalemi LLC",
+      "url": "https://apps.apple.com/us/app/id1571680865"
+    },
+    {
+      "id": "972558973",
+      "rank": 81,
+      "name": "Azar: Chat, Meet Friends",
+      "developer": "Hyperconnect LLC",
+      "url": "https://apps.apple.com/us/app/id972558973"
+    },
+    {
+      "id": "1434890245",
+      "rank": 82,
+      "name": "Steam Chat",
+      "developer": "Valve",
+      "url": "https://apps.apple.com/us/app/id1434890245"
+    },
+    {
+      "id": "1485509764",
+      "rank": 83,
+      "name": "Reports+ for Followers Tracker",
+      "developer": "FAMEDMOBILE MARKET LIMITED",
+      "url": "https://apps.apple.com/us/app/id1485509764"
+    },
+    {
+      "id": "1164067996",
+      "rank": 84,
+      "name": "3Fun: Couples & Singles Dating",
+      "developer": "3Fun Limited",
+      "url": "https://apps.apple.com/us/app/id1164067996"
+    },
+    {
+      "id": "1498407272",
+      "rank": 85,
+      "name": "Boo App: Dating. Friends. Chat",
+      "developer": "Boo Enterprises, Inc.",
+      "url": "https://apps.apple.com/us/app/id1498407272"
+    },
+    {
+      "id": "863809868",
+      "rank": 86,
+      "name": "TalkU: Unlimited Calls + Texts",
+      "developer": "Newtone Communications Inc",
+      "url": "https://apps.apple.com/us/app/id863809868"
+    },
+    {
+      "id": "6444370199",
+      "rank": 87,
+      "name": "Bluesky Social",
+      "developer": "Bluesky PBLLC",
+      "url": "https://apps.apple.com/us/app/id6444370199"
+    },
+    {
+      "id": "1478870872",
+      "rank": 88,
+      "name": "FET: Kinky BDSM Dating App",
+      "developer": "Ideawise Ltd.",
+      "url": "https://apps.apple.com/us/app/id1478870872"
+    },
+    {
+      "id": "372648912",
+      "rank": 89,
+      "name": "MeetMe: Go Live & Meet People",
+      "developer": "The Meet Group Inc.",
+      "url": "https://apps.apple.com/us/app/id372648912"
+    },
+    {
+      "id": "6749676612",
+      "rank": 90,
+      "name": "Track Followers Unfollowers",
+      "developer": "PRIME CONSTRUCTION SH.P.K.",
+      "url": "https://apps.apple.com/us/app/id6749676612"
+    },
+    {
+      "id": "1501929060",
+      "rank": 91,
+      "name": "MoneyDolly",
+      "developer": "MoneyDolly",
+      "url": "https://apps.apple.com/us/app/id1501929060"
+    },
+    {
+      "id": "6744912296",
+      "rank": 92,
+      "name": "360 Tracker : Location Tracker",
+      "developer": "Defrasoft Labs",
+      "url": "https://apps.apple.com/us/app/id6744912296"
+    },
+    {
+      "id": "362057947",
+      "rank": 93,
+      "name": "KakaoTalk : Messenger",
+      "developer": "Kakao Corp.",
+      "url": "https://apps.apple.com/us/app/id362057947"
+    },
+    {
+      "id": "1263036818",
+      "rank": 94,
+      "name": "botim",
+      "developer": "Algento Cloud Computing Limited",
+      "url": "https://apps.apple.com/us/app/id1263036818"
+    },
+    {
+      "id": "1456559188",
+      "rank": 95,
+      "name": "Weverse: Connect with Artists",
+      "developer": "WEVERSE COMPANY Inc.",
+      "url": "https://apps.apple.com/us/app/id1456559188"
+    },
+    {
+      "id": "6633429068",
+      "rank": 96,
+      "name": "Unfollowers: Followers Tracker",
+      "developer": "Roi Network Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id6633429068"
+    },
+    {
+      "id": "920869470",
+      "rank": 97,
+      "name": "Nextplus: Private Phone Number",
+      "developer": "textPlus, Inc.",
+      "url": "https://apps.apple.com/us/app/id920869470"
+    },
+    {
+      "id": "1274216319",
+      "rank": 98,
+      "name": "Second Texting Number",
+      "developer": "Torqued Studios LLC",
+      "url": "https://apps.apple.com/us/app/id1274216319"
+    },
+    {
+      "id": "1350301428",
+      "rank": 99,
+      "name": "ZEPETO: Avatar, Connect & Live",
+      "developer": "NAVER Z Corporation",
+      "url": "https://apps.apple.com/us/app/id1350301428"
+    },
+    {
+      "id": "1470168868",
+      "rank": 100,
+      "name": "Session - Private Messenger",
+      "developer": "The Loki Project",
+      "url": "https://apps.apple.com/us/app/id1470168868"
+    }
+  ]
+}

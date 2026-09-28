@@ -1,0 +1,708 @@
+{
+  "category": "Shopping",
+  "source": "https://itunes.apple.com/us/rss/topfreeapplications/limit=100/genre=6024/json",
+  "source_updated": "2026-09-24T00:43:08-07:00",
+  "collected_at": "2026-09-24T09:43:09.672231+02:00",
+  "apps": [
+    {
+      "id": "632064380",
+      "rank": 1,
+      "name": "Vinted: Pre-loved marketplace",
+      "developer": "Vinted Limited",
+      "url": "https://apps.apple.com/us/app/id632064380"
+    },
+    {
+      "id": "518684914",
+      "rank": 2,
+      "name": "Depop - Buy & Sell Clothes",
+      "developer": "Depop Ltd",
+      "url": "https://apps.apple.com/us/app/id518684914"
+    },
+    {
+      "id": "1089294040",
+      "rank": 3,
+      "name": "Capital One Shopping: Save Now",
+      "developer": "Wikibuy, LLC",
+      "url": "https://apps.apple.com/us/app/id1089294040"
+    },
+    {
+      "id": "1641486558",
+      "rank": 4,
+      "name": "Temu: Shop Like a Billionaire",
+      "developer": "Temu",
+      "url": "https://apps.apple.com/us/app/id1641486558"
+    },
+    {
+      "id": "338137227",
+      "rank": 5,
+      "name": "Walmart: Shopping & Savings",
+      "developer": "Walmart",
+      "url": "https://apps.apple.com/us/app/id338137227"
+    },
+    {
+      "id": "1223471316",
+      "rank": 6,
+      "name": "Shop: Track, Pay, Discover",
+      "developer": "Shopify Inc.",
+      "url": "https://apps.apple.com/us/app/id1223471316"
+    },
+    {
+      "id": "1488269261",
+      "rank": 7,
+      "name": "Whatnot: Shop, Sell, Connect",
+      "developer": "Whatnot Inc.",
+      "url": "https://apps.apple.com/us/app/id1488269261"
+    },
+    {
+      "id": "297606951",
+      "rank": 8,
+      "name": "Amazon Shopping",
+      "developer": "AMZN Mobile LLC",
+      "url": "https://apps.apple.com/us/app/id297606951"
+    },
+    {
+      "id": "6472232952",
+      "rank": 9,
+      "name": "Koupon: Real Deals & Codes",
+      "developer": "Koupon Inc.",
+      "url": "https://apps.apple.com/us/app/id6472232952"
+    },
+    {
+      "id": "6751921248",
+      "rank": 10,
+      "name": "Rips by Triumph",
+      "developer": "Triumph Arcade",
+      "url": "https://apps.apple.com/us/app/id6751921248"
+    },
+    {
+      "id": "878577184",
+      "rank": 11,
+      "name": "SHEIN - Shopping Online",
+      "developer": "ROADGET BUSINESS PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id878577184"
+    },
+    {
+      "id": "436672029",
+      "rank": 12,
+      "name": "AliExpress - Shopping App",
+      "developer": "Alibaba",
+      "url": "https://apps.apple.com/us/app/id436672029"
+    },
+    {
+      "id": "535509415",
+      "rank": 13,
+      "name": "Costco",
+      "developer": "Costco Wholesale Corporation",
+      "url": "https://apps.apple.com/us/app/id535509415"
+    },
+    {
+      "id": "282614216",
+      "rank": 14,
+      "name": "eBay online shopping & selling",
+      "developer": "eBay Inc.",
+      "url": "https://apps.apple.com/us/app/id282614216"
+    },
+    {
+      "id": "1182474649",
+      "rank": 15,
+      "name": "Fetch: Receipts for Gift Cards",
+      "developer": "Fetch Rewards, LLC",
+      "url": "https://apps.apple.com/us/app/id1182474649"
+    },
+    {
+      "id": "297430070",
+      "rank": 16,
+      "name": "Target: Shop. Style. Save.",
+      "developer": "Target",
+      "url": "https://apps.apple.com/us/app/id297430070"
+    },
+    {
+      "id": "6745274862",
+      "rank": 17,
+      "name": "DealSeek: Coupons & Discounts",
+      "developer": "DealSeek LLC",
+      "url": "https://apps.apple.com/us/app/id6745274862"
+    },
+    {
+      "id": "967040652",
+      "rank": 18,
+      "name": "Affirm: Buy now, pay over time",
+      "developer": "Affirm, Inc.",
+      "url": "https://apps.apple.com/us/app/id967040652"
+    },
+    {
+      "id": "477128284",
+      "rank": 19,
+      "name": "Etsy: Shop from Real People",
+      "developer": "Etsy, Inc.",
+      "url": "https://apps.apple.com/us/app/id477128284"
+    },
+    {
+      "id": "382497397",
+      "rank": 20,
+      "name": "Sam's Club Shopping & Delivery",
+      "developer": "Sam’s Club",
+      "url": "https://apps.apple.com/us/app/id382497397"
+    },
+    {
+      "id": "314855255",
+      "rank": 21,
+      "name": "Best Buy: Tech Deals & Savings",
+      "developer": "Best Buy Co., Inc.",
+      "url": "https://apps.apple.com/us/app/id314855255"
+    },
+    {
+      "id": "503451073",
+      "rank": 22,
+      "name": "Alibaba.com B2B Trade App",
+      "developer": "ALIBABA.COM GLOBAL SUPPLIER SERVICES PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id503451073"
+    },
+    {
+      "id": "6670251421",
+      "rank": 23,
+      "name": "Quince: Luxury Essentials",
+      "developer": "Lastbrand Inc",
+      "url": "https://apps.apple.com/us/app/id6670251421"
+    },
+    {
+      "id": "836767708",
+      "rank": 24,
+      "name": "Wayfair – Shop All Things Home",
+      "developer": "Wayfair LLC",
+      "url": "https://apps.apple.com/us/app/id836767708"
+    },
+    {
+      "id": "1592397814",
+      "rank": 25,
+      "name": "Circle K",
+      "developer": "CircleK",
+      "url": "https://apps.apple.com/us/app/id1592397814"
+    },
+    {
+      "id": "326347260",
+      "rank": 26,
+      "name": "Gap: Apparel, denim and more",
+      "developer": "Gap Inc.",
+      "url": "https://apps.apple.com/us/app/id326347260"
+    },
+    {
+      "id": "1667151711",
+      "rank": 27,
+      "name": "KashKick: Get paid to have fun",
+      "developer": "Besitos",
+      "url": "https://apps.apple.com/us/app/id1667151711"
+    },
+    {
+      "id": "335364882",
+      "rank": 28,
+      "name": "Walgreens",
+      "developer": "Walgreen Co.",
+      "url": "https://apps.apple.com/us/app/id335364882"
+    },
+    {
+      "id": "342527639",
+      "rank": 29,
+      "name": "The Home Depot",
+      "developer": "The Home Depot, Inc.",
+      "url": "https://apps.apple.com/us/app/id342527639"
+    },
+    {
+      "id": "6752552771",
+      "rank": 30,
+      "name": "GovAuctions.com - Shop Surplus",
+      "developer": "Auctions",
+      "url": "https://apps.apple.com/us/app/id6752552771"
+    },
+    {
+      "id": "429396645",
+      "rank": 31,
+      "name": "ALDI Grocery Pickup & Delivery",
+      "developer": "ALDI International Services GmbH & Co. oHG",
+      "url": "https://apps.apple.com/us/app/id429396645"
+    },
+    {
+      "id": "468996152",
+      "rank": 32,
+      "name": "OfferUp Buy & Sell Marketplace",
+      "developer": "OfferUp Inc.",
+      "url": "https://apps.apple.com/us/app/id468996152"
+    },
+    {
+      "id": "1401019110",
+      "rank": 33,
+      "name": "Afterpay: Pay over time",
+      "developer": "Afterpay",
+      "url": "https://apps.apple.com/us/app/id1401019110"
+    },
+    {
+      "id": "905869418",
+      "rank": 34,
+      "name": "DHgate-Online Wholesale Stores",
+      "developer": "Digital Trading Science & Technology (Beijing) Co. Ltd.",
+      "url": "https://apps.apple.com/us/app/id905869418"
+    },
+    {
+      "id": "561930308",
+      "rank": 35,
+      "name": "Ulta Beauty: Makeup & Skincare",
+      "developer": "Ulta Salon, Cosmetics & Fragrance, Inc",
+      "url": "https://apps.apple.com/us/app/id561930308"
+    },
+    {
+      "id": "457954781",
+      "rank": 36,
+      "name": "Lowe's Home Improvement",
+      "developer": "Lowe's Companies, Inc.",
+      "url": "https://apps.apple.com/us/app/id457954781"
+    },
+    {
+      "id": "922496703",
+      "rank": 37,
+      "name": "Anthropologie",
+      "developer": "Anthropologie",
+      "url": "https://apps.apple.com/us/app/id922496703"
+    },
+    {
+      "id": "393328150",
+      "rank": 38,
+      "name": "Sephora US: Makeup & Skincare",
+      "developer": "Sephora USA, Inc",
+      "url": "https://apps.apple.com/us/app/id393328150"
+    },
+    {
+      "id": "814517475",
+      "rank": 39,
+      "name": "CarGurus: Used & New Cars",
+      "developer": "CarGurus",
+      "url": "https://apps.apple.com/us/app/id814517475"
+    },
+    {
+      "id": "561311442",
+      "rank": 40,
+      "name": "Dollar General-Digital Coupons",
+      "developer": "Dolgencorp, LLC",
+      "url": "https://apps.apple.com/us/app/id561311442"
+    },
+    {
+      "id": "1095459556",
+      "rank": 41,
+      "name": "Nike: Engineered for Athletes",
+      "developer": "Nike, Inc",
+      "url": "https://apps.apple.com/us/app/id1095459556"
+    },
+    {
+      "id": "1256027729",
+      "rank": 42,
+      "name": "Bath & Body Works | B&BW",
+      "developer": "Bath & Body Works Brand Management, Inc.",
+      "url": "https://apps.apple.com/us/app/id1256027729"
+    },
+    {
+      "id": "479267592",
+      "rank": 43,
+      "name": "CARFAX - New & Used Cars",
+      "developer": "CARFAX, Inc.",
+      "url": "https://apps.apple.com/us/app/id479267592"
+    },
+    {
+      "id": "1149449468",
+      "rank": 44,
+      "name": "Chewy - Pet Care & Pharmacy",
+      "developer": "Chewy, Inc.",
+      "url": "https://apps.apple.com/us/app/id1149449468"
+    },
+    {
+      "id": "1367363988",
+      "rank": 45,
+      "name": "Fashion Nova: Trendy Shopping",
+      "developer": "Fashion Nova Inc.",
+      "url": "https://apps.apple.com/us/app/id1367363988"
+    },
+    {
+      "id": "556653197",
+      "rank": 46,
+      "name": "DICK’S Sporting Goods",
+      "developer": "Dick's Sporting Goods",
+      "url": "https://apps.apple.com/us/app/id556653197"
+    },
+    {
+      "id": "341036067",
+      "rank": 47,
+      "name": "Macy's: Shop, Save, and Earn",
+      "developer": "Macys Inc",
+      "url": "https://apps.apple.com/us/app/id341036067"
+    },
+    {
+      "id": "470412147",
+      "rank": 48,
+      "name": "Poshmark: Shop & Sell Fashion",
+      "developer": "Poshmark, Inc.",
+      "url": "https://apps.apple.com/us/app/id470412147"
+    },
+    {
+      "id": "1539133680",
+      "rank": 49,
+      "name": "CIDER - Clothing & Fashion",
+      "developer": "CIDER HOLDING LIMITED",
+      "url": "https://apps.apple.com/us/app/id1539133680"
+    },
+    {
+      "id": "1434922495",
+      "rank": 50,
+      "name": "Sezzle: Buy Now, Pay Later",
+      "developer": "Sezzle",
+      "url": "https://apps.apple.com/us/app/id1434922495"
+    },
+    {
+      "id": "1527063669",
+      "rank": 51,
+      "name": "Four | Buy Now, Pay Later",
+      "developer": "Four Technologies, Inc",
+      "url": "https://apps.apple.com/us/app/id1527063669"
+    },
+    {
+      "id": "342792281",
+      "rank": 52,
+      "name": "Old Navy: Shop for New Clothes",
+      "developer": "Gap Inc.",
+      "url": "https://apps.apple.com/us/app/id342792281"
+    },
+    {
+      "id": "1266591536",
+      "rank": 53,
+      "name": "adidas: Shop Shoes & Clothing",
+      "developer": "adidas",
+      "url": "https://apps.apple.com/us/app/id1266591536"
+    },
+    {
+      "id": "353263352",
+      "rank": 54,
+      "name": "Cars.com - New & Used Cars",
+      "developer": "Cars.com",
+      "url": "https://apps.apple.com/us/app/id353263352"
+    },
+    {
+      "id": "920098546",
+      "rank": 55,
+      "name": "lululemon",
+      "developer": "lululemon athletica canada inc.",
+      "url": "https://apps.apple.com/us/app/id920098546"
+    },
+    {
+      "id": "336860594",
+      "rank": 56,
+      "name": "Victoria's Secret—Bras & More",
+      "developer": "Victoria's Secret",
+      "url": "https://apps.apple.com/us/app/id336860594"
+    },
+    {
+      "id": "352683833",
+      "rank": 57,
+      "name": "Groupon - Local Deals Near Me",
+      "developer": "Groupon, Inc.",
+      "url": "https://apps.apple.com/us/app/id352683833"
+    },
+    {
+      "id": "403901186",
+      "rank": 58,
+      "name": "Kroger",
+      "developer": "The Kroger Co.",
+      "url": "https://apps.apple.com/us/app/id403901186"
+    },
+    {
+      "id": "547951480",
+      "rank": 59,
+      "name": "ZARA",
+      "developer": "Industria de Diseno Textil, S.A.",
+      "url": "https://apps.apple.com/us/app/id547951480"
+    },
+    {
+      "id": "474349412",
+      "rank": 60,
+      "name": "Nordstrom",
+      "developer": "Nordstrom, Inc.",
+      "url": "https://apps.apple.com/us/app/id474349412"
+    },
+    {
+      "id": "1273426583",
+      "rank": 61,
+      "name": "Carvana: Buy/Sell Used Cars",
+      "developer": "Carvana",
+      "url": "https://apps.apple.com/us/app/id1273426583"
+    },
+    {
+      "id": "881599819",
+      "rank": 62,
+      "name": "StockX - Sneakers and Apparel",
+      "developer": "StockX LLC",
+      "url": "https://apps.apple.com/us/app/id881599819"
+    },
+    {
+      "id": "1609639566",
+      "rank": 63,
+      "name": "Nespresso Store",
+      "developer": "Nestle Nespresso SA",
+      "url": "https://apps.apple.com/us/app/id1609639566"
+    },
+    {
+      "id": "562794249",
+      "rank": 64,
+      "name": "Publix",
+      "developer": "Publix Super Markets, Inc.",
+      "url": "https://apps.apple.com/us/app/id562794249"
+    },
+    {
+      "id": "1287596508",
+      "rank": 65,
+      "name": "BJs Wholesale Club",
+      "developer": "BJ's Wholesale Club",
+      "url": "https://apps.apple.com/us/app/id1287596508"
+    },
+    {
+      "id": "718582092",
+      "rank": 66,
+      "name": "Babylist Baby Registry",
+      "developer": "BabyList Inc",
+      "url": "https://apps.apple.com/us/app/id718582092"
+    },
+    {
+      "id": "383915209",
+      "rank": 67,
+      "name": "Hollister Co.",
+      "developer": "Abercrombie & Fitch",
+      "url": "https://apps.apple.com/us/app/id383915209"
+    },
+    {
+      "id": "1452164827",
+      "rank": 68,
+      "name": "IKEA",
+      "developer": "Inter IKEA Systems B.V.",
+      "url": "https://apps.apple.com/us/app/id1452164827"
+    },
+    {
+      "id": "1495746988",
+      "rank": 69,
+      "name": "Nintendo Store",
+      "developer": "Nintendo Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id1495746988"
+    },
+    {
+      "id": "521487551",
+      "rank": 70,
+      "name": "Safeway Deals & Delivery",
+      "developer": "Albertsons Companies, LLC",
+      "url": "https://apps.apple.com/us/app/id521487551"
+    },
+    {
+      "id": "896130944",
+      "rank": 71,
+      "name": "Mercari: Buying & Selling App",
+      "developer": "Mercari, Inc.",
+      "url": "https://apps.apple.com/us/app/id896130944"
+    },
+    {
+      "id": "6443850511",
+      "rank": 72,
+      "name": "ShopMy",
+      "developer": "Shop My Shelf, Inc.",
+      "url": "https://apps.apple.com/us/app/id6443850511"
+    },
+    {
+      "id": "472014516",
+      "rank": 73,
+      "name": "Kohl's - Shopping & Discounts",
+      "developer": "Kohl’s",
+      "url": "https://apps.apple.com/us/app/id472014516"
+    },
+    {
+      "id": "1545920983",
+      "rank": 74,
+      "name": "Halara",
+      "developer": "FULL SCALE FULL SPEED PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id1545920983"
+    },
+    {
+      "id": "853330019",
+      "rank": 75,
+      "name": "Nordstrom Rack: Shop Deals",
+      "developer": "Nordstrom, Inc.",
+      "url": "https://apps.apple.com/us/app/id853330019"
+    },
+    {
+      "id": "467738064",
+      "rank": 76,
+      "name": "AE + Aerie",
+      "developer": "American Eagle Outfitters",
+      "url": "https://apps.apple.com/us/app/id467738064"
+    },
+    {
+      "id": "1336642410",
+      "rank": 77,
+      "name": "craigslist",
+      "developer": "craigslist",
+      "url": "https://apps.apple.com/us/app/id1336642410"
+    },
+    {
+      "id": "1231524763",
+      "rank": 78,
+      "name": "T.J.Maxx",
+      "developer": "The TJX Companies, Inc.",
+      "url": "https://apps.apple.com/us/app/id1231524763"
+    },
+    {
+      "id": "6514323796",
+      "rank": 79,
+      "name": "Windsor Store",
+      "developer": "Windsor Fashions, LLC",
+      "url": "https://apps.apple.com/us/app/id6514323796"
+    },
+    {
+      "id": "6769304937",
+      "rank": 80,
+      "name": "Rip Rush: Digital TCG Arena",
+      "developer": "Emerald Myth Studio Limited",
+      "url": "https://apps.apple.com/us/app/id6769304937"
+    },
+    {
+      "id": "1625279562",
+      "rank": 81,
+      "name": "CouponBirds: Deals & Coupons",
+      "developer": "CouponBirds Inc",
+      "url": "https://apps.apple.com/us/app/id1625279562"
+    },
+    {
+      "id": "6447516226",
+      "rank": 82,
+      "name": "‎My Package Delivery Tracker",
+      "developer": "MultiApp Dynamics OU",
+      "url": "https://apps.apple.com/us/app/id6447516226"
+    },
+    {
+      "id": "599608562",
+      "rank": 83,
+      "name": "UNiDAYS: Student Discount App",
+      "developer": "UNiDAYS",
+      "url": "https://apps.apple.com/us/app/id599608562"
+    },
+    {
+      "id": "1503741784",
+      "rank": 84,
+      "name": "ALO",
+      "developer": "AloYoga",
+      "url": "https://apps.apple.com/us/app/id1503741784"
+    },
+    {
+      "id": "1061302787",
+      "rank": 85,
+      "name": "Grailed – Buy & Sell Fashion",
+      "developer": "Grailed, Inc",
+      "url": "https://apps.apple.com/us/app/id1061302787"
+    },
+    {
+      "id": "1175467091",
+      "rank": 86,
+      "name": "PetSmart",
+      "developer": "PetSmart LLC",
+      "url": "https://apps.apple.com/us/app/id1175467091"
+    },
+    {
+      "id": "834465911",
+      "rank": 87,
+      "name": "H&M",
+      "developer": "H&M",
+      "url": "https://apps.apple.com/us/app/id834465911"
+    },
+    {
+      "id": "6755090694",
+      "rank": 88,
+      "name": "Comfrt: Shop Cozy Clothing",
+      "developer": "COMFRT",
+      "url": "https://apps.apple.com/us/app/id6755090694"
+    },
+    {
+      "id": "320029256",
+      "rank": 89,
+      "name": "Whole Foods Market",
+      "developer": "Whole Foods Market Services, Inc.",
+      "url": "https://apps.apple.com/us/app/id320029256"
+    },
+    {
+      "id": "1284609872",
+      "rank": 90,
+      "name": "UNIQLO: Clothes Shopping",
+      "developer": "UNIQLO CO., LTD.",
+      "url": "https://apps.apple.com/us/app/id1284609872"
+    },
+    {
+      "id": "1551736097",
+      "rank": 91,
+      "name": "Pickle | Rent & Lend Fashion",
+      "developer": "Pickle Poll, Inc.",
+      "url": "https://apps.apple.com/us/app/id1551736097"
+    },
+    {
+      "id": "1533833273",
+      "rank": 92,
+      "name": "Harbor Freight Tools",
+      "developer": "Harbor Freight Tools",
+      "url": "https://apps.apple.com/us/app/id1533833273"
+    },
+    {
+      "id": "6758816716",
+      "rank": 93,
+      "name": "IcyBox",
+      "developer": "InfiniteEdge Inc.",
+      "url": "https://apps.apple.com/us/app/id6758816716"
+    },
+    {
+      "id": "1238611143",
+      "rank": 94,
+      "name": "Lidl Plus",
+      "developer": "Lidl Digital International GmbH & Co. KG",
+      "url": "https://apps.apple.com/us/app/id1238611143"
+    },
+    {
+      "id": "339883869",
+      "rank": 95,
+      "name": "Bed Bath & Beyond",
+      "developer": "Bed Bath & Beyond, Inc.",
+      "url": "https://apps.apple.com/us/app/id339883869"
+    },
+    {
+      "id": "1386235320",
+      "rank": 96,
+      "name": "Murphy Drive Rewards",
+      "developer": "Murphy USA",
+      "url": "https://apps.apple.com/us/app/id1386235320"
+    },
+    {
+      "id": "723134859",
+      "rank": 97,
+      "name": "Rakuten: Cash Back & Deals",
+      "developer": "Rakuten Ebates",
+      "url": "https://apps.apple.com/us/app/id723134859"
+    },
+    {
+      "id": "535562583",
+      "rank": 98,
+      "name": "Hobby Lobby",
+      "developer": "Hobby Lobby Stores, Inc.",
+      "url": "https://apps.apple.com/us/app/id535562583"
+    },
+    {
+      "id": "6449706677",
+      "rank": 99,
+      "name": "On: Shop Shoes & Apparel",
+      "developer": "On AG",
+      "url": "https://apps.apple.com/us/app/id6449706677"
+    },
+    {
+      "id": "6782153507",
+      "rank": 100,
+      "name": "Packed: Rip Packs, Pull Grails",
+      "developer": "PlayPacked, Inc",
+      "url": "https://apps.apple.com/us/app/id6782153507"
+    }
+  ]
+}

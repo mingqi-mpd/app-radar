@@ -1,0 +1,708 @@
+{
+  "category": "Entertainment",
+  "source": "https://itunes.apple.com/us/rss/topfreeapplications/limit=100/genre=6016/json",
+  "source_updated": "2026-09-23T07:49:16-07:00",
+  "collected_at": "2026-09-23T16:51:14.255380+02:00",
+  "apps": [
+    {
+      "id": "6761538521",
+      "rank": 1,
+      "name": "StoryReel: Drama Shorts & TV",
+      "developer": "Equinox Enterprises‌ Technology Limited",
+      "url": "https://apps.apple.com/us/app/id6761538521"
+    },
+    {
+      "id": "6754134922",
+      "rank": 2,
+      "name": "PineDrama - Short Dramas",
+      "developer": "TikTok Ltd.",
+      "url": "https://apps.apple.com/us/app/id6754134922"
+    },
+    {
+      "id": "6741796873",
+      "rank": 3,
+      "name": "TikTok Pro - Events",
+      "developer": "TikTok Ltd.",
+      "url": "https://apps.apple.com/us/app/id6741796873"
+    },
+    {
+      "id": "835599320",
+      "rank": 4,
+      "name": "TikTok - Videos, Shop & LIVE",
+      "developer": "TikTok Ltd.",
+      "url": "https://apps.apple.com/us/app/id835599320"
+    },
+    {
+      "id": "1673567402",
+      "rank": 5,
+      "name": "Freecash - Get Paid Real Money",
+      "developer": "Freecash - Get Paid Real Money",
+      "url": "https://apps.apple.com/us/app/id1673567402"
+    },
+    {
+      "id": "6447582581",
+      "rank": 6,
+      "name": "Netflix Game Controller",
+      "developer": "Netflix, Inc.",
+      "url": "https://apps.apple.com/us/app/id6447582581"
+    },
+    {
+      "id": "6670430706",
+      "rank": 7,
+      "name": "DramaWave - Dramas & Reels",
+      "developer": "SKYWORK AI PTE LTD",
+      "url": "https://apps.apple.com/us/app/id6670430706"
+    },
+    {
+      "id": "500003565",
+      "rank": 8,
+      "name": "Ticketmaster－Buy, Sell Tickets",
+      "developer": "Ticketmaster",
+      "url": "https://apps.apple.com/us/app/id500003565"
+    },
+    {
+      "id": "6445905219",
+      "rank": 9,
+      "name": "DramaBox - Stream Drama Shorts",
+      "developer": "STORYMATRIX PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6445905219"
+    },
+    {
+      "id": "530168168",
+      "rank": 10,
+      "name": "Paramount+",
+      "developer": "CBS Interactive",
+      "url": "https://apps.apple.com/us/app/id530168168"
+    },
+    {
+      "id": "545519333",
+      "rank": 11,
+      "name": "Amazon Prime Video",
+      "developer": "AMZN Mobile LLC",
+      "url": "https://apps.apple.com/us/app/id545519333"
+    },
+    {
+      "id": "6504849169",
+      "rank": 12,
+      "name": "NetShort - Popular Dramas & TV",
+      "developer": "NETSTORY PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6504849169"
+    },
+    {
+      "id": "363590051",
+      "rank": 13,
+      "name": "Netflix",
+      "developer": "Netflix, Inc.",
+      "url": "https://apps.apple.com/us/app/id363590051"
+    },
+    {
+      "id": "6758667154",
+      "rank": 14,
+      "name": "VibeShort: AI Short Dramas",
+      "developer": "AGILE QUADRANT MEDIA LIMITED",
+      "url": "https://apps.apple.com/us/app/id6758667154"
+    },
+    {
+      "id": "1446075923",
+      "rank": 15,
+      "name": "Disney+",
+      "developer": "Disney",
+      "url": "https://apps.apple.com/us/app/id1446075923"
+    },
+    {
+      "id": "886445756",
+      "rank": 16,
+      "name": "Tubi: Movies & Live TV",
+      "developer": "Tubi, Inc",
+      "url": "https://apps.apple.com/us/app/id886445756"
+    },
+    {
+      "id": "6768593043",
+      "rank": 17,
+      "name": "BlinkDrama - Short Dramas",
+      "developer": "Atlas Ventures Culture & Technology Limited",
+      "url": "https://apps.apple.com/us/app/id6768593043"
+    },
+    {
+      "id": "482066631",
+      "rank": 18,
+      "name": "Roku Remote (Official)",
+      "developer": "ROKU INC",
+      "url": "https://apps.apple.com/us/app/id482066631"
+    },
+    {
+      "id": "1636235979",
+      "rank": 19,
+      "name": "ReelShort - Stream Drama & TV",
+      "developer": "NewLeaf Publishing",
+      "url": "https://apps.apple.com/us/app/id1636235979"
+    },
+    {
+      "id": "1054033219",
+      "rank": 20,
+      "name": "VIZIO | WatchFree+",
+      "developer": "VIZIO",
+      "url": "https://apps.apple.com/us/app/id1054033219"
+    },
+    {
+      "id": "1666653815",
+      "rank": 21,
+      "name": "HBO Max: Stream Movies & TV",
+      "developer": "WarnerMedia Global Digital Services, LLC",
+      "url": "https://apps.apple.com/us/app/id1666653815"
+    },
+    {
+      "id": "6758488784",
+      "rank": 22,
+      "name": "Soda Reels",
+      "developer": "STATION DEPART POINT",
+      "url": "https://apps.apple.com/us/app/id6758488784"
+    },
+    {
+      "id": "1193350206",
+      "rank": 23,
+      "name": "YouTube TV",
+      "developer": "Google",
+      "url": "https://apps.apple.com/us/app/id1193350206"
+    },
+    {
+      "id": "1508186374",
+      "rank": 24,
+      "name": "Peacock TV: Stream TV & Movies",
+      "developer": "Peacock TV LLC",
+      "url": "https://apps.apple.com/us/app/id1508186374"
+    },
+    {
+      "id": "376510438",
+      "rank": 25,
+      "name": "Hulu: Stream TV shows & movies",
+      "developer": "Hulu, LLC",
+      "url": "https://apps.apple.com/us/app/id376510438"
+    },
+    {
+      "id": "679805463",
+      "rank": 26,
+      "name": "AXS Tickets",
+      "developer": "AXS",
+      "url": "https://apps.apple.com/us/app/id679805463"
+    },
+    {
+      "id": "905401434",
+      "rank": 27,
+      "name": "Fubo: Watch Live TV & Sports",
+      "developer": "fuboTV Inc.",
+      "url": "https://apps.apple.com/us/app/id905401434"
+    },
+    {
+      "id": "582790430",
+      "rank": 28,
+      "name": "SeatGeek - Buy Event Tickets",
+      "developer": "SeatGeek, Inc.",
+      "url": "https://apps.apple.com/us/app/id582790430"
+    },
+    {
+      "id": "6444946155",
+      "rank": 29,
+      "name": "JustPlay: Earn Loyalty Rewards",
+      "developer": "Gimica GmbH",
+      "url": "https://apps.apple.com/us/app/id6444946155"
+    },
+    {
+      "id": "366562751",
+      "rank": 30,
+      "name": "StubHub: Event Tickets",
+      "developer": "StubHub Inc.",
+      "url": "https://apps.apple.com/us/app/id366562751"
+    },
+    {
+      "id": "751712884",
+      "rank": 31,
+      "name": "PlutoTV: Stream Free Movies/TV",
+      "developer": "Pluto.tv",
+      "url": "https://apps.apple.com/us/app/id751712884"
+    },
+    {
+      "id": "1619030760",
+      "rank": 32,
+      "name": "zeta: AI Chat, Story, Play",
+      "developer": "Scatter Lab, Inc.",
+      "url": "https://apps.apple.com/us/app/id1619030760"
+    },
+    {
+      "id": "1631584032",
+      "rank": 33,
+      "name": "PLAYFUL REWARDS: Earn Rewards",
+      "developer": "Playful Rewards",
+      "url": "https://apps.apple.com/us/app/id1631584032"
+    },
+    {
+      "id": "630687854",
+      "rank": 34,
+      "name": "Gametime - Last Minute Tickets",
+      "developer": "Gametime United Inc.",
+      "url": "https://apps.apple.com/us/app/id630687854"
+    },
+    {
+      "id": "329913454",
+      "rank": 35,
+      "name": "Crunchyroll",
+      "developer": "Crunchyroll, LLC",
+      "url": "https://apps.apple.com/us/app/id329913454"
+    },
+    {
+      "id": "6756250570",
+      "rank": 36,
+      "name": "Prank App - Voice Changer",
+      "developer": "LITTLE YELLOW DUCK TECHNOLOGY CO., LIMITED",
+      "url": "https://apps.apple.com/us/app/id6756250570"
+    },
+    {
+      "id": "410896080",
+      "rank": 37,
+      "name": "PlayStation App",
+      "developer": "PlayStation Mobile Inc.",
+      "url": "https://apps.apple.com/us/app/id410896080"
+    },
+    {
+      "id": "6464002625",
+      "rank": 38,
+      "name": "ShortMax - Short Dramas & TV",
+      "developer": "SHORTTV LIMITED",
+      "url": "https://apps.apple.com/us/app/id6464002625"
+    },
+    {
+      "id": "495369748",
+      "rank": 39,
+      "name": "Steam Mobile",
+      "developer": "Valve",
+      "url": "https://apps.apple.com/us/app/id495369748"
+    },
+    {
+      "id": "789844385",
+      "rank": 40,
+      "name": "TickPick: No Fee Tickets",
+      "developer": "TickPick",
+      "url": "https://apps.apple.com/us/app/id789844385"
+    },
+    {
+      "id": "1538433480",
+      "rank": 41,
+      "name": "Pocket FM: Audio Dramas",
+      "developer": "Pocket FM Corp",
+      "url": "https://apps.apple.com/us/app/id1538433480"
+    },
+    {
+      "id": "1011915604",
+      "rank": 42,
+      "name": "America’s Got Talent on NBC",
+      "developer": "NBCUniversal Media, LLC",
+      "url": "https://apps.apple.com/us/app/id1011915604"
+    },
+    {
+      "id": "6761250525",
+      "rank": 43,
+      "name": "HookDrama",
+      "developer": "Kin Ho CHIU",
+      "url": "https://apps.apple.com/us/app/id6761250525"
+    },
+    {
+      "id": "6757171058",
+      "rank": 44,
+      "name": "Tikoo: Watch Drama, Earn Cash",
+      "developer": "UK RSBC NETWORK TECHNOLOGY CO. LTD",
+      "url": "https://apps.apple.com/us/app/id6757171058"
+    },
+    {
+      "id": "6448176203",
+      "rank": 45,
+      "name": "GoodShort - Short Dramas Hub",
+      "developer": "SINGAPORE NEW READING TECHNOLOGY PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6448176203"
+    },
+    {
+      "id": "6795870509",
+      "rank": 46,
+      "name": "ShortDiShow",
+      "developer": "Susumu Takeda",
+      "url": "https://apps.apple.com/us/app/id6795870509"
+    },
+    {
+      "id": "947984433",
+      "rank": 47,
+      "name": "Amazon Fire TV",
+      "developer": "AMZN Mobile LLC",
+      "url": "https://apps.apple.com/us/app/id947984433"
+    },
+    {
+      "id": "6514312894",
+      "rank": 48,
+      "name": "FlickReels - AI Story & Drama",
+      "developer": "FARSUN PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6514312894"
+    },
+    {
+      "id": "1556928106",
+      "rank": 49,
+      "name": "Posh – Create & Find Events",
+      "developer": "Posh Group Inc.",
+      "url": "https://apps.apple.com/us/app/id1556928106"
+    },
+    {
+      "id": "1044456188",
+      "rank": 50,
+      "name": "Patreon",
+      "developer": "Patreon",
+      "url": "https://apps.apple.com/us/app/id1044456188"
+    },
+    {
+      "id": "487922291",
+      "rank": 51,
+      "name": "Eventbrite",
+      "developer": "Eventbrite",
+      "url": "https://apps.apple.com/us/app/id487922291"
+    },
+    {
+      "id": "6757374961",
+      "rank": 52,
+      "name": "DramaLocal",
+      "developer": "SiHai",
+      "url": "https://apps.apple.com/us/app/id6757374961"
+    },
+    {
+      "id": "6738081517",
+      "rank": 53,
+      "name": "DramaReels: Dramas and Series",
+      "developer": "SKYWORK AI PTE LTD",
+      "url": "https://apps.apple.com/us/app/id6738081517"
+    },
+    {
+      "id": "1317978215",
+      "rank": 54,
+      "name": "Color by Number：Coloring Games",
+      "developer": "Wildlife Studios",
+      "url": "https://apps.apple.com/us/app/id1317978215"
+    },
+    {
+      "id": "509199715",
+      "rank": 55,
+      "name": "AMC Theatres: Movies & More",
+      "developer": "American Multi-Cinema, Inc",
+      "url": "https://apps.apple.com/us/app/id509199715"
+    },
+    {
+      "id": "936971630",
+      "rank": 56,
+      "name": "YouTube Kids",
+      "developer": "Google",
+      "url": "https://apps.apple.com/us/app/id936971630"
+    },
+    {
+      "id": "6739352969",
+      "rank": 57,
+      "name": "Mistplay: Play Games Earn Cash",
+      "developer": "481 Studios",
+      "url": "https://apps.apple.com/us/app/id6739352969"
+    },
+    {
+      "id": "6772791762",
+      "rank": 58,
+      "name": "CashFlicks",
+      "developer": "Shanghai Bitui Technology Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id6772791762"
+    },
+    {
+      "id": "6746049430",
+      "rank": 59,
+      "name": "FOX One: Live News, Sports, TV",
+      "developer": "Fox Digital Services, LLC",
+      "url": "https://apps.apple.com/us/app/id6746049430"
+    },
+    {
+      "id": "736179781",
+      "rank": 60,
+      "name": "XBOX",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/us/app/id736179781"
+    },
+    {
+      "id": "6768240254",
+      "rank": 61,
+      "name": "Drama: Watch Short Stories",
+      "developer": "Kuku Technologies Limited",
+      "url": "https://apps.apple.com/us/app/id6768240254"
+    },
+    {
+      "id": "6449190344",
+      "rank": 62,
+      "name": "PolyBuzz: Chat with Characters",
+      "developer": "CLOUD WHALE INTERACTIVE TECHNOLOGY LLC.",
+      "url": "https://apps.apple.com/us/app/id6449190344"
+    },
+    {
+      "id": "6466786430",
+      "rank": 63,
+      "name": "Inkitt CandyJar: TV & Shorts",
+      "developer": "Inkitt",
+      "url": "https://apps.apple.com/us/app/id6466786430"
+    },
+    {
+      "id": "6449374451",
+      "rank": 64,
+      "name": "Chick-fil-A Play",
+      "developer": "Chick-fil-A, Inc.",
+      "url": "https://apps.apple.com/us/app/id6449374451"
+    },
+    {
+      "id": "963355757",
+      "rank": 65,
+      "name": "Vivid Seats | Buy Tickets",
+      "developer": "Vivid Seats LLC",
+      "url": "https://apps.apple.com/us/app/id963355757"
+    },
+    {
+      "id": "6762513021",
+      "rank": 66,
+      "name": "ColdTrace: Cold Case Mystery",
+      "developer": "Saclic Studio",
+      "url": "https://apps.apple.com/us/app/id6762513021"
+    },
+    {
+      "id": "6449206831",
+      "rank": 67,
+      "name": "Scoopz: Your People Your Video",
+      "developer": "Local AI, Inc.",
+      "url": "https://apps.apple.com/us/app/id6449206831"
+    },
+    {
+      "id": "442839435",
+      "rank": 68,
+      "name": "The NBC App – Stream TV Shows",
+      "developer": "NBCUniversal Media, LLC",
+      "url": "https://apps.apple.com/us/app/id442839435"
+    },
+    {
+      "id": "6784293036",
+      "rank": 69,
+      "name": "VYBS: Earn Rewards",
+      "developer": "VYBS Entertainment Technology ltd",
+      "url": "https://apps.apple.com/us/app/id6784293036"
+    },
+    {
+      "id": "6755859360",
+      "rank": 70,
+      "name": "Loopit - AI Playable Maker",
+      "developer": "SeedLeap Intelligent Technology Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id6755859360"
+    },
+    {
+      "id": "1580330718",
+      "rank": 71,
+      "name": "WePlay - Game and Party",
+      "developer": "WEJOY PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id1580330718"
+    },
+    {
+      "id": "6752559330",
+      "rank": 72,
+      "name": "SpeedCash: Play & Earn Rewards",
+      "developer": "Leaps Gaming LTD",
+      "url": "https://apps.apple.com/us/app/id6752559330"
+    },
+    {
+      "id": "6770413766",
+      "rank": 73,
+      "name": "Whispy AI: Cozy Chat",
+      "developer": "NEXBASE TECH PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6770413766"
+    },
+    {
+      "id": "746894884",
+      "rank": 74,
+      "name": "Google TV: Watch Movies & TV",
+      "developer": "Google",
+      "url": "https://apps.apple.com/us/app/id746894884"
+    },
+    {
+      "id": "497702817",
+      "rank": 75,
+      "name": "Fever: Events & Tickets",
+      "developer": "Fever Labs, Inc.",
+      "url": "https://apps.apple.com/us/app/id497702817"
+    },
+    {
+      "id": "894546091",
+      "rank": 76,
+      "name": "WEBTOON: Manga, Comics, Manhwa",
+      "developer": "NAVER WEBTOON Ltd.",
+      "url": "https://apps.apple.com/us/app/id894546091"
+    },
+    {
+      "id": "550221096",
+      "rank": 77,
+      "name": "STARZ",
+      "developer": "Starz Entertainment, LLC",
+      "url": "https://apps.apple.com/us/app/id550221096"
+    },
+    {
+      "id": "342792525",
+      "rank": 78,
+      "name": "IMDb: Movies & TV Shows",
+      "developer": "IMDb",
+      "url": "https://apps.apple.com/us/app/id342792525"
+    },
+    {
+      "id": "502912815",
+      "rank": 79,
+      "name": "Regal: Movie Tickets Made Easy",
+      "developer": "Regal Cinemas",
+      "url": "https://apps.apple.com/us/app/id502912815"
+    },
+    {
+      "id": "6475064170",
+      "rank": 80,
+      "name": "Reel.AI",
+      "developer": "CREATIVE FITTING HK LIMITED",
+      "url": "https://apps.apple.com/us/app/id6475064170"
+    },
+    {
+      "id": "487285735",
+      "rank": 81,
+      "name": "Fandango - Movies & Series",
+      "developer": "VUDU, Inc.",
+      "url": "https://apps.apple.com/us/app/id487285735"
+    },
+    {
+      "id": "6463115555",
+      "rank": 82,
+      "name": "Bracketology",
+      "developer": "Bracketology.tv, Inc",
+      "url": "https://apps.apple.com/us/app/id6463115555"
+    },
+    {
+      "id": "383457673",
+      "rank": 83,
+      "name": "Plex: Find Movies and TV Shows",
+      "developer": "Plex Inc.",
+      "url": "https://apps.apple.com/us/app/id383457673"
+    },
+    {
+      "id": "6759068218",
+      "rank": 84,
+      "name": "Blingz",
+      "developer": "Apperfun",
+      "url": "https://apps.apple.com/us/app/id6759068218"
+    },
+    {
+      "id": "6468901311",
+      "rank": 85,
+      "name": "Enjoy - AI Town",
+      "developer": "Enjoy Global, Inc.",
+      "url": "https://apps.apple.com/us/app/id6468901311"
+    },
+    {
+      "id": "6802223101",
+      "rank": 86,
+      "name": "HeyDrama - Short Drama",
+      "developer": "Sayan Maitra",
+      "url": "https://apps.apple.com/us/app/id6802223101"
+    },
+    {
+      "id": "1517062289",
+      "rank": 87,
+      "name": "bilibili‑Every video you love",
+      "developer": "BILIBILI SINGAPORE PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id1517062289"
+    },
+    {
+      "id": "1436192460",
+      "rank": 88,
+      "name": "PS Remote Play",
+      "developer": "PlayStation Mobile Inc.",
+      "url": "https://apps.apple.com/us/app/id1436192460"
+    },
+    {
+      "id": "6502377927",
+      "rank": 89,
+      "name": "StardustTV - Short Drama&Movie",
+      "developer": "Hongxing Media Co., Limited",
+      "url": "https://apps.apple.com/us/app/id6502377927"
+    },
+    {
+      "id": "6596771144",
+      "rank": 90,
+      "name": "status - sims but social media",
+      "developer": "WishRoll Inc.",
+      "url": "https://apps.apple.com/us/app/id6596771144"
+    },
+    {
+      "id": "1136238277",
+      "rank": 91,
+      "name": "DIRECTV: TV & Movie Streaming",
+      "developer": "DIRECTV, Inc.",
+      "url": "https://apps.apple.com/us/app/id1136238277"
+    },
+    {
+      "id": "945077360",
+      "rank": 92,
+      "name": "Sling: Live TV, Sports & News",
+      "developer": "Sling TV, LLC",
+      "url": "https://apps.apple.com/us/app/id945077360"
+    },
+    {
+      "id": "6738098034",
+      "rank": 93,
+      "name": "My Muse: Series & Drama Live",
+      "developer": "Zereli Limited",
+      "url": "https://apps.apple.com/us/app/id6738098034"
+    },
+    {
+      "id": "6478151552",
+      "rank": 94,
+      "name": "Pocket Saga - Short Dramas",
+      "developer": "Pocket FM Corp",
+      "url": "https://apps.apple.com/us/app/id6478151552"
+    },
+    {
+      "id": "1086101495",
+      "rank": 95,
+      "name": "ZEDGE™ Ringtones & Wallpapers",
+      "developer": "Zedge, Inc",
+      "url": "https://apps.apple.com/us/app/id1086101495"
+    },
+    {
+      "id": "435965836",
+      "rank": 96,
+      "name": "Cinemark Theatres",
+      "developer": "Cinemark USA",
+      "url": "https://apps.apple.com/us/app/id435965836"
+    },
+    {
+      "id": "6465895541",
+      "rank": 97,
+      "name": "JoyReels - Enjoy Short Dramas",
+      "developer": "UREELS PTE.LTD.",
+      "url": "https://apps.apple.com/us/app/id6465895541"
+    },
+    {
+      "id": "1671705818",
+      "rank": 98,
+      "name": "Character AI: Chat, Talk, Text",
+      "developer": "Character.AI",
+      "url": "https://apps.apple.com/us/app/id1671705818"
+    },
+    {
+      "id": "1048524688",
+      "rank": 99,
+      "name": "Delta - Game Emulator",
+      "developer": "Testut Tech",
+      "url": "https://apps.apple.com/us/app/id1048524688"
+    },
+    {
+      "id": "6754301136",
+      "rank": 100,
+      "name": "Swerve: AI Chat & Stories",
+      "developer": "MSPW Labs, Inc.",
+      "url": "https://apps.apple.com/us/app/id6754301136"
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "category": "Games",
+  "source": "https://itunes.apple.com/us/rss/topfreeapplications/limit=100/genre=6014/json",
+  "source_updated": "2026-09-24T00:43:08-07:00",
+  "collected_at": "2026-09-24T09:43:09.828652+02:00",
+  "apps": [
+    {
+      "id": "6761760135",
+      "rank": 1,
+      "name": "Meowdoku!",
+      "developer": "Oakever Games",
+      "url": "https://apps.apple.com/us/app/id6761760135"
+    },
+    {
+      "id": "6752672568",
+      "rank": 2,
+      "name": "Block Out! - Color Sort Puzzle",
+      "developer": "Grand Games A.Ş.",
+      "url": "https://apps.apple.com/us/app/id6752672568"
+    },
+    {
+      "id": "6759098797",
+      "rank": 3,
+      "name": "Aniimo",
+      "developer": "PAWPRINT INTERACTIVE ENTERTAINMENT PTE. LTD",
+      "url": "https://apps.apple.com/us/app/id6759098797"
+    },
+    {
+      "id": "6779167923",
+      "rank": 4,
+      "name": "Colony Flow!",
+      "developer": "ABI GLOBAL LTD.",
+      "url": "https://apps.apple.com/us/app/id6779167923"
+    },
+    {
+      "id": "6468921495",
+      "rank": 5,
+      "name": "Vita Mahjong",
+      "developer": "Vita Studio",
+      "url": "https://apps.apple.com/us/app/id6468921495"
+    },
+    {
+      "id": "6748084174",
+      "rank": 6,
+      "name": "Smash Fest!",
+      "developer": "Flow Games Bilisim Yazilim ve Pazarlama Anonim Sirketi",
+      "url": "https://apps.apple.com/us/app/id6748084174"
+    },
+    {
+      "id": "6760325543",
+      "rank": 7,
+      "name": "CubeAway - 3DPuzzle",
+      "developer": "GOODROID,Inc.",
+      "url": "https://apps.apple.com/us/app/id6760325543"
+    },
+    {
+      "id": "6499209744",
+      "rank": 8,
+      "name": "Magic Sort!",
+      "developer": "Grand Games A.Ş.",
+      "url": "https://apps.apple.com/us/app/id6499209744"
+    },
+    {
+      "id": "6756482832",
+      "rank": 9,
+      "name": "Brain Puzzle 3: Crazy Mind",
+      "developer": "SmallStep Dev Team",
+      "url": "https://apps.apple.com/us/app/id6756482832"
+    },
+    {
+      "id": "6759763476",
+      "rank": 10,
+      "name": "Bus Traffic Fever!",
+      "developer": "GOODROID,Inc.",
+      "url": "https://apps.apple.com/us/app/id6759763476"
+    },
+    {
+      "id": "6746743297",
+      "rank": 11,
+      "name": "Bus Fever Party!",
+      "developer": "Lumi Games",
+      "url": "https://apps.apple.com/us/app/id6746743297"
+    },
+    {
+      "id": "596402997",
+      "rank": 12,
+      "name": "Minion Rush: Running game",
+      "developer": "Gameloft",
+      "url": "https://apps.apple.com/us/app/id596402997"
+    },
+    {
+      "id": "431946152",
+      "rank": 13,
+      "name": "Roblox",
+      "developer": "Roblox Corporation",
+      "url": "https://apps.apple.com/us/app/id431946152"
+    },
+    {
+      "id": "6758326278",
+      "rank": 14,
+      "name": "Amaze GO!",
+      "developer": "Oakever Games",
+      "url": "https://apps.apple.com/us/app/id6758326278"
+    },
+    {
+      "id": "6761757565",
+      "rank": 15,
+      "name": "Colorever: Gem Art Puzzle",
+      "developer": "Oakever Games",
+      "url": "https://apps.apple.com/us/app/id6761757565"
+    },
+    {
+      "id": "1617391485",
+      "rank": 16,
+      "name": "Block Blast！",
+      "developer": "Hungry Studio",
+      "url": "https://apps.apple.com/us/app/id1617391485"
+    },
+    {
+      "id": "6747492600",
+      "rank": 17,
+      "name": "Mahjong Blast",
+      "developer": "Nebula Studio",
+      "url": "https://apps.apple.com/us/app/id6747492600"
+    },
+    {
+      "id": "6754464806",
+      "rank": 18,
+      "name": "Car Evolve",
+      "developer": "Heseri Games Inc",
+      "url": "https://apps.apple.com/us/app/id6754464806"
+    },
+    {
+      "id": "638689075",
+      "rank": 19,
+      "name": "Township",
+      "developer": "Playrix",
+      "url": "https://apps.apple.com/us/app/id638689075"
+    },
+    {
+      "id": "6769314786",
+      "rank": 20,
+      "name": "Food Hunt: Pixel Puzzle",
+      "developer": "FUNFINITY PTE. LTD",
+      "url": "https://apps.apple.com/us/app/id6769314786"
+    },
+    {
+      "id": "1482155847",
+      "rank": 21,
+      "name": "Royal Match",
+      "developer": "Dream Games",
+      "url": "https://apps.apple.com/us/app/id1482155847"
+    },
+    {
+      "id": "6780891673",
+      "rank": 22,
+      "name": "Royal Smash! - Physics Puzzle",
+      "developer": "Cypher Games",
+      "url": "https://apps.apple.com/us/app/id6780891673"
+    },
+    {
+      "id": "6748950306",
+      "rank": 23,
+      "name": "Solitaire Associations Journey",
+      "developer": "Hitapps Games LTD",
+      "url": "https://apps.apple.com/us/app/id6748950306"
+    },
+    {
+      "id": "6767091927",
+      "rank": 24,
+      "name": "Jigsaw Drop: Solitaire Puzzle",
+      "developer": "Runyou Game",
+      "url": "https://apps.apple.com/us/app/id6767091927"
+    },
+    {
+      "id": "1621328561",
+      "rank": 25,
+      "name": "MONOPOLY GO!",
+      "developer": "Scopely, Inc.",
+      "url": "https://apps.apple.com/us/app/id1621328561"
+    },
+    {
+      "id": "6746328263",
+      "rank": 26,
+      "name": "Castle Busters",
+      "developer": "Voodoo",
+      "url": "https://apps.apple.com/us/app/id6746328263"
+    },
+    {
+      "id": "1623318294",
+      "rank": 27,
+      "name": "Gossip Harbor®: Merge & Story",
+      "developer": "Microfun Limited",
+      "url": "https://apps.apple.com/us/app/id1623318294"
+    },
+    {
+      "id": "6471045672",
+      "rank": 28,
+      "name": "Tasty Travels: Merge Game",
+      "developer": "Century Games Pte. Ltd.",
+      "url": "https://apps.apple.com/us/app/id6471045672"
+    },
+    {
+      "id": "6797562042",
+      "rank": 29,
+      "name": "Firewood Splitting Simulator",
+      "developer": "Gavin Shapiro",
+      "url": "https://apps.apple.com/us/app/id6797562042"
+    },
+    {
+      "id": "6744975195",
+      "rank": 30,
+      "name": "Sled Surfers",
+      "developer": "Crazy Labs",
+      "url": "https://apps.apple.com/us/app/id6744975195"
+    },
+    {
+      "id": "6742809194",
+      "rank": 31,
+      "name": "Warline: Sniper Strike",
+      "developer": "Powerfantasy",
+      "url": "https://apps.apple.com/us/app/id6742809194"
+    },
+    {
+      "id": "1638139403",
+      "rank": 32,
+      "name": "Block Crush！",
+      "developer": "Wonderful Studio",
+      "url": "https://apps.apple.com/us/app/id1638139403"
+    },
+    {
+      "id": "6748397500",
+      "rank": 33,
+      "name": "Arrows – Puzzle Escape",
+      "developer": "Lessmore GmbH",
+      "url": "https://apps.apple.com/us/app/id6748397500"
+    },
+    {
+      "id": "6771681639",
+      "rank": 34,
+      "name": "Fish Sort Puzzle - Bubble Jam",
+      "developer": "Shycheese",
+      "url": "https://apps.apple.com/us/app/id6771681639"
+    },
+    {
+      "id": "6757140488",
+      "rank": 35,
+      "name": "Sand Blocks: Drop Puzzle",
+      "developer": "Rollic Games",
+      "url": "https://apps.apple.com/us/app/id6757140488"
+    },
+    {
+      "id": "1608987929",
+      "rank": 36,
+      "name": "Triumph Arcade",
+      "developer": "Triumph Arcade",
+      "url": "https://apps.apple.com/us/app/id1608987929"
+    },
+    {
+      "id": "1602508478",
+      "rank": 37,
+      "name": "Word Search Explorer®",
+      "developer": "PlaySimple Games Pte Ltd",
+      "url": "https://apps.apple.com/us/app/id1602508478"
+    },
+    {
+      "id": "6754900673",
+      "rank": 38,
+      "name": "Jigsawcard Solitaire Puzzle",
+      "developer": "Oakever Games",
+      "url": "https://apps.apple.com/us/app/id6754900673"
+    },
+    {
+      "id": "6443575749",
+      "rank": 39,
+      "name": "Whiteout Survival",
+      "developer": "Century Games Pte. Ltd.",
+      "url": "https://apps.apple.com/us/app/id6443575749"
+    },
+    {
+      "id": "512939461",
+      "rank": 40,
+      "name": "Subway Surfers",
+      "developer": "Sybo Games ApS",
+      "url": "https://apps.apple.com/us/app/id512939461"
+    },
+    {
+      "id": "6767193770",
+      "rank": 41,
+      "name": "Warhammer 40,000: Boltgun Boom",
+      "developer": "Nitro Games Oyj",
+      "url": "https://apps.apple.com/us/app/id6767193770"
+    },
+    {
+      "id": "1193508329",
+      "rank": 42,
+      "name": "Sudoku.com - Number Games",
+      "developer": "Easybrain Ltd",
+      "url": "https://apps.apple.com/us/app/id1193508329"
+    },
+    {
+      "id": "1443446174",
+      "rank": 43,
+      "name": "Magic Tiles 3™: Piano Game",
+      "developer": "Amanotes Pte. Ltd.",
+      "url": "https://apps.apple.com/us/app/id1443446174"
+    },
+    {
+      "id": "6759412341",
+      "rank": 44,
+      "name": "EA College Football Mobile 27",
+      "developer": "Electronic Arts",
+      "url": "https://apps.apple.com/us/app/id6759412341"
+    },
+    {
+      "id": "1606549505",
+      "rank": 45,
+      "name": "Royal Kingdom",
+      "developer": "Dream Games",
+      "url": "https://apps.apple.com/us/app/id1606549505"
+    },
+    {
+      "id": "6483539426",
+      "rank": 46,
+      "name": "Fortnite",
+      "developer": "Epic Games Inc.",
+      "url": "https://apps.apple.com/us/app/id6483539426"
+    },
+    {
+      "id": "6746437378",
+      "rank": 47,
+      "name": "Tang Luck: Casino Slots",
+      "developer": "SpinShift Limited",
+      "url": "https://apps.apple.com/us/app/id6746437378"
+    },
+    {
+      "id": "543186831",
+      "rank": 48,
+      "name": "8 Ball Pool™",
+      "developer": "Miniclip.com",
+      "url": "https://apps.apple.com/us/app/id543186831"
+    },
+    {
+      "id": "6751056652",
+      "rank": 49,
+      "name": "Pixel Flow!",
+      "developer": "Loom Games Oyun Yazilim ve Pazarlama Anonim Sirketi",
+      "url": "https://apps.apple.com/us/app/id6751056652"
+    },
+    {
+      "id": "6804464432",
+      "rank": 50,
+      "name": "Songless: Guess the Song!",
+      "developer": "Calico Studio Inc.",
+      "url": "https://apps.apple.com/us/app/id6804464432"
+    },
+    {
+      "id": "1287282214",
+      "rank": 51,
+      "name": "Call of Duty®: Mobile",
+      "developer": "Activision Publishing, Inc.",
+      "url": "https://apps.apple.com/us/app/id1287282214"
+    },
+    {
+      "id": "6760377931",
+      "rank": 52,
+      "name": "Mahjong Rumble: Win Real Cash",
+      "developer": "Aviagames Inc.",
+      "url": "https://apps.apple.com/us/app/id6760377931"
+    },
+    {
+      "id": "6446197181",
+      "rank": 53,
+      "name": "Glow Fashion Idol",
+      "developer": "Crazy Labs",
+      "url": "https://apps.apple.com/us/app/id6446197181"
+    },
+    {
+      "id": "553834731",
+      "rank": 54,
+      "name": "Candy Crush Saga",
+      "developer": "King",
+      "url": "https://apps.apple.com/us/app/id553834731"
+    },
+    {
+      "id": "6754009969",
+      "rank": 55,
+      "name": "Jackpot Nights",
+      "developer": "Lucky Link Ltd.",
+      "url": "https://apps.apple.com/us/app/id6754009969"
+    },
+    {
+      "id": "6498920694",
+      "rank": 56,
+      "name": "We Are Cooking",
+      "developer": "Matryoshka Games (CY) LTD",
+      "url": "https://apps.apple.com/us/app/id6498920694"
+    },
+    {
+      "id": "1562817072",
+      "rank": 57,
+      "name": "Mob Control",
+      "developer": "Voodoo",
+      "url": "https://apps.apple.com/us/app/id1562817072"
+    },
+    {
+      "id": "1423046460",
+      "rank": 58,
+      "name": "Paper.io 2",
+      "developer": "Voodoo",
+      "url": "https://apps.apple.com/us/app/id1423046460"
+    },
+    {
+      "id": "329218549",
+      "rank": 59,
+      "name": "Chess.com - Play and Learn",
+      "developer": "Chess.com",
+      "url": "https://apps.apple.com/us/app/id329218549"
+    },
+    {
+      "id": "1595314851",
+      "rank": 60,
+      "name": "Lamar - Idle Vlogger",
+      "developer": "Crazy Labs",
+      "url": "https://apps.apple.com/us/app/id1595314851"
+    },
+    {
+      "id": "6759081967",
+      "rank": 61,
+      "name": "Jewel Coloring",
+      "developer": "Ta Ta Game Technology Limited",
+      "url": "https://apps.apple.com/us/app/id6759081967"
+    },
+    {
+      "id": "6755183085",
+      "rank": 62,
+      "name": "Yarn Loop: Knit Puzzle",
+      "developer": "Combo Games",
+      "url": "https://apps.apple.com/us/app/id6755183085"
+    },
+    {
+      "id": "6590876141",
+      "rank": 63,
+      "name": "Color Slide - Hexa Puzzle",
+      "developer": "SayGames LTD",
+      "url": "https://apps.apple.com/us/app/id6590876141"
+    },
+    {
+      "id": "6482849843",
+      "rank": 64,
+      "name": "Goods Puzzle: Sort Challenge™",
+      "developer": "FALCON GAMES",
+      "url": "https://apps.apple.com/us/app/id6482849843"
+    },
+    {
+      "id": "6449094229",
+      "rank": 65,
+      "name": "Match Factory!",
+      "developer": "Peak Games",
+      "url": "https://apps.apple.com/us/app/id6449094229"
+    },
+    {
+      "id": "6762268182",
+      "rank": 66,
+      "name": "Z Route: Redemption",
+      "developer": "BUILDING-BLOCKS NETWORK TECHNOLOGY CO.,LIMITED",
+      "url": "https://apps.apple.com/us/app/id6762268182"
+    },
+    {
+      "id": "6755495631",
+      "rank": 67,
+      "name": "Packz",
+      "developer": "Packz",
+      "url": "https://apps.apple.com/us/app/id6755495631"
+    },
+    {
+      "id": "6756185760",
+      "rank": 68,
+      "name": "Search It - Hidden Objects",
+      "developer": "LEAP BILISIM TEKNOLOJILERI VE YAZILIM TICARET ANONIM SIRKETI",
+      "url": "https://apps.apple.com/us/app/id6756185760"
+    },
+    {
+      "id": "6761469046",
+      "rank": 69,
+      "name": "Rap Star:Idle Clicker",
+      "developer": "聪 马",
+      "url": "https://apps.apple.com/us/app/id6761469046"
+    },
+    {
+      "id": "6744304405",
+      "rank": 70,
+      "name": "Cider Casino - Real Money",
+      "developer": "Mystic Mirror Studio Limited",
+      "url": "https://apps.apple.com/us/app/id6744304405"
+    },
+    {
+      "id": "406889139",
+      "rank": 71,
+      "name": "Coin Master",
+      "developer": "Moon Active",
+      "url": "https://apps.apple.com/us/app/id406889139"
+    },
+    {
+      "id": "6787414784",
+      "rank": 72,
+      "name": "Water Sort Puzzle : Challenge",
+      "developer": "贺翔 段",
+      "url": "https://apps.apple.com/us/app/id6787414784"
+    },
+    {
+      "id": "6780195090",
+      "rank": 73,
+      "name": "82-0.com",
+      "developer": "Vaulty Studios Inc.",
+      "url": "https://apps.apple.com/us/app/id6780195090"
+    },
+    {
+      "id": "1351168404",
+      "rank": 74,
+      "name": "Among Us!",
+      "developer": "InnerSloth LLC",
+      "url": "https://apps.apple.com/us/app/id1351168404"
+    },
+    {
+      "id": "1229016807",
+      "rank": 75,
+      "name": "Brawl Stars",
+      "developer": "Supercell",
+      "url": "https://apps.apple.com/us/app/id1229016807"
+    },
+    {
+      "id": "1207472156",
+      "rank": 76,
+      "name": "Wordscapes - Word Game",
+      "developer": "PeopleFun, Inc.",
+      "url": "https://apps.apple.com/us/app/id1207472156"
+    },
+    {
+      "id": "6739069151",
+      "rank": 77,
+      "name": "Crossword Go!",
+      "developer": "PlaySimple Games Pte Ltd",
+      "url": "https://apps.apple.com/us/app/id6739069151"
+    },
+    {
+      "id": "6762010774",
+      "rank": 78,
+      "name": "CrownCards - Trading Cards",
+      "developer": "CrownCards",
+      "url": "https://apps.apple.com/us/app/id6762010774"
+    },
+    {
+      "id": "6761896313",
+      "rank": 79,
+      "name": "Victory Blast Casino",
+      "developer": "Luma Field Inc",
+      "url": "https://apps.apple.com/us/app/id6761896313"
+    },
+    {
+      "id": "6503697761",
+      "rank": 80,
+      "name": "Playtest Pro by BestPlay",
+      "developer": "Bestplay Systems",
+      "url": "https://apps.apple.com/us/app/id6503697761"
+    },
+    {
+      "id": "6757350661",
+      "rank": 81,
+      "name": "Police Chief",
+      "developer": "VoyagerOne",
+      "url": "https://apps.apple.com/us/app/id6757350661"
+    },
+    {
+      "id": "6474133872",
+      "rank": 82,
+      "name": "Find Hidden Objects - Spot It!",
+      "developer": "Yolo Game Studios",
+      "url": "https://apps.apple.com/us/app/id6474133872"
+    },
+    {
+      "id": "1094591345",
+      "rank": 83,
+      "name": "Pokémon GO",
+      "developer": "Scopely Explore, Inc.",
+      "url": "https://apps.apple.com/us/app/id1094591345"
+    },
+    {
+      "id": "6739554056",
+      "rank": 84,
+      "name": "Kingshot",
+      "developer": "Century Games Pte. Ltd.",
+      "url": "https://apps.apple.com/us/app/id6739554056"
+    },
+    {
+      "id": "6757154335",
+      "rank": 85,
+      "name": "Cube Land Puzzle Game",
+      "developer": "Rotatelab",
+      "url": "https://apps.apple.com/us/app/id6757154335"
+    },
+    {
+      "id": "6756058501",
+      "rank": 86,
+      "name": "Jelly Busters: Puzzle Game",
+      "developer": "Moon Active",
+      "url": "https://apps.apple.com/us/app/id6756058501"
+    },
+    {
+      "id": "6747063674",
+      "rank": 87,
+      "name": "Brain Puzzle 2: Logic Twist",
+      "developer": "SmallStep Dev Team",
+      "url": "https://apps.apple.com/us/app/id6747063674"
+    },
+    {
+      "id": "6760530627",
+      "rank": 88,
+      "name": "Mahjong Clash: Win Real Cash",
+      "developer": "Aviagames Inc.",
+      "url": "https://apps.apple.com/us/app/id6760530627"
+    },
+    {
+      "id": "1486214495",
+      "rank": 89,
+      "name": "Brain Test: Tricky Puzzles",
+      "developer": "UNICO STUDIO",
+      "url": "https://apps.apple.com/us/app/id1486214495"
+    },
+    {
+      "id": "6450413462",
+      "rank": 90,
+      "name": "CrownCoins Casino",
+      "developer": "Sunflower",
+      "url": "https://apps.apple.com/us/app/id6450413462"
+    },
+    {
+      "id": "6475757306",
+      "rank": 91,
+      "name": "Disney Solitaire",
+      "developer": "SuperPlay",
+      "url": "https://apps.apple.com/us/app/id6475757306"
+    },
+    {
+      "id": "1446254576",
+      "rank": 92,
+      "name": "Solitaire Cash: Win Real Money",
+      "developer": "Papaya Gaming",
+      "url": "https://apps.apple.com/us/app/id1446254576"
+    },
+    {
+      "id": "1389111413",
+      "rank": 93,
+      "name": "Hole.io",
+      "developer": "Voodoo",
+      "url": "https://apps.apple.com/us/app/id1389111413"
+    },
+    {
+      "id": "6752886832",
+      "rank": 94,
+      "name": "Hotel Legacy: Merge Game",
+      "developer": "Century Games Innovation Pte. Ltd.",
+      "url": "https://apps.apple.com/us/app/id6752886832"
+    },
+    {
+      "id": "1664415775",
+      "rank": 95,
+      "name": "Royal Cooking",
+      "developer": "Matryoshka Games (CY) LTD",
+      "url": "https://apps.apple.com/us/app/id1664415775"
+    },
+    {
+      "id": "1546690510",
+      "rank": 96,
+      "name": "NoomiClone",
+      "developer": "Matthew Jones",
+      "url": "https://apps.apple.com/us/app/id1546690510"
+    },
+    {
+      "id": "6755455500",
+      "rank": 97,
+      "name": "Hollywood Merge",
+      "developer": "VoyagerOne",
+      "url": "https://apps.apple.com/us/app/id6755455500"
+    },
+    {
+      "id": "6450834358",
+      "rank": 98,
+      "name": "Sunday City: Life Simulator",
+      "developer": "Kefir",
+      "url": "https://apps.apple.com/us/app/id6450834358"
+    },
+    {
+      "id": "1053012308",
+      "rank": 99,
+      "name": "Clash Royale",
+      "developer": "Supercell",
+      "url": "https://apps.apple.com/us/app/id1053012308"
+    },
+    {
+      "id": "1094930513",
+      "rank": 100,
+      "name": "EA SPORTS FC Soccer Mobile 27",
+      "developer": "Electronic Arts",
+      "url": "https://apps.apple.com/us/app/id1094930513"
+    }
+  ]
+}

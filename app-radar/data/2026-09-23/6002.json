@@ -1,0 +1,708 @@
+{
+  "category": "Utilities",
+  "source": "https://itunes.apple.com/us/rss/topfreeapplications/limit=100/genre=6002/json",
+  "source_updated": "2026-09-23T07:49:16-07:00",
+  "collected_at": "2026-09-23T16:51:14.212911+02:00",
+  "apps": [
+    {
+      "id": "284815942",
+      "rank": 1,
+      "name": "Google",
+      "developer": "Google",
+      "url": "https://apps.apple.com/us/app/id284815942"
+    },
+    {
+      "id": "535886823",
+      "rank": 2,
+      "name": "Google Chrome",
+      "developer": "Google",
+      "url": "https://apps.apple.com/us/app/id535886823"
+    },
+    {
+      "id": "388497605",
+      "rank": 3,
+      "name": "Google Authenticator",
+      "developer": "Google",
+      "url": "https://apps.apple.com/us/app/id388497605"
+    },
+    {
+      "id": "1510944943",
+      "rank": 4,
+      "name": "Cleanup: Phone Storage Cleaner",
+      "developer": "DEEP FLOW SOFTWARE SERVICES",
+      "url": "https://apps.apple.com/us/app/id1510944943"
+    },
+    {
+      "id": "1288723196",
+      "rank": 5,
+      "name": "Microsoft Edge",
+      "developer": "Microsoft Corporation",
+      "url": "https://apps.apple.com/us/app/id1288723196"
+    },
+    {
+      "id": "309172177",
+      "rank": 6,
+      "name": "AT&T",
+      "developer": "AT&T Services, Inc.",
+      "url": "https://apps.apple.com/us/app/id309172177"
+    },
+    {
+      "id": "416023011",
+      "rank": 7,
+      "name": "My Verizon",
+      "developer": "Verizon Wireless",
+      "url": "https://apps.apple.com/us/app/id416023011"
+    },
+    {
+      "id": "1539090879",
+      "rank": 8,
+      "name": "TV Remote - Universal Control",
+      "developer": "EVOLLY.APP",
+      "url": "https://apps.apple.com/us/app/id1539090879"
+    },
+    {
+      "id": "1437005085",
+      "rank": 9,
+      "name": "Proton VPN: Fast & Secure",
+      "developer": "Proton AG",
+      "url": "https://apps.apple.com/us/app/id1437005085"
+    },
+    {
+      "id": "1178765645",
+      "rank": 10,
+      "name": "Xfinity",
+      "developer": "Comcast",
+      "url": "https://apps.apple.com/us/app/id1178765645"
+    },
+    {
+      "id": "942608209",
+      "rank": 11,
+      "name": "My Spectrum",
+      "developer": "Charter Communications",
+      "url": "https://apps.apple.com/us/app/id942608209"
+    },
+    {
+      "id": "6504287215",
+      "rank": 12,
+      "name": "Happ - Proxy Utility",
+      "developer": "Flyfrog LLC",
+      "url": "https://apps.apple.com/us/app/id6504287215"
+    },
+    {
+      "id": "663592361",
+      "rank": 13,
+      "name": "DuckDuckGo, optional Duck.ai",
+      "developer": "DuckDuckGo, Inc.",
+      "url": "https://apps.apple.com/us/app/id663592361"
+    },
+    {
+      "id": "6800211040",
+      "rank": 14,
+      "name": "CarTV - M3U IPTV Player & Cast",
+      "developer": "Lyntra Technology Ltd",
+      "url": "https://apps.apple.com/us/app/id6800211040"
+    },
+    {
+      "id": "1395696823",
+      "rank": 15,
+      "name": "Govee Home",
+      "developer": "Shenzhen Intellirocks Tech Co. Ltd.",
+      "url": "https://apps.apple.com/us/app/id1395696823"
+    },
+    {
+      "id": "1218465964",
+      "rank": 16,
+      "name": "AT&T ActiveArmor®",
+      "developer": "AT&T Services, Inc.",
+      "url": "https://apps.apple.com/us/app/id1218465964"
+    },
+    {
+      "id": "905953485",
+      "rank": 17,
+      "name": "NordVPN: VPN Fast & Secure",
+      "developer": "Nordvpn S.A.",
+      "url": "https://apps.apple.com/us/app/id905953485"
+    },
+    {
+      "id": "6444912481",
+      "rank": 18,
+      "name": "UK ETA",
+      "developer": "Home Office",
+      "url": "https://apps.apple.com/us/app/id6444912481"
+    },
+    {
+      "id": "886492891",
+      "rank": 19,
+      "name": "ExpressVPN · Secure & Fast VPN",
+      "developer": "Express VPN",
+      "url": "https://apps.apple.com/us/app/id886492891"
+    },
+    {
+      "id": "1537177988",
+      "rank": 20,
+      "name": "Starlink",
+      "developer": "SpaceX",
+      "url": "https://apps.apple.com/us/app/id1537177988"
+    },
+    {
+      "id": "1052879175",
+      "rank": 21,
+      "name": "Brave Browser & Search Engine",
+      "developer": "Brave Software",
+      "url": "https://apps.apple.com/us/app/id1052879175"
+    },
+    {
+      "id": "6754900760",
+      "rank": 22,
+      "name": "Authenticator ℠ App",
+      "developer": "BEGAMOB GLOBAL LIMITED",
+      "url": "https://apps.apple.com/us/app/id6754900760"
+    },
+    {
+      "id": "1439422220",
+      "rank": 23,
+      "name": "Universal TV Remote ·",
+      "developer": "KRAFTWERK 9 LTD",
+      "url": "https://apps.apple.com/us/app/id1439422220"
+    },
+    {
+      "id": "989804926",
+      "rank": 24,
+      "name": "Firefox Fast & Private Browser",
+      "developer": "Mozilla",
+      "url": "https://apps.apple.com/us/app/id989804926"
+    },
+    {
+      "id": "6451097052",
+      "rank": 25,
+      "name": "JumpJumpVPN: Fast & Secure",
+      "developer": "SOON BODYWERKZ AUTO PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6451097052"
+    },
+    {
+      "id": "1013961111",
+      "rank": 26,
+      "name": "Blink Home Monitor",
+      "developer": "Immedia Semiconductor",
+      "url": "https://apps.apple.com/us/app/id1013961111"
+    },
+    {
+      "id": "1034649547",
+      "rank": 27,
+      "name": "Tuya: Smart Life, Smart Living",
+      "developer": "Tuya Smart Inc.",
+      "url": "https://apps.apple.com/us/app/id1034649547"
+    },
+    {
+      "id": "6756943388",
+      "rank": 28,
+      "name": "incy",
+      "developer": "LLC ITDEV",
+      "url": "https://apps.apple.com/us/app/id6756943388"
+    },
+    {
+      "id": "1403367428",
+      "rank": 29,
+      "name": "Countdown",
+      "developer": "Find Appiness LLC",
+      "url": "https://apps.apple.com/us/app/id1403367428"
+    },
+    {
+      "id": "448142450",
+      "rank": 30,
+      "name": "Truecaller: Premium Caller ID",
+      "developer": "True Software Scandinavia AB",
+      "url": "https://apps.apple.com/us/app/id448142450"
+    },
+    {
+      "id": "6443877058",
+      "rank": 31,
+      "name": "Universal TV Remote Control・",
+      "developer": "toggle apps",
+      "url": "https://apps.apple.com/us/app/id6443877058"
+    },
+    {
+      "id": "599496594",
+      "rank": 32,
+      "name": "TP-Link Tether",
+      "developer": "TP-Link Systems Inc.",
+      "url": "https://apps.apple.com/us/app/id599496594"
+    },
+    {
+      "id": "1134784923",
+      "rank": 33,
+      "name": "VPN cat: Fast Secure Unlimited",
+      "developer": "Secure Network",
+      "url": "https://apps.apple.com/us/app/id1134784923"
+    },
+    {
+      "id": "845555232",
+      "rank": 34,
+      "name": "PayRange",
+      "developer": "PayRange Inc.",
+      "url": "https://apps.apple.com/us/app/id845555232"
+    },
+    {
+      "id": "322664011",
+      "rank": 35,
+      "name": "Offender Locator: Find & Watch",
+      "developer": "Offender Locator Inc.",
+      "url": "https://apps.apple.com/us/app/id322664011"
+    },
+    {
+      "id": "1583884012",
+      "rank": 36,
+      "name": "Swipewipe: Photo Cleaner",
+      "developer": "MWM",
+      "url": "https://apps.apple.com/us/app/id1583884012"
+    },
+    {
+      "id": "1050171910",
+      "rank": 37,
+      "name": "Free VPN by Free VPN .org™",
+      "developer": "Free VPN LLC",
+      "url": "https://apps.apple.com/us/app/id1050171910"
+    },
+    {
+      "id": "6480077263",
+      "rank": 38,
+      "name": "Epic Games",
+      "developer": "Epic Games Inc.",
+      "url": "https://apps.apple.com/us/app/id6480077263"
+    },
+    {
+      "id": "6550911475",
+      "rank": 39,
+      "name": "Vizo - Remote for Vizio TV",
+      "developer": "Huy Hoang",
+      "url": "https://apps.apple.com/us/app/id6550911475"
+    },
+    {
+      "id": "1411869974",
+      "rank": 40,
+      "name": "Opera Browser with VPN",
+      "developer": "Opera Norway AS",
+      "url": "https://apps.apple.com/us/app/id1411869974"
+    },
+    {
+      "id": "1581765635",
+      "rank": 41,
+      "name": "Universal Remote TV Control ·",
+      "developer": "BEGAMOB GLOBAL LIMITED",
+      "url": "https://apps.apple.com/us/app/id1581765635"
+    },
+    {
+      "id": "1473774730",
+      "rank": 42,
+      "name": "VPN - Free VPN Potato ™",
+      "developer": "FREE VPN POTATO PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id1473774730"
+    },
+    {
+      "id": "6477382010",
+      "rank": 43,
+      "name": "Universal TV Remote Control＊",
+      "developer": "VISARGERD, S.L.",
+      "url": "https://apps.apple.com/us/app/id6477382010"
+    },
+    {
+      "id": "1168502924",
+      "rank": 44,
+      "name": "Sony | Sound Connect",
+      "developer": "Sony Corporation",
+      "url": "https://apps.apple.com/us/app/id1168502924"
+    },
+    {
+      "id": "1516235668",
+      "rank": 45,
+      "name": "Brother Mobile Connect",
+      "developer": "Brother Industries, LTD.",
+      "url": "https://apps.apple.com/us/app/id1516235668"
+    },
+    {
+      "id": "6474010687",
+      "rank": 46,
+      "name": "Remote for Samsung TV Smart",
+      "developer": "Controlla TV LTD.",
+      "url": "https://apps.apple.com/us/app/id6474010687"
+    },
+    {
+      "id": "1103138272",
+      "rank": 47,
+      "name": "Facemoji AI Emoji Keyboard",
+      "developer": "NEXILEAP PRIVATE LIMITED",
+      "url": "https://apps.apple.com/us/app/id1103138272"
+    },
+    {
+      "id": "1575903244",
+      "rank": 48,
+      "name": "Clean Up Storage: CleanX",
+      "developer": "TAPSUITE YAZILIM HIZMETLERI ANONIM SIRKETI",
+      "url": "https://apps.apple.com/us/app/id1575903244"
+    },
+    {
+      "id": "541403633",
+      "rank": 49,
+      "name": "RentCafe Resident",
+      "developer": "Yardi Systems, Inc.",
+      "url": "https://apps.apple.com/us/app/id541403633"
+    },
+    {
+      "id": "6458692724",
+      "rank": 50,
+      "name": "TV Remote & Universal Control™",
+      "developer": "To Ngoc Mai",
+      "url": "https://apps.apple.com/us/app/id6458692724"
+    },
+    {
+      "id": "1625671285",
+      "rank": 51,
+      "name": "Bambu Handy",
+      "developer": "上海轮廓科技有限公司",
+      "url": "https://apps.apple.com/us/app/id1625671285"
+    },
+    {
+      "id": "6755033589",
+      "rank": 52,
+      "name": "myCar: Car Widgets & Dashboard",
+      "developer": "DOFUapps",
+      "url": "https://apps.apple.com/us/app/id6755033589"
+    },
+    {
+      "id": "1503251395",
+      "rank": 53,
+      "name": "VPNIFY - Unlimited VPN",
+      "developer": "Neonetworks solution ltd",
+      "url": "https://apps.apple.com/us/app/id1503251395"
+    },
+    {
+      "id": "1423538627",
+      "rank": 54,
+      "name": "1.1.1.1: Faster Internet",
+      "developer": "Cloudflare",
+      "url": "https://apps.apple.com/us/app/id1423538627"
+    },
+    {
+      "id": "300704847",
+      "rank": 55,
+      "name": "Speedtest by Ookla",
+      "developer": "Ookla",
+      "url": "https://apps.apple.com/us/app/id300704847"
+    },
+    {
+      "id": "1507917112",
+      "rank": 56,
+      "name": "Find Air - My Device Tracker",
+      "developer": "Air Apps Systems",
+      "url": "https://apps.apple.com/us/app/id1507917112"
+    },
+    {
+      "id": "1571429529",
+      "rank": 57,
+      "name": "Samsung Smart Switch Mobile",
+      "developer": "Samsung Electronics Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id1571429529"
+    },
+    {
+      "id": "6553976921",
+      "rank": 58,
+      "name": "Universal TV Remote™ Control",
+      "developer": "SEAMOBI TECH PTE LTD",
+      "url": "https://apps.apple.com/us/app/id6553976921"
+    },
+    {
+      "id": "6794248220",
+      "rank": 59,
+      "name": "LocFind: GPS Family Tracker",
+      "developer": "Princess Limited",
+      "url": "https://apps.apple.com/us/app/id6794248220"
+    },
+    {
+      "id": "6758564907",
+      "rank": 60,
+      "name": "VitalScan: Wellness Mirror",
+      "developer": "CyberNex Networks Limited",
+      "url": "https://apps.apple.com/us/app/id6758564907"
+    },
+    {
+      "id": "6448163027",
+      "rank": 61,
+      "name": "Love8 - App for Couples",
+      "developer": "Chongqing Daole Er Technology Co., Ltd",
+      "url": "https://apps.apple.com/us/app/id6448163027"
+    },
+    {
+      "id": "1317652970",
+      "rank": 62,
+      "name": "Connect IQ™ Store",
+      "developer": "Garmin",
+      "url": "https://apps.apple.com/us/app/id1317652970"
+    },
+    {
+      "id": "1469627109",
+      "rank": 63,
+      "name": "WASH-Connect",
+      "developer": "WASH Multifamily Laundry Systems",
+      "url": "https://apps.apple.com/us/app/id1469627109"
+    },
+    {
+      "id": "6780915191",
+      "rank": 64,
+      "name": "Screen Mirroring & CastConnect",
+      "developer": "Janki Panchani",
+      "url": "https://apps.apple.com/us/app/id6780915191"
+    },
+    {
+      "id": "1367950045",
+      "rank": 65,
+      "name": "Visible mobile",
+      "developer": "Visible Service, LLC",
+      "url": "https://apps.apple.com/us/app/id1367950045"
+    },
+    {
+      "id": "6803143394",
+      "rank": 66,
+      "name": "Warden: Safety Map",
+      "developer": "Asymmetric Labs",
+      "url": "https://apps.apple.com/us/app/id6803143394"
+    },
+    {
+      "id": "1150085200",
+      "rank": 67,
+      "name": "Google Family Link",
+      "developer": "Google",
+      "url": "https://apps.apple.com/us/app/id1150085200"
+    },
+    {
+      "id": "1216135390",
+      "rank": 68,
+      "name": "Second Phone Number - 2Number",
+      "developer": "BPMobile",
+      "url": "https://apps.apple.com/us/app/id1216135390"
+    },
+    {
+      "id": "6444903068",
+      "rank": 69,
+      "name": "DayBetter",
+      "developer": "SHENZHEN DAYBETTER OPTO-ELECTRONICS CO., LTD.",
+      "url": "https://apps.apple.com/us/app/id6444903068"
+    },
+    {
+      "id": "1625553531",
+      "rank": 70,
+      "name": "Remote for Firestick · Fire TV",
+      "developer": "Netsis Mobile FZCO",
+      "url": "https://apps.apple.com/us/app/id1625553531"
+    },
+    {
+      "id": "6767523015",
+      "rank": 71,
+      "name": "Holy Bible Faith:Verse&Audio",
+      "developer": "Lichu Studio",
+      "url": "https://apps.apple.com/us/app/id6767523015"
+    },
+    {
+      "id": "6749205970",
+      "rank": 72,
+      "name": "Travel Camera & Compass",
+      "developer": "Ha Nguyen",
+      "url": "https://apps.apple.com/us/app/id6749205970"
+    },
+    {
+      "id": "314487667",
+      "rank": 73,
+      "name": "textPlus: Text Message + Call",
+      "developer": "textPlus, Inc.",
+      "url": "https://apps.apple.com/us/app/id314487667"
+    },
+    {
+      "id": "6756433205",
+      "rank": 74,
+      "name": "Honorlock",
+      "developer": "Honorlock",
+      "url": "https://apps.apple.com/us/app/id6756433205"
+    },
+    {
+      "id": "6471257645",
+      "rank": 75,
+      "name": "Screen Mirroring App: Smart TV",
+      "developer": "Desidari Holding Ltd.",
+      "url": "https://apps.apple.com/us/app/id6471257645"
+    },
+    {
+      "id": "1295303441",
+      "rank": 76,
+      "name": "Mint Mobile",
+      "developer": "UVNV, Inc.",
+      "url": "https://apps.apple.com/us/app/id1295303441"
+    },
+    {
+      "id": "505800761",
+      "rank": 77,
+      "name": "Burner: Second Phone Number",
+      "developer": "Ad Hoc Labs, Inc",
+      "url": "https://apps.apple.com/us/app/id505800761"
+    },
+    {
+      "id": "6745863842",
+      "rank": 78,
+      "name": "Camtro",
+      "developer": "DigitalConverge Intellect Limited",
+      "url": "https://apps.apple.com/us/app/id6745863842"
+    },
+    {
+      "id": "6757016336",
+      "rank": 79,
+      "name": "TV Remote Control · Universal",
+      "developer": "TrustOneApps L.L.C-FZ",
+      "url": "https://apps.apple.com/us/app/id6757016336"
+    },
+    {
+      "id": "381471023",
+      "rank": 80,
+      "name": "Flashlight Ⓞ",
+      "developer": "ONE App Essentials",
+      "url": "https://apps.apple.com/us/app/id381471023"
+    },
+    {
+      "id": "6758184735",
+      "rank": 81,
+      "name": "Fusvob VPN : Super VPN 2026",
+      "developer": "Fuxin Technology",
+      "url": "https://apps.apple.com/us/app/id6758184735"
+    },
+    {
+      "id": "6794783652",
+      "rank": 82,
+      "name": "VidBrowse - All Video Player",
+      "developer": "Ahmad Jawad",
+      "url": "https://apps.apple.com/us/app/id6794783652"
+    },
+    {
+      "id": "1470499037",
+      "rank": 83,
+      "name": "Tailscale",
+      "developer": "Tailscale Inc.",
+      "url": "https://apps.apple.com/us/app/id1470499037"
+    },
+    {
+      "id": "6446814690",
+      "rank": 84,
+      "name": "V2Box - V2ray Client",
+      "developer": "techlaim",
+      "url": "https://apps.apple.com/us/app/id6446814690"
+    },
+    {
+      "id": "6670321276",
+      "rank": 85,
+      "name": "Screen Mirroring | Cast to TV",
+      "developer": "Ozuna Limited",
+      "url": "https://apps.apple.com/us/app/id6670321276"
+    },
+    {
+      "id": "1188830219",
+      "rank": 86,
+      "name": "myMetro®",
+      "developer": "MetroPCS",
+      "url": "https://apps.apple.com/us/app/id1188830219"
+    },
+    {
+      "id": "6742432059",
+      "rank": 87,
+      "name": "Wipe Neat: Cleanup Storage",
+      "developer": "HAHA TECHNOLOGY LIMITED",
+      "url": "https://apps.apple.com/us/app/id6742432059"
+    },
+    {
+      "id": "6760277293",
+      "rank": 88,
+      "name": "Calmia: Health Tracker",
+      "developer": "Unlimited VPN Service",
+      "url": "https://apps.apple.com/us/app/id6760277293"
+    },
+    {
+      "id": "6504182653",
+      "rank": 89,
+      "name": "UniRemote：Universal TV Remote",
+      "developer": "Kanatom Limited",
+      "url": "https://apps.apple.com/us/app/id6504182653"
+    },
+    {
+      "id": "1587785671",
+      "rank": 90,
+      "name": "Boost Mobile",
+      "developer": "DISH Network LLC",
+      "url": "https://apps.apple.com/us/app/id1587785671"
+    },
+    {
+      "id": "6763306820",
+      "rank": 91,
+      "name": "Authenticator© App",
+      "developer": "To Ngoc Mai",
+      "url": "https://apps.apple.com/us/app/id6763306820"
+    },
+    {
+      "id": "483693909",
+      "rank": 92,
+      "name": "Yandex Browser with Alice AI",
+      "developer": "Direct Cursus Computer Systems Trading",
+      "url": "https://apps.apple.com/us/app/id483693909"
+    },
+    {
+      "id": "6740556805",
+      "rank": 93,
+      "name": "Car.Play Connect: Auto Sync",
+      "developer": "5SKay Software",
+      "url": "https://apps.apple.com/us/app/id6740556805"
+    },
+    {
+      "id": "6478310386",
+      "rank": 94,
+      "name": "Verizon Home",
+      "developer": "Verizon Wireless",
+      "url": "https://apps.apple.com/us/app/id6478310386"
+    },
+    {
+      "id": "1661733229",
+      "rank": 95,
+      "name": "LocalSend",
+      "developer": "Tien Do Nam",
+      "url": "https://apps.apple.com/us/app/id1661733229"
+    },
+    {
+      "id": "1457468797",
+      "rank": 96,
+      "name": "Remote control for LG",
+      "developer": "Oz Shabbatth",
+      "url": "https://apps.apple.com/us/app/id1457468797"
+    },
+    {
+      "id": "6748386594",
+      "rank": 97,
+      "name": "ClearSpace：Clean Storage",
+      "developer": "GOOD STUDY NETWORK TECHNOLOGY LIMITED",
+      "url": "https://apps.apple.com/us/app/id6748386594"
+    },
+    {
+      "id": "724596345",
+      "rank": 98,
+      "name": "McAfee: Stay Secure & Private",
+      "developer": "McAfee, LLC.",
+      "url": "https://apps.apple.com/us/app/id724596345"
+    },
+    {
+      "id": "6741199545",
+      "rank": 99,
+      "name": "Blood Pressure: Heart Tracker",
+      "developer": "lighten",
+      "url": "https://apps.apple.com/us/app/id6741199545"
+    },
+    {
+      "id": "1531594277",
+      "rank": 100,
+      "name": "Color Widgets",
+      "developer": "Digital Charms, Inc.",
+      "url": "https://apps.apple.com/us/app/id1531594277"
+    }
+  ]
+}

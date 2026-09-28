@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-27",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "status": {
+    "Games": "采集失败，无法判断",
+    "Finance": "采集失败，无法判断",
+    "Shopping": "采集失败，无法判断",
+    "Casino": "采集失败，无法判断",
+    "Sports": "采集失败，无法判断",
+    "Social Networking": "采集失败，无法判断",
+    "Utilities": "采集失败，无法判断",
+    "Entertainment": "采集失败，无法判断"
+  },
+  "errors": {
+    "Shopping": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "Casino": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "Games": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "Finance": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "Sports": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "Utilities": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "Social Networking": "<urlopen error [Errno 8] nodename nor servname provided, or not known>",
+    "Entertainment": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  "leads": []
+}

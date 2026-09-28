@@ -1,0 +1,708 @@
+{
+  "category": "Finance",
+  "source": "https://itunes.apple.com/us/rss/topfreeapplications/limit=100/genre=6015/json",
+  "source_updated": "2026-09-24T00:43:08-07:00",
+  "collected_at": "2026-09-24T09:43:09.662548+02:00",
+  "apps": [
+    {
+      "id": "1632713844",
+      "rank": 1,
+      "name": "Kalshi: Trade Football & more",
+      "developer": "KalshiEX LLC",
+      "url": "https://apps.apple.com/us/app/id1632713844"
+    },
+    {
+      "id": "6648798962",
+      "rank": 2,
+      "name": "Polymarket: Trade Live Sports",
+      "developer": "Polymarket",
+      "url": "https://apps.apple.com/us/app/id6648798962"
+    },
+    {
+      "id": "407558537",
+      "rank": 3,
+      "name": "Capital One Mobile",
+      "developer": "Capital One",
+      "url": "https://apps.apple.com/us/app/id407558537"
+    },
+    {
+      "id": "351727428",
+      "rank": 4,
+      "name": "Venmo",
+      "developer": "Venmo",
+      "url": "https://apps.apple.com/us/app/id351727428"
+    },
+    {
+      "id": "711923939",
+      "rank": 5,
+      "name": "Cash App",
+      "developer": "Block, Inc.",
+      "url": "https://apps.apple.com/us/app/id711923939"
+    },
+    {
+      "id": "283646709",
+      "rank": 6,
+      "name": "PayPal - Pay, Send, Save",
+      "developer": "PayPal, Inc.",
+      "url": "https://apps.apple.com/us/app/id283646709"
+    },
+    {
+      "id": "1494523953",
+      "rank": 7,
+      "name": "OnePay – Mobile Banking",
+      "developer": "One Finance, Inc.",
+      "url": "https://apps.apple.com/us/app/id1494523953"
+    },
+    {
+      "id": "298867247",
+      "rank": 8,
+      "name": "Chase Mobile®: Bank & Invest",
+      "developer": "JPMorgan Chase & Co.",
+      "url": "https://apps.apple.com/us/app/id298867247"
+    },
+    {
+      "id": "836215269",
+      "rank": 9,
+      "name": "Chime® – Mobile Banking",
+      "developer": "Chime Financial, Inc.",
+      "url": "https://apps.apple.com/us/app/id836215269"
+    },
+    {
+      "id": "1115120118",
+      "rank": 10,
+      "name": "Klarna: Smarter everyday money",
+      "developer": "Klarna Bank AB",
+      "url": "https://apps.apple.com/us/app/id1115120118"
+    },
+    {
+      "id": "349731802",
+      "rank": 11,
+      "name": "Progressive",
+      "developer": "Progressive Insurance",
+      "url": "https://apps.apple.com/us/app/id349731802"
+    },
+    {
+      "id": "348177453",
+      "rank": 12,
+      "name": "Fidelity Investments",
+      "developer": "Fidelity Investments",
+      "url": "https://apps.apple.com/us/app/id348177453"
+    },
+    {
+      "id": "1130616675",
+      "rank": 13,
+      "name": "Rocket Money - Bills & Budgets",
+      "developer": "Rocket Money",
+      "url": "https://apps.apple.com/us/app/id1130616675"
+    },
+    {
+      "id": "6741115427",
+      "rank": 14,
+      "name": "fomo - never miss out",
+      "developer": "fomo labs, inc",
+      "url": "https://apps.apple.com/us/app/id6741115427"
+    },
+    {
+      "id": "284847138",
+      "rank": 15,
+      "name": "Bank of America Mobile Banking",
+      "developer": "Bank of America",
+      "url": "https://apps.apple.com/us/app/id284847138"
+    },
+    {
+      "id": "311548709",
+      "rank": 16,
+      "name": "Wells Fargo Mobile®",
+      "developer": "Wells Fargo",
+      "url": "https://apps.apple.com/us/app/id311548709"
+    },
+    {
+      "id": "318142137",
+      "rank": 17,
+      "name": "State Farm®",
+      "developer": "State Farm Mutual Automobile Insurance Company",
+      "url": "https://apps.apple.com/us/app/id318142137"
+    },
+    {
+      "id": "938003185",
+      "rank": 18,
+      "name": "Robinhood: Trading & Investing",
+      "developer": "Robinhood Markets, Inc.",
+      "url": "https://apps.apple.com/us/app/id938003185"
+    },
+    {
+      "id": "1205990992",
+      "rank": 19,
+      "name": "TradingView: Track All Markets",
+      "developer": "TradingView",
+      "url": "https://apps.apple.com/us/app/id1205990992"
+    },
+    {
+      "id": "331763096",
+      "rank": 20,
+      "name": "GEICO Mobile - Car Insurance",
+      "developer": "GEICO",
+      "url": "https://apps.apple.com/us/app/id331763096"
+    },
+    {
+      "id": "519817714",
+      "rank": 21,
+      "name": "Intuit Credit Karma",
+      "developer": "Credit Karma, Inc.",
+      "url": "https://apps.apple.com/us/app/id519817714"
+    },
+    {
+      "id": "1191985736",
+      "rank": 22,
+      "name": "SoFi: Bank, Invest & Crypto",
+      "developer": "Social Finance, LLC",
+      "url": "https://apps.apple.com/us/app/id1191985736"
+    },
+    {
+      "id": "362348516",
+      "rank": 23,
+      "name": "Amex",
+      "developer": "American Express",
+      "url": "https://apps.apple.com/us/app/id362348516"
+    },
+    {
+      "id": "301724680",
+      "rank": 24,
+      "name": "Citi Mobile®",
+      "developer": "Citibank",
+      "url": "https://apps.apple.com/us/app/id301724680"
+    },
+    {
+      "id": "6751549725",
+      "rank": 25,
+      "name": "ebtEDGE NEW!",
+      "developer": "FIS",
+      "url": "https://apps.apple.com/us/app/id6751549725"
+    },
+    {
+      "id": "6767364919",
+      "rank": 26,
+      "name": "Trump Accounts: Official App",
+      "developer": "U.S. Department of the Treasury",
+      "url": "https://apps.apple.com/us/app/id6767364919"
+    },
+    {
+      "id": "1087101090",
+      "rank": 27,
+      "name": "Experian®",
+      "developer": "Experian",
+      "url": "https://apps.apple.com/us/app/id1087101090"
+    },
+    {
+      "id": "1617487581",
+      "rank": 28,
+      "name": "Atlas - Rewards Credit Card",
+      "developer": "Exto Inc.",
+      "url": "https://apps.apple.com/us/app/id1617487581"
+    },
+    {
+      "id": "458734623",
+      "rank": 29,
+      "name": "U.S. Bank Mobile Banking",
+      "developer": "U.S. Bancorp",
+      "url": "https://apps.apple.com/us/app/id458734623"
+    },
+    {
+      "id": "1193801909",
+      "rank": 30,
+      "name": "Dave: Credit, Cash & Money App",
+      "developer": "Dave, Inc",
+      "url": "https://apps.apple.com/us/app/id1193801909"
+    },
+    {
+      "id": "674258465",
+      "rank": 31,
+      "name": "Remitly: Send money & transfer",
+      "developer": "Remitly Inc",
+      "url": "https://apps.apple.com/us/app/id674258465"
+    },
+    {
+      "id": "6472350114",
+      "rank": 32,
+      "name": "Grant Cash Advance",
+      "developer": "Kikoff Inc.",
+      "url": "https://apps.apple.com/us/app/id6472350114"
+    },
+    {
+      "id": "1447274646",
+      "rank": 33,
+      "name": "Cleo AI: Cash Advance & Budget",
+      "developer": "Cleo AI Ltd",
+      "url": "https://apps.apple.com/us/app/id1447274646"
+    },
+    {
+      "id": "1128712763",
+      "rank": 34,
+      "name": "Credit One Bank Mobile",
+      "developer": "Credit One Bank, N.A.",
+      "url": "https://apps.apple.com/us/app/id1128712763"
+    },
+    {
+      "id": "1230221247",
+      "rank": 35,
+      "name": "MyCardWallet.",
+      "developer": "Blackhawk Network",
+      "url": "https://apps.apple.com/us/app/id1230221247"
+    },
+    {
+      "id": "1136397354",
+      "rank": 36,
+      "name": "Tilt: Cash Advance & Credit",
+      "developer": "Tilt Finance, Inc.",
+      "url": "https://apps.apple.com/us/app/id1136397354"
+    },
+    {
+      "id": "886427730",
+      "rank": 37,
+      "name": "Coinbase: Buy Crypto & Stocks",
+      "developer": "Coinbase, Inc.",
+      "url": "https://apps.apple.com/us/app/id886427730"
+    },
+    {
+      "id": "1409169287",
+      "rank": 38,
+      "name": "Lenme: Borrowing and Lending",
+      "developer": "Lenme Inc.",
+      "url": "https://apps.apple.com/us/app/id1409169287"
+    },
+    {
+      "id": "6764022479",
+      "rank": 39,
+      "name": "Rocco - Fast Cash Advance",
+      "developer": "Rocco Finance Inc.",
+      "url": "https://apps.apple.com/us/app/id6764022479"
+    },
+    {
+      "id": "1341884073",
+      "rank": 40,
+      "name": "Brigit: Cash Advance & Credit",
+      "developer": "Brigit Inc",
+      "url": "https://apps.apple.com/us/app/id1341884073"
+    },
+    {
+      "id": "1425045070",
+      "rank": 41,
+      "name": "Zip - Buy Now, Pay Later",
+      "developer": "Zip Co US, Inc.",
+      "url": "https://apps.apple.com/us/app/id1425045070"
+    },
+    {
+      "id": "1077366211",
+      "rank": 42,
+      "name": "Current - Mobile Banking",
+      "developer": "Finco Services, Inc.",
+      "url": "https://apps.apple.com/us/app/id1077366211"
+    },
+    {
+      "id": "1064677082",
+      "rank": 43,
+      "name": "MoneyLion: Cash Advance App",
+      "developer": "MoneyLion",
+      "url": "https://apps.apple.com/us/app/id1064677082"
+    },
+    {
+      "id": "1280992496",
+      "rank": 44,
+      "name": "MySynchrony",
+      "developer": "Synchrony Financial",
+      "url": "https://apps.apple.com/us/app/id1280992496"
+    },
+    {
+      "id": "1471211372",
+      "rank": 45,
+      "name": "Klover - Instant Cash Advance",
+      "developer": "Klover Holdings, Inc.",
+      "url": "https://apps.apple.com/us/app/id1471211372"
+    },
+    {
+      "id": "364376344",
+      "rank": 46,
+      "name": "Allstate® Mobile",
+      "developer": "Allstate Insurance Company",
+      "url": "https://apps.apple.com/us/app/id364376344"
+    },
+    {
+      "id": "1458274896",
+      "rank": 47,
+      "name": "Flex - Rent On Your Schedule",
+      "developer": "Flexible Finance, Inc.",
+      "url": "https://apps.apple.com/us/app/id1458274896"
+    },
+    {
+      "id": "1001257338",
+      "rank": 48,
+      "name": "Empower ®",
+      "developer": "Empower Retirement, LLC",
+      "url": "https://apps.apple.com/us/app/id1001257338"
+    },
+    {
+      "id": "1517676784",
+      "rank": 49,
+      "name": "Varo Bank: Online Banking",
+      "developer": "Varo Money inc",
+      "url": "https://apps.apple.com/us/app/id1517676784"
+    },
+    {
+      "id": "640179084",
+      "rank": 50,
+      "name": "NetBenefits",
+      "developer": "Fidelity Investments",
+      "url": "https://apps.apple.com/us/app/id640179084"
+    },
+    {
+      "id": "1413346006",
+      "rank": 51,
+      "name": "Taptap Send: Money Transfer",
+      "developer": "Taptap Send, Inc.",
+      "url": "https://apps.apple.com/us/app/id1413346006"
+    },
+    {
+      "id": "1525159784",
+      "rank": 52,
+      "name": "Kikoff: Build Credit Quickly",
+      "developer": "Kikoff Inc.",
+      "url": "https://apps.apple.com/us/app/id1525159784"
+    },
+    {
+      "id": "1459319842",
+      "rank": 53,
+      "name": "Monarch: Budget & Track Money",
+      "developer": "Monarch Money, Inc.",
+      "url": "https://apps.apple.com/us/app/id1459319842"
+    },
+    {
+      "id": "612261027",
+      "rank": 54,
+      "name": "Wise: Global Money Transfer",
+      "developer": "Wise Payments Ltd",
+      "url": "https://apps.apple.com/us/app/id612261027"
+    },
+    {
+      "id": "1399085077",
+      "rank": 55,
+      "name": "DailyPay On-Demand Pay",
+      "developer": "Daily Pay Inc.",
+      "url": "https://apps.apple.com/us/app/id1399085077"
+    },
+    {
+      "id": "723815926",
+      "rank": 56,
+      "name": "EarnIn: Beyond Cash Advance",
+      "developer": "Activehours Inc.",
+      "url": "https://apps.apple.com/us/app/id723815926"
+    },
+    {
+      "id": "1478804271",
+      "rank": 57,
+      "name": "Gusto Mobile",
+      "developer": "Gusto, inc.",
+      "url": "https://apps.apple.com/us/app/id1478804271"
+    },
+    {
+      "id": "407358186",
+      "rank": 58,
+      "name": "Schwab Mobile",
+      "developer": "The Charles Schwab Corporation",
+      "url": "https://apps.apple.com/us/app/id407358186"
+    },
+    {
+      "id": "1057771088",
+      "rank": 59,
+      "name": "Albert: Budgeting and Banking",
+      "developer": "Albert Corporation",
+      "url": "https://apps.apple.com/us/app/id1057771088"
+    },
+    {
+      "id": "6779553876",
+      "rank": 60,
+      "name": "Money Borrowing: Cash Advance",
+      "developer": "UTILITAS S. K. Z.",
+      "url": "https://apps.apple.com/us/app/id6779553876"
+    },
+    {
+      "id": "1511043796",
+      "rank": 61,
+      "name": "Bright: Loans & Credit Builder",
+      "developer": "Bright Capital Inc",
+      "url": "https://apps.apple.com/us/app/id1511043796"
+    },
+    {
+      "id": "942571931",
+      "rank": 62,
+      "name": "EveryDollar: Budget Management",
+      "developer": "The Lampo Group Incorporated",
+      "url": "https://apps.apple.com/us/app/id942571931"
+    },
+    {
+      "id": "642959434",
+      "rank": 63,
+      "name": "HealthEquity Mobile",
+      "developer": "HealthEquity",
+      "url": "https://apps.apple.com/us/app/id642959434"
+    },
+    {
+      "id": "6777478123",
+      "rank": 64,
+      "name": "Monbark: Budget & Money Track",
+      "developer": "MONBARK LLC",
+      "url": "https://apps.apple.com/us/app/id6777478123"
+    },
+    {
+      "id": "397404511",
+      "rank": 65,
+      "name": "Liberty Mutual Mobile",
+      "developer": "Liberty Mutual",
+      "url": "https://apps.apple.com/us/app/id397404511"
+    },
+    {
+      "id": "932493382",
+      "rank": 66,
+      "name": "Revolut: send, spend, and save",
+      "developer": "Revolut Ltd",
+      "url": "https://apps.apple.com/us/app/id932493382"
+    },
+    {
+      "id": "514374715",
+      "rank": 67,
+      "name": "Ally: Bank, Auto & Invest",
+      "developer": "Ally Financial Inc.",
+      "url": "https://apps.apple.com/us/app/id514374715"
+    },
+    {
+      "id": "1380384597",
+      "rank": 68,
+      "name": "Possible: Fast Cash & Credit",
+      "developer": "Possible Finance",
+      "url": "https://apps.apple.com/us/app/id1380384597"
+    },
+    {
+      "id": "370811491",
+      "rank": 69,
+      "name": "Navy Federal Credit Union",
+      "developer": "Navy Federal Credit Union",
+      "url": "https://apps.apple.com/us/app/id370811491"
+    },
+    {
+      "id": "424716908",
+      "rank": 70,
+      "name": "Western Union: Send Money",
+      "developer": "Western Union Holdings, Inc.",
+      "url": "https://apps.apple.com/us/app/id424716908"
+    },
+    {
+      "id": "6502468755",
+      "rank": 71,
+      "name": "myEquifax",
+      "developer": "Equifax",
+      "url": "https://apps.apple.com/us/app/id6502468755"
+    },
+    {
+      "id": "425199399",
+      "rank": 72,
+      "name": "Barclays US",
+      "developer": "Barclays Bank Delaware",
+      "url": "https://apps.apple.com/us/app/id425199399"
+    },
+    {
+      "id": "1600495551",
+      "rank": 73,
+      "name": "Bread Financial",
+      "developer": "Bread Financial Holdings, Inc.",
+      "url": "https://apps.apple.com/us/app/id1600495551"
+    },
+    {
+      "id": "6462308655",
+      "rank": 74,
+      "name": "Robinhood Banking",
+      "developer": "Robinhood Markets, Inc.",
+      "url": "https://apps.apple.com/us/app/id6462308655"
+    },
+    {
+      "id": "883324671",
+      "rank": 75,
+      "name": "Acorns: Save & Invest Money",
+      "developer": "Acorns Grow Incorporated",
+      "url": "https://apps.apple.com/us/app/id883324671"
+    },
+    {
+      "id": "1565576987",
+      "rank": 76,
+      "name": "Bilt Rewards",
+      "developer": "Bilt Technologies, Inc.",
+      "url": "https://apps.apple.com/us/app/id1565576987"
+    },
+    {
+      "id": "1450304211",
+      "rank": 77,
+      "name": "Super.com-Cash Advance, Travel",
+      "developer": "Super.com Inc.",
+      "url": "https://apps.apple.com/us/app/id1450304211"
+    },
+    {
+      "id": "1588301749",
+      "rank": 78,
+      "name": "Credit Genie: Get Cash Advance",
+      "developer": "Credit Genie",
+      "url": "https://apps.apple.com/us/app/id1588301749"
+    },
+    {
+      "id": "1241984225",
+      "rank": 79,
+      "name": "Testerup: Test & Earn Rewards",
+      "developer": "aestimium GmbH",
+      "url": "https://apps.apple.com/us/app/id1241984225"
+    },
+    {
+      "id": "1031312446",
+      "rank": 80,
+      "name": "CareCredit Mobile",
+      "developer": "Synchrony Financial",
+      "url": "https://apps.apple.com/us/app/id1031312446"
+    },
+    {
+      "id": "1112719759",
+      "rank": 81,
+      "name": "Propel: EBT, SNAP, WIC, & more",
+      "developer": "Propel Inc",
+      "url": "https://apps.apple.com/us/app/id1112719759"
+    },
+    {
+      "id": "458023433",
+      "rank": 82,
+      "name": "Splitwise",
+      "developer": "Splitwise, Inc.",
+      "url": "https://apps.apple.com/us/app/id458023433"
+    },
+    {
+      "id": "1395667279",
+      "rank": 83,
+      "name": "FloatMe: Fast Cash Advance App",
+      "developer": "FloatMe",
+      "url": "https://apps.apple.com/us/app/id1395667279"
+    },
+    {
+      "id": "303113127",
+      "rank": 84,
+      "name": "PNC Mobile Banking",
+      "developer": "PNC Bank, N.A.",
+      "url": "https://apps.apple.com/us/app/id303113127"
+    },
+    {
+      "id": "6450968733",
+      "rank": 85,
+      "name": "Upstart: Personal Loans + More",
+      "developer": "Upstart Network, Inc.",
+      "url": "https://apps.apple.com/us/app/id6450968733"
+    },
+    {
+      "id": "6449258739",
+      "rank": 86,
+      "name": "Concora Credit",
+      "developer": "CONCORA CREDIT INC.",
+      "url": "https://apps.apple.com/us/app/id6449258739"
+    },
+    {
+      "id": "1179213067",
+      "rank": 87,
+      "name": "Webull: Investing & Trading",
+      "developer": "Webull Technologies Pte. Ltd.",
+      "url": "https://apps.apple.com/us/app/id1179213067"
+    },
+    {
+      "id": "1492670702",
+      "rank": 88,
+      "name": "Binance.US - Buy Crypto & BTC",
+      "developer": "BAM Trading Services, Inc.",
+      "url": "https://apps.apple.com/us/app/id1492670702"
+    },
+    {
+      "id": "1398046228",
+      "rank": 89,
+      "name": "ebtEDGE",
+      "developer": "FIS",
+      "url": "https://apps.apple.com/us/app/id1398046228"
+    },
+    {
+      "id": "6760541552",
+      "rank": 90,
+      "name": "Cash Advance: Borrow Money App",
+      "developer": "Rue des Jardins S.A.",
+      "url": "https://apps.apple.com/us/app/id6760541552"
+    },
+    {
+      "id": "6759454662",
+      "rank": 91,
+      "name": "Cherry: The Smarter Way to Pay",
+      "developer": "Cherry Technologies, Inc.",
+      "url": "https://apps.apple.com/us/app/id6759454662"
+    },
+    {
+      "id": "413251709",
+      "rank": 92,
+      "name": "MetaTrader 5",
+      "developer": "MetaQuotes Software Corp.",
+      "url": "https://apps.apple.com/us/app/id413251709"
+    },
+    {
+      "id": "1507829573",
+      "rank": 93,
+      "name": "ATM Cash Advance・Instant Money",
+      "developer": "ATM.com, Inc.",
+      "url": "https://apps.apple.com/us/app/id1507829573"
+    },
+    {
+      "id": "335186209",
+      "rank": 94,
+      "name": "Vanguard: Save, Invest, Retire",
+      "developer": "The Vanguard Group, Inc.",
+      "url": "https://apps.apple.com/us/app/id335186209"
+    },
+    {
+      "id": "649008868",
+      "rank": 95,
+      "name": "TransUnion®",
+      "developer": "TransUnion",
+      "url": "https://apps.apple.com/us/app/id649008868"
+    },
+    {
+      "id": "338010821",
+      "rank": 96,
+      "name": "Discover Mobile",
+      "developer": "Discover Financial Services",
+      "url": "https://apps.apple.com/us/app/id338010821"
+    },
+    {
+      "id": "468738585",
+      "rank": 97,
+      "name": "Fifth Third: 53 Mobile Banking",
+      "developer": "FifthThird Bank",
+      "url": "https://apps.apple.com/us/app/id468738585"
+    },
+    {
+      "id": "1628197245",
+      "rank": 98,
+      "name": "Ramp",
+      "developer": "Ramp Business Corporation",
+      "url": "https://apps.apple.com/us/app/id1628197245"
+    },
+    {
+      "id": "6448766645",
+      "rank": 99,
+      "name": "Parrot Finance: Easy Investing",
+      "developer": "Parrot Finance, Inc.",
+      "url": "https://apps.apple.com/us/app/id6448766645"
+    },
+    {
+      "id": "6448634850",
+      "rank": 100,
+      "name": "Split Pay: Split Bills in Two",
+      "developer": "Visible Ideas",
+      "url": "https://apps.apple.com/us/app/id6448634850"
+    }
+  ]
+}
