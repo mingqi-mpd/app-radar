@@ -11,6 +11,7 @@ keys = ('date', 'timezone', 'country', 'device', 'chart', 'rule', 'window_days',
         'unrecorded_history_days', 'complete', 'is_baseline', 'observed_count',
         'coverage', 'leads')
 public = {key: report[key] for key in keys}
+public['ratings_checked_at'] = report.get('ratings_checked_at')
 if not report['complete'] or report['is_baseline']:
     assert not public['leads']
 temp = root / 'dist/data.tmp'

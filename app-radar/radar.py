@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """US iPhone free category charts; standard-library-only daily snapshot collector."""
-import concurrent.futures
 import datetime as dt
-import fcntl
 import json
 from pathlib import Path
 import sys
@@ -52,6 +50,32 @@ def fetch(category, gid):
             if attempt < 2:
                 time.sleep(attempt + 1)
     raise RuntimeError(str(error))
+
+def lookup_ratings(app_ids, batch_size=100):
+    """Return {app_id: US App Store rating count} via Apple's public lookup API.
+
+    Missing IDs are omitted; a failed batch is skipped so ratings never block collection.
+    """
+    counts = {}
+    ids = sorted(set(app_ids))
+    for start in range(0, len(ids), batch_size):
+        batch = ids[start:start + batch_size]
+        url = f'https://itunes.apple.com/lookup?country=us&entity=software&id={",".join(batch)}'
+        for attempt in range(3):
+            try:
+                with urllib.request.urlopen(url, timeout=25) as response:
+                    raw = json.load(response)
+                for item in raw.get('results', []):
+                    app_id = str(item.get('trackId', ''))
+                    if app_id in batch:
+                        count = item.get('userRatingCount', 0)
+                        counts[app_id] = int(count) if isinstance(count, (int, float)) else 0
+                break
+            except Exception:
+                if attempt < 2:
+                    time.sleep(attempt + 1)
+    return counts
+
 
 def main():
     from rolling import run

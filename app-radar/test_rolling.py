@@ -7,7 +7,7 @@ from pathlib import Path
 import tempfile
 import unittest
 
-from rolling import fresh, advance, run, CATEGORIES, WINDOW_DAYS
+from rolling import fresh, advance, run, add_ratings, CATEGORIES, WINDOW_DAYS
 
 
 def charts(**overrides):
@@ -107,6 +107,42 @@ class RollingTests(unittest.TestCase):
             state = json.loads((root / 'rolling-state.json').read_text())
             self.assertIn('A', state['days'][str(day)]['ids'])
             self.assertFalse((root / 'annual-state.json').exists())
+
+    def test_rating_counts_are_attached_to_leads(self):
+        day = dt.date(2026, 9, 28)
+        state = advance(fresh(day), day, charts(), {})
+        state = advance(state, day + dt.timedelta(days=1), charts(Games=['B', 'C']), {})
+        add_ratings(state['latest'], lambda ids: {'B': 1234})
+        counts = {lead['id']: lead['rating_count'] for lead in state['latest']['leads']}
+        self.assertEqual(counts, {'B': 1234, 'C': None})
+
+    def test_rating_lookup_failure_does_not_break_collection(self):
+        def broken(ids):
+            raise RuntimeError('offline')
+        with tempfile.TemporaryDirectory() as tmp:
+            root, day = Path(tmp), dt.date(2026, 9, 28)
+            with contextlib.redirect_stdout(io.StringIO()):
+                run(root, day, lambda c, g: charts()[c], broken)
+                rc = run(root, day + dt.timedelta(days=1), lambda c, g: charts(Games=['B'])[c], broken)
+            self.assertEqual(rc, 0)
+            latest = json.loads((root / 'latest.json').read_text())
+            self.assertIsNone(latest['leads'][0]['rating_count'])
+
+    def test_same_day_rerun_backfills_missing_ratings(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root, day = Path(tmp), dt.date(2026, 9, 28)
+            with contextlib.redirect_stdout(io.StringIO()):
+                run(root, day, lambda c, g: charts()[c], lambda ids: {})
+                tomorrow = day + dt.timedelta(days=1)
+                run(root, tomorrow, lambda c, g: charts(Games=['B'])[c], lambda ids: {})
+                def no_fetch(c, g):
+                    raise AssertionError('charts must not be refetched')
+                run(root, tomorrow, no_fetch, lambda ids: {'B': 42})
+            latest = json.loads((root / 'latest.json').read_text())
+            state = json.loads((root / 'rolling-state.json').read_text())
+            self.assertEqual(latest['leads'][0]['rating_count'], 42)
+            self.assertEqual(state['latest']['leads'][0]['rating_count'], 42)
+            self.assertEqual(state['days'][str(tomorrow)]['ids'], ['B', 'known'])
 
 
 if __name__ == '__main__':

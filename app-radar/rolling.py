@@ -6,7 +6,7 @@ import json
 from pathlib import Path
 import shutil
 
-from radar import ROOT, CATEGORIES, TZ, fetch, atomic_json
+from radar import ROOT, CATEGORIES, TZ, fetch, atomic_json, lookup_ratings
 
 WINDOW_DAYS = 30
 
@@ -151,7 +151,23 @@ def advance(state, day, snapshots, errors):
     return state
 
 
-def run(root=ROOT, today=None, fetcher=fetch):
+def add_ratings(report, ratings_lookup):
+    """Attach the current US rating count to each lead; None means lookup unavailable."""
+    leads = report.get('leads') or []
+    if not leads:
+        return False
+    try:
+        counts = ratings_lookup([lead['id'] for lead in leads])
+    except Exception:
+        counts = {}
+    checked_at = dt.datetime.now(TZ).isoformat()
+    for lead in leads:
+        lead['rating_count'] = counts.get(lead['id'])
+    report['ratings_checked_at'] = checked_at
+    return True
+
+
+def run(root=ROOT, today=None, fetcher=fetch, ratings_lookup=lookup_ratings):
     root = Path(root)
     day = today or dt.datetime.now(TZ).date()
     root.mkdir(parents=True, exist_ok=True)
@@ -174,6 +190,10 @@ def run(root=ROOT, today=None, fetcher=fetch):
                 latest['baseline_date'] = state['baseline_date']
             atomic_json(state_path, state)
         if latest and latest['date'] == str(day) and latest['complete']:
+            # Backfill rating counts for a day collected before ratings existed or when lookup failed.
+            if any(lead.get('rating_count') is None for lead in latest.get('leads', [])):
+                if add_ratings(latest, ratings_lookup):
+                    atomic_json(state_path, state)
             atomic_json(root / 'latest.json', latest)
             print(json.dumps({'date': str(day), 'status': 'already_collected'}))
             return 0
@@ -192,6 +212,7 @@ def run(root=ROOT, today=None, fetcher=fetch):
             raise ValueError('Date changed during collection; rerun')
 
         state = advance(state, day, snapshots, errors)
+        add_ratings(state['latest'], ratings_lookup)
         cleanup_old_data(root, day)
         atomic_json(state_path, state)
         if migrated:
