@@ -1601,10 +1601,12 @@
       ]
     },
     "2026-09-30": {
-      "complete": false,
+      "complete": true,
       "ids": [
+        "1001257338",
         "1011085984",
         "1013961111",
+        "1031312446",
         "1034649547",
         "1038653883",
         "1044456188",
@@ -1615,10 +1617,14 @@
         "1054033219",
         "1054271011",
         "1054747306",
+        "1057771088",
         "1059629706",
+        "1064677082",
         "1065980436",
         "1077137248",
+        "1077366211",
         "1086013687",
+        "1087101090",
         "1089294040",
         "1091301948",
         "1091700242",
@@ -1629,12 +1635,17 @@
         "1099295160",
         "1101253705",
         "1103138272",
+        "1112719759",
+        "1115120118",
         "1116186798",
         "1116870834",
         "1123582513",
+        "1128712763",
         "1129523589",
+        "1130616675",
         "1134784923",
         "1136238277",
+        "1136397354",
         "1141119371",
         "1143409775",
         "1149449468",
@@ -1647,9 +1658,12 @@
         "1182474649",
         "1186906455",
         "1188830219",
+        "1191985736",
         "1193350206",
         "1193508329",
+        "1193801909",
         "1196434600",
+        "1205990992",
         "1207472156",
         "1215145992",
         "1216135390",
@@ -1657,8 +1671,10 @@
         "1218465964",
         "1219890480",
         "1223471316",
+        "1230221247",
         "1231524763",
         "1238611143",
+        "1241984225",
         "1243005112",
         "1247519638",
         "1248993106",
@@ -1670,6 +1686,7 @@
         "1266591536",
         "1273426583",
         "1274216319",
+        "1280992496",
         "1282966364",
         "1284609872",
         "1285713171",
@@ -1684,6 +1701,7 @@
         "1317978215",
         "1320338088",
         "1336642410",
+        "1341884073",
         "1342386997",
         "1342522622",
         "1350301428",
@@ -1693,19 +1711,27 @@
         "1367363988",
         "1367950045",
         "1375031369",
+        "1380384597",
         "1386235320",
         "1389111413",
+        "1395667279",
         "1395696823",
+        "1398046228",
+        "1399085077",
         "1401019110",
         "1402595440",
         "1403367428",
         "1404165333",
+        "1409169287",
         "1411869974",
         "1413099571",
+        "1413346006",
         "1413721906",
         "1416710083",
+        "1421276642",
         "1423046460",
         "1423538627",
+        "1425045070",
         "1430875409",
         "1434890245",
         "1434922495",
@@ -1719,7 +1745,9 @@
         "1446075923",
         "1446254576",
         "1447215452",
+        "1447274646",
         "1447849626",
+        "1450304211",
         "1450640824",
         "1451098141",
         "1452164827",
@@ -1727,7 +1755,9 @@
         "1455336523",
         "1456559188",
         "1457468797",
+        "1458274896",
         "1458740001",
+        "1459319842",
         "1459645446",
         "1460077113",
         "1462060332",
@@ -1735,6 +1765,7 @@
         "1469627109",
         "1470168868",
         "1470499037",
+        "1471211372",
         "1472419762",
         "1473774730",
         "1475514684",
@@ -1742,6 +1773,7 @@
         "1477248221",
         "1477775889",
         "1478573199",
+        "1478804271",
         "1478870872",
         "1481469888",
         "1482155847",
@@ -1752,6 +1784,8 @@
         "1488957920",
         "1489084813",
         "1489145500",
+        "1492670702",
+        "1494523953",
         "1495294584",
         "1498407272",
         "1499137942",
@@ -1759,14 +1793,17 @@
         "1503251395",
         "1503741784",
         "1506229470",
+        "1507829573",
         "1507917112",
         "1508186374",
         "1509651625",
         "1510944943",
+        "1511043796",
         "1514546162",
         "1514665962",
         "1516235668",
         "1517062289",
+        "1517676784",
         "1517896435",
         "1521236603",
         "1521523140",
@@ -1774,6 +1811,7 @@
         "1522266397",
         "1522405338",
         "1523820531",
+        "1525159784",
         "1527063669",
         "1531467766",
         "1533833273",
@@ -1793,6 +1831,7 @@
         "1556279241",
         "1556928106",
         "1562817072",
+        "1565576987",
         "1567396557",
         "1570396662",
         "1571429529",
@@ -1806,6 +1845,7 @@
         "1581765635",
         "1583884012",
         "1587785671",
+        "1588301749",
         "1590163866",
         "1590852096",
         "1591887467",
@@ -1814,6 +1854,7 @@
         "1593515263",
         "1594248922",
         "1595314851",
+        "1600495551",
         "1600525061",
         "1602061522",
         "1602508478",
@@ -1824,14 +1865,17 @@
         "1616691213",
         "1616738407",
         "1617391485",
+        "1617487581",
         "1619030760",
         "1621328561",
         "1623318294",
         "1625553531",
         "1625671285",
+        "1628197245",
         "1630403500",
         "1631584032",
         "1632626653",
+        "1632713844",
         "1635215598",
         "1635246793",
         "1635357259",
@@ -1847,22 +1891,29 @@
         "1671705818",
         "1673567402",
         "282614216",
+        "283646709",
         "284815942",
+        "284847138",
         "284882215",
         "285692706",
         "294056623",
         "297430070",
         "297606951",
+        "298867247",
         "300704847",
+        "301724680",
+        "303113127",
         "305343404",
         "305939712",
         "307184892",
         "309172177",
         "310633997",
+        "311548709",
         "314487667",
         "314716233",
         "314855255",
         "317469184",
+        "318142137",
         "319881193",
         "320029256",
         "322664011",
@@ -1870,22 +1921,31 @@
         "328415391",
         "329218549",
         "329913454",
+        "331763096",
+        "335186209",
         "335364882",
         "336860594",
+        "338010821",
         "338137227",
         "341036067",
         "342527639",
         "342792281",
         "342792525",
+        "348177453",
+        "349731802",
+        "351727428",
         "352683833",
         "353263352",
         "353665650",
         "354604876",
         "357218860",
         "359478823",
+        "362348516",
         "363590051",
+        "364376344",
         "366562751",
         "370339723",
+        "370811491",
         "372648912",
         "375990038",
         "376510438",
@@ -1902,16 +1962,23 @@
         "392796698",
         "393048976",
         "393328150",
+        "397404511",
         "397648381",
         "399355755",
         "403901186",
         "406889139",
+        "407358186",
+        "407558537",
         "410896080",
         "411930498",
         "412223222",
+        "413251709",
+        "414113282",
         "414478124",
         "416023011",
         "420455839",
+        "424716908",
+        "425199399",
         "429396645",
         "431946152",
         "435965836",
@@ -1923,6 +1990,8 @@
         "448142450",
         "454638411",
         "457954781",
+        "458023433",
+        "458734623",
         "465092669",
         "467738064",
         "468996152",
@@ -1949,8 +2018,10 @@
         "509199715",
         "512939461",
         "513135722",
+        "514374715",
         "514485964",
         "518684914",
+        "519817714",
         "521487551",
         "529996768",
         "530168168",
@@ -1978,10 +2049,13 @@
         "586745548",
         "596402997",
         "599496594",
+        "612261027",
         "630687854",
         "632064380",
         "638689075",
+        "640179084",
         "641992398",
+        "642959434",
         "6443575749",
         "6443850511",
         "6443877058",
@@ -2006,16 +2080,20 @@
         "6447609470",
         "6448163027",
         "6448176203",
+        "6448634850",
         "6449094229",
         "6449098724",
         "6449190344",
         "6449206831",
+        "6449258739",
         "6449822109",
         "6450413462",
         "6450443248",
         "6450462443",
+        "6450968733",
         "6451097052",
         "6458692724",
+        "6462308655",
         "6463805689",
         "6464002625",
         "6465895541",
@@ -2031,6 +2109,7 @@
         "6471257645",
         "6471519217",
         "6472232952",
+        "6472350114",
         "6473803892",
         "6474010687",
         "6474133872",
@@ -2044,10 +2123,12 @@
         "6480077263",
         "6482849843",
         "6483539426",
+        "649008868",
         "6498920694",
         "6499209744",
         "6501954960",
         "6502377927",
+        "6502468755",
         "6502530085",
         "6503272013",
         "6503697761",
@@ -2069,6 +2150,7 @@
         "6615077767",
         "6633429068",
         "663592361",
+        "6648798962",
         "6670211183",
         "6670251421",
         "6670321276",
@@ -2085,19 +2167,23 @@
         "6738081517",
         "6738114176",
         "6739069151",
+        "6739215932",
         "6739352969",
         "6739435062",
         "6739554056",
         "6739792763",
+        "6739891028",
         "6740692268",
         "6740766965",
         "6741076536",
+        "6741115427",
         "6741739063",
         "6741796873",
         "6741834253",
         "6742016186",
         "6742024490",
         "6742409028",
+        "674258465",
         "6742809194",
         "6744304405",
         "6744975195",
@@ -2126,6 +2212,7 @@
         "6751056652",
         "6751101794",
         "6751143764",
+        "6751549725",
         "6751794501",
         "6751832231",
         "6751921248",
@@ -2184,6 +2271,7 @@
         "6759098797",
         "6759112783",
         "6759412341",
+        "6759454662",
         "6759763476",
         "6760133687",
         "6760325543",
@@ -2206,7 +2294,9 @@
         "6762268182",
         "6762740816",
         "6763306820",
+        "6764022479",
         "6767091927",
+        "6767364919",
         "6767523015",
         "6767838493",
         "6768202244",
@@ -2225,6 +2315,7 @@
         "6773175514",
         "6778658101",
         "6779167923",
+        "6779553876",
         "6780195090",
         "6780891673",
         "6783769467",
@@ -2249,9 +2340,11 @@
         "6810794865",
         "686449807",
         "710535379",
+        "711923939",
         "712661687",
         "718582092",
         "719525810",
+        "723815926",
         "736179781",
         "741292507",
         "746894884",
@@ -2264,12 +2357,15 @@
         "814517475",
         "834465911",
         "835599320",
+        "836215269",
         "836767708",
         "845555232",
         "853330019",
         "874139669",
         "878577184",
         "881599819",
+        "883324671",
+        "886427730",
         "886445756",
         "886492891",
         "892700751",
@@ -2281,7 +2377,10 @@
         "907226423",
         "912561374",
         "920098546",
+        "932493382",
         "936971630",
+        "938003185",
+        "942571931",
         "942608209",
         "945077360",
         "945621521",
@@ -2315,47 +2414,647 @@
     "complete_history_days": 2,
     "incomplete_history_dates": [],
     "unrecorded_history_days": 28,
-    "complete": false,
+    "complete": true,
     "is_baseline": false,
-    "observed_count": 692,
-    "leads": [],
-    "errors": {
-      "Finance": "Expected exactly 100 unique apps"
-    },
+    "observed_count": 791,
+    "leads": [
+      {
+        "id": "6444538603",
+        "rank": 85,
+        "name": "Benjamin - Earn Money Moments",
+        "developer": "Benjamin Capital Partners Inc",
+        "url": "https://apps.apple.com/us/app/id6444538603",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Shopping",
+            "rank": 85
+          }
+        ],
+        "rating_count": 83963
+      },
+      {
+        "id": "6446096312",
+        "rank": 86,
+        "name": "Locker | Shopping Wishlist",
+        "developer": "Locker 2.0, Inc.",
+        "url": "https://apps.apple.com/us/app/id6446096312",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Shopping",
+            "rank": 86
+          }
+        ],
+        "rating_count": 1978
+      },
+      {
+        "id": "1196434600",
+        "rank": 90,
+        "name": "Family Dollar",
+        "developer": "Family Dollar",
+        "url": "https://apps.apple.com/us/app/id1196434600",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Shopping",
+            "rank": 90
+          }
+        ],
+        "rating_count": 655211
+      },
+      {
+        "id": "1451098141",
+        "rank": 92,
+        "name": "Lulus",
+        "developer": "Lulus",
+        "url": "https://apps.apple.com/us/app/id1451098141",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Shopping",
+            "rank": 92
+          }
+        ],
+        "rating_count": 58555
+      },
+      {
+        "id": "1495294584",
+        "rank": 94,
+        "name": "Ace Hardware: Home Improvement",
+        "developer": "Ace Hardware Corporation",
+        "url": "https://apps.apple.com/us/app/id1495294584",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Shopping",
+            "rank": 94
+          }
+        ],
+        "rating_count": 405400
+      },
+      {
+        "id": "1386235320",
+        "rank": 98,
+        "name": "Murphy Drive Rewards",
+        "developer": "Murphy USA",
+        "url": "https://apps.apple.com/us/app/id1386235320",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Shopping",
+            "rank": 98
+          }
+        ],
+        "rating_count": 534569
+      },
+      {
+        "id": "6739891028",
+        "rank": 98,
+        "name": "Candles - Trade Everything",
+        "developer": "Candle Holdings Inc.",
+        "url": "https://apps.apple.com/us/app/id6739891028",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Finance",
+            "rank": 98
+          }
+        ],
+        "rating_count": 82
+      },
+      {
+        "id": "6753068150",
+        "rank": 98,
+        "name": "Cash Wild - Spin to Win",
+        "developer": "Zentorapps",
+        "url": "https://apps.apple.com/us/app/id6753068150",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Casino",
+            "rank": 98
+          }
+        ],
+        "rating_count": 12575
+      },
+      {
+        "id": "6755989821",
+        "rank": 99,
+        "name": "Fortunate Arcane pop",
+        "developer": "Tengcheng Games",
+        "url": "https://apps.apple.com/us/app/id6755989821",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Casino",
+            "rank": 99
+          }
+        ],
+        "rating_count": 1640
+      },
+      {
+        "id": "6757809616",
+        "rank": 39,
+        "name": "Winter Burrow",
+        "developer": "Noodlecake",
+        "url": "https://apps.apple.com/us/app/id6757809616",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Games",
+            "rank": 39
+          }
+        ],
+        "rating_count": 0
+      },
+      {
+        "id": "6747028173",
+        "rank": 78,
+        "name": "Hole Stars: Puzzle Game",
+        "developer": "Moon Active",
+        "url": "https://apps.apple.com/us/app/id6747028173",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Games",
+            "rank": 78
+          }
+        ],
+        "rating_count": 30235
+      },
+      {
+        "id": "1664415775",
+        "rank": 85,
+        "name": "Royal Cooking",
+        "developer": "Matryoshka Games (CY) LTD",
+        "url": "https://apps.apple.com/us/app/id1664415775",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Games",
+            "rank": 85
+          }
+        ],
+        "rating_count": 177746
+      },
+      {
+        "id": "6797530374",
+        "rank": 94,
+        "name": "Jam Bus:Sandfall",
+        "developer": "Nova Games Technology Limited",
+        "url": "https://apps.apple.com/us/app/id6797530374",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Games",
+            "rank": 94
+          }
+        ],
+        "rating_count": 395
+      },
+      {
+        "id": "6475757306",
+        "rank": 95,
+        "name": "Disney Solitaire",
+        "developer": "SuperPlay",
+        "url": "https://apps.apple.com/us/app/id6475757306",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Games",
+            "rank": 95
+          }
+        ],
+        "rating_count": 713201
+      },
+      {
+        "id": "1521236603",
+        "rank": 99,
+        "name": "Travel Town - Merge Adventure",
+        "developer": "Moon Active",
+        "url": "https://apps.apple.com/us/app/id1521236603",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Games",
+            "rank": 99
+          }
+        ],
+        "rating_count": 188110
+      },
+      {
+        "id": "1635760774",
+        "rank": 100,
+        "name": "My Perfect Hotel",
+        "developer": "SayGames LTD",
+        "url": "https://apps.apple.com/us/app/id1635760774",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Games",
+            "rank": 100
+          }
+        ],
+        "rating_count": 703623
+      },
+      {
+        "id": "465092669",
+        "rank": 40,
+        "name": "NHL",
+        "developer": "NHL Interactive Cyberenterprises, LLC",
+        "url": "https://apps.apple.com/us/app/id465092669",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Sports",
+            "rank": 40
+          }
+        ],
+        "rating_count": 134699
+      },
+      {
+        "id": "376791387",
+        "rank": 58,
+        "name": "TV Azteca Deportes",
+        "developer": "Azteca Web, S.A. de C.V.",
+        "url": "https://apps.apple.com/us/app/id376791387",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Sports",
+            "rank": 58
+          }
+        ],
+        "rating_count": 4294
+      },
+      {
+        "id": "571801488",
+        "rank": 72,
+        "name": "365Scores: Live Sports Scores",
+        "developer": "365Scores",
+        "url": "https://apps.apple.com/us/app/id571801488",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Sports",
+            "rank": 72
+          }
+        ],
+        "rating_count": 116354
+      },
+      {
+        "id": "1517896435",
+        "rank": 79,
+        "name": "SoFi Stadium",
+        "developer": "Hollywood Park Management LLC",
+        "url": "https://apps.apple.com/us/app/id1517896435",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Sports",
+            "rank": 79
+          }
+        ],
+        "rating_count": 1745
+      },
+      {
+        "id": "6784669618",
+        "rank": 82,
+        "name": "Nova Soccer Live Hub",
+        "developer": "SEBASTIAN COOPER",
+        "url": "https://apps.apple.com/us/app/id6784669618",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Sports",
+            "rank": 82
+          }
+        ],
+        "rating_count": 68
+      },
+      {
+        "id": "6799588005",
+        "rank": 87,
+        "name": "Flock Fantasy",
+        "developer": "Flock Fantasy",
+        "url": "https://apps.apple.com/us/app/id6799588005",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Sports",
+            "rank": 87
+          }
+        ],
+        "rating_count": 191
+      },
+      {
+        "id": "6810794865",
+        "rank": 96,
+        "name": "Wineglass Racing App",
+        "developer": "Dilltree Inc",
+        "url": "https://apps.apple.com/us/app/id6810794865",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Sports",
+            "rank": 96
+          }
+        ],
+        "rating_count": 0
+      },
+      {
+        "id": "1416710083",
+        "rank": 98,
+        "name": "Byga",
+        "developer": "Byga, Inc.",
+        "url": "https://apps.apple.com/us/app/id1416710083",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Sports",
+            "rank": 98
+          }
+        ],
+        "rating_count": 29604
+      },
+      {
+        "id": "777875529",
+        "rank": 35,
+        "name": "Verizon Call Filter",
+        "developer": "Verizon Wireless",
+        "url": "https://apps.apple.com/us/app/id777875529",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Utilities",
+            "rank": 35
+          }
+        ],
+        "rating_count": 329344
+      },
+      {
+        "id": "6758365838",
+        "rank": 71,
+        "name": "Smooth Translate",
+        "developer": "L3S ARIEL LIMITED",
+        "url": "https://apps.apple.com/us/app/id6758365838",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Utilities",
+            "rank": 71
+          }
+        ],
+        "rating_count": 364
+      },
+      {
+        "id": "354604876",
+        "rank": 72,
+        "name": "Travelers Mobile",
+        "developer": "The Travelers Indemnity Company",
+        "url": "https://apps.apple.com/us/app/id354604876",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Utilities",
+            "rank": 72
+          }
+        ],
+        "rating_count": 128463
+      },
+      {
+        "id": "1091700242",
+        "rank": 80,
+        "name": "Gboard – the Google Keyboard",
+        "developer": "Google",
+        "url": "https://apps.apple.com/us/app/id1091700242",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Utilities",
+            "rank": 80
+          }
+        ],
+        "rating_count": 60055
+      },
+      {
+        "id": "6761452136",
+        "rank": 89,
+        "name": "Cast To TV Screen Mirror",
+        "developer": "Heer Patel",
+        "url": "https://apps.apple.com/us/app/id6761452136",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Utilities",
+            "rank": 89
+          }
+        ],
+        "rating_count": 2
+      },
+      {
+        "id": "1602061522",
+        "rank": 96,
+        "name": "Authenticator ·",
+        "developer": "SMM service, s.r.o.",
+        "url": "https://apps.apple.com/us/app/id1602061522",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Utilities",
+            "rank": 96
+          }
+        ],
+        "rating_count": 26335
+      },
+      {
+        "id": "1315586892",
+        "rank": 53,
+        "name": "stc tv",
+        "developer": "STC",
+        "url": "https://apps.apple.com/us/app/id1315586892",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Entertainment",
+            "rank": 53
+          }
+        ],
+        "rating_count": 14166
+      },
+      {
+        "id": "491730359",
+        "rank": 72,
+        "name": "The CW",
+        "developer": "The CW Network",
+        "url": "https://apps.apple.com/us/app/id491730359",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Entertainment",
+            "rank": 72
+          }
+        ],
+        "rating_count": 21718
+      },
+      {
+        "id": "6761247061",
+        "rank": 85,
+        "name": "OOC: The Playable Anime",
+        "developer": "New AI Entertainment Inc.",
+        "url": "https://apps.apple.com/us/app/id6761247061",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Entertainment",
+            "rank": 85
+          }
+        ],
+        "rating_count": 6652
+      },
+      {
+        "id": "6757374961",
+        "rank": 91,
+        "name": "DramaLocal",
+        "developer": "SiHai",
+        "url": "https://apps.apple.com/us/app/id6757374961",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Entertainment",
+            "rank": 91
+          }
+        ],
+        "rating_count": 203
+      },
+      {
+        "id": "6465895541",
+        "rank": 95,
+        "name": "JoyReels - Enjoy Short Dramas",
+        "developer": "UREELS PTE.LTD.",
+        "url": "https://apps.apple.com/us/app/id6465895541",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Entertainment",
+            "rank": 95
+          }
+        ],
+        "rating_count": 13625
+      },
+      {
+        "id": "1544750895",
+        "rank": 99,
+        "name": "CHAI: Social AI Platform- Chat",
+        "developer": "Chai Research Corp.",
+        "url": "https://apps.apple.com/us/app/id1544750895",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Entertainment",
+            "rank": 99
+          }
+        ],
+        "rating_count": 282490
+      },
+      {
+        "id": "6768202244",
+        "rank": 88,
+        "name": "Novagram Messenger Telegram",
+        "developer": "VipAds",
+        "url": "https://apps.apple.com/us/app/id6768202244",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Social Networking",
+            "rank": 88
+          }
+        ],
+        "rating_count": 17
+      },
+      {
+        "id": "1249825694",
+        "rank": 96,
+        "name": "Numero eSIM: USA Number & More",
+        "developer": "Smarteletec S.L.",
+        "url": "https://apps.apple.com/us/app/id1249825694",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Social Networking",
+            "rank": 96
+          }
+        ],
+        "rating_count": 4425
+      },
+      {
+        "id": "1274216319",
+        "rank": 97,
+        "name": "Second Texting Number",
+        "developer": "Torqued Studios LLC",
+        "url": "https://apps.apple.com/us/app/id1274216319",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Social Networking",
+            "rank": 97
+          }
+        ],
+        "rating_count": 65622
+      },
+      {
+        "id": "6751143764",
+        "rank": 98,
+        "name": "CountIt: Beer & Drink Tracker",
+        "developer": "FORB LABS SL",
+        "url": "https://apps.apple.com/us/app/id6751143764",
+        "first_seen": "2026-09-30",
+        "charts": [
+          {
+            "category": "Social Networking",
+            "rank": 98
+          }
+        ],
+        "rating_count": 128
+      }
+    ],
+    "errors": {},
     "coverage": {
       "Games": {
-        "ready": false,
+        "ready": true,
         "current_available": true
       },
       "Finance": {
-        "ready": false,
-        "current_available": false
+        "ready": true,
+        "current_available": true
       },
       "Shopping": {
-        "ready": false,
+        "ready": true,
         "current_available": true
       },
       "Casino": {
-        "ready": false,
+        "ready": true,
         "current_available": true
       },
       "Sports": {
-        "ready": false,
+        "ready": true,
         "current_available": true
       },
       "Social Networking": {
-        "ready": false,
+        "ready": true,
         "current_available": true
       },
       "Utilities": {
-        "ready": false,
+        "ready": true,
         "current_available": true
       },
       "Entertainment": {
-        "ready": false,
+        "ready": true,
         "current_available": true
       }
-    }
+    },
+    "ratings_checked_at": "2026-09-30T09:29:12.138763+02:00"
   },
   "baseline_date": "2026-09-28"
 }
