@@ -9,6 +9,7 @@ import shutil
 from radar import ROOT, CATEGORIES, TZ, fetch, atomic_json, lookup_ratings
 
 WINDOW_DAYS = 30
+HISTORY_DAYS = 7  # daily lead lists kept for the website
 
 
 def fresh(day):
@@ -151,6 +152,22 @@ def advance(state, day, snapshots, errors):
     return state
 
 
+def save_history(root, report):
+    """Keep each day's published report (leads only, no raw charts) for the last HISTORY_DAYS days."""
+    folder = root / 'history'
+    folder.mkdir(exist_ok=True)
+    day = dt.date.fromisoformat(report['date'])
+    atomic_json(folder / f'{day}.json', report)
+    cutoff = day - dt.timedelta(days=HISTORY_DAYS - 1)
+    for path in folder.glob('*.json'):
+        try:
+            stored = dt.date.fromisoformat(path.stem)
+        except ValueError:
+            continue
+        if path.stem == str(stored) and stored < cutoff:
+            path.unlink()
+
+
 def add_ratings(report, ratings_lookup):
     """Attach the current US rating count to each lead; None means lookup unavailable."""
     leads = report.get('leads') or []
@@ -195,6 +212,7 @@ def run(root=ROOT, today=None, fetcher=fetch, ratings_lookup=lookup_ratings):
                 if add_ratings(latest, ratings_lookup):
                     atomic_json(state_path, state)
             atomic_json(root / 'latest.json', latest)
+            save_history(root, latest)
             print(json.dumps({'date': str(day), 'status': 'already_collected'}))
             return 0
 
@@ -219,6 +237,7 @@ def run(root=ROOT, today=None, fetcher=fetch, ratings_lookup=lookup_ratings):
             (root / 'annual-state.json').unlink(missing_ok=True)
         report = state['latest']
         atomic_json(root / 'latest.json', report)
+        save_history(root, report)
         (root / '今日榜单.md').write_text(
             f'# App Radar · {day}\n\nRolling {WINDOW_DAYS}-day absence across all eight categories.\n\n'
             f'Complete: {report["complete"]}. History days: {report["history_days"]}. '

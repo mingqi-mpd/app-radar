@@ -145,6 +145,19 @@ class RollingTests(unittest.TestCase):
             self.assertEqual(state['days'][str(tomorrow)]['ids'], ['B', 'known'])
 
 
+    def test_history_keeps_last_seven_daily_reports(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            root, day = Path(tmp), dt.date(2026, 9, 28)
+            with contextlib.redirect_stdout(io.StringIO()):
+                for offset in range(10):
+                    run(root, day + dt.timedelta(days=offset),
+                        lambda c, g, o=offset: charts(Games=[f'N{o}'])[c], lambda ids: {})
+            files = sorted(p.stem for p in (root / 'history').glob('*.json'))
+            self.assertEqual(files, [str(day + dt.timedelta(days=o)) for o in range(3, 10)])
+            report = json.loads((root / 'history' / '2026-10-03.json').read_text())
+            self.assertEqual([lead['id'] for lead in report['leads']], ['N5'])
+
+
 class FeedTests(unittest.TestCase):
     NOW = dt.datetime(2026, 9, 30, 8, tzinfo=dt.timezone.utc)
 
