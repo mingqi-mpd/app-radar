@@ -1,0 +1,824 @@
+{
+  "date": "2026-09-29",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-08-30",
+  "comparison_to": "2026-09-28",
+  "retained_from": "2026-08-31",
+  "history_days": 1,
+  "complete_history_days": 1,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 29,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 793,
+  "leads": [
+    {
+      "id": "806393795",
+      "rank": 98,
+      "name": "Gold Fish Casino Slots Games",
+      "developer": "Phantom EFX, Inc.",
+      "url": "https://apps.apple.com/us/app/id806393795",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 98
+        }
+      ],
+      "rating_count": 387813
+    },
+    {
+      "id": "1360098321",
+      "rank": 99,
+      "name": "Solitaire Card Games ·",
+      "developer": "Solitaire Games Free",
+      "url": "https://apps.apple.com/us/app/id1360098321",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 99
+        }
+      ],
+      "rating_count": 393458
+    },
+    {
+      "id": "6739215932",
+      "rank": 49,
+      "name": "Dollarwise: Budget & Tracking",
+      "developer": "Hammer Media LLC",
+      "url": "https://apps.apple.com/us/app/id6739215932",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 49
+        }
+      ],
+      "rating_count": 3897
+    },
+    {
+      "id": "6449258739",
+      "rank": 82,
+      "name": "Concora Credit",
+      "developer": "CONCORA CREDIT INC.",
+      "url": "https://apps.apple.com/us/app/id6449258739",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 82
+        }
+      ],
+      "rating_count": 1500
+    },
+    {
+      "id": "303113127",
+      "rank": 86,
+      "name": "PNC Mobile Banking",
+      "developer": "PNC Bank, N.A.",
+      "url": "https://apps.apple.com/us/app/id303113127",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 86
+        }
+      ],
+      "rating_count": 2049179
+    },
+    {
+      "id": "1031312446",
+      "rank": 90,
+      "name": "CareCredit Mobile",
+      "developer": "Synchrony Financial",
+      "url": "https://apps.apple.com/us/app/id1031312446",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 90
+        }
+      ],
+      "rating_count": 64594
+    },
+    {
+      "id": "1398046228",
+      "rank": 92,
+      "name": "ebtEDGE",
+      "developer": "FIS",
+      "url": "https://apps.apple.com/us/app/id1398046228",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 92
+        }
+      ],
+      "rating_count": 4575
+    },
+    {
+      "id": "649008868",
+      "rank": 94,
+      "name": "TransUnion®",
+      "developer": "TransUnion",
+      "url": "https://apps.apple.com/us/app/id649008868",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 94
+        }
+      ],
+      "rating_count": 38799
+    },
+    {
+      "id": "335186209",
+      "rank": 95,
+      "name": "Vanguard: Save, Invest, Retire",
+      "developer": "The Vanguard Group, Inc.",
+      "url": "https://apps.apple.com/us/app/id335186209",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 95
+        }
+      ],
+      "rating_count": 177485
+    },
+    {
+      "id": "6759454662",
+      "rank": 97,
+      "name": "Cherry: The Smarter Way to Pay",
+      "developer": "Cherry Technologies, Inc.",
+      "url": "https://apps.apple.com/us/app/id6759454662",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 97
+        }
+      ],
+      "rating_count": 311
+    },
+    {
+      "id": "1628197245",
+      "rank": 98,
+      "name": "Ramp",
+      "developer": "Ramp Business Corporation",
+      "url": "https://apps.apple.com/us/app/id1628197245",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 98
+        }
+      ],
+      "rating_count": 45913
+    },
+    {
+      "id": "312325565",
+      "rank": 99,
+      "name": "USAA Mobile",
+      "developer": "USAA",
+      "url": "https://apps.apple.com/us/app/id312325565",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 99
+        }
+      ],
+      "rating_count": 2343653
+    },
+    {
+      "id": "1460077113",
+      "rank": 93,
+      "name": "Coupert: Coupons & Cash Back",
+      "developer": "Coupert Science LLC",
+      "url": "https://apps.apple.com/us/app/id1460077113",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 93
+        }
+      ],
+      "rating_count": 24961
+    },
+    {
+      "id": "535562583",
+      "rank": 94,
+      "name": "Hobby Lobby",
+      "developer": "Hobby Lobby Stores, Inc.",
+      "url": "https://apps.apple.com/us/app/id535562583",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 94
+        }
+      ],
+      "rating_count": 1870
+    },
+    {
+      "id": "484385600",
+      "rank": 33,
+      "name": "Chicago Bears Official App",
+      "developer": "Chicago Bears Football Club, Inc.",
+      "url": "https://apps.apple.com/us/app/id484385600",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 33
+        }
+      ],
+      "rating_count": 109007
+    },
+    {
+      "id": "6473803892",
+      "rank": 48,
+      "name": "Snap! Mobile",
+      "developer": "Snap! Mobile, Inc.",
+      "url": "https://apps.apple.com/us/app/id6473803892",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 48
+        }
+      ],
+      "rating_count": 217
+    },
+    {
+      "id": "6742016186",
+      "rank": 68,
+      "name": "TW 2.0",
+      "developer": "Teamworks Innovations Inc",
+      "url": "https://apps.apple.com/us/app/id6742016186",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 68
+        }
+      ],
+      "rating_count": 47
+    },
+    {
+      "id": "6801197851",
+      "rank": 69,
+      "name": "New Ryan Field",
+      "developer": "Northwestern University",
+      "url": "https://apps.apple.com/us/app/id6801197851",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 69
+        }
+      ],
+      "rating_count": 25
+    },
+    {
+      "id": "1259009536",
+      "rank": 82,
+      "name": "IMLeagues",
+      "developer": "IMLeagues, LLC",
+      "url": "https://apps.apple.com/us/app/id1259009536",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 82
+        }
+      ],
+      "rating_count": 9838
+    },
+    {
+      "id": "1590163866",
+      "rank": 83,
+      "name": "Fusion Play",
+      "developer": "InnoSoft Canada Inc.",
+      "url": "https://apps.apple.com/us/app/id1590163866",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 83
+        }
+      ],
+      "rating_count": 9
+    },
+    {
+      "id": "461526519",
+      "rank": 89,
+      "name": "Philadelphia Eagles",
+      "developer": "Philadelphia Eagles",
+      "url": "https://apps.apple.com/us/app/id461526519",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 89
+        }
+      ],
+      "rating_count": 73704
+    },
+    {
+      "id": "755596884",
+      "rank": 92,
+      "name": "Spond",
+      "developer": "SPOND AS",
+      "url": "https://apps.apple.com/us/app/id755596884",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 92
+        }
+      ],
+      "rating_count": 3629
+    },
+    {
+      "id": "6504584166",
+      "rank": 93,
+      "name": "ProphetX Prediction Market",
+      "developer": "ProphetX OpCo LLC",
+      "url": "https://apps.apple.com/us/app/id6504584166",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 93
+        }
+      ],
+      "rating_count": 3359
+    },
+    {
+      "id": "6446815936",
+      "rank": 94,
+      "name": "DubClub",
+      "developer": "DubClub",
+      "url": "https://apps.apple.com/us/app/id6446815936",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 94
+        }
+      ],
+      "rating_count": 767
+    },
+    {
+      "id": "6449098724",
+      "rank": 95,
+      "name": "Hudl Fan: Find. Watch. Follow.",
+      "developer": "Agile Sports Technologies, Inc.",
+      "url": "https://apps.apple.com/us/app/id6449098724",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 95
+        }
+      ],
+      "rating_count": 288
+    },
+    {
+      "id": "6741739063",
+      "rank": 96,
+      "name": "Twin Cities In Motion",
+      "developer": "Twin Cities In Motion",
+      "url": "https://apps.apple.com/us/app/id6741739063",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 96
+        }
+      ],
+      "rating_count": 6
+    },
+    {
+      "id": "411930498",
+      "rank": 97,
+      "name": "GolfNow Book TeeTimes Golf GPS",
+      "developer": "GolfNow.com",
+      "url": "https://apps.apple.com/us/app/id411930498",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 97
+        }
+      ],
+      "rating_count": 111452
+    },
+    {
+      "id": "6753156888",
+      "rank": 76,
+      "name": "Vlogit: Vlogs With Friends",
+      "developer": "Vlogit",
+      "url": "https://apps.apple.com/us/app/id6753156888",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 76
+        }
+      ],
+      "rating_count": 3063
+    },
+    {
+      "id": "912561374",
+      "rank": 84,
+      "name": "Marco Polo - Video Messenger",
+      "developer": "Joya Communications",
+      "url": "https://apps.apple.com/us/app/id912561374",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 84
+        }
+      ],
+      "rating_count": 2161014
+    },
+    {
+      "id": "6746680855",
+      "rank": 93,
+      "name": "Roost Social",
+      "developer": "Logan Mendelsohn",
+      "url": "https://apps.apple.com/us/app/id6746680855",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 93
+        }
+      ],
+      "rating_count": 2219
+    },
+    {
+      "id": "586745548",
+      "rank": 96,
+      "name": "BOSS Revolution: Call & Top up",
+      "developer": "Boss Revolution",
+      "url": "https://apps.apple.com/us/app/id586745548",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 96
+        }
+      ],
+      "rating_count": 277506
+    },
+    {
+      "id": "359478823",
+      "rank": 98,
+      "name": "Ashley Madison Discreet Dating",
+      "developer": "Ruby Life Inc.",
+      "url": "https://apps.apple.com/us/app/id359478823",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 98
+        }
+      ],
+      "rating_count": 78287
+    },
+    {
+      "id": "6749676612",
+      "rank": 100,
+      "name": "Track Followers Unfollowers",
+      "developer": "PRIME CONSTRUCTION SH.P.K.",
+      "url": "https://apps.apple.com/us/app/id6749676612",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 100
+        }
+      ],
+      "rating_count": 225
+    },
+    {
+      "id": "6739069151",
+      "rank": 74,
+      "name": "Crossword Go!",
+      "developer": "PlaySimple Games Pte Ltd",
+      "url": "https://apps.apple.com/us/app/id6739069151",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 74
+        }
+      ],
+      "rating_count": 81566
+    },
+    {
+      "id": "6754014472",
+      "rank": 88,
+      "name": "Double Tile!",
+      "developer": "Hungry Studio",
+      "url": "https://apps.apple.com/us/app/id6754014472",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 88
+        }
+      ],
+      "rating_count": 73176
+    },
+    {
+      "id": "6747810901",
+      "rank": 98,
+      "name": "Word Connect Association",
+      "developer": "PlaySimple Games Pte Ltd",
+      "url": "https://apps.apple.com/us/app/id6747810901",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 98
+        }
+      ],
+      "rating_count": 35926
+    },
+    {
+      "id": "1207472156",
+      "rank": 99,
+      "name": "Wordscapes - Word Game",
+      "developer": "PeopleFun, Inc.",
+      "url": "https://apps.apple.com/us/app/id1207472156",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 99
+        }
+      ],
+      "rating_count": 1134260
+    },
+    {
+      "id": "6754301136",
+      "rank": 64,
+      "name": "Swerve: AI Chat & Stories",
+      "developer": "MSPW Labs, Inc.",
+      "url": "https://apps.apple.com/us/app/id6754301136",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 64
+        }
+      ],
+      "rating_count": 29964
+    },
+    {
+      "id": "1671705818",
+      "rank": 81,
+      "name": "Character AI: Chat, Talk, Text",
+      "developer": "Character.AI",
+      "url": "https://apps.apple.com/us/app/id1671705818",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 81
+        }
+      ],
+      "rating_count": 558908
+    },
+    {
+      "id": "6475064170",
+      "rank": 88,
+      "name": "Reel.AI",
+      "developer": "CREATIVE FITTING HK LIMITED",
+      "url": "https://apps.apple.com/us/app/id6475064170",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 88
+        }
+      ],
+      "rating_count": 11636
+    },
+    {
+      "id": "731629156",
+      "rank": 89,
+      "name": "Xfinity Stream",
+      "developer": "Comcast",
+      "url": "https://apps.apple.com/us/app/id731629156",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 89
+        }
+      ],
+      "rating_count": 262870
+    },
+    {
+      "id": "6502377927",
+      "rank": 96,
+      "name": "StardustTV - Short Drama&Movie",
+      "developer": "Hongxing Media Co., Limited",
+      "url": "https://apps.apple.com/us/app/id6502377927",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 96
+        }
+      ],
+      "rating_count": 78068
+    },
+    {
+      "id": "442839435",
+      "rank": 100,
+      "name": "The NBC App – Stream TV Shows",
+      "developer": "NBCUniversal Media, LLC",
+      "url": "https://apps.apple.com/us/app/id442839435",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 100
+        }
+      ],
+      "rating_count": 290856
+    },
+    {
+      "id": "6501954960",
+      "rank": 57,
+      "name": "QR Code Reader＋Barcode Scanner",
+      "developer": "FLOOMIX LTD",
+      "url": "https://apps.apple.com/us/app/id6501954960",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 57
+        }
+      ],
+      "rating_count": 1153
+    },
+    {
+      "id": "1488957920",
+      "rank": 85,
+      "name": "Extra Space Storage",
+      "developer": "Extra Space Storage",
+      "url": "https://apps.apple.com/us/app/id1488957920",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 85
+        }
+      ],
+      "rating_count": 25239
+    },
+    {
+      "id": "1587785671",
+      "rank": 93,
+      "name": "Boost Mobile",
+      "developer": "DISH Network LLC",
+      "url": "https://apps.apple.com/us/app/id1587785671",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 93
+        }
+      ],
+      "rating_count": 552481
+    },
+    {
+      "id": "1263301809",
+      "rank": 95,
+      "name": "Turno Cleaners",
+      "developer": "TidyDaily Inc",
+      "url": "https://apps.apple.com/us/app/id1263301809",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 95
+        }
+      ],
+      "rating_count": 1040
+    },
+    {
+      "id": "6478310386",
+      "rank": 96,
+      "name": "Verizon Home",
+      "developer": "Verizon Wireless",
+      "url": "https://apps.apple.com/us/app/id6478310386",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 96
+        }
+      ],
+      "rating_count": 20647
+    },
+    {
+      "id": "626392754",
+      "rank": 97,
+      "name": "myCricket App",
+      "developer": "Cricket Wireless, LLC",
+      "url": "https://apps.apple.com/us/app/id626392754",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 97
+        }
+      ],
+      "rating_count": 220867
+    },
+    {
+      "id": "1188830219",
+      "rank": 99,
+      "name": "myMetro®",
+      "developer": "MetroPCS",
+      "url": "https://apps.apple.com/us/app/id1188830219",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 99
+        }
+      ],
+      "rating_count": 144899
+    },
+    {
+      "id": "1320338088",
+      "rank": 100,
+      "name": "e-Título",
+      "developer": "Tribunal Superior Eleitoral",
+      "url": "https://apps.apple.com/us/app/id1320338088",
+      "first_seen": "2026-09-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 100
+        }
+      ],
+      "rating_count": 18858
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-09-29T10:27:46.119162+02:00"
+}
