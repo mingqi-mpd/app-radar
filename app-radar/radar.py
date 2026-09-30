@@ -18,6 +18,37 @@ def atomic_json(path, value):
     temp.write_text(json.dumps(value, ensure_ascii=False, indent=2), encoding='utf-8')
     temp.replace(path)
 
+MIN_APPS = 90  # Apple's feed occasionally returns slightly fewer than 100 entries.
+
+
+def parse_feed(raw, category, now=None):
+    """Validate one Apple RSS chart and return its apps in rank order."""
+    feed = raw['feed']
+    if feed['title']['label'] != f'iTunes Store: Top Free Applications in {category}':
+        raise ValueError('Unexpected chart identity')
+    stamp = dt.datetime.fromisoformat(feed['updated']['label'])
+    age = (now or dt.datetime.now(dt.timezone.utc)) - stamp
+    if not dt.timedelta(hours=-1) <= age <= dt.timedelta(hours=36):
+        raise ValueError('Source timestamp is stale or in the future')
+    entries = feed.get('entry', [])
+    if isinstance(entries, dict):
+        entries = [entries]
+    apps, seen = [], set()
+    for e in entries:
+        app_id = e['id']['attributes']['im:id']
+        if not app_id.isdigit() or float(e['im:price']['attributes']['amount']) != 0:
+            raise ValueError('Invalid app ID or non-free app')
+        if app_id in seen:
+            continue  # keep the best (first) rank for a duplicated entry
+        seen.add(app_id)
+        apps.append({'id': app_id, 'rank': len(apps) + 1, 'name': e['im:name']['label'],
+                     'developer': e['im:artist']['label'],
+                     'url': f'https://apps.apple.com/us/app/id{app_id}'})
+    if not MIN_APPS <= len(apps) <= 100:
+        raise ValueError(f'Expected {MIN_APPS}-100 unique apps, got {len(apps)}')
+    return stamp, apps
+
+
 def fetch(category, gid):
     url = f'https://itunes.apple.com/us/rss/topfreeapplications/limit=100/genre={gid}/json'
     error = None
@@ -25,24 +56,7 @@ def fetch(category, gid):
         try:
             with urllib.request.urlopen(url, timeout=25) as response:
                 raw = json.load(response)
-            feed = raw['feed']
-            if feed['title']['label'] != f'iTunes Store: Top Free Applications in {category}':
-                raise ValueError('Unexpected chart identity')
-            stamp = dt.datetime.fromisoformat(feed['updated']['label'])
-            age = dt.datetime.now(dt.timezone.utc) - stamp
-            if not dt.timedelta(hours=-1) <= age <= dt.timedelta(hours=36):
-                raise ValueError('Source timestamp is stale or in the future')
-            entries = feed['entry']
-            apps = []
-            for rank, e in enumerate(entries, 1):
-                app_id = e['id']['attributes']['im:id']
-                if not app_id.isdigit() or float(e['im:price']['attributes']['amount']) != 0:
-                    raise ValueError('Invalid app ID or non-free app')
-                apps.append({'id':app_id, 'rank':rank, 'name':e['im:name']['label'],
-                             'developer':e['im:artist']['label'],
-                             'url':f'https://apps.apple.com/us/app/id{app_id}'})
-            if len(apps) != 100 or len({a['id'] for a in apps}) != 100:
-                raise ValueError('Expected exactly 100 unique apps')
+            stamp, apps = parse_feed(raw, category)
             return {'category':category, 'source':url, 'source_updated':stamp.isoformat(),
                     'collected_at':dt.datetime.now(TZ).isoformat(), 'apps':apps}
         except Exception as exc:

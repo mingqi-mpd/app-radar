@@ -145,5 +145,34 @@ class RollingTests(unittest.TestCase):
             self.assertEqual(state['days'][str(tomorrow)]['ids'], ['B', 'known'])
 
 
+class FeedTests(unittest.TestCase):
+    NOW = dt.datetime(2026, 9, 30, 8, tzinfo=dt.timezone.utc)
+
+    def feed(self, ids):
+        return {'feed': {
+            'title': {'label': 'iTunes Store: Top Free Applications in Finance'},
+            'updated': {'label': '2026-09-30T00:25:51-07:00'},
+            'entry': [{'id': {'attributes': {'im:id': i}}, 'im:price': {'attributes': {'amount': '0.00'}},
+                       'im:name': {'label': i}, 'im:artist': {'label': 'Dev'}} for i in ids],
+        }}
+
+    def test_ninety_nine_entries_are_accepted(self):
+        from radar import parse_feed
+        _, apps = parse_feed(self.feed([str(i) for i in range(1, 100)]), 'Finance', self.NOW)
+        self.assertEqual(len(apps), 99)
+
+    def test_duplicates_keep_first_rank(self):
+        from radar import parse_feed
+        ids = [str(i) for i in range(1, 100)] + ['5']
+        _, apps = parse_feed(self.feed(ids), 'Finance', self.NOW)
+        self.assertEqual(len(apps), 99)
+        self.assertEqual([a['rank'] for a in apps], list(range(1, 100)))
+
+    def test_short_feed_is_rejected(self):
+        from radar import parse_feed
+        with self.assertRaises(ValueError):
+            parse_feed(self.feed([str(i) for i in range(1, 60)]), 'Finance', self.NOW)
+
+
 if __name__ == '__main__':
     unittest.main()
