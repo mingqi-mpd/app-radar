@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-11",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-09-11",
+  "comparison_to": "2026-10-10",
+  "retained_from": "2026-09-12",
+  "history_days": 13,
+  "complete_history_days": 13,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 17,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 794,
+  "leads": [
+    {
+      "id": "1453989822",
+      "rank": 75,
+      "name": "Aquapark.io",
+      "developer": "Voodoo",
+      "url": "https://apps.apple.com/us/app/id1453989822",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 75
+        }
+      ],
+      "rating_count": 2849509
+    },
+    {
+      "id": "6444705312",
+      "rank": 86,
+      "name": "Vehicle Masters",
+      "developer": "SayGames LTD",
+      "url": "https://apps.apple.com/us/app/id6444705312",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 86
+        }
+      ],
+      "rating_count": 156186
+    },
+    {
+      "id": "1424246763",
+      "rank": 90,
+      "name": "Headbands: Charades Party Game",
+      "developer": "DKraft Studio s.r.o.",
+      "url": "https://apps.apple.com/us/app/id1424246763",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 90
+        }
+      ],
+      "rating_count": 38828
+    },
+    {
+      "id": "6756288168",
+      "rank": 92,
+      "name": "Cookingo: Perfect Meal",
+      "developer": "Higame Global Limited",
+      "url": "https://apps.apple.com/us/app/id6756288168",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 92
+        }
+      ],
+      "rating_count": 9979
+    },
+    {
+      "id": "6759538366",
+      "rank": 100,
+      "name": "Panda Pay: Financial Insights",
+      "developer": "Radiant Union LLC",
+      "url": "https://apps.apple.com/us/app/id6759538366",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 100
+        }
+      ],
+      "rating_count": 1140
+    },
+    {
+      "id": "6756911575",
+      "rank": 78,
+      "name": "Unrepostify: Repost Remover",
+      "developer": "INNOVATIVE DIGITAL TECHNOLOGIES LIMITED",
+      "url": "https://apps.apple.com/us/app/id6756911575",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 78
+        }
+      ],
+      "rating_count": 3675
+    },
+    {
+      "id": "1507659524",
+      "rank": 100,
+      "name": "PokeRaid - Raid From Home",
+      "developer": "PYDE TECHNOLOGIES LTD",
+      "url": "https://apps.apple.com/us/app/id1507659524",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 100
+        }
+      ],
+      "rating_count": 58384
+    },
+    {
+      "id": "6473518085",
+      "rank": 65,
+      "name": "Translate Carrot",
+      "developer": "BRILLIANT BRASS LIMITED",
+      "url": "https://apps.apple.com/us/app/id6473518085",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 65
+        }
+      ],
+      "rating_count": 45
+    },
+    {
+      "id": "6748689683",
+      "rank": 50,
+      "name": "Amica Newport Marathon",
+      "developer": "SportUnity",
+      "url": "https://apps.apple.com/us/app/id6748689683",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 50
+        }
+      ],
+      "rating_count": 3
+    },
+    {
+      "id": "766443283",
+      "rank": 75,
+      "name": "Flashscore: Live Scores & News",
+      "developer": "Livesport s.r.o.",
+      "url": "https://apps.apple.com/us/app/id766443283",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 75
+        }
+      ],
+      "rating_count": 111663
+    },
+    {
+      "id": "422154977",
+      "rank": 94,
+      "name": "Meet Mobile: Swim",
+      "developer": "Active Network, LLC",
+      "url": "https://apps.apple.com/us/app/id422154977",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 94
+        }
+      ],
+      "rating_count": 86221
+    },
+    {
+      "id": "6749936320",
+      "rank": 93,
+      "name": "ReelyGo - Stream Short Dramas",
+      "developer": "TITIAN PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6749936320",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 93
+        }
+      ],
+      "rating_count": 182
+    },
+    {
+      "id": "1669091583",
+      "rank": 98,
+      "name": "Bluey: Let's Play!",
+      "developer": "Budge Studios",
+      "url": "https://apps.apple.com/us/app/id1669091583",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 98
+        }
+      ],
+      "rating_count": 1106801
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-10-11T09:17:12.604027+02:00"
+}

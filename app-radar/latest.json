@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,271 +8,211 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-09-10",
-  "comparison_to": "2026-10-09",
-  "retained_from": "2026-09-11",
-  "history_days": 12,
-  "complete_history_days": 12,
+  "comparison_from": "2026-09-11",
+  "comparison_to": "2026-10-10",
+  "retained_from": "2026-09-12",
+  "history_days": 13,
+  "complete_history_days": 13,
   "incomplete_history_dates": [],
-  "unrecorded_history_days": 18,
+  "unrecorded_history_days": 17,
   "complete": true,
   "is_baseline": false,
   "observed_count": 794,
   "leads": [
     {
-      "id": "6788890577",
-      "rank": 81,
-      "name": "ServicePerks",
-      "developer": "Srinjay Verma",
-      "url": "https://apps.apple.com/us/app/id6788890577",
-      "first_seen": "2026-10-10",
+      "id": "1453989822",
+      "rank": 75,
+      "name": "Aquapark.io",
+      "developer": "Voodoo",
+      "url": "https://apps.apple.com/us/app/id1453989822",
+      "first_seen": "2026-10-11",
       "charts": [
         {
-          "category": "Finance",
-          "rank": 81
+          "category": "Games",
+          "rank": 75
         }
       ],
-      "rating_count": 141
+      "rating_count": 2849509
     },
     {
-      "id": "6802275674",
-      "rank": 85,
-      "name": "Cash Advance - Dame Money",
-      "developer": "Costadelsol Enterprises, LLC",
-      "url": "https://apps.apple.com/us/app/id6802275674",
-      "first_seen": "2026-10-10",
-      "charts": [
-        {
-          "category": "Finance",
-          "rank": 85
-        }
-      ],
-      "rating_count": 27
-    },
-    {
-      "id": "867619606",
-      "rank": 97,
-      "name": "MoneyGram® Money Transfers App",
-      "developer": "MoneyGram International, Inc.",
-      "url": "https://apps.apple.com/us/app/id867619606",
-      "first_seen": "2026-10-10",
-      "charts": [
-        {
-          "category": "Finance",
-          "rank": 97
-        }
-      ],
-      "rating_count": 707228
-    },
-    {
-      "id": "6737984094",
-      "rank": 94,
-      "name": "Ad It Up",
-      "developer": "Play2pay, Inc.",
-      "url": "https://apps.apple.com/us/app/id6737984094",
-      "first_seen": "2026-10-10",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 94
-        }
-      ],
-      "rating_count": 3485
-    },
-    {
-      "id": "1497729109",
-      "rank": 83,
-      "name": "Bare Knuckle TV",
-      "developer": "BK OTT LLC",
-      "url": "https://apps.apple.com/us/app/id1497729109",
-      "first_seen": "2026-10-10",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 83
-        }
-      ],
-      "rating_count": 465
-    },
-    {
-      "id": "1561354060",
-      "rank": 84,
-      "name": "TRACX - The Event App",
-      "developer": "SportUnity",
-      "url": "https://apps.apple.com/us/app/id1561354060",
-      "first_seen": "2026-10-10",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 84
-        }
-      ],
-      "rating_count": 751
-    },
-    {
-      "id": "6758788380",
+      "id": "6444705312",
       "rank": 86,
-      "name": "TNC League",
-      "developer": "Kiswe Mobile",
-      "url": "https://apps.apple.com/us/app/id6758788380",
-      "first_seen": "2026-10-10",
+      "name": "Vehicle Masters",
+      "developer": "SayGames LTD",
+      "url": "https://apps.apple.com/us/app/id6444705312",
+      "first_seen": "2026-10-11",
       "charts": [
         {
-          "category": "Sports",
+          "category": "Games",
           "rank": 86
         }
       ],
-      "rating_count": 0
+      "rating_count": 156186
     },
     {
-      "id": "1121895111",
-      "rank": 88,
-      "name": "SportsEngine Tourney",
-      "developer": "SportsEngine, Inc.",
-      "url": "https://apps.apple.com/us/app/id1121895111",
-      "first_seen": "2026-10-10",
+      "id": "1424246763",
+      "rank": 90,
+      "name": "Headbands: Charades Party Game",
+      "developer": "DKraft Studio s.r.o.",
+      "url": "https://apps.apple.com/us/app/id1424246763",
+      "first_seen": "2026-10-11",
       "charts": [
         {
-          "category": "Sports",
-          "rank": 88
+          "category": "Games",
+          "rank": 90
         }
       ],
-      "rating_count": 442659
+      "rating_count": 38828
     },
     {
-      "id": "1271858578",
+      "id": "6756288168",
       "rank": 92,
-      "name": "Ohio State Buckeyes",
-      "developer": "IMG College, LLC",
-      "url": "https://apps.apple.com/us/app/id1271858578",
-      "first_seen": "2026-10-10",
+      "name": "Cookingo: Perfect Meal",
+      "developer": "Higame Global Limited",
+      "url": "https://apps.apple.com/us/app/id6756288168",
+      "first_seen": "2026-10-11",
       "charts": [
         {
-          "category": "Sports",
+          "category": "Games",
           "rank": 92
         }
       ],
-      "rating_count": 316
+      "rating_count": 9979
     },
     {
-      "id": "6747883721",
-      "rank": 99,
-      "name": "FanDuel Predicts",
-      "developer": "FanDuel, Inc.",
-      "url": "https://apps.apple.com/us/app/id6747883721",
-      "first_seen": "2026-10-10",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 99
-        }
-      ],
-      "rating_count": 6673
-    },
-    {
-      "id": "1527960097",
+      "id": "6759538366",
       "rank": 100,
-      "name": "Juice Reel: Bet Tracker & Tips",
-      "developer": "Juice Integration, INC.",
-      "url": "https://apps.apple.com/us/app/id1527960097",
-      "first_seen": "2026-10-10",
+      "name": "Panda Pay: Financial Insights",
+      "developer": "Radiant Union LLC",
+      "url": "https://apps.apple.com/us/app/id6759538366",
+      "first_seen": "2026-10-11",
       "charts": [
         {
-          "category": "Sports",
+          "category": "Finance",
           "rank": 100
         }
       ],
-      "rating_count": 4437
+      "rating_count": 1140
     },
     {
-      "id": "1602583398",
-      "rank": 89,
-      "name": "Doorlist - Events & Invites",
-      "developer": "DoorList Event Management, Inc.",
-      "url": "https://apps.apple.com/us/app/id1602583398",
-      "first_seen": "2026-10-10",
+      "id": "6756911575",
+      "rank": 78,
+      "name": "Unrepostify: Repost Remover",
+      "developer": "INNOVATIVE DIGITAL TECHNOLOGIES LIMITED",
+      "url": "https://apps.apple.com/us/app/id6756911575",
+      "first_seen": "2026-10-11",
       "charts": [
         {
           "category": "Social Networking",
-          "rank": 89
+          "rank": 78
         }
       ],
-      "rating_count": 2894
+      "rating_count": 3675
     },
     {
-      "id": "6478104173",
-      "rank": 41,
-      "name": "ShortsWave: Watch Drama Series",
-      "developer": "HALOFUN PTE. LTD.",
-      "url": "https://apps.apple.com/us/app/id6478104173",
-      "first_seen": "2026-10-10",
+      "id": "1507659524",
+      "rank": 100,
+      "name": "PokeRaid - Raid From Home",
+      "developer": "PYDE TECHNOLOGIES LTD",
+      "url": "https://apps.apple.com/us/app/id1507659524",
+      "first_seen": "2026-10-11",
       "charts": [
         {
-          "category": "Entertainment",
-          "rank": 41
+          "category": "Social Networking",
+          "rank": 100
         }
       ],
-      "rating_count": 30950
+      "rating_count": 58384
     },
     {
-      "id": "6800989223",
-      "rank": 69,
-      "name": "HotShort-Dramas&Reels",
-      "developer": "Naughty Corner Music Limited",
-      "url": "https://apps.apple.com/us/app/id6800989223",
-      "first_seen": "2026-10-10",
-      "charts": [
-        {
-          "category": "Entertainment",
-          "rank": 69
-        }
-      ],
-      "rating_count": 6
-    },
-    {
-      "id": "1237328534",
-      "rank": 64,
-      "name": "FPL",
-      "developer": "NextEra Energy, Inc",
-      "url": "https://apps.apple.com/us/app/id1237328534",
-      "first_seen": "2026-10-10",
+      "id": "6473518085",
+      "rank": 65,
+      "name": "Translate Carrot",
+      "developer": "BRILLIANT BRASS LIMITED",
+      "url": "https://apps.apple.com/us/app/id6473518085",
+      "first_seen": "2026-10-11",
       "charts": [
         {
           "category": "Utilities",
-          "rank": 64
+          "rank": 65
         }
       ],
-      "rating_count": 23614
+      "rating_count": 45
     },
     {
-      "id": "6752841300",
+      "id": "6748689683",
+      "rank": 50,
+      "name": "Amica Newport Marathon",
+      "developer": "SportUnity",
+      "url": "https://apps.apple.com/us/app/id6748689683",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 50
+        }
+      ],
+      "rating_count": 3
+    },
+    {
+      "id": "766443283",
+      "rank": 75,
+      "name": "Flashscore: Live Scores & News",
+      "developer": "Livesport s.r.o.",
+      "url": "https://apps.apple.com/us/app/id766443283",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 75
+        }
+      ],
+      "rating_count": 111663
+    },
+    {
+      "id": "422154977",
+      "rank": 94,
+      "name": "Meet Mobile: Swim",
+      "developer": "Active Network, LLC",
+      "url": "https://apps.apple.com/us/app/id422154977",
+      "first_seen": "2026-10-11",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 94
+        }
+      ],
+      "rating_count": 86221
+    },
+    {
+      "id": "6749936320",
       "rank": 93,
-      "name": "AI Cleaner - Photos&Videos",
-      "developer": "NUMBER THREE TECH LIMITED",
-      "url": "https://apps.apple.com/us/app/id6752841300",
-      "first_seen": "2026-10-10",
+      "name": "ReelyGo - Stream Short Dramas",
+      "developer": "TITIAN PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6749936320",
+      "first_seen": "2026-10-11",
       "charts": [
         {
-          "category": "Utilities",
+          "category": "Entertainment",
           "rank": 93
         }
       ],
-      "rating_count": 49
+      "rating_count": 182
     },
     {
-      "id": "6746750584",
-      "rank": 99,
-      "name": "Clean Lion",
-      "developer": "EIGHT PUNCH(HONGKONG)CO.,LIMITED",
-      "url": "https://apps.apple.com/us/app/id6746750584",
-      "first_seen": "2026-10-10",
+      "id": "1669091583",
+      "rank": 98,
+      "name": "Bluey: Let's Play!",
+      "developer": "Budge Studios",
+      "url": "https://apps.apple.com/us/app/id1669091583",
+      "first_seen": "2026-10-11",
       "charts": [
         {
-          "category": "Utilities",
-          "rank": 99
+          "category": "Entertainment",
+          "rank": 98
         }
       ],
-      "rating_count": 102
+      "rating_count": 1106801
     }
   ],
   "errors": {},
@@ -310,5 +250,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-10-10T09:17:14.906843+02:00"
+  "ratings_checked_at": "2026-10-11T09:17:12.604027+02:00"
 }
