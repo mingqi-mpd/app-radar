@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,211 +8,331 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-09-11",
-  "comparison_to": "2026-10-10",
-  "retained_from": "2026-09-12",
-  "history_days": 13,
-  "complete_history_days": 13,
+  "comparison_from": "2026-09-12",
+  "comparison_to": "2026-10-11",
+  "retained_from": "2026-09-13",
+  "history_days": 14,
+  "complete_history_days": 14,
   "incomplete_history_dates": [],
-  "unrecorded_history_days": 17,
+  "unrecorded_history_days": 16,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 794,
+  "observed_count": 796,
   "leads": [
     {
-      "id": "1453989822",
-      "rank": 75,
-      "name": "Aquapark.io",
-      "developer": "Voodoo",
-      "url": "https://apps.apple.com/us/app/id1453989822",
-      "first_seen": "2026-10-11",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 75
-        }
-      ],
-      "rating_count": 2849509
-    },
-    {
-      "id": "6444705312",
-      "rank": 86,
-      "name": "Vehicle Masters",
-      "developer": "SayGames LTD",
-      "url": "https://apps.apple.com/us/app/id6444705312",
-      "first_seen": "2026-10-11",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 86
-        }
-      ],
-      "rating_count": 156186
-    },
-    {
-      "id": "1424246763",
-      "rank": 90,
-      "name": "Headbands: Charades Party Game",
-      "developer": "DKraft Studio s.r.o.",
-      "url": "https://apps.apple.com/us/app/id1424246763",
-      "first_seen": "2026-10-11",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 90
-        }
-      ],
-      "rating_count": 38828
-    },
-    {
-      "id": "6756288168",
-      "rank": 92,
-      "name": "Cookingo: Perfect Meal",
-      "developer": "Higame Global Limited",
-      "url": "https://apps.apple.com/us/app/id6756288168",
-      "first_seen": "2026-10-11",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 92
-        }
-      ],
-      "rating_count": 9979
-    },
-    {
-      "id": "6759538366",
-      "rank": 100,
-      "name": "Panda Pay: Financial Insights",
-      "developer": "Radiant Union LLC",
-      "url": "https://apps.apple.com/us/app/id6759538366",
-      "first_seen": "2026-10-11",
+      "id": "6749705807",
+      "rank": 88,
+      "name": "PayMe - Claim Your Money",
+      "developer": "Control. Alt. Delete. LLC",
+      "url": "https://apps.apple.com/us/app/id6749705807",
+      "first_seen": "2026-10-12",
       "charts": [
         {
           "category": "Finance",
-          "rank": 100
+          "rank": 88
         }
       ],
-      "rating_count": 1140
+      "rating_count": 36055
     },
     {
-      "id": "6756911575",
-      "rank": 78,
-      "name": "Unrepostify: Repost Remover",
-      "developer": "INNOVATIVE DIGITAL TECHNOLOGIES LIMITED",
-      "url": "https://apps.apple.com/us/app/id6756911575",
-      "first_seen": "2026-10-11",
+      "id": "1473180914",
+      "rank": 96,
+      "name": "Grid Money",
+      "developer": "Hatfield, Inc.",
+      "url": "https://apps.apple.com/us/app/id1473180914",
+      "first_seen": "2026-10-12",
       "charts": [
         {
-          "category": "Social Networking",
-          "rank": 78
+          "category": "Finance",
+          "rank": 96
         }
       ],
-      "rating_count": 3675
+      "rating_count": 29894
     },
     {
-      "id": "1507659524",
-      "rank": 100,
-      "name": "PokeRaid - Raid From Home",
-      "developer": "PYDE TECHNOLOGIES LTD",
-      "url": "https://apps.apple.com/us/app/id1507659524",
-      "first_seen": "2026-10-11",
+      "id": "1105855019",
+      "rank": 95,
+      "name": "Gardenscapes",
+      "developer": "Playrix",
+      "url": "https://apps.apple.com/us/app/id1105855019",
+      "first_seen": "2026-10-12",
       "charts": [
         {
-          "category": "Social Networking",
-          "rank": 100
+          "category": "Games",
+          "rank": 95
         }
       ],
-      "rating_count": 58384
+      "rating_count": 1692453
     },
     {
-      "id": "6473518085",
-      "rank": 65,
-      "name": "Translate Carrot",
-      "developer": "BRILLIANT BRASS LIMITED",
-      "url": "https://apps.apple.com/us/app/id6473518085",
-      "first_seen": "2026-10-11",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 65
-        }
-      ],
-      "rating_count": 45
-    },
-    {
-      "id": "6748689683",
-      "rank": 50,
-      "name": "Amica Newport Marathon",
-      "developer": "SportUnity",
-      "url": "https://apps.apple.com/us/app/id6748689683",
-      "first_seen": "2026-10-11",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 50
-        }
-      ],
-      "rating_count": 3
-    },
-    {
-      "id": "766443283",
-      "rank": 75,
-      "name": "Flashscore: Live Scores & News",
-      "developer": "Livesport s.r.o.",
-      "url": "https://apps.apple.com/us/app/id766443283",
-      "first_seen": "2026-10-11",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 75
-        }
-      ],
-      "rating_count": 111663
-    },
-    {
-      "id": "422154977",
-      "rank": 94,
-      "name": "Meet Mobile: Swim",
-      "developer": "Active Network, LLC",
-      "url": "https://apps.apple.com/us/app/id422154977",
-      "first_seen": "2026-10-11",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 94
-        }
-      ],
-      "rating_count": 86221
-    },
-    {
-      "id": "6749936320",
-      "rank": 93,
-      "name": "ReelyGo - Stream Short Dramas",
-      "developer": "TITIAN PTE. LTD.",
-      "url": "https://apps.apple.com/us/app/id6749936320",
-      "first_seen": "2026-10-11",
-      "charts": [
-        {
-          "category": "Entertainment",
-          "rank": 93
-        }
-      ],
-      "rating_count": 182
-    },
-    {
-      "id": "1669091583",
+      "id": "6737214802",
       "rank": 98,
-      "name": "Bluey: Let's Play!",
-      "developer": "Budge Studios",
-      "url": "https://apps.apple.com/us/app/id1669091583",
-      "first_seen": "2026-10-11",
+      "name": "Mini Games: Calm & Chill",
+      "developer": "CTC Technology Limited",
+      "url": "https://apps.apple.com/us/app/id6737214802",
+      "first_seen": "2026-10-12",
       "charts": [
         {
-          "category": "Entertainment",
+          "category": "Games",
           "rank": 98
         }
       ],
-      "rating_count": 1106801
+      "rating_count": 503713
+    },
+    {
+      "id": "1562313985",
+      "rank": 99,
+      "name": "Text or Die",
+      "developer": "Rollic Games",
+      "url": "https://apps.apple.com/us/app/id1562313985",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 99
+        }
+      ],
+      "rating_count": 212474
+    },
+    {
+      "id": "409829925",
+      "rank": 70,
+      "name": "Green Bay Packers",
+      "developer": "Green Bay Packers",
+      "url": "https://apps.apple.com/us/app/id409829925",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 70
+        }
+      ],
+      "rating_count": 142879
+    },
+    {
+      "id": "390846039",
+      "rank": 73,
+      "name": "Los Angeles Chargers",
+      "developer": "Chargers Football Company, LLC",
+      "url": "https://apps.apple.com/us/app/id390846039",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 73
+        }
+      ],
+      "rating_count": 20830
+    },
+    {
+      "id": "1170676367",
+      "rank": 81,
+      "name": "Atlanta Falcons",
+      "developer": "Atlanta Falcons Football Club",
+      "url": "https://apps.apple.com/us/app/id1170676367",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 81
+        }
+      ],
+      "rating_count": 409
+    },
+    {
+      "id": "6742177802",
+      "rank": 95,
+      "name": "New York Road Runners",
+      "developer": "New York Road Runners, Inc.",
+      "url": "https://apps.apple.com/us/app/id6742177802",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 95
+        }
+      ],
+      "rating_count": 9
+    },
+    {
+      "id": "835022598",
+      "rank": 96,
+      "name": "Formula 1®",
+      "developer": "Formula One Digital Media Limited",
+      "url": "https://apps.apple.com/us/app/id835022598",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 96
+        }
+      ],
+      "rating_count": 84411
+    },
+    {
+      "id": "550269821",
+      "rank": 99,
+      "name": "New England Patriots",
+      "developer": "New England Patriots",
+      "url": "https://apps.apple.com/us/app/id550269821",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 99
+        }
+      ],
+      "rating_count": 577
+    },
+    {
+      "id": "6760799374",
+      "rank": 67,
+      "name": "sharespot: social journal",
+      "developer": "Romeo Hazel",
+      "url": "https://apps.apple.com/us/app/id6760799374",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 67
+        }
+      ],
+      "rating_count": 110
+    },
+    {
+      "id": "6807644635",
+      "rank": 90,
+      "name": "Irone - pet",
+      "developer": "Dana Marie Gibson",
+      "url": "https://apps.apple.com/us/app/id6807644635",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 90
+        }
+      ],
+      "rating_count": 2
+    },
+    {
+      "id": "6744343880",
+      "rank": 94,
+      "name": "Photo Widget-Live Pic Sharing",
+      "developer": "银雪 朱",
+      "url": "https://apps.apple.com/us/app/id6744343880",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 94
+        }
+      ],
+      "rating_count": 68
+    },
+    {
+      "id": "6443880549",
+      "rank": 100,
+      "name": "Keet - Private Encrypted Chat",
+      "developer": "Holepunch Inc",
+      "url": "https://apps.apple.com/us/app/id6443880549",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 100
+        }
+      ],
+      "rating_count": 226
+    },
+    {
+      "id": "6566179234",
+      "rank": 97,
+      "name": "Dont Touch My Phone: Antitheft",
+      "developer": "Fitness Training Global",
+      "url": "https://apps.apple.com/us/app/id6566179234",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 97
+        }
+      ],
+      "rating_count": 29084
+    },
+    {
+      "id": "1495094343",
+      "rank": 99,
+      "name": "Moen Flo",
+      "developer": "Moen Incorporated",
+      "url": "https://apps.apple.com/us/app/id1495094343",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 99
+        }
+      ],
+      "rating_count": 24003
+    },
+    {
+      "id": "6787443044",
+      "rank": 81,
+      "name": "Engine Sim - Sound Simulator",
+      "developer": "Sena Takasawa",
+      "url": "https://apps.apple.com/us/app/id6787443044",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 81
+        }
+      ],
+      "rating_count": 99
+    },
+    {
+      "id": "6736637530",
+      "rank": 92,
+      "name": "AI Voice Changer・Sound Effects",
+      "developer": "TVSMART.APP",
+      "url": "https://apps.apple.com/us/app/id6736637530",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 92
+        }
+      ],
+      "rating_count": 8966
+    },
+    {
+      "id": "6792978953",
+      "rank": 94,
+      "name": "Peekie: Story & Mystery Games",
+      "developer": "Intelli Future INC",
+      "url": "https://apps.apple.com/us/app/id6792978953",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 94
+        }
+      ],
+      "rating_count": 149
+    },
+    {
+      "id": "1645118710",
+      "rank": 99,
+      "name": "The Price Is Right: Bingo!",
+      "developer": "Clipwire Games Inc.",
+      "url": "https://apps.apple.com/us/app/id1645118710",
+      "first_seen": "2026-10-12",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 99
+        }
+      ],
+      "rating_count": 86322
     }
   ],
   "errors": {},
@@ -250,5 +370,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-10-11T09:17:12.604027+02:00"
+  "ratings_checked_at": "2026-10-12T09:17:12.160872+02:00"
 }
