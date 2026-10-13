@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,331 +8,226 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-09-12",
-  "comparison_to": "2026-10-11",
-  "retained_from": "2026-09-13",
-  "history_days": 14,
-  "complete_history_days": 14,
+  "comparison_from": "2026-09-13",
+  "comparison_to": "2026-10-12",
+  "retained_from": "2026-09-14",
+  "history_days": 15,
+  "complete_history_days": 15,
   "incomplete_history_dates": [],
-  "unrecorded_history_days": 16,
+  "unrecorded_history_days": 15,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 796,
+  "observed_count": 792,
   "leads": [
     {
-      "id": "6749705807",
-      "rank": 88,
-      "name": "PayMe - Claim Your Money",
-      "developer": "Control. Alt. Delete. LLC",
-      "url": "https://apps.apple.com/us/app/id6749705807",
-      "first_seen": "2026-10-12",
+      "id": "6767180267",
+      "rank": 72,
+      "name": "Satisfying Clean ASMR",
+      "developer": "DongZ Game",
+      "url": "https://apps.apple.com/us/app/id6767180267",
+      "first_seen": "2026-10-13",
       "charts": [
         {
-          "category": "Finance",
-          "rank": 88
+          "category": "Games",
+          "rank": 72
         }
       ],
-      "rating_count": 36055
+      "rating_count": 2470
     },
     {
-      "id": "1473180914",
-      "rank": 96,
-      "name": "Grid Money",
-      "developer": "Hatfield, Inc.",
-      "url": "https://apps.apple.com/us/app/id1473180914",
-      "first_seen": "2026-10-12",
+      "id": "6503636810",
+      "rank": 74,
+      "name": "Screw Match®: ASMR Game",
+      "developer": "BESTPLAY GAMES PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6503636810",
+      "first_seen": "2026-10-13",
       "charts": [
         {
-          "category": "Finance",
-          "rank": 96
+          "category": "Games",
+          "rank": 74
         }
       ],
-      "rating_count": 29894
+      "rating_count": 14343
     },
     {
-      "id": "1105855019",
+      "id": "467623653",
+      "rank": 51,
+      "name": "Los Angeles Rams",
+      "developer": "The Los Angeles Rams, LLC",
+      "url": "https://apps.apple.com/us/app/id467623653",
+      "first_seen": "2026-10-13",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 51
+        }
+      ],
+      "rating_count": 405
+    },
+    {
+      "id": "6450125219",
+      "rank": 83,
+      "name": "Ball AI - Basketball Training",
+      "developer": "Automatic AI, LLC",
+      "url": "https://apps.apple.com/us/app/id6450125219",
+      "first_seen": "2026-10-13",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 83
+        }
+      ],
+      "rating_count": 6330
+    },
+    {
+      "id": "1196387238",
+      "rank": 86,
+      "name": "UConn Huskies",
+      "developer": "IMG College, LLC",
+      "url": "https://apps.apple.com/us/app/id1196387238",
+      "first_seen": "2026-10-13",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 86
+        }
+      ],
+      "rating_count": 158
+    },
+    {
+      "id": "6760445381",
       "rank": 95,
-      "name": "Gardenscapes",
-      "developer": "Playrix",
-      "url": "https://apps.apple.com/us/app/id1105855019",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 95
-        }
-      ],
-      "rating_count": 1692453
-    },
-    {
-      "id": "6737214802",
-      "rank": 98,
-      "name": "Mini Games: Calm & Chill",
-      "developer": "CTC Technology Limited",
-      "url": "https://apps.apple.com/us/app/id6737214802",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 98
-        }
-      ],
-      "rating_count": 503713
-    },
-    {
-      "id": "1562313985",
-      "rank": 99,
-      "name": "Text or Die",
-      "developer": "Rollic Games",
-      "url": "https://apps.apple.com/us/app/id1562313985",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 99
-        }
-      ],
-      "rating_count": 212474
-    },
-    {
-      "id": "409829925",
-      "rank": 70,
-      "name": "Green Bay Packers",
-      "developer": "Green Bay Packers",
-      "url": "https://apps.apple.com/us/app/id409829925",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 70
-        }
-      ],
-      "rating_count": 142879
-    },
-    {
-      "id": "390846039",
-      "rank": 73,
-      "name": "Los Angeles Chargers",
-      "developer": "Chargers Football Company, LLC",
-      "url": "https://apps.apple.com/us/app/id390846039",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 73
-        }
-      ],
-      "rating_count": 20830
-    },
-    {
-      "id": "1170676367",
-      "rank": 81,
-      "name": "Atlanta Falcons",
-      "developer": "Atlanta Falcons Football Club",
-      "url": "https://apps.apple.com/us/app/id1170676367",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 81
-        }
-      ],
-      "rating_count": 409
-    },
-    {
-      "id": "6742177802",
-      "rank": 95,
-      "name": "New York Road Runners",
-      "developer": "New York Road Runners, Inc.",
-      "url": "https://apps.apple.com/us/app/id6742177802",
-      "first_seen": "2026-10-12",
+      "name": "GoalPulse: Live Football",
+      "developer": "Vu Thi Hanh",
+      "url": "https://apps.apple.com/us/app/id6760445381",
+      "first_seen": "2026-10-13",
       "charts": [
         {
           "category": "Sports",
           "rank": 95
-        }
-      ],
-      "rating_count": 9
-    },
-    {
-      "id": "835022598",
-      "rank": 96,
-      "name": "Formula 1®",
-      "developer": "Formula One Digital Media Limited",
-      "url": "https://apps.apple.com/us/app/id835022598",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 96
-        }
-      ],
-      "rating_count": 84411
-    },
-    {
-      "id": "550269821",
-      "rank": 99,
-      "name": "New England Patriots",
-      "developer": "New England Patriots",
-      "url": "https://apps.apple.com/us/app/id550269821",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 99
-        }
-      ],
-      "rating_count": 577
-    },
-    {
-      "id": "6760799374",
-      "rank": 67,
-      "name": "sharespot: social journal",
-      "developer": "Romeo Hazel",
-      "url": "https://apps.apple.com/us/app/id6760799374",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 67
-        }
-      ],
-      "rating_count": 110
-    },
-    {
-      "id": "6807644635",
-      "rank": 90,
-      "name": "Irone - pet",
-      "developer": "Dana Marie Gibson",
-      "url": "https://apps.apple.com/us/app/id6807644635",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 90
         }
       ],
       "rating_count": 2
     },
     {
-      "id": "6744343880",
-      "rank": 94,
-      "name": "Photo Widget-Live Pic Sharing",
-      "developer": "银雪 朱",
-      "url": "https://apps.apple.com/us/app/id6744343880",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 94
-        }
-      ],
-      "rating_count": 68
-    },
-    {
-      "id": "6443880549",
+      "id": "491796218",
       "rank": 100,
-      "name": "Keet - Private Encrypted Chat",
-      "developer": "Holepunch Inc",
-      "url": "https://apps.apple.com/us/app/id6443880549",
-      "first_seen": "2026-10-12",
+      "name": "GHIN: Handicap Index® & GPS",
+      "developer": "United States Golf Association",
+      "url": "https://apps.apple.com/us/app/id491796218",
+      "first_seen": "2026-10-13",
       "charts": [
         {
-          "category": "Social Networking",
+          "category": "Sports",
           "rank": 100
         }
       ],
-      "rating_count": 226
+      "rating_count": 20655
     },
     {
-      "id": "6566179234",
-      "rank": 97,
-      "name": "Dont Touch My Phone: Antitheft",
-      "developer": "Fitness Training Global",
-      "url": "https://apps.apple.com/us/app/id6566179234",
-      "first_seen": "2026-10-12",
+      "id": "1571680865",
+      "rank": 36,
+      "name": "Publer: Social Media Tools",
+      "developer": "Kalemi LLC",
+      "url": "https://apps.apple.com/us/app/id1571680865",
+      "first_seen": "2026-10-13",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 36
+        }
+      ],
+      "rating_count": 26509
+    },
+    {
+      "id": "6443539443",
+      "rank": 87,
+      "name": "Followers+ Unfollowers Tracker",
+      "developer": "Engin Oguz Kocu",
+      "url": "https://apps.apple.com/us/app/id6443539443",
+      "first_seen": "2026-10-13",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 87
+        }
+      ],
+      "rating_count": 105
+    },
+    {
+      "id": "6774066151",
+      "rank": 89,
+      "name": "Focusly: Screen Time",
+      "developer": "亚楠 魏",
+      "url": "https://apps.apple.com/us/app/id6774066151",
+      "first_seen": "2026-10-13",
       "charts": [
         {
           "category": "Utilities",
-          "rank": 97
+          "rank": 89
         }
       ],
-      "rating_count": 29084
+      "rating_count": 31
     },
     {
-      "id": "1495094343",
-      "rank": 99,
-      "name": "Moen Flo",
-      "developer": "Moen Incorporated",
-      "url": "https://apps.apple.com/us/app/id1495094343",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 99
-        }
-      ],
-      "rating_count": 24003
-    },
-    {
-      "id": "6787443044",
-      "rank": 81,
-      "name": "Engine Sim - Sound Simulator",
-      "developer": "Sena Takasawa",
-      "url": "https://apps.apple.com/us/app/id6787443044",
-      "first_seen": "2026-10-12",
-      "charts": [
-        {
-          "category": "Entertainment",
-          "rank": 81
-        }
-      ],
-      "rating_count": 99
-    },
-    {
-      "id": "6736637530",
+      "id": "6773997073",
       "rank": 92,
-      "name": "AI Voice Changer・Sound Effects",
-      "developer": "TVSMART.APP",
-      "url": "https://apps.apple.com/us/app/id6736637530",
-      "first_seen": "2026-10-12",
+      "name": "Send Faxes: Receive Doc & PDF",
+      "developer": "变卿 李",
+      "url": "https://apps.apple.com/us/app/id6773997073",
+      "first_seen": "2026-10-13",
       "charts": [
         {
-          "category": "Entertainment",
+          "category": "Utilities",
           "rank": 92
         }
       ],
-      "rating_count": 8966
+      "rating_count": 62
     },
     {
-      "id": "6792978953",
-      "rank": 94,
-      "name": "Peekie: Story & Mystery Games",
-      "developer": "Intelli Future INC",
-      "url": "https://apps.apple.com/us/app/id6792978953",
-      "first_seen": "2026-10-12",
+      "id": "6779907962",
+      "rank": 98,
+      "name": "PhotoFun: Editor & Collage",
+      "developer": "弼凯 尹",
+      "url": "https://apps.apple.com/us/app/id6779907962",
+      "first_seen": "2026-10-13",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 98
+        }
+      ],
+      "rating_count": 12
+    },
+    {
+      "id": "6443405421",
+      "rank": 39,
+      "name": "Mnet Plus",
+      "developer": "CJ ENM Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id6443405421",
+      "first_seen": "2026-10-13",
       "charts": [
         {
           "category": "Entertainment",
-          "rank": 94
+          "rank": 39
         }
       ],
-      "rating_count": 149
+      "rating_count": 1532
     },
     {
-      "id": "1645118710",
-      "rank": 99,
-      "name": "The Price Is Right: Bingo!",
-      "developer": "Clipwire Games Inc.",
-      "url": "https://apps.apple.com/us/app/id1645118710",
-      "first_seen": "2026-10-12",
+      "id": "6756119747",
+      "rank": 98,
+      "name": "Scratch Party: Earn Real Money",
+      "developer": "MAGIC PLAY YAZILIM LIMITED SIRKETI",
+      "url": "https://apps.apple.com/us/app/id6756119747",
+      "first_seen": "2026-10-13",
       "charts": [
         {
           "category": "Casino",
-          "rank": 99
+          "rank": 98
         }
       ],
-      "rating_count": 86322
+      "rating_count": 269
     }
   ],
   "errors": {},
@@ -370,5 +265,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-10-12T09:17:12.160872+02:00"
+  "ratings_checked_at": "2026-10-13T09:17:12.634768+02:00"
 }
