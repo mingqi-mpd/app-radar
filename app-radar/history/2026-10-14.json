@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-09-14",
+  "comparison_to": "2026-10-13",
+  "retained_from": "2026-09-15",
+  "history_days": 16,
+  "complete_history_days": 16,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 14,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 790,
+  "leads": [
+    {
+      "id": "1360342813",
+      "rank": 10,
+      "name": "Valley Bank - Mobile",
+      "developer": "Valley National Bank Mobile",
+      "url": "https://apps.apple.com/us/app/id1360342813",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 10
+        }
+      ],
+      "rating_count": 901
+    },
+    {
+      "id": "6758651960",
+      "rank": 93,
+      "name": "ScratchJoy",
+      "developer": "LOJA PARAISO LTDA",
+      "url": "https://apps.apple.com/us/app/id6758651960",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 93
+        }
+      ],
+      "rating_count": 2623
+    },
+    {
+      "id": "918263528",
+      "rank": 47,
+      "name": "DSW Designer Shoe Warehouse",
+      "developer": "DSW Inc",
+      "url": "https://apps.apple.com/us/app/id918263528",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 47
+        }
+      ],
+      "rating_count": 831391
+    },
+    {
+      "id": "6745244919",
+      "rank": 72,
+      "name": "Football Live Scores, Fixtures",
+      "developer": "digital roots technologies",
+      "url": "https://apps.apple.com/us/app/id6745244919",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 72
+        }
+      ],
+      "rating_count": 1106
+    },
+    {
+      "id": "1047007072",
+      "rank": 74,
+      "name": "Boom – Sports Picks & Games",
+      "developer": "Boom Shakalaka",
+      "url": "https://apps.apple.com/us/app/id1047007072",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 74
+        }
+      ],
+      "rating_count": 14401
+    },
+    {
+      "id": "6790498725",
+      "rank": 78,
+      "name": "Athlete Merch: Get Your Store",
+      "developer": "Athlete Merch LLC",
+      "url": "https://apps.apple.com/us/app/id6790498725",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 78
+        }
+      ],
+      "rating_count": 21
+    },
+    {
+      "id": "1024506667",
+      "rank": 83,
+      "name": "UEFA Champions League Official",
+      "developer": "UEFA",
+      "url": "https://apps.apple.com/us/app/id1024506667",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 83
+        }
+      ],
+      "rating_count": 14184
+    },
+    {
+      "id": "356928178",
+      "rank": 99,
+      "name": "LiveScore: Live Sports Scores",
+      "developer": "LiveScore Ltd.",
+      "url": "https://apps.apple.com/us/app/id356928178",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 99
+        }
+      ],
+      "rating_count": 49785
+    },
+    {
+      "id": "474874963",
+      "rank": 72,
+      "name": "SmartHub",
+      "developer": "National Information Solutions Cooperative",
+      "url": "https://apps.apple.com/us/app/id474874963",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 72
+        }
+      ],
+      "rating_count": 2006
+    },
+    {
+      "id": "6759697123",
+      "rank": 100,
+      "name": "SmartClean AI: Storage Cleaner",
+      "developer": "AMOBEAR GROUP",
+      "url": "https://apps.apple.com/us/app/id6759697123",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 100
+        }
+      ],
+      "rating_count": 1578
+    },
+    {
+      "id": "6776880905",
+      "rank": 70,
+      "name": "Sonny Angel APP",
+      "developer": "Dreams Inc. (Apps)",
+      "url": "https://apps.apple.com/us/app/id6776880905",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 70
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "926058555",
+      "rank": 68,
+      "name": "Atom - Movie Tickets & Times",
+      "developer": "Atom Tickets, LLC",
+      "url": "https://apps.apple.com/us/app/id926058555",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 68
+        }
+      ],
+      "rating_count": 185277
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-10-14T09:17:15.126139+02:00"
+}

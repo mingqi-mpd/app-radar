@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,226 +8,196 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-09-13",
-  "comparison_to": "2026-10-12",
-  "retained_from": "2026-09-14",
-  "history_days": 15,
-  "complete_history_days": 15,
+  "comparison_from": "2026-09-14",
+  "comparison_to": "2026-10-13",
+  "retained_from": "2026-09-15",
+  "history_days": 16,
+  "complete_history_days": 16,
   "incomplete_history_dates": [],
-  "unrecorded_history_days": 15,
+  "unrecorded_history_days": 14,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 792,
+  "observed_count": 790,
   "leads": [
     {
-      "id": "6767180267",
+      "id": "1360342813",
+      "rank": 10,
+      "name": "Valley Bank - Mobile",
+      "developer": "Valley National Bank Mobile",
+      "url": "https://apps.apple.com/us/app/id1360342813",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 10
+        }
+      ],
+      "rating_count": 901
+    },
+    {
+      "id": "6758651960",
+      "rank": 93,
+      "name": "ScratchJoy",
+      "developer": "LOJA PARAISO LTDA",
+      "url": "https://apps.apple.com/us/app/id6758651960",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 93
+        }
+      ],
+      "rating_count": 2623
+    },
+    {
+      "id": "918263528",
+      "rank": 47,
+      "name": "DSW Designer Shoe Warehouse",
+      "developer": "DSW Inc",
+      "url": "https://apps.apple.com/us/app/id918263528",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 47
+        }
+      ],
+      "rating_count": 831391
+    },
+    {
+      "id": "6745244919",
       "rank": 72,
-      "name": "Satisfying Clean ASMR",
-      "developer": "DongZ Game",
-      "url": "https://apps.apple.com/us/app/id6767180267",
-      "first_seen": "2026-10-13",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 72
-        }
-      ],
-      "rating_count": 2470
-    },
-    {
-      "id": "6503636810",
-      "rank": 74,
-      "name": "Screw Match®: ASMR Game",
-      "developer": "BESTPLAY GAMES PTE. LTD.",
-      "url": "https://apps.apple.com/us/app/id6503636810",
-      "first_seen": "2026-10-13",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 74
-        }
-      ],
-      "rating_count": 14343
-    },
-    {
-      "id": "467623653",
-      "rank": 51,
-      "name": "Los Angeles Rams",
-      "developer": "The Los Angeles Rams, LLC",
-      "url": "https://apps.apple.com/us/app/id467623653",
-      "first_seen": "2026-10-13",
+      "name": "Football Live Scores, Fixtures",
+      "developer": "digital roots technologies",
+      "url": "https://apps.apple.com/us/app/id6745244919",
+      "first_seen": "2026-10-14",
       "charts": [
         {
           "category": "Sports",
-          "rank": 51
+          "rank": 72
         }
       ],
-      "rating_count": 405
+      "rating_count": 1106
     },
     {
-      "id": "6450125219",
+      "id": "1047007072",
+      "rank": 74,
+      "name": "Boom – Sports Picks & Games",
+      "developer": "Boom Shakalaka",
+      "url": "https://apps.apple.com/us/app/id1047007072",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 74
+        }
+      ],
+      "rating_count": 14401
+    },
+    {
+      "id": "6790498725",
+      "rank": 78,
+      "name": "Athlete Merch: Get Your Store",
+      "developer": "Athlete Merch LLC",
+      "url": "https://apps.apple.com/us/app/id6790498725",
+      "first_seen": "2026-10-14",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 78
+        }
+      ],
+      "rating_count": 21
+    },
+    {
+      "id": "1024506667",
       "rank": 83,
-      "name": "Ball AI - Basketball Training",
-      "developer": "Automatic AI, LLC",
-      "url": "https://apps.apple.com/us/app/id6450125219",
-      "first_seen": "2026-10-13",
+      "name": "UEFA Champions League Official",
+      "developer": "UEFA",
+      "url": "https://apps.apple.com/us/app/id1024506667",
+      "first_seen": "2026-10-14",
       "charts": [
         {
           "category": "Sports",
           "rank": 83
         }
       ],
-      "rating_count": 6330
+      "rating_count": 14184
     },
     {
-      "id": "1196387238",
-      "rank": 86,
-      "name": "UConn Huskies",
-      "developer": "IMG College, LLC",
-      "url": "https://apps.apple.com/us/app/id1196387238",
-      "first_seen": "2026-10-13",
+      "id": "356928178",
+      "rank": 99,
+      "name": "LiveScore: Live Sports Scores",
+      "developer": "LiveScore Ltd.",
+      "url": "https://apps.apple.com/us/app/id356928178",
+      "first_seen": "2026-10-14",
       "charts": [
         {
           "category": "Sports",
-          "rank": 86
+          "rank": 99
         }
       ],
-      "rating_count": 158
+      "rating_count": 49785
     },
     {
-      "id": "6760445381",
-      "rank": 95,
-      "name": "GoalPulse: Live Football",
-      "developer": "Vu Thi Hanh",
-      "url": "https://apps.apple.com/us/app/id6760445381",
-      "first_seen": "2026-10-13",
+      "id": "474874963",
+      "rank": 72,
+      "name": "SmartHub",
+      "developer": "National Information Solutions Cooperative",
+      "url": "https://apps.apple.com/us/app/id474874963",
+      "first_seen": "2026-10-14",
       "charts": [
         {
-          "category": "Sports",
-          "rank": 95
+          "category": "Utilities",
+          "rank": 72
         }
       ],
-      "rating_count": 2
+      "rating_count": 2006
     },
     {
-      "id": "491796218",
+      "id": "6759697123",
       "rank": 100,
-      "name": "GHIN: Handicap Index® & GPS",
-      "developer": "United States Golf Association",
-      "url": "https://apps.apple.com/us/app/id491796218",
-      "first_seen": "2026-10-13",
+      "name": "SmartClean AI: Storage Cleaner",
+      "developer": "AMOBEAR GROUP",
+      "url": "https://apps.apple.com/us/app/id6759697123",
+      "first_seen": "2026-10-14",
       "charts": [
         {
-          "category": "Sports",
+          "category": "Utilities",
           "rank": 100
         }
       ],
-      "rating_count": 20655
+      "rating_count": 1578
     },
     {
-      "id": "1571680865",
-      "rank": 36,
-      "name": "Publer: Social Media Tools",
-      "developer": "Kalemi LLC",
-      "url": "https://apps.apple.com/us/app/id1571680865",
-      "first_seen": "2026-10-13",
+      "id": "6776880905",
+      "rank": 70,
+      "name": "Sonny Angel APP",
+      "developer": "Dreams Inc. (Apps)",
+      "url": "https://apps.apple.com/us/app/id6776880905",
+      "first_seen": "2026-10-14",
       "charts": [
         {
           "category": "Social Networking",
-          "rank": 36
+          "rank": 70
         }
       ],
-      "rating_count": 26509
+      "rating_count": 0
     },
     {
-      "id": "6443539443",
-      "rank": 87,
-      "name": "Followers+ Unfollowers Tracker",
-      "developer": "Engin Oguz Kocu",
-      "url": "https://apps.apple.com/us/app/id6443539443",
-      "first_seen": "2026-10-13",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 87
-        }
-      ],
-      "rating_count": 105
-    },
-    {
-      "id": "6774066151",
-      "rank": 89,
-      "name": "Focusly: Screen Time",
-      "developer": "亚楠 魏",
-      "url": "https://apps.apple.com/us/app/id6774066151",
-      "first_seen": "2026-10-13",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 89
-        }
-      ],
-      "rating_count": 31
-    },
-    {
-      "id": "6773997073",
-      "rank": 92,
-      "name": "Send Faxes: Receive Doc & PDF",
-      "developer": "变卿 李",
-      "url": "https://apps.apple.com/us/app/id6773997073",
-      "first_seen": "2026-10-13",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 92
-        }
-      ],
-      "rating_count": 62
-    },
-    {
-      "id": "6779907962",
-      "rank": 98,
-      "name": "PhotoFun: Editor & Collage",
-      "developer": "弼凯 尹",
-      "url": "https://apps.apple.com/us/app/id6779907962",
-      "first_seen": "2026-10-13",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 98
-        }
-      ],
-      "rating_count": 12
-    },
-    {
-      "id": "6443405421",
-      "rank": 39,
-      "name": "Mnet Plus",
-      "developer": "CJ ENM Co., Ltd.",
-      "url": "https://apps.apple.com/us/app/id6443405421",
-      "first_seen": "2026-10-13",
+      "id": "926058555",
+      "rank": 68,
+      "name": "Atom - Movie Tickets & Times",
+      "developer": "Atom Tickets, LLC",
+      "url": "https://apps.apple.com/us/app/id926058555",
+      "first_seen": "2026-10-14",
       "charts": [
         {
           "category": "Entertainment",
-          "rank": 39
+          "rank": 68
         }
       ],
-      "rating_count": 1532
-    },
-    {
-      "id": "6756119747",
-      "rank": 98,
-      "name": "Scratch Party: Earn Real Money",
-      "developer": "MAGIC PLAY YAZILIM LIMITED SIRKETI",
-      "url": "https://apps.apple.com/us/app/id6756119747",
-      "first_seen": "2026-10-13",
-      "charts": [
-        {
-          "category": "Casino",
-          "rank": 98
-        }
-      ],
-      "rating_count": 269
+      "rating_count": 185277
     }
   ],
   "errors": {},
@@ -265,5 +235,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-10-13T09:17:12.634768+02:00"
+  "ratings_checked_at": "2026-10-14T09:17:15.126139+02:00"
 }
