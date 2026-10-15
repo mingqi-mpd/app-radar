@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,196 +8,406 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-09-14",
-  "comparison_to": "2026-10-13",
-  "retained_from": "2026-09-15",
-  "history_days": 16,
-  "complete_history_days": 16,
+  "comparison_from": "2026-09-15",
+  "comparison_to": "2026-10-14",
+  "retained_from": "2026-09-16",
+  "history_days": 17,
+  "complete_history_days": 17,
   "incomplete_history_dates": [],
-  "unrecorded_history_days": 14,
+  "unrecorded_history_days": 13,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 790,
+  "observed_count": 792,
   "leads": [
     {
-      "id": "1360342813",
-      "rank": 10,
-      "name": "Valley Bank - Mobile",
-      "developer": "Valley National Bank Mobile",
-      "url": "https://apps.apple.com/us/app/id1360342813",
-      "first_seen": "2026-10-14",
+      "id": "6795197434",
+      "rank": 90,
+      "name": "Self-Help Credit Union Mobile",
+      "developer": "Self-Help Credit Union",
+      "url": "https://apps.apple.com/us/app/id6795197434",
+      "first_seen": "2026-10-15",
       "charts": [
         {
           "category": "Finance",
-          "rank": 10
-        }
-      ],
-      "rating_count": 901
-    },
-    {
-      "id": "6758651960",
-      "rank": 93,
-      "name": "ScratchJoy",
-      "developer": "LOJA PARAISO LTDA",
-      "url": "https://apps.apple.com/us/app/id6758651960",
-      "first_seen": "2026-10-14",
-      "charts": [
-        {
-          "category": "Casino",
-          "rank": 93
-        }
-      ],
-      "rating_count": 2623
-    },
-    {
-      "id": "918263528",
-      "rank": 47,
-      "name": "DSW Designer Shoe Warehouse",
-      "developer": "DSW Inc",
-      "url": "https://apps.apple.com/us/app/id918263528",
-      "first_seen": "2026-10-14",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 47
-        }
-      ],
-      "rating_count": 831391
-    },
-    {
-      "id": "6745244919",
-      "rank": 72,
-      "name": "Football Live Scores, Fixtures",
-      "developer": "digital roots technologies",
-      "url": "https://apps.apple.com/us/app/id6745244919",
-      "first_seen": "2026-10-14",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 72
-        }
-      ],
-      "rating_count": 1106
-    },
-    {
-      "id": "1047007072",
-      "rank": 74,
-      "name": "Boom – Sports Picks & Games",
-      "developer": "Boom Shakalaka",
-      "url": "https://apps.apple.com/us/app/id1047007072",
-      "first_seen": "2026-10-14",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 74
-        }
-      ],
-      "rating_count": 14401
-    },
-    {
-      "id": "6790498725",
-      "rank": 78,
-      "name": "Athlete Merch: Get Your Store",
-      "developer": "Athlete Merch LLC",
-      "url": "https://apps.apple.com/us/app/id6790498725",
-      "first_seen": "2026-10-14",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 78
-        }
-      ],
-      "rating_count": 21
-    },
-    {
-      "id": "1024506667",
-      "rank": 83,
-      "name": "UEFA Champions League Official",
-      "developer": "UEFA",
-      "url": "https://apps.apple.com/us/app/id1024506667",
-      "first_seen": "2026-10-14",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 83
-        }
-      ],
-      "rating_count": 14184
-    },
-    {
-      "id": "356928178",
-      "rank": 99,
-      "name": "LiveScore: Live Sports Scores",
-      "developer": "LiveScore Ltd.",
-      "url": "https://apps.apple.com/us/app/id356928178",
-      "first_seen": "2026-10-14",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 99
-        }
-      ],
-      "rating_count": 49785
-    },
-    {
-      "id": "474874963",
-      "rank": 72,
-      "name": "SmartHub",
-      "developer": "National Information Solutions Cooperative",
-      "url": "https://apps.apple.com/us/app/id474874963",
-      "first_seen": "2026-10-14",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 72
-        }
-      ],
-      "rating_count": 2006
-    },
-    {
-      "id": "6759697123",
-      "rank": 100,
-      "name": "SmartClean AI: Storage Cleaner",
-      "developer": "AMOBEAR GROUP",
-      "url": "https://apps.apple.com/us/app/id6759697123",
-      "first_seen": "2026-10-14",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 100
-        }
-      ],
-      "rating_count": 1578
-    },
-    {
-      "id": "6776880905",
-      "rank": 70,
-      "name": "Sonny Angel APP",
-      "developer": "Dreams Inc. (Apps)",
-      "url": "https://apps.apple.com/us/app/id6776880905",
-      "first_seen": "2026-10-14",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 70
+          "rank": 90
         }
       ],
       "rating_count": 0
     },
     {
-      "id": "926058555",
+      "id": "940247939",
+      "rank": 98,
+      "name": "TurboTax: File Your Tax Return",
+      "developer": "Intuit Inc.",
+      "url": "https://apps.apple.com/us/app/id940247939",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 98
+        }
+      ],
+      "rating_count": 937919
+    },
+    {
+      "id": "1623228342",
+      "rank": 100,
+      "name": "Link: A smarter way to pay",
+      "developer": "Stripe, LLC",
+      "url": "https://apps.apple.com/us/app/id1623228342",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 100
+        }
+      ],
+      "rating_count": 69
+    },
+    {
+      "id": "6814893088",
+      "rank": 26,
+      "name": "Festival Foods Rewards",
+      "developer": "SKOGEN'S FOODLINER, INC.",
+      "url": "https://apps.apple.com/us/app/id6814893088",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 26
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "1495746988",
+      "rank": 86,
+      "name": "Nintendo Store",
+      "developer": "Nintendo Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id1495746988",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 86
+        }
+      ],
+      "rating_count": 175
+    },
+    {
+      "id": "934030757",
+      "rank": 96,
+      "name": "Foot Locker - Shop Releases",
+      "developer": "Foot Locker Retail, Inc.",
+      "url": "https://apps.apple.com/us/app/id934030757",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 96
+        }
+      ],
+      "rating_count": 178594
+    },
+    {
+      "id": "6670496149",
+      "rank": 96,
+      "name": "MONOPOLY Casino: Real Money",
+      "developer": "Bally's Interactive",
+      "url": "https://apps.apple.com/us/app/id6670496149",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 96
+        }
+      ],
+      "rating_count": 8018
+    },
+    {
+      "id": "6803865497",
+      "rank": 97,
+      "name": "Spinly Coin Quest-Casino Slots",
+      "developer": "Everlight Forge Studios",
+      "url": "https://apps.apple.com/us/app/id6803865497",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 97
+        }
+      ],
+      "rating_count": 339
+    },
+    {
+      "id": "6760796215",
+      "rank": 75,
+      "name": "Little Kitty, Big City",
+      "developer": "Double Dagger Studio",
+      "url": "https://apps.apple.com/us/app/id6760796215",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 75
+        }
+      ],
+      "rating_count": 165
+    },
+    {
+      "id": "6740043080",
+      "rank": 90,
+      "name": "Screwdom",
+      "developer": "Zego Global Pte Ltd",
+      "url": "https://apps.apple.com/us/app/id6740043080",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 90
+        }
+      ],
+      "rating_count": 115266
+    },
+    {
+      "id": "6757407113",
+      "rank": 92,
+      "name": "Yes, Your Grace 2: Snowfall",
+      "developer": "Noodlecake",
+      "url": "https://apps.apple.com/us/app/id6757407113",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 92
+        }
+      ],
+      "rating_count": 31
+    },
+    {
+      "id": "529479190",
+      "rank": 97,
+      "name": "Clash of Clans",
+      "developer": "Supercell",
+      "url": "https://apps.apple.com/us/app/id529479190",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 97
+        }
+      ],
+      "rating_count": 2785054
+    },
+    {
+      "id": "6753231319",
+      "rank": 96,
+      "name": "سوريا لايف",
+      "developer": "Ahmed Naeim",
+      "url": "https://apps.apple.com/us/app/id6753231319",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 96
+        }
+      ],
+      "rating_count": 810
+    },
+    {
+      "id": "6817265244",
+      "rank": 48,
+      "name": "Poli - AI Chat & Stories",
+      "developer": "TALHA PAKDIL",
+      "url": "https://apps.apple.com/us/app/id6817265244",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 48
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6740326134",
+      "rank": 63,
+      "name": "Talkie Lab - AI Playground",
+      "developer": "SUBSUP PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6740326134",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 63
+        }
+      ],
+      "rating_count": 59404
+    },
+    {
+      "id": "6758488675",
       "rank": 68,
-      "name": "Atom - Movie Tickets & Times",
-      "developer": "Atom Tickets, LLC",
-      "url": "https://apps.apple.com/us/app/id926058555",
-      "first_seen": "2026-10-14",
+      "name": "EMOCHI World: AI Story Chat",
+      "developer": "MESORA PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6758488675",
+      "first_seen": "2026-10-15",
       "charts": [
         {
           "category": "Entertainment",
           "rank": 68
         }
       ],
-      "rating_count": 185277
+      "rating_count": 10393
+    },
+    {
+      "id": "513829338",
+      "rank": 94,
+      "name": "大麦 - 电影、演出、体育购票平台",
+      "developer": "Beijing Damai Cultural Media Development Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id513829338",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 94
+        }
+      ],
+      "rating_count": 438
+    },
+    {
+      "id": "6447806780",
+      "rank": 63,
+      "name": "HiWaifu: AI Character Chat",
+      "developer": "LANGUAGE POWER MEDIA LIMITED",
+      "url": "https://apps.apple.com/us/app/id6447806780",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 63
+        }
+      ],
+      "rating_count": 2874
+    },
+    {
+      "id": "6740636919",
+      "rank": 74,
+      "name": "Ramble: Group Chats",
+      "developer": "ChatBCC, Inc.",
+      "url": "https://apps.apple.com/us/app/id6740636919",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 74
+        }
+      ],
+      "rating_count": 1304
+    },
+    {
+      "id": "1586018825",
+      "rank": 91,
+      "name": "Truth Social",
+      "developer": "T Media Tech LLC",
+      "url": "https://apps.apple.com/us/app/id1586018825",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 91
+        }
+      ],
+      "rating_count": 118384
+    },
+    {
+      "id": "1498889847",
+      "rank": 93,
+      "name": "Litmatch - Make new friends",
+      "developer": "CONSTRUCT TECHNOLOGY PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id1498889847",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 93
+        }
+      ],
+      "rating_count": 5142
+    },
+    {
+      "id": "1453880000",
+      "rank": 3,
+      "name": "Verizon Protect",
+      "developer": "Verizon Wireless",
+      "url": "https://apps.apple.com/us/app/id1453880000",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 3
+        }
+      ],
+      "rating_count": 45413
+    },
+    {
+      "id": "1618200738",
+      "rank": 58,
+      "name": "Nextline - Second Phone Number",
+      "developer": "GRAND APPS YAZILIM VE TEKNOLOJI ANONIM SIRKETI",
+      "url": "https://apps.apple.com/us/app/id1618200738",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 58
+        }
+      ],
+      "rating_count": 9418
+    },
+    {
+      "id": "6810599321",
+      "rank": 72,
+      "name": "MOC",
+      "developer": "Informatics and Telecommunications Public Company",
+      "url": "https://apps.apple.com/us/app/id6810599321",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 72
+        }
+      ],
+      "rating_count": 1
+    },
+    {
+      "id": "6754912718",
+      "rank": 87,
+      "name": "Fast Clean: AI Storage Cleaner",
+      "developer": "MARVELS NETWORK TECHNOLOGY LIMITED.CO",
+      "url": "https://apps.apple.com/us/app/id6754912718",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 87
+        }
+      ],
+      "rating_count": 18
+    },
+    {
+      "id": "6560113660",
+      "rank": 95,
+      "name": "NumberBox:CallerID",
+      "developer": "Marvan Salemi",
+      "url": "https://apps.apple.com/us/app/id6560113660",
+      "first_seen": "2026-10-15",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 95
+        }
+      ],
+      "rating_count": 547
     }
   ],
   "errors": {},
@@ -235,5 +445,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-10-14T09:17:15.126139+02:00"
+  "ratings_checked_at": "2026-10-15T09:17:15.242633+02:00"
 }
