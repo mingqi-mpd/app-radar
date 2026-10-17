@@ -1,0 +1,359 @@
+{
+  "date": "2026-10-17",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-09-17",
+  "comparison_to": "2026-10-16",
+  "retained_from": "2026-09-18",
+  "history_days": 19,
+  "complete_history_days": 19,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 11,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 794,
+  "leads": [
+    {
+      "id": "339041767",
+      "rank": 41,
+      "name": "Abercrombie & Fitch",
+      "developer": "Abercrombie & Fitch",
+      "url": "https://apps.apple.com/us/app/id339041767",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 41
+        }
+      ],
+      "rating_count": 334587
+    },
+    {
+      "id": "1368715736",
+      "rank": 93,
+      "name": "Petco: The Pet Parents Partner",
+      "developer": "PETCO Animal Supplies Stores, Inc.",
+      "url": "https://apps.apple.com/us/app/id1368715736",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 93
+        }
+      ],
+      "rating_count": 419174
+    },
+    {
+      "id": "6793476890",
+      "rank": 20,
+      "name": "Express Treasure:West Wild",
+      "developer": "Hefei Luyin Network Technology Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id6793476890",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 20
+        }
+      ],
+      "rating_count": 253
+    },
+    {
+      "id": "6738472608",
+      "rank": 85,
+      "name": "Solitaire Manor: Win Cash",
+      "developer": "Pulse Works Limited",
+      "url": "https://apps.apple.com/us/app/id6738472608",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 85
+        }
+      ],
+      "rating_count": 3764
+    },
+    {
+      "id": "6464775761",
+      "rank": 31,
+      "name": "Garmin Kansas City Marathon",
+      "developer": "Greater Kansas City Sports Commission",
+      "url": "https://apps.apple.com/us/app/id6464775761",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 31
+        }
+      ],
+      "rating_count": 5
+    },
+    {
+      "id": "723302709",
+      "rank": 59,
+      "name": "Pelota Invernal",
+      "developer": "Kiskoo",
+      "url": "https://apps.apple.com/us/app/id723302709",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 59
+        }
+      ],
+      "rating_count": 76
+    },
+    {
+      "id": "6746397608",
+      "rank": 84,
+      "name": "305+ Network",
+      "developer": "305PlusNetwork",
+      "url": "https://apps.apple.com/us/app/id6746397608",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 84
+        }
+      ],
+      "rating_count": 15
+    },
+    {
+      "id": "799017226",
+      "rank": 86,
+      "name": "RTRT.me",
+      "developer": "Dilltree Inc",
+      "url": "https://apps.apple.com/us/app/id799017226",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 86
+        }
+      ],
+      "rating_count": 1414
+    },
+    {
+      "id": "1579763409",
+      "rank": 88,
+      "name": "SVE Live!",
+      "developer": "Dilltree Inc",
+      "url": "https://apps.apple.com/us/app/id1579763409",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 88
+        }
+      ],
+      "rating_count": 178
+    },
+    {
+      "id": "1580628679",
+      "rank": 92,
+      "name": "NASCAR Tracks",
+      "developer": "NASCAR Digital Media, LLC",
+      "url": "https://apps.apple.com/us/app/id1580628679",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 92
+        }
+      ],
+      "rating_count": 315
+    },
+    {
+      "id": "1050497105",
+      "rank": 100,
+      "name": "Go Outdoors GA",
+      "developer": "GADNR",
+      "url": "https://apps.apple.com/us/app/id1050497105",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 100
+        }
+      ],
+      "rating_count": 349
+    },
+    {
+      "id": "6757860952",
+      "rank": 20,
+      "name": "9 Kings",
+      "developer": "Playdigious",
+      "url": "https://apps.apple.com/us/app/id6757860952",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 20
+        }
+      ],
+      "rating_count": 277
+    },
+    {
+      "id": "6504421808",
+      "rank": 96,
+      "name": "Car Match - Traffic Puzzle",
+      "developer": "Grand Games A.Ş.",
+      "url": "https://apps.apple.com/us/app/id6504421808",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 96
+        }
+      ],
+      "rating_count": 116327
+    },
+    {
+      "id": "6747710694",
+      "rank": 98,
+      "name": "Bulldozer Master: Crush & Mine",
+      "developer": "Supercent, Inc.",
+      "url": "https://apps.apple.com/us/app/id6747710694",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 98
+        }
+      ],
+      "rating_count": 6999
+    },
+    {
+      "id": "6801135514",
+      "rank": 76,
+      "name": "Cash Advance & Money Borrowing",
+      "developer": "BIOEN GROUP d.o.o.",
+      "url": "https://apps.apple.com/us/app/id6801135514",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 76
+        }
+      ],
+      "rating_count": 27
+    },
+    {
+      "id": "6802560614",
+      "rank": 82,
+      "name": "Nivaro Private Browser",
+      "developer": "Baklajan for search LTD",
+      "url": "https://apps.apple.com/us/app/id6802560614",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 82
+        }
+      ],
+      "rating_count": 6
+    },
+    {
+      "id": "1486781691",
+      "rank": 48,
+      "name": "MU Fan",
+      "developer": "Choicely Oy",
+      "url": "https://apps.apple.com/us/app/id1486781691",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 48
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "843423849",
+      "rank": 73,
+      "name": "Tixr - Event Tickets",
+      "developer": "Tixr, Inc.",
+      "url": "https://apps.apple.com/us/app/id843423849",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 73
+        }
+      ],
+      "rating_count": 13264
+    },
+    {
+      "id": "6776506102",
+      "rank": 77,
+      "name": "Tizani",
+      "developer": "TIZANI LLC",
+      "url": "https://apps.apple.com/us/app/id6776506102",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 77
+        }
+      ],
+      "rating_count": 4
+    },
+    {
+      "id": "6754717708",
+      "rank": 92,
+      "name": "Ryuu App",
+      "developer": "The Ryuu",
+      "url": "https://apps.apple.com/us/app/id6754717708",
+      "first_seen": "2026-10-17",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 92
+        }
+      ],
+      "rating_count": 19
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-10-17T09:17:15.061030+02:00"
+}
