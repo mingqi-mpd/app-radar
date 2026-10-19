@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,151 +8,226 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-09-18",
-  "comparison_to": "2026-10-17",
-  "retained_from": "2026-09-19",
-  "history_days": 20,
-  "complete_history_days": 20,
+  "comparison_from": "2026-09-19",
+  "comparison_to": "2026-10-18",
+  "retained_from": "2026-09-20",
+  "history_days": 21,
+  "complete_history_days": 21,
   "incomplete_history_dates": [],
-  "unrecorded_history_days": 10,
+  "unrecorded_history_days": 9,
   "complete": true,
   "is_baseline": false,
   "observed_count": 796,
   "leads": [
     {
-      "id": "1438006983",
-      "rank": 34,
-      "name": "Step: All-In-One Money App",
-      "developer": "Step Mobile Inc.",
-      "url": "https://apps.apple.com/us/app/id1438006983",
-      "first_seen": "2026-10-18",
+      "id": "6768162339",
+      "rank": 49,
+      "name": "TDB",
+      "developer": "Trade and Development Bank of Mongolia",
+      "url": "https://apps.apple.com/us/app/id6768162339",
+      "first_seen": "2026-10-19",
       "charts": [
         {
           "category": "Finance",
-          "rank": 34
+          "rank": 49
         }
       ],
-      "rating_count": 82097
+      "rating_count": 0
     },
     {
-      "id": "1525101476",
+      "id": "1008234539",
+      "rank": 90,
+      "name": "Capital One CreditWise",
+      "developer": "Capital One",
+      "url": "https://apps.apple.com/us/app/id1008234539",
+      "first_seen": "2026-10-19",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 90
+        }
+      ],
+      "rating_count": 309881
+    },
+    {
+      "id": "1156875272",
       "rank": 100,
-      "name": "Beem: Cash Advance & Banking",
-      "developer": "Line Financial, Pbc",
-      "url": "https://apps.apple.com/us/app/id1525101476",
-      "first_seen": "2026-10-18",
+      "name": "Suica",
+      "developer": "East Japan Railway Company",
+      "url": "https://apps.apple.com/us/app/id1156875272",
+      "first_seen": "2026-10-19",
       "charts": [
         {
           "category": "Finance",
           "rank": 100
         }
       ],
-      "rating_count": 33455
+      "rating_count": 417
     },
     {
-      "id": "1553777064",
-      "rank": 84,
-      "name": "Exposed - Who's Most Likely To",
-      "developer": "vysgames",
-      "url": "https://apps.apple.com/us/app/id1553777064",
-      "first_seen": "2026-10-18",
+      "id": "1481624020",
+      "rank": 93,
+      "name": "Levi's - Shop Denim & More",
+      "developer": "LEVI STRAUSS & CO.",
+      "url": "https://apps.apple.com/us/app/id1481624020",
+      "first_seen": "2026-10-19",
       "charts": [
         {
-          "category": "Games",
-          "rank": 84
+          "category": "Shopping",
+          "rank": 93
         }
       ],
-      "rating_count": 234354
+      "rating_count": 64528
     },
     {
-      "id": "1486214495",
-      "rank": 97,
-      "name": "Brain Test: Tricky Puzzles",
-      "developer": "UNICO STUDIO",
-      "url": "https://apps.apple.com/us/app/id1486214495",
-      "first_seen": "2026-10-18",
+      "id": "756857928",
+      "rank": 98,
+      "name": "Borgata Casino - Real Money",
+      "developer": "BetMGM",
+      "url": "https://apps.apple.com/us/app/id756857928",
+      "first_seen": "2026-10-19",
       "charts": [
         {
-          "category": "Games",
-          "rank": 97
+          "category": "Casino",
+          "rank": 98
         }
       ],
-      "rating_count": 1472009
+      "rating_count": 53200
     },
     {
-      "id": "1109373392",
-      "rank": 36,
-      "name": "IMT® Des Moines Marathon",
-      "developer": "Des Moines Marathon",
-      "url": "https://apps.apple.com/us/app/id1109373392",
-      "first_seen": "2026-10-18",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 36
-        }
-      ],
-      "rating_count": 53
-    },
-    {
-      "id": "1516658187",
-      "rank": 68,
-      "name": "Miami Hurricanes",
-      "developer": "WEBME TECHNOLOGIES LLC",
-      "url": "https://apps.apple.com/us/app/id1516658187",
-      "first_seen": "2026-10-18",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 68
-        }
-      ],
-      "rating_count": 86
-    },
-    {
-      "id": "6742205147",
+      "id": "6788647921",
       "rank": 100,
-      "name": "Second Wind Timing",
-      "developer": "Mobee Event Apps",
-      "url": "https://apps.apple.com/us/app/id6742205147",
-      "first_seen": "2026-10-18",
+      "name": "Catedrop: Card Puzzle",
+      "developer": "GOODROID,Inc.",
+      "url": "https://apps.apple.com/us/app/id6788647921",
+      "first_seen": "2026-10-19",
       "charts": [
         {
-          "category": "Sports",
+          "category": "Games",
           "rank": 100
         }
       ],
-      "rating_count": 5
+      "rating_count": 4684
     },
     {
-      "id": "6748944136",
-      "rank": 60,
-      "name": "MediaTV Box+",
-      "developer": "Dhodi Nimesh Prakash",
-      "url": "https://apps.apple.com/us/app/id6748944136",
-      "first_seen": "2026-10-18",
+      "id": "1623819221",
+      "rank": 76,
+      "name": "TCS Toronto WaterfrontMarathon",
+      "developer": "Tata Consultancy Services",
+      "url": "https://apps.apple.com/us/app/id1623819221",
+      "first_seen": "2026-10-19",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 76
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6449944134",
+      "rank": 80,
+      "name": "Eurovision Sport",
+      "developer": "Nagravision S.A.",
+      "url": "https://apps.apple.com/us/app/id6449944134",
+      "first_seen": "2026-10-19",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 80
+        }
+      ],
+      "rating_count": 43
+    },
+    {
+      "id": "723134849",
+      "rank": 94,
+      "name": "HOCR",
+      "developer": "Stack Sports",
+      "url": "https://apps.apple.com/us/app/id723134849",
+      "first_seen": "2026-10-19",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 94
+        }
+      ],
+      "rating_count": 18
+    },
+    {
+      "id": "6785443638",
+      "rank": 44,
+      "name": "Truba messenger",
+      "developer": "Maksim Slobodianiuk",
+      "url": "https://apps.apple.com/us/app/id6785443638",
+      "first_seen": "2026-10-19",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 44
+        }
+      ],
+      "rating_count": 18
+    },
+    {
+      "id": "1199811908",
+      "rank": 99,
+      "name": "Slowly: Make Global Friends",
+      "developer": "Slowly Communications Ltd.",
+      "url": "https://apps.apple.com/us/app/id1199811908",
+      "first_seen": "2026-10-19",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 99
+        }
+      ],
+      "rating_count": 11189
+    },
+    {
+      "id": "6798146537",
+      "rank": 77,
+      "name": "ReadQR & Barcode Creator",
+      "developer": "Fuzhou Moxing Technology Co., Ltd",
+      "url": "https://apps.apple.com/us/app/id6798146537",
+      "first_seen": "2026-10-19",
       "charts": [
         {
           "category": "Utilities",
-          "rank": 60
+          "rank": 77
         }
       ],
-      "rating_count": 40
+      "rating_count": 3
     },
     {
-      "id": "1473663873",
-      "rank": 75,
-      "name": "Angel: Stream TV & Movies",
-      "developer": "Angel Studios, Inc.",
-      "url": "https://apps.apple.com/us/app/id1473663873",
-      "first_seen": "2026-10-18",
+      "id": "6443559566",
+      "rank": 87,
+      "name": "Boost Cleaner",
+      "developer": "THREE PANDA DIGITAL LIMITED",
+      "url": "https://apps.apple.com/us/app/id6443559566",
+      "first_seen": "2026-10-19",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 87
+        }
+      ],
+      "rating_count": 43
+    },
+    {
+      "id": "6774291368",
+      "rank": 98,
+      "name": "Cupie: Call Games for Couples",
+      "developer": "People Make Things",
+      "url": "https://apps.apple.com/us/app/id6774291368",
+      "first_seen": "2026-10-19",
       "charts": [
         {
           "category": "Entertainment",
-          "rank": 75
+          "rank": 98
         }
       ],
-      "rating_count": 291440
+      "rating_count": 429
     }
   ],
   "errors": {},
@@ -190,5 +265,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-10-18T09:17:13.566229+02:00"
+  "ratings_checked_at": "2026-10-19T09:17:13.129290+02:00"
 }
