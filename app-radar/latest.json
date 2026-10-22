@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,241 +8,151 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-09-21",
-  "comparison_to": "2026-10-20",
-  "retained_from": "2026-09-22",
-  "history_days": 23,
-  "complete_history_days": 23,
+  "comparison_from": "2026-09-22",
+  "comparison_to": "2026-10-21",
+  "retained_from": "2026-09-23",
+  "history_days": 24,
+  "complete_history_days": 24,
   "incomplete_history_dates": [],
-  "unrecorded_history_days": 7,
+  "unrecorded_history_days": 6,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 792,
+  "observed_count": 793,
   "leads": [
     {
-      "id": "6755833223",
-      "rank": 77,
-      "name": "SpinQuest Casino",
-      "developer": "SpinQuest",
-      "url": "https://apps.apple.com/us/app/id6755833223",
-      "first_seen": "2026-10-21",
-      "charts": [
-        {
-          "category": "Casino",
-          "rank": 77
-        }
-      ],
-      "rating_count": 22
-    },
-    {
-      "id": "1096925481",
-      "rank": 78,
-      "name": "True Religion | Since 2002",
-      "developer": "True Religion",
-      "url": "https://apps.apple.com/us/app/id1096925481",
-      "first_seen": "2026-10-21",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 78
-        }
-      ],
-      "rating_count": 50413
-    },
-    {
-      "id": "1420294918",
-      "rank": 50,
-      "name": "Wordscapes Search - Word Game",
-      "developer": "PeopleFun, Inc.",
-      "url": "https://apps.apple.com/us/app/id1420294918",
-      "first_seen": "2026-10-21",
+      "id": "1569776448",
+      "rank": 74,
+      "name": "Water Sort Puzzle: Get Color",
+      "developer": "Tripledot Studios",
+      "url": "https://apps.apple.com/us/app/id1569776448",
+      "first_seen": "2026-10-22",
       "charts": [
         {
           "category": "Games",
-          "rank": 50
-        }
-      ],
-      "rating_count": 189865
-    },
-    {
-      "id": "775446770",
-      "rank": 74,
-      "name": "San Antonio Spurs",
-      "developer": "San Antonio Spurs LLC",
-      "url": "https://apps.apple.com/us/app/id775446770",
-      "first_seen": "2026-10-21",
-      "charts": [
-        {
-          "category": "Sports",
           "rank": 74
         }
       ],
-      "rating_count": 6599
+      "rating_count": 145707
     },
     {
-      "id": "498010853",
-      "rank": 75,
-      "name": "New York Knicks Official App",
-      "developer": "Sphere Entertainment Group, LLC",
-      "url": "https://apps.apple.com/us/app/id498010853",
-      "first_seen": "2026-10-21",
+      "id": "1573039936",
+      "rank": 89,
+      "name": "Speed Stars",
+      "developer": "Miniclip.com",
+      "url": "https://apps.apple.com/us/app/id1573039936",
+      "first_seen": "2026-10-22",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 89
+        }
+      ],
+      "rating_count": 40412
+    },
+    {
+      "id": "1615818085",
+      "rank": 78,
+      "name": "Uber Pro Card",
+      "developer": "Branch Messenger Inc.",
+      "url": "https://apps.apple.com/us/app/id1615818085",
+      "first_seen": "2026-10-22",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 78
+        }
+      ],
+      "rating_count": 225268
+    },
+    {
+      "id": "6765572307",
+      "rank": 43,
+      "name": "Arizona's Family Sports",
+      "developer": "Gray Local Media",
+      "url": "https://apps.apple.com/us/app/id6765572307",
+      "first_seen": "2026-10-22",
       "charts": [
         {
           "category": "Sports",
-          "rank": 75
+          "rank": 43
         }
       ],
-      "rating_count": 2952
+      "rating_count": 124
     },
     {
-      "id": "1666406171",
-      "rank": 77,
-      "name": "All Ball - Sports Management",
-      "developer": "All Ball LLC",
-      "url": "https://apps.apple.com/us/app/id1666406171",
-      "first_seen": "2026-10-21",
+      "id": "6751831152",
+      "rank": 55,
+      "name": "SCHN+",
+      "developer": "SCHN",
+      "url": "https://apps.apple.com/us/app/id6751831152",
+      "first_seen": "2026-10-22",
       "charts": [
         {
           "category": "Sports",
-          "rank": 77
+          "rank": 55
         }
       ],
-      "rating_count": 82
+      "rating_count": 2613
     },
     {
-      "id": "784542009",
-      "rank": 88,
-      "name": "beIN CONNECT (MENA)",
-      "developer": "beIN Media Group, LLC",
-      "url": "https://apps.apple.com/us/app/id784542009",
-      "first_seen": "2026-10-21",
+      "id": "6800985744",
+      "rank": 72,
+      "name": "TFG LIVE : Chat, Video, Live",
+      "developer": "TFG LIVE LLC",
+      "url": "https://apps.apple.com/us/app/id6800985744",
+      "first_seen": "2026-10-22",
       "charts": [
         {
-          "category": "Sports",
-          "rank": 88
+          "category": "Social Networking",
+          "rank": 72
         }
       ],
-      "rating_count": 14637
+      "rating_count": 75
     },
     {
-      "id": "1585841527",
-      "rank": 92,
-      "name": "TOD by beIN",
-      "developer": "TOD for Advertising and Trade",
-      "url": "https://apps.apple.com/us/app/id1585841527",
-      "first_seen": "2026-10-21",
+      "id": "949731866",
+      "rank": 95,
+      "name": "NurseGrid Nurse Shift Calendar",
+      "developer": "HcT2 co",
+      "url": "https://apps.apple.com/us/app/id949731866",
+      "first_seen": "2026-10-22",
       "charts": [
         {
-          "category": "Sports",
-          "rank": 92
+          "category": "Social Networking",
+          "rank": 95
         }
       ],
-      "rating_count": 2572
+      "rating_count": 152293
     },
     {
-      "id": "6478971501",
-      "rank": 98,
-      "name": "Live Football TV. Soccer Score",
-      "developer": "Aleksandr Alekseev",
-      "url": "https://apps.apple.com/us/app/id6478971501",
-      "first_seen": "2026-10-21",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 98
-        }
-      ],
-      "rating_count": 17157
-    },
-    {
-      "id": "1115211914",
-      "rank": 100,
-      "name": "beIN SPORTS",
-      "developer": "beIN Media Group, LLC",
-      "url": "https://apps.apple.com/us/app/id1115211914",
-      "first_seen": "2026-10-21",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 100
-        }
-      ],
-      "rating_count": 54590
-    },
-    {
-      "id": "6740768613",
-      "rank": 96,
-      "name": "IPTV Smart Player, Live Stream",
-      "developer": "Muhammad Uzair Ajmal",
-      "url": "https://apps.apple.com/us/app/id6740768613",
-      "first_seen": "2026-10-21",
+      "id": "1565600312",
+      "rank": 89,
+      "name": "Quinn - Audio Stories",
+      "developer": "Quinn Inc",
+      "url": "https://apps.apple.com/us/app/id1565600312",
+      "first_seen": "2026-10-22",
       "charts": [
         {
           "category": "Entertainment",
-          "rank": 96
+          "rank": 89
         }
       ],
-      "rating_count": 1
+      "rating_count": 12487
     },
     {
-      "id": "6781202801",
-      "rank": 54,
-      "name": "PixelQR Scan",
-      "developer": "Fuzhou Zhiyue Interactive Technology Co.,Ltd",
-      "url": "https://apps.apple.com/us/app/id6781202801",
-      "first_seen": "2026-10-21",
+      "id": "6784092638",
+      "rank": 97,
+      "name": "Ringtone & Wallpaper: PlayTone",
+      "developer": "Viet Nam Tourism",
+      "url": "https://apps.apple.com/us/app/id6784092638",
+      "first_seen": "2026-10-22",
       "charts": [
         {
-          "category": "Utilities",
-          "rank": 54
+          "category": "Entertainment",
+          "rank": 97
         }
       ],
-      "rating_count": 6
-    },
-    {
-      "id": "6745624440",
-      "rank": 46,
-      "name": "CorsaView",
-      "developer": "Jason De Anda",
-      "url": "https://apps.apple.com/us/app/id6745624440",
-      "first_seen": "2026-10-21",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 46
-        }
-      ],
-      "rating_count": 67
-    },
-    {
-      "id": "6782858625",
-      "rank": 65,
-      "name": "Getting out Messaging",
-      "developer": "JTCounty OU",
-      "url": "https://apps.apple.com/us/app/id6782858625",
-      "first_seen": "2026-10-21",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 65
-        }
-      ],
-      "rating_count": 77
-    },
-    {
-      "id": "6782851928",
-      "rank": 81,
-      "name": "Get Now - Video Visit",
-      "developer": "LOTOS BALTICA SOLUTION, UAB",
-      "url": "https://apps.apple.com/us/app/id6782851928",
-      "first_seen": "2026-10-21",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 81
-        }
-      ],
-      "rating_count": 199
+      "rating_count": 1290
     }
   ],
   "errors": {},
@@ -280,5 +190,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-10-21T09:17:17.345307+02:00"
+  "ratings_checked_at": "2026-10-22T09:17:12.982202+02:00"
 }
