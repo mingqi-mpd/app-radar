@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,166 +8,91 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-09-24",
-  "comparison_to": "2026-10-23",
-  "retained_from": "2026-09-25",
-  "history_days": 26,
-  "complete_history_days": 26,
+  "comparison_from": "2026-09-25",
+  "comparison_to": "2026-10-24",
+  "retained_from": "2026-09-26",
+  "history_days": 27,
+  "complete_history_days": 27,
   "incomplete_history_dates": [],
-  "unrecorded_history_days": 4,
+  "unrecorded_history_days": 3,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 794,
+  "observed_count": 795,
   "leads": [
     {
-      "id": "6560107504",
-      "rank": 41,
-      "name": "Manhunt: Hide & Seek",
-      "developer": "Integrated Reality Labs Inc.",
-      "url": "https://apps.apple.com/us/app/id6560107504",
-      "first_seen": "2026-10-24",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 41
-        }
-      ],
-      "rating_count": 149
-    },
-    {
-      "id": "839711154",
-      "rank": 85,
-      "name": "Inter: Banking, credit card",
-      "developer": "Banco Inter",
-      "url": "https://apps.apple.com/us/app/id839711154",
-      "first_seen": "2026-10-24",
-      "charts": [
-        {
-          "category": "Finance",
-          "rank": 85
-        }
-      ],
-      "rating_count": 23793
-    },
-    {
-      "id": "563316826",
-      "rank": 70,
-      "name": "Spectrum SportsNet: Live Games",
-      "developer": "Charter Communications",
-      "url": "https://apps.apple.com/us/app/id563316826",
-      "first_seen": "2026-10-24",
+      "id": "534568162",
+      "rank": 95,
+      "name": "UFC",
+      "developer": "UFC® - The Ultimate Fighting Championship®",
+      "url": "https://apps.apple.com/us/app/id534568162",
+      "first_seen": "2026-10-25",
       "charts": [
         {
           "category": "Sports",
-          "rank": 70
+          "rank": 95
         }
       ],
-      "rating_count": 8676
+      "rating_count": 46974
     },
     {
-      "id": "1595675364",
-      "rank": 99,
-      "name": "Montana MyFWP",
-      "developer": "Montana Fish Wildlife & Parks",
-      "url": "https://apps.apple.com/us/app/id1595675364",
-      "first_seen": "2026-10-24",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 99
-        }
-      ],
-      "rating_count": 90
-    },
-    {
-      "id": "1232007355",
-      "rank": 100,
-      "name": "TeamSideline",
-      "developer": "Completely IT",
-      "url": "https://apps.apple.com/us/app/id1232007355",
-      "first_seen": "2026-10-24",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 100
-        }
-      ],
-      "rating_count": 385
-    },
-    {
-      "id": "1292363109",
-      "rank": 89,
-      "name": "The Children's Place",
-      "developer": "The Children's Place",
-      "url": "https://apps.apple.com/us/app/id1292363109",
-      "first_seen": "2026-10-24",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 89
-        }
-      ],
-      "rating_count": 279617
-    },
-    {
-      "id": "1076108089",
-      "rank": 92,
-      "name": "Five Below: Fun Finds & Deals",
-      "developer": "Five Below. Inc",
-      "url": "https://apps.apple.com/us/app/id1076108089",
-      "first_seen": "2026-10-24",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 92
-        }
-      ],
-      "rating_count": 66
-    },
-    {
-      "id": "542751329",
-      "rank": 98,
-      "name": "Albertsons: Grocery & Deals",
-      "developer": "Albertsons Companies, LLC",
-      "url": "https://apps.apple.com/us/app/id542751329",
-      "first_seen": "2026-10-24",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 98
-        }
-      ],
-      "rating_count": 604300
-    },
-    {
-      "id": "1640981560",
-      "rank": 96,
-      "name": "Guardio - Mobile Security",
-      "developer": "Guardio LTD",
-      "url": "https://apps.apple.com/us/app/id1640981560",
-      "first_seen": "2026-10-24",
+      "id": "6751911077",
+      "rank": 93,
+      "name": "منصة امين",
+      "developer": "Iraqi National Security Service",
+      "url": "https://apps.apple.com/us/app/id6751911077",
+      "first_seen": "2026-10-25",
       "charts": [
         {
           "category": "Utilities",
-          "rank": 96
+          "rank": 93
         }
       ],
-      "rating_count": 47043
+      "rating_count": 30
     },
     {
-      "id": "6751221598",
-      "rank": 68,
-      "name": "Kava TV",
-      "developer": "Filmhouse Inc.",
-      "url": "https://apps.apple.com/us/app/id6751221598",
-      "first_seen": "2026-10-24",
+      "id": "6484505984",
+      "rank": 73,
+      "name": "Whee - TikTok Chat",
+      "developer": "TikTok Ltd.",
+      "url": "https://apps.apple.com/us/app/id6484505984",
+      "first_seen": "2026-10-25",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 73
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "919745844",
+      "rank": 93,
+      "name": "IMVU: Fun 3D Avatar Chat Game",
+      "developer": "IMVU",
+      "url": "https://apps.apple.com/us/app/id919745844",
+      "first_seen": "2026-10-25",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 93
+        }
+      ],
+      "rating_count": 364582
+    },
+    {
+      "id": "6757948021",
+      "rank": 95,
+      "name": "Popia - AI Stories & Creators",
+      "developer": "METASTONE PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6757948021",
+      "first_seen": "2026-10-25",
       "charts": [
         {
           "category": "Entertainment",
-          "rank": 68
+          "rank": 95
         }
       ],
-      "rating_count": 88
+      "rating_count": 1686
     }
   ],
   "errors": {},
@@ -205,5 +130,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-10-24T09:17:14.099398+02:00"
+  "ratings_checked_at": "2026-10-25T09:17:13.483744+01:00"
 }
