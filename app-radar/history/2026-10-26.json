@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-26",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-09-26",
+  "comparison_to": "2026-10-25",
+  "retained_from": "2026-09-27",
+  "history_days": 28,
+  "complete_history_days": 28,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 2,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 794,
+  "leads": [
+    {
+      "id": "6476117215",
+      "rank": 100,
+      "name": "Money App - Cash Advance",
+      "developer": "PRG Ventures, Inc.",
+      "url": "https://apps.apple.com/us/app/id6476117215",
+      "first_seen": "2026-10-26",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 100
+        }
+      ],
+      "rating_count": 27778
+    },
+    {
+      "id": "6779541699",
+      "rank": 84,
+      "name": "CarLoop: Block Sort",
+      "developer": "UUTEAM Technology Limited",
+      "url": "https://apps.apple.com/us/app/id6779541699",
+      "first_seen": "2026-10-26",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 84
+        }
+      ],
+      "rating_count": 19065
+    },
+    {
+      "id": "6747298348",
+      "rank": 72,
+      "name": "AlHawa Najd",
+      "developer": "Mona Ali M AlShahrani",
+      "url": "https://apps.apple.com/us/app/id6747298348",
+      "first_seen": "2026-10-26",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 72
+        }
+      ],
+      "rating_count": 12
+    },
+    {
+      "id": "1387514950",
+      "rank": 72,
+      "name": "MGM+",
+      "developer": "EPIX Entertainment LLC",
+      "url": "https://apps.apple.com/us/app/id1387514950",
+      "first_seen": "2026-10-26",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 72
+        }
+      ],
+      "rating_count": 88418
+    },
+    {
+      "id": "437373394",
+      "rank": 94,
+      "name": "Pacsun",
+      "developer": "Pacific Sunwear",
+      "url": "https://apps.apple.com/us/app/id437373394",
+      "first_seen": "2026-10-26",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 94
+        }
+      ],
+      "rating_count": 66611
+    },
+    {
+      "id": "1022341873",
+      "rank": 97,
+      "name": "Blidz - Shop Deals, Save Money",
+      "developer": "Biddl Inc.",
+      "url": "https://apps.apple.com/us/app/id1022341873",
+      "first_seen": "2026-10-26",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 97
+        }
+      ],
+      "rating_count": 52293
+    },
+    {
+      "id": "6787884670",
+      "rank": 99,
+      "name": "Fast Rips",
+      "developer": "Fast Rips Inc",
+      "url": "https://apps.apple.com/us/app/id6787884670",
+      "first_seen": "2026-10-26",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 99
+        }
+      ],
+      "rating_count": 109
+    },
+    {
+      "id": "545609647",
+      "rank": 62,
+      "name": "LALIGA Official App 2026/2027",
+      "developer": "Liga Nacional de Fútbol Profesional",
+      "url": "https://apps.apple.com/us/app/id545609647",
+      "first_seen": "2026-10-26",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 62
+        }
+      ],
+      "rating_count": 38697
+    },
+    {
+      "id": "731118829",
+      "rank": 74,
+      "name": "Oklahoma City Thunder",
+      "developer": "Oklahoma City Thunder",
+      "url": "https://apps.apple.com/us/app/id731118829",
+      "first_seen": "2026-10-26",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 74
+        }
+      ],
+      "rating_count": 178
+    },
+    {
+      "id": "6740727226",
+      "rank": 91,
+      "name": "Drama Live: Sports App",
+      "developer": "Swati Gujarati",
+      "url": "https://apps.apple.com/us/app/id6740727226",
+      "first_seen": "2026-10-26",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 91
+        }
+      ],
+      "rating_count": 4639
+    },
+    {
+      "id": "6755069359",
+      "rank": 96,
+      "name": "وي جول",
+      "developer": "Guihad AbdElkerim",
+      "url": "https://apps.apple.com/us/app/id6755069359",
+      "first_seen": "2026-10-26",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 96
+        }
+      ],
+      "rating_count": 329
+    },
+    {
+      "id": "6746158223",
+      "rank": 98,
+      "name": "SportyTV: Live Sports Stream",
+      "developer": "Sporty Internet Group",
+      "url": "https://apps.apple.com/us/app/id6746158223",
+      "first_seen": "2026-10-26",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 98
+        }
+      ],
+      "rating_count": 560
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-10-26T09:17:14.248285+01:00"
+}
