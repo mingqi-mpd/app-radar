@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,196 +8,151 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-09-26",
-  "comparison_to": "2026-10-25",
-  "retained_from": "2026-09-27",
-  "history_days": 28,
-  "complete_history_days": 28,
+  "comparison_from": "2026-09-27",
+  "comparison_to": "2026-10-26",
+  "retained_from": "2026-09-28",
+  "history_days": 29,
+  "complete_history_days": 29,
   "incomplete_history_dates": [],
-  "unrecorded_history_days": 2,
+  "unrecorded_history_days": 1,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 794,
+  "observed_count": 793,
   "leads": [
     {
-      "id": "6476117215",
-      "rank": 100,
-      "name": "Money App - Cash Advance",
-      "developer": "PRG Ventures, Inc.",
-      "url": "https://apps.apple.com/us/app/id6476117215",
-      "first_seen": "2026-10-26",
+      "id": "1601301148",
+      "rank": 79,
+      "name": "Invo: A New Way to Trade",
+      "developer": "Involio Inc.",
+      "url": "https://apps.apple.com/us/app/id1601301148",
+      "first_seen": "2026-10-27",
       "charts": [
         {
           "category": "Finance",
-          "rank": 100
+          "rank": 79
         }
       ],
-      "rating_count": 27778
+      "rating_count": 467
     },
     {
-      "id": "6779541699",
-      "rank": 84,
-      "name": "CarLoop: Block Sort",
-      "developer": "UUTEAM Technology Limited",
-      "url": "https://apps.apple.com/us/app/id6779541699",
-      "first_seen": "2026-10-26",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 84
-        }
-      ],
-      "rating_count": 19065
-    },
-    {
-      "id": "6747298348",
-      "rank": 72,
-      "name": "AlHawa Najd",
-      "developer": "Mona Ali M AlShahrani",
-      "url": "https://apps.apple.com/us/app/id6747298348",
-      "first_seen": "2026-10-26",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 72
-        }
-      ],
-      "rating_count": 12
-    },
-    {
-      "id": "1387514950",
-      "rank": 72,
-      "name": "MGM+",
-      "developer": "EPIX Entertainment LLC",
-      "url": "https://apps.apple.com/us/app/id1387514950",
-      "first_seen": "2026-10-26",
-      "charts": [
-        {
-          "category": "Entertainment",
-          "rank": 72
-        }
-      ],
-      "rating_count": 88418
-    },
-    {
-      "id": "437373394",
-      "rank": 94,
-      "name": "Pacsun",
-      "developer": "Pacific Sunwear",
-      "url": "https://apps.apple.com/us/app/id437373394",
-      "first_seen": "2026-10-26",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 94
-        }
-      ],
-      "rating_count": 66611
-    },
-    {
-      "id": "1022341873",
-      "rank": 97,
-      "name": "Blidz - Shop Deals, Save Money",
-      "developer": "Biddl Inc.",
-      "url": "https://apps.apple.com/us/app/id1022341873",
-      "first_seen": "2026-10-26",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 97
-        }
-      ],
-      "rating_count": 52293
-    },
-    {
-      "id": "6787884670",
+      "id": "723134859",
       "rank": 99,
-      "name": "Fast Rips",
-      "developer": "Fast Rips Inc",
-      "url": "https://apps.apple.com/us/app/id6787884670",
-      "first_seen": "2026-10-26",
+      "name": "Rakuten: Cash Back & Deals",
+      "developer": "Rakuten Ebates",
+      "url": "https://apps.apple.com/us/app/id723134859",
+      "first_seen": "2026-10-27",
       "charts": [
         {
           "category": "Shopping",
           "rank": 99
         }
       ],
-      "rating_count": 109
+      "rating_count": 361964
     },
     {
-      "id": "545609647",
-      "rank": 62,
-      "name": "LALIGA Official App 2026/2027",
-      "developer": "Liga Nacional de Fútbol Profesional",
-      "url": "https://apps.apple.com/us/app/id545609647",
-      "first_seen": "2026-10-26",
+      "id": "6785437890",
+      "rank": 88,
+      "name": "Panda Ocean Riches",
+      "developer": "Anderson Carpet Cleaning, Inc",
+      "url": "https://apps.apple.com/us/app/id6785437890",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 88
+        }
+      ],
+      "rating_count": 12
+    },
+    {
+      "id": "6738163891",
+      "rank": 21,
+      "name": "VAMPIR",
+      "developer": "Netmarble Corporation",
+      "url": "https://apps.apple.com/us/app/id6738163891",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 21
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6796574369",
+      "rank": 100,
+      "name": "Make it Fit - Packing Puzzle",
+      "developer": "Luong Vuong",
+      "url": "https://apps.apple.com/us/app/id6796574369",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 100
+        }
+      ],
+      "rating_count": 23
+    },
+    {
+      "id": "942701008",
+      "rank": 93,
+      "name": "Minnesota Timberwolves",
+      "developer": "Minnesota Timberwolves",
+      "url": "https://apps.apple.com/us/app/id942701008",
+      "first_seen": "2026-10-27",
       "charts": [
         {
           "category": "Sports",
-          "rank": 62
+          "rank": 93
         }
       ],
-      "rating_count": 38697
+      "rating_count": 12010
     },
     {
-      "id": "731118829",
-      "rank": 74,
-      "name": "Oklahoma City Thunder",
-      "developer": "Oklahoma City Thunder",
-      "url": "https://apps.apple.com/us/app/id731118829",
-      "first_seen": "2026-10-26",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 74
-        }
-      ],
-      "rating_count": 178
-    },
-    {
-      "id": "6740727226",
-      "rank": 91,
-      "name": "Drama Live: Sports App",
-      "developer": "Swati Gujarati",
-      "url": "https://apps.apple.com/us/app/id6740727226",
-      "first_seen": "2026-10-26",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 91
-        }
-      ],
-      "rating_count": 4639
-    },
-    {
-      "id": "6755069359",
+      "id": "1135216317",
       "rank": 96,
-      "name": "وي جول",
-      "developer": "Guihad AbdElkerim",
-      "url": "https://apps.apple.com/us/app/id6755069359",
-      "first_seen": "2026-10-26",
+      "name": "The Athletic: All Sports News",
+      "developer": "The New York Times Company",
+      "url": "https://apps.apple.com/us/app/id1135216317",
+      "first_seen": "2026-10-27",
       "charts": [
         {
           "category": "Sports",
           "rank": 96
         }
       ],
-      "rating_count": 329
+      "rating_count": 235136
     },
     {
-      "id": "6746158223",
-      "rank": 98,
-      "name": "SportyTV: Live Sports Stream",
-      "developer": "Sporty Internet Group",
-      "url": "https://apps.apple.com/us/app/id6746158223",
-      "first_seen": "2026-10-26",
+      "id": "1130498044",
+      "rank": 6,
+      "name": "Apple Support",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/us/app/id1130498044",
+      "first_seen": "2026-10-27",
       "charts": [
         {
-          "category": "Sports",
-          "rank": 98
+          "category": "Utilities",
+          "rank": 6
         }
       ],
-      "rating_count": 560
+      "rating_count": 33663
+    },
+    {
+      "id": "6503708537",
+      "rank": 77,
+      "name": "Scan QR Code Now",
+      "developer": "Sparktonic, LLC",
+      "url": "https://apps.apple.com/us/app/id6503708537",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 77
+        }
+      ],
+      "rating_count": 13138
     }
   ],
   "errors": {},
@@ -235,5 +190,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-10-26T09:17:14.248285+01:00"
+  "ratings_checked_at": "2026-10-27T09:17:14.385632+01:00"
 }

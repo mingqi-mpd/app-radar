@@ -1,0 +1,194 @@
+{
+  "date": "2026-10-27",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-09-27",
+  "comparison_to": "2026-10-26",
+  "retained_from": "2026-09-28",
+  "history_days": 29,
+  "complete_history_days": 29,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 1,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 793,
+  "leads": [
+    {
+      "id": "1601301148",
+      "rank": 79,
+      "name": "Invo: A New Way to Trade",
+      "developer": "Involio Inc.",
+      "url": "https://apps.apple.com/us/app/id1601301148",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 79
+        }
+      ],
+      "rating_count": 467
+    },
+    {
+      "id": "723134859",
+      "rank": 99,
+      "name": "Rakuten: Cash Back & Deals",
+      "developer": "Rakuten Ebates",
+      "url": "https://apps.apple.com/us/app/id723134859",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 99
+        }
+      ],
+      "rating_count": 361964
+    },
+    {
+      "id": "6785437890",
+      "rank": 88,
+      "name": "Panda Ocean Riches",
+      "developer": "Anderson Carpet Cleaning, Inc",
+      "url": "https://apps.apple.com/us/app/id6785437890",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 88
+        }
+      ],
+      "rating_count": 12
+    },
+    {
+      "id": "6738163891",
+      "rank": 21,
+      "name": "VAMPIR",
+      "developer": "Netmarble Corporation",
+      "url": "https://apps.apple.com/us/app/id6738163891",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 21
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6796574369",
+      "rank": 100,
+      "name": "Make it Fit - Packing Puzzle",
+      "developer": "Luong Vuong",
+      "url": "https://apps.apple.com/us/app/id6796574369",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 100
+        }
+      ],
+      "rating_count": 23
+    },
+    {
+      "id": "942701008",
+      "rank": 93,
+      "name": "Minnesota Timberwolves",
+      "developer": "Minnesota Timberwolves",
+      "url": "https://apps.apple.com/us/app/id942701008",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 93
+        }
+      ],
+      "rating_count": 12010
+    },
+    {
+      "id": "1135216317",
+      "rank": 96,
+      "name": "The Athletic: All Sports News",
+      "developer": "The New York Times Company",
+      "url": "https://apps.apple.com/us/app/id1135216317",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 96
+        }
+      ],
+      "rating_count": 235136
+    },
+    {
+      "id": "1130498044",
+      "rank": 6,
+      "name": "Apple Support",
+      "developer": "Apple",
+      "url": "https://apps.apple.com/us/app/id1130498044",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 6
+        }
+      ],
+      "rating_count": 33663
+    },
+    {
+      "id": "6503708537",
+      "rank": 77,
+      "name": "Scan QR Code Now",
+      "developer": "Sparktonic, LLC",
+      "url": "https://apps.apple.com/us/app/id6503708537",
+      "first_seen": "2026-10-27",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 77
+        }
+      ],
+      "rating_count": 13138
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-10-27T09:17:14.385632+01:00"
+}
