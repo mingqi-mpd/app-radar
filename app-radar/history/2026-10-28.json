@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-28",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-09-28",
+  "comparison_to": "2026-10-27",
+  "retained_from": "2026-09-29",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 793,
+  "leads": [
+    {
+      "id": "6756966432",
+      "rank": 100,
+      "name": "Cash Advance Now - Bear Loan",
+      "developer": "Prydniprovia KS",
+      "url": "https://apps.apple.com/us/app/id6756966432",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 100
+        }
+      ],
+      "rating_count": 41
+    },
+    {
+      "id": "6737418979",
+      "rank": 93,
+      "name": "Cash Out Club - Win Real Money",
+      "developer": "Aim Games, LLC",
+      "url": "https://apps.apple.com/us/app/id6737418979",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 93
+        }
+      ],
+      "rating_count": 9813
+    },
+    {
+      "id": "6444520814",
+      "rank": 1,
+      "name": "Monster Hunter Outlanders",
+      "developer": "Level Infinite",
+      "url": "https://apps.apple.com/us/app/id6444520814",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 1
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6758332966",
+      "rank": 17,
+      "name": "BLEACH Mirrors High",
+      "developer": "Bandai Namco Entertainment Inc.",
+      "url": "https://apps.apple.com/us/app/id6758332966",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 17
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6787414784",
+      "rank": 77,
+      "name": "Water Sort Puzzle : Challenge",
+      "developer": "贺翔 段",
+      "url": "https://apps.apple.com/us/app/id6787414784",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 77
+        }
+      ],
+      "rating_count": 3586
+    },
+    {
+      "id": "6776522053",
+      "rank": 94,
+      "name": "GOGO! Blast",
+      "developer": "Nebula Studio",
+      "url": "https://apps.apple.com/us/app/id6776522053",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 94
+        }
+      ],
+      "rating_count": 10546
+    },
+    {
+      "id": "625607532",
+      "rank": 94,
+      "name": "Stack Team App",
+      "developer": "Team Mates",
+      "url": "https://apps.apple.com/us/app/id625607532",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 94
+        }
+      ],
+      "rating_count": 14567
+    },
+    {
+      "id": "6443885102",
+      "rank": 99,
+      "name": "Outlier: Smart Sports Betting",
+      "developer": "Colorcast",
+      "url": "https://apps.apple.com/us/app/id6443885102",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 99
+        }
+      ],
+      "rating_count": 16853
+    },
+    {
+      "id": "6766755387",
+      "rank": 3,
+      "name": "Jumper VPN: Secure Proxy",
+      "developer": "Free VPN One Co., Limited",
+      "url": "https://apps.apple.com/us/app/id6766755387",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 3
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6744321968",
+      "rank": 75,
+      "name": "Clash Mi",
+      "developer": "Supernova Nebula LLC",
+      "url": "https://apps.apple.com/us/app/id6744321968",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 75
+        }
+      ],
+      "rating_count": 461
+    },
+    {
+      "id": "6793352325",
+      "rank": 91,
+      "name": "SmartFolder",
+      "developer": "宽 宁",
+      "url": "https://apps.apple.com/us/app/id6793352325",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 91
+        }
+      ],
+      "rating_count": 50
+    },
+    {
+      "id": "6749019654",
+      "rank": 58,
+      "name": "Abbott Impact",
+      "developer": "Kevin Waisfeld",
+      "url": "https://apps.apple.com/us/app/id6749019654",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 58
+        }
+      ],
+      "rating_count": 24
+    },
+    {
+      "id": "1573674111",
+      "rank": 98,
+      "name": "Poppin - The Party Platform",
+      "developer": "Poppin Technologies Inc.",
+      "url": "https://apps.apple.com/us/app/id1573674111",
+      "first_seen": "2026-10-28",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 98
+        }
+      ],
+      "rating_count": 458
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-10-28T09:17:16.398321+01:00"
+}
