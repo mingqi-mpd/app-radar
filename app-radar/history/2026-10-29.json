@@ -1,0 +1,239 @@
+{
+  "date": "2026-10-29",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-09-29",
+  "comparison_to": "2026-10-28",
+  "retained_from": "2026-09-30",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 792,
+  "leads": [
+    {
+      "id": "525536985",
+      "rank": 97,
+      "name": "Bloomingdale's: Luxury Apparel",
+      "developer": "Bloomingdale's Inc",
+      "url": "https://apps.apple.com/us/app/id525536985",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 97
+        }
+      ],
+      "rating_count": 170855
+    },
+    {
+      "id": "1615755735",
+      "rank": 5,
+      "name": "No Man's Sky",
+      "developer": "Hello Games",
+      "url": "https://apps.apple.com/us/app/id1615755735",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 5
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6469059818",
+      "rank": 72,
+      "name": "Colorado Avalanche",
+      "developer": "KROENKE SPORTS & ENTERTAINMENT",
+      "url": "https://apps.apple.com/us/app/id6469059818",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 72
+        }
+      ],
+      "rating_count": 51
+    },
+    {
+      "id": "1463442455",
+      "rank": 86,
+      "name": "Fantrax Fantasy Sports",
+      "developer": "Fantrax",
+      "url": "https://apps.apple.com/us/app/id1463442455",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 86
+        }
+      ],
+      "rating_count": 2983
+    },
+    {
+      "id": "6502374029",
+      "rank": 97,
+      "name": "Chicago Bulls",
+      "developer": "Chicago Bulls",
+      "url": "https://apps.apple.com/us/app/id6502374029",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 97
+        }
+      ],
+      "rating_count": 2830
+    },
+    {
+      "id": "6755428521",
+      "rank": 93,
+      "name": "Santa Prank Call: Voice AIChat",
+      "developer": "Vu Van Phong",
+      "url": "https://apps.apple.com/us/app/id6755428521",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 93
+        }
+      ],
+      "rating_count": 1347
+    },
+    {
+      "id": "6776180188",
+      "rank": 99,
+      "name": "MultiShorts",
+      "developer": "Mu Shahil A Rashid",
+      "url": "https://apps.apple.com/us/app/id6776180188",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 99
+        }
+      ],
+      "rating_count": 499
+    },
+    {
+      "id": "1617332602",
+      "rank": 26,
+      "name": "Freespoke - Perspective Search",
+      "developer": "Freedom Fries LLC",
+      "url": "https://apps.apple.com/us/app/id1617332602",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 26
+        }
+      ],
+      "rating_count": 4613
+    },
+    {
+      "id": "6764536554",
+      "rank": 51,
+      "name": "CallLog - Journal Contact Note",
+      "developer": "Baria Parthilkumar Ashokbhai",
+      "url": "https://apps.apple.com/us/app/id6764536554",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 51
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6788154487",
+      "rank": 84,
+      "name": "My case home",
+      "developer": "AnWen Data Solutions LLC",
+      "url": "https://apps.apple.com/us/app/id6788154487",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 84
+        }
+      ],
+      "rating_count": 1
+    },
+    {
+      "id": "6790304909",
+      "rank": 85,
+      "name": "SMS Forwarder - MMS & RCS",
+      "developer": "航 郭",
+      "url": "https://apps.apple.com/us/app/id6790304909",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 85
+        }
+      ],
+      "rating_count": 8
+    },
+    {
+      "id": "6471626032",
+      "rank": 90,
+      "name": "TV Remote for Roku ·",
+      "developer": "Netsis Mobile FZCO",
+      "url": "https://apps.apple.com/us/app/id6471626032",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 90
+        }
+      ],
+      "rating_count": 11266
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-10-29T09:17:18.893698+01:00"
+}

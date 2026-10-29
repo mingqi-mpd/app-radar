@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,211 +8,196 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-09-28",
-  "comparison_to": "2026-10-27",
-  "retained_from": "2026-09-29",
+  "comparison_from": "2026-09-29",
+  "comparison_to": "2026-10-28",
+  "retained_from": "2026-09-30",
   "history_days": 30,
   "complete_history_days": 30,
   "incomplete_history_dates": [],
   "unrecorded_history_days": 0,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 793,
+  "observed_count": 792,
   "leads": [
     {
-      "id": "6756966432",
-      "rank": 100,
-      "name": "Cash Advance Now - Bear Loan",
-      "developer": "Prydniprovia KS",
-      "url": "https://apps.apple.com/us/app/id6756966432",
-      "first_seen": "2026-10-28",
+      "id": "525536985",
+      "rank": 97,
+      "name": "Bloomingdale's: Luxury Apparel",
+      "developer": "Bloomingdale's Inc",
+      "url": "https://apps.apple.com/us/app/id525536985",
+      "first_seen": "2026-10-29",
       "charts": [
         {
-          "category": "Finance",
-          "rank": 100
+          "category": "Shopping",
+          "rank": 97
         }
       ],
-      "rating_count": 41
+      "rating_count": 170855
     },
     {
-      "id": "6737418979",
-      "rank": 93,
-      "name": "Cash Out Club - Win Real Money",
-      "developer": "Aim Games, LLC",
-      "url": "https://apps.apple.com/us/app/id6737418979",
-      "first_seen": "2026-10-28",
+      "id": "1615755735",
+      "rank": 5,
+      "name": "No Man's Sky",
+      "developer": "Hello Games",
+      "url": "https://apps.apple.com/us/app/id1615755735",
+      "first_seen": "2026-10-29",
       "charts": [
         {
-          "category": "Casino",
+          "category": "Games",
+          "rank": 5
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6469059818",
+      "rank": 72,
+      "name": "Colorado Avalanche",
+      "developer": "KROENKE SPORTS & ENTERTAINMENT",
+      "url": "https://apps.apple.com/us/app/id6469059818",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 72
+        }
+      ],
+      "rating_count": 51
+    },
+    {
+      "id": "1463442455",
+      "rank": 86,
+      "name": "Fantrax Fantasy Sports",
+      "developer": "Fantrax",
+      "url": "https://apps.apple.com/us/app/id1463442455",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 86
+        }
+      ],
+      "rating_count": 2983
+    },
+    {
+      "id": "6502374029",
+      "rank": 97,
+      "name": "Chicago Bulls",
+      "developer": "Chicago Bulls",
+      "url": "https://apps.apple.com/us/app/id6502374029",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 97
+        }
+      ],
+      "rating_count": 2830
+    },
+    {
+      "id": "6755428521",
+      "rank": 93,
+      "name": "Santa Prank Call: Voice AIChat",
+      "developer": "Vu Van Phong",
+      "url": "https://apps.apple.com/us/app/id6755428521",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Entertainment",
           "rank": 93
         }
       ],
-      "rating_count": 9813
+      "rating_count": 1347
     },
     {
-      "id": "6444520814",
-      "rank": 1,
-      "name": "Monster Hunter Outlanders",
-      "developer": "Level Infinite",
-      "url": "https://apps.apple.com/us/app/id6444520814",
-      "first_seen": "2026-10-28",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 1
-        }
-      ],
-      "rating_count": 0
-    },
-    {
-      "id": "6758332966",
-      "rank": 17,
-      "name": "BLEACH Mirrors High",
-      "developer": "Bandai Namco Entertainment Inc.",
-      "url": "https://apps.apple.com/us/app/id6758332966",
-      "first_seen": "2026-10-28",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 17
-        }
-      ],
-      "rating_count": 0
-    },
-    {
-      "id": "6787414784",
-      "rank": 77,
-      "name": "Water Sort Puzzle : Challenge",
-      "developer": "贺翔 段",
-      "url": "https://apps.apple.com/us/app/id6787414784",
-      "first_seen": "2026-10-28",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 77
-        }
-      ],
-      "rating_count": 3586
-    },
-    {
-      "id": "6776522053",
-      "rank": 94,
-      "name": "GOGO! Blast",
-      "developer": "Nebula Studio",
-      "url": "https://apps.apple.com/us/app/id6776522053",
-      "first_seen": "2026-10-28",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 94
-        }
-      ],
-      "rating_count": 10546
-    },
-    {
-      "id": "625607532",
-      "rank": 94,
-      "name": "Stack Team App",
-      "developer": "Team Mates",
-      "url": "https://apps.apple.com/us/app/id625607532",
-      "first_seen": "2026-10-28",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 94
-        }
-      ],
-      "rating_count": 14567
-    },
-    {
-      "id": "6443885102",
+      "id": "6776180188",
       "rank": 99,
-      "name": "Outlier: Smart Sports Betting",
-      "developer": "Colorcast",
-      "url": "https://apps.apple.com/us/app/id6443885102",
-      "first_seen": "2026-10-28",
+      "name": "MultiShorts",
+      "developer": "Mu Shahil A Rashid",
+      "url": "https://apps.apple.com/us/app/id6776180188",
+      "first_seen": "2026-10-29",
       "charts": [
         {
-          "category": "Sports",
+          "category": "Entertainment",
           "rank": 99
         }
       ],
-      "rating_count": 16853
+      "rating_count": 499
     },
     {
-      "id": "6766755387",
-      "rank": 3,
-      "name": "Jumper VPN: Secure Proxy",
-      "developer": "Free VPN One Co., Limited",
-      "url": "https://apps.apple.com/us/app/id6766755387",
-      "first_seen": "2026-10-28",
+      "id": "1617332602",
+      "rank": 26,
+      "name": "Freespoke - Perspective Search",
+      "developer": "Freedom Fries LLC",
+      "url": "https://apps.apple.com/us/app/id1617332602",
+      "first_seen": "2026-10-29",
       "charts": [
         {
           "category": "Utilities",
-          "rank": 3
+          "rank": 26
+        }
+      ],
+      "rating_count": 4613
+    },
+    {
+      "id": "6764536554",
+      "rank": 51,
+      "name": "CallLog - Journal Contact Note",
+      "developer": "Baria Parthilkumar Ashokbhai",
+      "url": "https://apps.apple.com/us/app/id6764536554",
+      "first_seen": "2026-10-29",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 51
         }
       ],
       "rating_count": 0
     },
     {
-      "id": "6744321968",
-      "rank": 75,
-      "name": "Clash Mi",
-      "developer": "Supernova Nebula LLC",
-      "url": "https://apps.apple.com/us/app/id6744321968",
-      "first_seen": "2026-10-28",
+      "id": "6788154487",
+      "rank": 84,
+      "name": "My case home",
+      "developer": "AnWen Data Solutions LLC",
+      "url": "https://apps.apple.com/us/app/id6788154487",
+      "first_seen": "2026-10-29",
       "charts": [
         {
           "category": "Utilities",
-          "rank": 75
+          "rank": 84
         }
       ],
-      "rating_count": 461
+      "rating_count": 1
     },
     {
-      "id": "6793352325",
-      "rank": 91,
-      "name": "SmartFolder",
-      "developer": "宽 宁",
-      "url": "https://apps.apple.com/us/app/id6793352325",
-      "first_seen": "2026-10-28",
+      "id": "6790304909",
+      "rank": 85,
+      "name": "SMS Forwarder - MMS & RCS",
+      "developer": "航 郭",
+      "url": "https://apps.apple.com/us/app/id6790304909",
+      "first_seen": "2026-10-29",
       "charts": [
         {
           "category": "Utilities",
-          "rank": 91
+          "rank": 85
         }
       ],
-      "rating_count": 50
+      "rating_count": 8
     },
     {
-      "id": "6749019654",
-      "rank": 58,
-      "name": "Abbott Impact",
-      "developer": "Kevin Waisfeld",
-      "url": "https://apps.apple.com/us/app/id6749019654",
-      "first_seen": "2026-10-28",
+      "id": "6471626032",
+      "rank": 90,
+      "name": "TV Remote for Roku ·",
+      "developer": "Netsis Mobile FZCO",
+      "url": "https://apps.apple.com/us/app/id6471626032",
+      "first_seen": "2026-10-29",
       "charts": [
         {
-          "category": "Social Networking",
-          "rank": 58
+          "category": "Utilities",
+          "rank": 90
         }
       ],
-      "rating_count": 24
-    },
-    {
-      "id": "1573674111",
-      "rank": 98,
-      "name": "Poppin - The Party Platform",
-      "developer": "Poppin Technologies Inc.",
-      "url": "https://apps.apple.com/us/app/id1573674111",
-      "first_seen": "2026-10-28",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 98
-        }
-      ],
-      "rating_count": 458
+      "rating_count": 11266
     }
   ],
   "errors": {},
@@ -250,5 +235,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-10-28T09:17:16.398321+01:00"
+  "ratings_checked_at": "2026-10-29T09:17:18.893698+01:00"
 }
