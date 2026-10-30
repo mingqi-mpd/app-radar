@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-30",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-09-30",
+  "comparison_to": "2026-10-29",
+  "retained_from": "2026-10-01",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 793,
+  "leads": [
+    {
+      "id": "6824686276",
+      "rank": 73,
+      "name": "Wider - Fullscreen Browsing",
+      "developer": "Good Snooze",
+      "url": "https://apps.apple.com/us/app/id6824686276",
+      "first_seen": "2026-10-30",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 73
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6793892368",
+      "rank": 74,
+      "name": "途播-APTV播放器",
+      "developer": "帅 李",
+      "url": "https://apps.apple.com/us/app/id6793892368",
+      "first_seen": "2026-10-30",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 74
+        }
+      ],
+      "rating_count": 26
+    },
+    {
+      "id": "6791941005",
+      "rank": 44,
+      "name": "GTL｜Getting Out Messenger",
+      "developer": "Free Spoke Ltd",
+      "url": "https://apps.apple.com/us/app/id6791941005",
+      "first_seen": "2026-10-30",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 44
+        }
+      ],
+      "rating_count": 1
+    },
+    {
+      "id": "6819098690",
+      "rank": 87,
+      "name": "Virix Pro",
+      "developer": "Amee Mc",
+      "url": "https://apps.apple.com/us/app/id6819098690",
+      "first_seen": "2026-10-30",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 87
+        }
+      ],
+      "rating_count": 0
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-10-30T09:17:15.087826+01:00"
+}
