@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,9 +8,9 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-10-01",
-  "comparison_to": "2026-10-30",
-  "retained_from": "2026-10-02",
+  "comparison_from": "2026-10-02",
+  "comparison_to": "2026-10-31",
+  "retained_from": "2026-10-03",
   "history_days": 30,
   "complete_history_days": 30,
   "incomplete_history_dates": [],
@@ -20,229 +20,214 @@
   "observed_count": 795,
   "leads": [
     {
-      "id": "1572699554",
-      "rank": 61,
-      "name": "Academy Sports + Outdoors",
-      "developer": "Academy, Ltd.",
-      "url": "https://apps.apple.com/us/app/id1572699554",
-      "first_seen": "2026-10-31",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 61
-        }
-      ],
-      "rating_count": 229032
-    },
-    {
-      "id": "1044283059",
-      "rank": 98,
-      "name": "Pinduoduo",
-      "developer": "上海寻梦信息技术有限公司",
-      "url": "https://apps.apple.com/us/app/id1044283059",
-      "first_seen": "2026-10-31",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 98
-        }
-      ],
-      "rating_count": 7703
-    },
-    {
-      "id": "6757954676",
-      "rank": 99,
-      "name": "OG.com: Rip Cards,Trade Events",
-      "developer": "OG Markets Limited",
-      "url": "https://apps.apple.com/us/app/id6757954676",
-      "first_seen": "2026-10-31",
-      "charts": [
-        {
-          "category": "Finance",
-          "rank": 99
-        }
-      ],
-      "rating_count": 1865
-    },
-    {
-      "id": "6802383216",
-      "rank": 52,
-      "name": "Parking Loop",
-      "developer": "Loop Games Oyun Teknolojileri Anonim Sirketi",
-      "url": "https://apps.apple.com/us/app/id6802383216",
-      "first_seen": "2026-10-31",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 52
-        }
-      ],
-      "rating_count": 366
-    },
-    {
-      "id": "1495723103",
+      "id": "6740720574",
       "rank": 96,
-      "name": "Solar Smash",
-      "developer": "PARADYME LIMITED",
-      "url": "https://apps.apple.com/us/app/id1495723103",
-      "first_seen": "2026-10-31",
+      "name": "Jackpot Flame™ Slots - Casino",
+      "developer": "Jackpot Lab Studio",
+      "url": "https://apps.apple.com/us/app/id6740720574",
+      "first_seen": "2026-11-01",
       "charts": [
         {
-          "category": "Games",
+          "category": "Casino",
           "rank": 96
         }
       ],
-      "rating_count": 403279
+      "rating_count": 279
     },
     {
-      "id": "516767086",
-      "rank": 85,
-      "name": "Golden State + Chase Center",
-      "developer": "Golden State Warriors, LLC",
-      "url": "https://apps.apple.com/us/app/id516767086",
-      "first_seen": "2026-10-31",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 85
-        }
-      ],
-      "rating_count": 31232
-    },
-    {
-      "id": "1482076463",
-      "rank": 91,
-      "name": "Dallas Mavericks Official",
-      "developer": "Dallas Mavericks",
-      "url": "https://apps.apple.com/us/app/id1482076463",
-      "first_seen": "2026-10-31",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 91
-        }
-      ],
-      "rating_count": 968
-    },
-    {
-      "id": "6502916154",
-      "rank": 78,
-      "name": "Flite: Find Events Near You",
-      "developer": "Flite City Corporation",
-      "url": "https://apps.apple.com/us/app/id6502916154",
-      "first_seen": "2026-10-31",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 78
-        }
-      ],
-      "rating_count": 1608
-    },
-    {
-      "id": "6811592006",
-      "rank": 94,
-      "name": "Getting Out: Inmate Letters",
-      "developer": "Alina Karatnyk",
-      "url": "https://apps.apple.com/us/app/id6811592006",
-      "first_seen": "2026-10-31",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 94
-        }
-      ],
-      "rating_count": 17
-    },
-    {
-      "id": "6797764175",
-      "rank": 71,
-      "name": "CarDash: Video Player for Cars",
-      "developer": "Laigang Wang",
-      "url": "https://apps.apple.com/us/app/id6797764175",
-      "first_seen": "2026-10-31",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 71
-        }
-      ],
-      "rating_count": 124
-    },
-    {
-      "id": "6816359797",
-      "rank": 90,
-      "name": "AreaMap: Measure Land & Acres",
-      "developer": "NATHAN LA MAR BURNETT",
-      "url": "https://apps.apple.com/us/app/id6816359797",
-      "first_seen": "2026-10-31",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 90
-        }
-      ],
-      "rating_count": 119
-    },
-    {
-      "id": "6758184735",
+      "id": "1578212119",
       "rank": 100,
-      "name": "Fusvob VPN : Super VPN 2026",
-      "developer": "Fuxin Technology",
-      "url": "https://apps.apple.com/us/app/id6758184735",
-      "first_seen": "2026-10-31",
+      "name": "Jackpot Master™ Slots-Casino",
+      "developer": "Zeroo Gravity Games LLC",
+      "url": "https://apps.apple.com/us/app/id1578212119",
+      "first_seen": "2026-11-01",
       "charts": [
         {
-          "category": "Utilities",
+          "category": "Casino",
           "rank": 100
         }
       ],
-      "rating_count": 4743
+      "rating_count": 212833
     },
     {
-      "id": "6807795826",
-      "rank": 78,
-      "name": "Rush Align",
-      "developer": "Nikki Punzalan Quiambao",
-      "url": "https://apps.apple.com/us/app/id6807795826",
-      "first_seen": "2026-10-31",
+      "id": "6806356603",
+      "rank": 83,
+      "name": "Borrow Money – Tavro Advance",
+      "developer": "Tavro Advance LLC",
+      "url": "https://apps.apple.com/us/app/id6806356603",
+      "first_seen": "2026-11-01",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 83
+        }
+      ],
+      "rating_count": 282
+    },
+    {
+      "id": "6817314923",
+      "rank": 66,
+      "name": "SCRAM: Hide and Seek",
+      "developer": "Moveera Pty Ltd",
+      "url": "https://apps.apple.com/us/app/id6817314923",
+      "first_seen": "2026-11-01",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 66
+        }
+      ],
+      "rating_count": 9
+    },
+    {
+      "id": "6759913726",
+      "rank": 67,
+      "name": "HideZone: GPS Hide & Seek",
+      "developer": "Robin Morgenstern",
+      "url": "https://apps.apple.com/us/app/id6759913726",
+      "first_seen": "2026-11-01",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 67
+        }
+      ],
+      "rating_count": 292
+    },
+    {
+      "id": "6471968553",
+      "rank": 70,
+      "name": "Hunting Game: GPS Manhunt",
+      "developer": "Jasper Aelvoet",
+      "url": "https://apps.apple.com/us/app/id6471968553",
+      "first_seen": "2026-11-01",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 70
+        }
+      ],
+      "rating_count": 128
+    },
+    {
+      "id": "6474511629",
+      "rank": 39,
+      "name": "TLM Racing",
+      "developer": "Dilltree Inc",
+      "url": "https://apps.apple.com/us/app/id6474511629",
+      "first_seen": "2026-11-01",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 39
+        }
+      ],
+      "rating_count": 63
+    },
+    {
+      "id": "751632134",
+      "rank": 90,
+      "name": "Houston Rockets",
+      "developer": "Houston Rockets",
+      "url": "https://apps.apple.com/us/app/id751632134",
+      "first_seen": "2026-11-01",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 90
+        }
+      ],
+      "rating_count": 34984
+    },
+    {
+      "id": "1485539253",
+      "rank": 95,
+      "name": "FanDuel Racing - Bet on Horses",
+      "developer": "FanDuel, Inc.",
+      "url": "https://apps.apple.com/us/app/id1485539253",
+      "first_seen": "2026-11-01",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 95
+        }
+      ],
+      "rating_count": 17773
+    },
+    {
+      "id": "6817557535",
+      "rank": 84,
+      "name": "Pull Up: Parties & Friends",
+      "developer": "Danielle Douglas",
+      "url": "https://apps.apple.com/us/app/id6817557535",
+      "first_seen": "2026-11-01",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 84
+        }
+      ],
+      "rating_count": 8
+    },
+    {
+      "id": "6762152565",
+      "rank": 36,
+      "name": "GameStop Power Packs",
+      "developer": "GameStop",
+      "url": "https://apps.apple.com/us/app/id6762152565",
+      "first_seen": "2026-11-01",
       "charts": [
         {
           "category": "Entertainment",
-          "rank": 78
+          "rank": 36
+        }
+      ],
+      "rating_count": 499
+    },
+    {
+      "id": "6463394851",
+      "rank": 88,
+      "name": "Kalos TV-Short Dramas & Reels",
+      "developer": "Storyverse Co., Limited",
+      "url": "https://apps.apple.com/us/app/id6463394851",
+      "first_seen": "2026-11-01",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 88
+        }
+      ],
+      "rating_count": 13377
+    },
+    {
+      "id": "6800283142",
+      "rank": 86,
+      "name": "WhosCalling Plus",
+      "developer": "ANKUSH GUPTA",
+      "url": "https://apps.apple.com/us/app/id6800283142",
+      "first_seen": "2026-11-01",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 86
         }
       ],
       "rating_count": 0
     },
     {
-      "id": "1600499081",
-      "rank": 80,
-      "name": "FrightMaps: Haunt Finder",
-      "developer": "Michael Kane",
-      "url": "https://apps.apple.com/us/app/id1600499081",
-      "first_seen": "2026-10-31",
+      "id": "6791110302",
+      "rank": 88,
+      "name": "LocateFamily: Phone Tracker",
+      "developer": "Kinetix HK Limited",
+      "url": "https://apps.apple.com/us/app/id6791110302",
+      "first_seen": "2026-11-01",
       "charts": [
         {
-          "category": "Entertainment",
-          "rank": 80
+          "category": "Utilities",
+          "rank": 88
         }
       ],
-      "rating_count": 3692
-    },
-    {
-      "id": "6759532196",
-      "rank": 96,
-      "name": "PollyBuzz: AI Chat Character",
-      "developer": "Mete OZLEK",
-      "url": "https://apps.apple.com/us/app/id6759532196",
-      "first_seen": "2026-10-31",
-      "charts": [
-        {
-          "category": "Entertainment",
-          "rank": 96
-        }
-      ],
-      "rating_count": 185
+      "rating_count": 335
     }
   ],
   "errors": {},
@@ -280,5 +265,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-10-31T09:17:14.595971+01:00"
+  "ratings_checked_at": "2026-11-01T09:17:14.396271+01:00"
 }
