@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-02",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-03",
+  "comparison_to": "2026-11-01",
+  "retained_from": "2026-10-04",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 796,
+  "leads": [
+    {
+      "id": "6792483403",
+      "rank": 96,
+      "name": "Crown Rips",
+      "developer": "Sunflower",
+      "url": "https://apps.apple.com/us/app/id6792483403",
+      "first_seen": "2026-11-02",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 96
+        }
+      ],
+      "rating_count": 858
+    },
+    {
+      "id": "6810886970",
+      "rank": 60,
+      "name": "Just a Rock",
+      "developer": "Heseri Games Inc",
+      "url": "https://apps.apple.com/us/app/id6810886970",
+      "first_seen": "2026-11-02",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 60
+        }
+      ],
+      "rating_count": 215
+    },
+    {
+      "id": "6780737118",
+      "rank": 73,
+      "name": "LiiDramaShort",
+      "developer": "Van Arsdale Air Service, L.L.C.",
+      "url": "https://apps.apple.com/us/app/id6780737118",
+      "first_seen": "2026-11-02",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 73
+        }
+      ],
+      "rating_count": 1187
+    },
+    {
+      "id": "6755376484",
+      "rank": 92,
+      "name": "Spark Dramas – Trending Series",
+      "developer": "FORTUNE STAR TECHNOLOGY LIMITED",
+      "url": "https://apps.apple.com/us/app/id6755376484",
+      "first_seen": "2026-11-02",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 92
+        }
+      ],
+      "rating_count": 20224
+    },
+    {
+      "id": "6466677376",
+      "rank": 98,
+      "name": "The Rhyme Game",
+      "developer": "Create Rhythm",
+      "url": "https://apps.apple.com/us/app/id6466677376",
+      "first_seen": "2026-11-02",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 98
+        }
+      ],
+      "rating_count": 575
+    },
+    {
+      "id": "1315007279",
+      "rank": 86,
+      "name": "F1 TV: Stream F1® Live",
+      "developer": "Formula One Digital Media Limited",
+      "url": "https://apps.apple.com/us/app/id1315007279",
+      "first_seen": "2026-11-02",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 86
+        }
+      ],
+      "rating_count": 133607
+    },
+    {
+      "id": "563617073",
+      "rank": 87,
+      "name": "Miami Dolphins",
+      "developer": "Miami Dolphins, LTD.",
+      "url": "https://apps.apple.com/us/app/id563617073",
+      "first_seen": "2026-11-02",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 87
+        }
+      ],
+      "rating_count": 1676
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-02T09:17:17.674566+01:00"
+}
