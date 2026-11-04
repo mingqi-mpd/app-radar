@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,151 +8,91 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-10-04",
-  "comparison_to": "2026-11-02",
-  "retained_from": "2026-10-05",
+  "comparison_from": "2026-10-05",
+  "comparison_to": "2026-11-03",
+  "retained_from": "2026-10-06",
   "history_days": 30,
   "complete_history_days": 30,
   "incomplete_history_dates": [],
   "unrecorded_history_days": 0,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 794,
+  "observed_count": 792,
   "leads": [
     {
-      "id": "1659387585",
-      "rank": 91,
-      "name": "Water Power!",
-      "developer": "Voodoo",
-      "url": "https://apps.apple.com/us/app/id1659387585",
-      "first_seen": "2026-11-03",
+      "id": "6811006356",
+      "rank": 83,
+      "name": "Foodie Pop!",
+      "developer": "ABI GLOBAL LTD.",
+      "url": "https://apps.apple.com/us/app/id6811006356",
+      "first_seen": "2026-11-04",
       "charts": [
         {
           "category": "Games",
-          "rank": 91
+          "rank": 83
         }
       ],
-      "rating_count": 26712
+      "rating_count": 1174
     },
     {
-      "id": "6478063606",
-      "rank": 96,
-      "name": "Color Block: Combo Blast",
-      "developer": "FLYYES TECHNOLOGY PTE. LTD.",
-      "url": "https://apps.apple.com/us/app/id6478063606",
-      "first_seen": "2026-11-03",
+      "id": "6768253096",
+      "rank": 92,
+      "name": "Pullz",
+      "developer": "Delta Two Inc",
+      "url": "https://apps.apple.com/us/app/id6768253096",
+      "first_seen": "2026-11-04",
       "charts": [
         {
           "category": "Games",
-          "rank": 96
+          "rank": 92
         }
       ],
-      "rating_count": 84613
+      "rating_count": 2051
     },
     {
-      "id": "6786206777",
-      "rank": 100,
-      "name": "Cube Smash - Puzzle Game",
-      "developer": "Combo Games",
-      "url": "https://apps.apple.com/us/app/id6786206777",
-      "first_seen": "2026-11-03",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 100
-        }
-      ],
-      "rating_count": 3384
-    },
-    {
-      "id": "6476054514",
-      "rank": 84,
-      "name": "Finsta: Chats with value",
-      "developer": "Solutionize LTD",
-      "url": "https://apps.apple.com/us/app/id6476054514",
-      "first_seen": "2026-11-03",
+      "id": "6740415788",
+      "rank": 27,
+      "name": "SONGZ - Official App",
+      "developer": "MySeat.com Media Inc.",
+      "url": "https://apps.apple.com/us/app/id6740415788",
+      "first_seen": "2026-11-04",
       "charts": [
         {
           "category": "Social Networking",
-          "rank": 84
+          "rank": 27
         }
       ],
-      "rating_count": 333
+      "rating_count": 0
     },
     {
-      "id": "6756804681",
-      "rank": 91,
-      "name": "Sway: Vote Together",
-      "developer": "Sway Networks",
-      "url": "https://apps.apple.com/us/app/id6756804681",
-      "first_seen": "2026-11-03",
+      "id": "6738963615",
+      "rank": 56,
+      "name": "Podiums: Ratings and Rankings",
+      "developer": "Noah Solomon",
+      "url": "https://apps.apple.com/us/app/id6738963615",
+      "first_seen": "2026-11-04",
       "charts": [
         {
           "category": "Social Networking",
-          "rank": 91
+          "rank": 56
         }
       ],
-      "rating_count": 15
+      "rating_count": 1097
     },
     {
-      "id": "1526650119",
-      "rank": 93,
-      "name": "MeYo : be friends",
-      "developer": "Meyo Team",
-      "url": "https://apps.apple.com/us/app/id1526650119",
-      "first_seen": "2026-11-03",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 93
-        }
-      ],
-      "rating_count": 1262
-    },
-    {
-      "id": "6749228186",
-      "rank": 100,
-      "name": "Gamuroid: All Game Emulator",
-      "developer": "UNIVERSAL TECHLAB",
-      "url": "https://apps.apple.com/us/app/id6749228186",
-      "first_seen": "2026-11-03",
+      "id": "6761408762",
+      "rank": 97,
+      "name": "NovaShort: Short Dramas & TV",
+      "developer": "Lunar Aureola LLC",
+      "url": "https://apps.apple.com/us/app/id6761408762",
+      "first_seen": "2026-11-04",
       "charts": [
         {
           "category": "Entertainment",
-          "rank": 100
+          "rank": 97
         }
       ],
-      "rating_count": 15473
-    },
-    {
-      "id": "6783973331",
-      "rank": 29,
-      "name": "Foot Next",
-      "developer": "Gregory Luzhansky",
-      "url": "https://apps.apple.com/us/app/id6783973331",
-      "first_seen": "2026-11-03",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 29
-        }
-      ],
-      "rating_count": 11
-    },
-    {
-      "id": "6795732117",
-      "rank": 89,
-      "name": "tween: hoops & courts",
-      "developer": "MONTGOMERY ROOSEVELT DUBE",
-      "url": "https://apps.apple.com/us/app/id6795732117",
-      "first_seen": "2026-11-03",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 89
-        }
-      ],
-      "rating_count": 30
+      "rating_count": 120
     }
   ],
   "errors": {},
@@ -190,5 +130,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-11-03T09:17:14.559148+01:00"
+  "ratings_checked_at": "2026-11-04T09:17:15.958658+01:00"
 }
