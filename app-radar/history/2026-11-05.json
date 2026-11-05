@@ -1,0 +1,254 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-06",
+  "comparison_to": "2026-11-04",
+  "retained_from": "2026-10-07",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 792,
+  "leads": [
+    {
+      "id": "6760998152",
+      "rank": 90,
+      "name": "Family Farm Merge",
+      "developer": "Century Games Innovation Pte. Ltd.",
+      "url": "https://apps.apple.com/us/app/id6760998152",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 90
+        }
+      ],
+      "rating_count": 3724
+    },
+    {
+      "id": "6748454264",
+      "rank": 32,
+      "name": "MoMo PSB NG",
+      "developer": "MTN FINTECH(PTY) LTD",
+      "url": "https://apps.apple.com/us/app/id6748454264",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 32
+        }
+      ],
+      "rating_count": 153
+    },
+    {
+      "id": "6532622230",
+      "rank": 71,
+      "name": "MoMo App",
+      "developer": "MTN FINTECH(PTY) LTD",
+      "url": "https://apps.apple.com/us/app/id6532622230",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 71
+        }
+      ],
+      "rating_count": 1363
+    },
+    {
+      "id": "6467380679",
+      "rank": 96,
+      "name": "OPay Business",
+      "developer": "OPay Digital Services Pte.Ltd.",
+      "url": "https://apps.apple.com/us/app/id6467380679",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 96
+        }
+      ],
+      "rating_count": 918
+    },
+    {
+      "id": "340021813",
+      "rank": 79,
+      "name": "QVC Mobile Shopping (US)",
+      "developer": "QVC, Inc.",
+      "url": "https://apps.apple.com/us/app/id340021813",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 79
+        }
+      ],
+      "rating_count": 344083
+    },
+    {
+      "id": "6736830063",
+      "rank": 89,
+      "name": "Indy Monumental",
+      "developer": "Dilltree Inc",
+      "url": "https://apps.apple.com/us/app/id6736830063",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 89
+        }
+      ],
+      "rating_count": 119
+    },
+    {
+      "id": "1553807261",
+      "rank": 88,
+      "name": "Lucky Match: Win Real Money",
+      "developer": "Big Win Games",
+      "url": "https://apps.apple.com/us/app/id1553807261",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 88
+        }
+      ],
+      "rating_count": 85240
+    },
+    {
+      "id": "1138106620",
+      "rank": 91,
+      "name": "Match To Win: Real Money Games",
+      "developer": "Rewardify Inc.",
+      "url": "https://apps.apple.com/us/app/id1138106620",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 91
+        }
+      ],
+      "rating_count": 291778
+    },
+    {
+      "id": "1521684479",
+      "rank": 38,
+      "name": "Meet Local Golfers",
+      "developer": "First Beat Media Inc.",
+      "url": "https://apps.apple.com/us/app/id1521684479",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 38
+        }
+      ],
+      "rating_count": 25
+    },
+    {
+      "id": "1241040030",
+      "rank": 7,
+      "name": "Battle.net",
+      "developer": "Blizzard Entertainment, Inc.",
+      "url": "https://apps.apple.com/us/app/id1241040030",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 7
+        }
+      ],
+      "rating_count": 36276
+    },
+    {
+      "id": "1234806557",
+      "rank": 67,
+      "name": "Nintendo Switch App",
+      "developer": "Nintendo Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id1234806557",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 67
+        }
+      ],
+      "rating_count": 12714
+    },
+    {
+      "id": "6717596642",
+      "rank": 69,
+      "name": "Earn Money with TT Guide",
+      "developer": "Matias Panusopulos",
+      "url": "https://apps.apple.com/us/app/id6717596642",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 69
+        }
+      ],
+      "rating_count": 203
+    },
+    {
+      "id": "6745335805",
+      "rank": 92,
+      "name": "TV Remote Manager",
+      "developer": "Vertigo SL",
+      "url": "https://apps.apple.com/us/app/id6745335805",
+      "first_seen": "2026-11-05",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 92
+        }
+      ],
+      "rating_count": 48
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-05T09:17:15.284613+01:00"
+}
