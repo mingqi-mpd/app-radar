@@ -1,0 +1,179 @@
+{
+  "date": "2026-11-07",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-08",
+  "comparison_to": "2026-11-06",
+  "retained_from": "2026-10-09",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 795,
+  "leads": [
+    {
+      "id": "6480134807",
+      "rank": 100,
+      "name": "WendyQuest",
+      "developer": "81 Monkeys Game Studios Inc.",
+      "url": "https://apps.apple.com/us/app/id6480134807",
+      "first_seen": "2026-11-07",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 100
+        }
+      ],
+      "rating_count": 30
+    },
+    {
+      "id": "6814694993",
+      "rank": 96,
+      "name": "Mega World: Wonder Slots",
+      "developer": "Starlight Anvil Interactive",
+      "url": "https://apps.apple.com/us/app/id6814694993",
+      "first_seen": "2026-11-07",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 96
+        }
+      ],
+      "rating_count": 775
+    },
+    {
+      "id": "6475334189",
+      "rank": 100,
+      "name": "VEVOR Home Improvement Tools",
+      "developer": "VEVOR STORE INC",
+      "url": "https://apps.apple.com/us/app/id6475334189",
+      "first_seen": "2026-11-07",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 100
+        }
+      ],
+      "rating_count": 6426
+    },
+    {
+      "id": "1100217027",
+      "rank": 89,
+      "name": "Lola Challenge Weekend",
+      "developer": "LOLAL RUN LIKE A LOLA INC.",
+      "url": "https://apps.apple.com/us/app/id1100217027",
+      "first_seen": "2026-11-07",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 89
+        }
+      ],
+      "rating_count": 51
+    },
+    {
+      "id": "1434353736",
+      "rank": 91,
+      "name": "LiveBarn",
+      "developer": "LiveBarn Inc.",
+      "url": "https://apps.apple.com/us/app/id1434353736",
+      "first_seen": "2026-11-07",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 91
+        }
+      ],
+      "rating_count": 614
+    },
+    {
+      "id": "6810932860",
+      "rank": 30,
+      "name": "گۆچان – Kurdish Keyboard",
+      "developer": "SULI SARDAM",
+      "url": "https://apps.apple.com/us/app/id6810932860",
+      "first_seen": "2026-11-07",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 30
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6762162278",
+      "rank": 64,
+      "name": "QR & Barcode Scan",
+      "developer": "Majin FX",
+      "url": "https://apps.apple.com/us/app/id6762162278",
+      "first_seen": "2026-11-07",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 64
+        }
+      ],
+      "rating_count": 50
+    },
+    {
+      "id": "6781596977",
+      "rank": 70,
+      "name": "zeha: AI Roleplay Chat",
+      "developer": "Oya Technology HK Ltd",
+      "url": "https://apps.apple.com/us/app/id6781596977",
+      "first_seen": "2026-11-07",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 70
+        }
+      ],
+      "rating_count": 6
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-07T09:17:14.519071+01:00"
+}
