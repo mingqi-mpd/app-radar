@@ -1,0 +1,179 @@
+{
+  "date": "2026-11-09",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-10",
+  "comparison_to": "2026-11-08",
+  "retained_from": "2026-10-11",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 796,
+  "leads": [
+    {
+      "id": "1139155460",
+      "rank": 99,
+      "name": "Gymshark: Shop Black Friday",
+      "developer": "Gymshark Ltd",
+      "url": "https://apps.apple.com/us/app/id1139155460",
+      "first_seen": "2026-11-09",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 99
+        }
+      ],
+      "rating_count": 189728
+    },
+    {
+      "id": "6737595599",
+      "rank": 83,
+      "name": "Foundation: Galactic Frontier",
+      "developer": "FunPlus International AG",
+      "url": "https://apps.apple.com/us/app/id6737595599",
+      "first_seen": "2026-11-09",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 83
+        }
+      ],
+      "rating_count": 9350
+    },
+    {
+      "id": "1545567989",
+      "rank": 100,
+      "name": "Number Match - Numbers Game",
+      "developer": "Easybrain Ltd",
+      "url": "https://apps.apple.com/us/app/id1545567989",
+      "first_seen": "2026-11-09",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 100
+        }
+      ],
+      "rating_count": 252442
+    },
+    {
+      "id": "6818339091",
+      "rank": 85,
+      "name": "Skins Projeto Grau 2",
+      "developer": "Anderson Mateus de Lima",
+      "url": "https://apps.apple.com/us/app/id6818339091",
+      "first_seen": "2026-11-09",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 85
+        }
+      ],
+      "rating_count": 3
+    },
+    {
+      "id": "6795492315",
+      "rank": 90,
+      "name": "FeverDrama",
+      "developer": "闻烽 马",
+      "url": "https://apps.apple.com/us/app/id6795492315",
+      "first_seen": "2026-11-09",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 90
+        }
+      ],
+      "rating_count": 20
+    },
+    {
+      "id": "6739610993",
+      "rank": 44,
+      "name": "Find My Phone By Clapping",
+      "developer": "Hieu Tran Thanh",
+      "url": "https://apps.apple.com/us/app/id6739610993",
+      "first_seen": "2026-11-09",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 44
+        }
+      ],
+      "rating_count": 7850
+    },
+    {
+      "id": "6803143394",
+      "rank": 90,
+      "name": "Warden: Safety Map",
+      "developer": "Asymmetric Labs",
+      "url": "https://apps.apple.com/us/app/id6803143394",
+      "first_seen": "2026-11-09",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 90
+        }
+      ],
+      "rating_count": 132
+    },
+    {
+      "id": "1531594277",
+      "rank": 100,
+      "name": "Color Widgets",
+      "developer": "Digital Charms, Inc.",
+      "url": "https://apps.apple.com/us/app/id1531594277",
+      "first_seen": "2026-11-09",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 100
+        }
+      ],
+      "rating_count": 528512
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-09T09:17:14.813870+01:00"
+}
