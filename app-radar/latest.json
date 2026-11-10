@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,136 +8,226 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-10-10",
-  "comparison_to": "2026-11-08",
-  "retained_from": "2026-10-11",
+  "comparison_from": "2026-10-11",
+  "comparison_to": "2026-11-09",
+  "retained_from": "2026-10-12",
   "history_days": 30,
   "complete_history_days": 30,
   "incomplete_history_dates": [],
   "unrecorded_history_days": 0,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 796,
+  "observed_count": 793,
   "leads": [
     {
-      "id": "1139155460",
+      "id": "406033647",
       "rank": 99,
-      "name": "Gymshark: Shop Black Friday",
-      "developer": "Gymshark Ltd",
-      "url": "https://apps.apple.com/us/app/id1139155460",
-      "first_seen": "2026-11-09",
+      "name": "GameStop",
+      "developer": "GameStop",
+      "url": "https://apps.apple.com/us/app/id406033647",
+      "first_seen": "2026-11-10",
       "charts": [
         {
           "category": "Shopping",
           "rank": 99
         }
       ],
-      "rating_count": 189728
+      "rating_count": 153610
     },
     {
-      "id": "6737595599",
-      "rank": 83,
-      "name": "Foundation: Galactic Frontier",
-      "developer": "FunPlus International AG",
-      "url": "https://apps.apple.com/us/app/id6737595599",
-      "first_seen": "2026-11-09",
+      "id": "613009563",
+      "rank": 79,
+      "name": "Santander Bank US",
+      "developer": "Santander Bank",
+      "url": "https://apps.apple.com/us/app/id613009563",
+      "first_seen": "2026-11-10",
       "charts": [
         {
-          "category": "Games",
-          "rank": 83
+          "category": "Finance",
+          "rank": 79
         }
       ],
-      "rating_count": 9350
+      "rating_count": 433812
     },
     {
-      "id": "1545567989",
-      "rank": 100,
-      "name": "Number Match - Numbers Game",
-      "developer": "Easybrain Ltd",
-      "url": "https://apps.apple.com/us/app/id1545567989",
-      "first_seen": "2026-11-09",
+      "id": "1555389200",
+      "rank": 90,
+      "name": "Truist Mobile",
+      "developer": "Truist Financial Corporation",
+      "url": "https://apps.apple.com/us/app/id1555389200",
+      "first_seen": "2026-11-10",
       "charts": [
         {
-          "category": "Games",
-          "rank": 100
+          "category": "Finance",
+          "rank": 90
         }
       ],
-      "rating_count": 252442
+      "rating_count": 1119009
     },
     {
-      "id": "6818339091",
+      "id": "6796547048",
       "rank": 85,
-      "name": "Skins Projeto Grau 2",
-      "developer": "Anderson Mateus de Lima",
-      "url": "https://apps.apple.com/us/app/id6818339091",
-      "first_seen": "2026-11-09",
+      "name": "Cutie Sort - Magic Color Fever",
+      "developer": "Ladaneta Games",
+      "url": "https://apps.apple.com/us/app/id6796547048",
+      "first_seen": "2026-11-10",
       "charts": [
         {
-          "category": "Social Networking",
+          "category": "Games",
           "rank": 85
         }
       ],
-      "rating_count": 3
+      "rating_count": 2916
     },
     {
-      "id": "6795492315",
-      "rank": 90,
-      "name": "FeverDrama",
-      "developer": "闻烽 马",
-      "url": "https://apps.apple.com/us/app/id6795492315",
-      "first_seen": "2026-11-09",
+      "id": "6474999628",
+      "rank": 52,
+      "name": "FANS - For Fans & Artists",
+      "developer": "Blue Garage Corporation",
+      "url": "https://apps.apple.com/us/app/id6474999628",
+      "first_seen": "2026-11-10",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 52
+        }
+      ],
+      "rating_count": 2900
+    },
+    {
+      "id": "6768202244",
+      "rank": 69,
+      "name": "Novagram Messenger",
+      "developer": "VipAds",
+      "url": "https://apps.apple.com/us/app/id6768202244",
+      "first_seen": "2026-11-10",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 69
+        }
+      ],
+      "rating_count": 74
+    },
+    {
+      "id": "1608615554",
+      "rank": 84,
+      "name": "Scopely Explore Campfire",
+      "developer": "Scopely Explore, Inc.",
+      "url": "https://apps.apple.com/us/app/id1608615554",
+      "first_seen": "2026-11-10",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 84
+        }
+      ],
+      "rating_count": 1449
+    },
+    {
+      "id": "6807114595",
+      "rank": 92,
+      "name": "AyuGram",
+      "developer": "Uliana Kulibaba",
+      "url": "https://apps.apple.com/us/app/id6807114595",
+      "first_seen": "2026-11-10",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 92
+        }
+      ],
+      "rating_count": 8
+    },
+    {
+      "id": "6824909896",
+      "rank": 100,
+      "name": "DooDrama",
+      "developer": "Nguyen Minh Thach",
+      "url": "https://apps.apple.com/us/app/id6824909896",
+      "first_seen": "2026-11-10",
       "charts": [
         {
           "category": "Entertainment",
-          "rank": 90
-        }
-      ],
-      "rating_count": 20
-    },
-    {
-      "id": "6739610993",
-      "rank": 44,
-      "name": "Find My Phone By Clapping",
-      "developer": "Hieu Tran Thanh",
-      "url": "https://apps.apple.com/us/app/id6739610993",
-      "first_seen": "2026-11-09",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 44
-        }
-      ],
-      "rating_count": 7850
-    },
-    {
-      "id": "6803143394",
-      "rank": 90,
-      "name": "Warden: Safety Map",
-      "developer": "Asymmetric Labs",
-      "url": "https://apps.apple.com/us/app/id6803143394",
-      "first_seen": "2026-11-09",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 90
-        }
-      ],
-      "rating_count": 132
-    },
-    {
-      "id": "1531594277",
-      "rank": 100,
-      "name": "Color Widgets",
-      "developer": "Digital Charms, Inc.",
-      "url": "https://apps.apple.com/us/app/id1531594277",
-      "first_seen": "2026-11-09",
-      "charts": [
-        {
-          "category": "Utilities",
           "rank": 100
         }
       ],
-      "rating_count": 528512
+      "rating_count": 0
+    },
+    {
+      "id": "6754047293",
+      "rank": 32,
+      "name": "Onyx - Sports Picks",
+      "developer": "Onyx Games LLC",
+      "url": "https://apps.apple.com/us/app/id6754047293",
+      "first_seen": "2026-11-10",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 32
+        }
+      ],
+      "rating_count": 16583
+    },
+    {
+      "id": "502877810",
+      "rank": 50,
+      "name": "Minnesota Vikings",
+      "developer": "Minnesota Vikings Football",
+      "url": "https://apps.apple.com/us/app/id502877810",
+      "first_seen": "2026-11-10",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 50
+        }
+      ],
+      "rating_count": 2624
+    },
+    {
+      "id": "1562901389",
+      "rank": 96,
+      "name": "OPTIMAL: Player Props & Picks",
+      "developer": "Hergott Technologies, Inc",
+      "url": "https://apps.apple.com/us/app/id1562901389",
+      "first_seen": "2026-11-10",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 96
+        }
+      ],
+      "rating_count": 8396
+    },
+    {
+      "id": "1485352913",
+      "rank": 50,
+      "name": "Pokémon HOME",
+      "developer": "The Pokemon Company",
+      "url": "https://apps.apple.com/us/app/id1485352913",
+      "first_seen": "2026-11-10",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 50
+        }
+      ],
+      "rating_count": 15773
+    },
+    {
+      "id": "1602061522",
+      "rank": 93,
+      "name": "Authenticator ·",
+      "developer": "SMM service, s.r.o.",
+      "url": "https://apps.apple.com/us/app/id1602061522",
+      "first_seen": "2026-11-10",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 93
+        }
+      ],
+      "rating_count": 26429
     }
   ],
   "errors": {},
@@ -175,5 +265,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-11-09T09:17:14.813870+01:00"
+  "ratings_checked_at": "2026-11-10T09:17:14.512743+01:00"
 }
