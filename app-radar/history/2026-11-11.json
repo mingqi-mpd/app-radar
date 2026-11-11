@@ -1,0 +1,164 @@
+{
+  "date": "2026-11-11",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-12",
+  "comparison_to": "2026-11-10",
+  "retained_from": "2026-10-13",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 792,
+  "leads": [
+    {
+      "id": "6792962039",
+      "rank": 10,
+      "name": "Hyundai Finance",
+      "developer": "Hyundai Capital America",
+      "url": "https://apps.apple.com/us/app/id6792962039",
+      "first_seen": "2026-11-11",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 10
+        }
+      ],
+      "rating_count": 616
+    },
+    {
+      "id": "1528468737",
+      "rank": 90,
+      "name": "Amazon Flex Debit Card",
+      "developer": "Green Dot Corporation",
+      "url": "https://apps.apple.com/us/app/id1528468737",
+      "first_seen": "2026-11-11",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 90
+        }
+      ],
+      "rating_count": 12650
+    },
+    {
+      "id": "1456325213",
+      "rank": 78,
+      "name": "HighRoller Vegas: Casino Games",
+      "developer": "PLAYLINKS Corp.",
+      "url": "https://apps.apple.com/us/app/id1456325213",
+      "first_seen": "2026-11-11",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 78
+        }
+      ],
+      "rating_count": 16338
+    },
+    {
+      "id": "6742152082",
+      "rank": 99,
+      "name": "Aritzia",
+      "developer": "Aritzia LP",
+      "url": "https://apps.apple.com/us/app/id6742152082",
+      "first_seen": "2026-11-11",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 99
+        }
+      ],
+      "rating_count": 40318
+    },
+    {
+      "id": "6740617332",
+      "rank": 20,
+      "name": "UnGodly",
+      "developer": "Azra Games",
+      "url": "https://apps.apple.com/us/app/id6740617332",
+      "first_seen": "2026-11-11",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 20
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "1587368271",
+      "rank": 96,
+      "name": "Army-Navy Game",
+      "developer": "Army West Point Athletic Association Inc.",
+      "url": "https://apps.apple.com/us/app/id1587368271",
+      "first_seen": "2026-11-11",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 96
+        }
+      ],
+      "rating_count": 2
+    },
+    {
+      "id": "6824923408",
+      "rank": 95,
+      "name": "TeleCar",
+      "developer": "ADELINA RAILEAN",
+      "url": "https://apps.apple.com/us/app/id6824923408",
+      "first_seen": "2026-11-11",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 95
+        }
+      ],
+      "rating_count": 0
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-11T09:17:17.347181+01:00"
+}

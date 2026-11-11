@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,226 +8,121 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-10-11",
-  "comparison_to": "2026-11-09",
-  "retained_from": "2026-10-12",
+  "comparison_from": "2026-10-12",
+  "comparison_to": "2026-11-10",
+  "retained_from": "2026-10-13",
   "history_days": 30,
   "complete_history_days": 30,
   "incomplete_history_dates": [],
   "unrecorded_history_days": 0,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 793,
+  "observed_count": 792,
   "leads": [
     {
-      "id": "406033647",
-      "rank": 99,
-      "name": "GameStop",
-      "developer": "GameStop",
-      "url": "https://apps.apple.com/us/app/id406033647",
-      "first_seen": "2026-11-10",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 99
-        }
-      ],
-      "rating_count": 153610
-    },
-    {
-      "id": "613009563",
-      "rank": 79,
-      "name": "Santander Bank US",
-      "developer": "Santander Bank",
-      "url": "https://apps.apple.com/us/app/id613009563",
-      "first_seen": "2026-11-10",
+      "id": "6792962039",
+      "rank": 10,
+      "name": "Hyundai Finance",
+      "developer": "Hyundai Capital America",
+      "url": "https://apps.apple.com/us/app/id6792962039",
+      "first_seen": "2026-11-11",
       "charts": [
         {
           "category": "Finance",
-          "rank": 79
+          "rank": 10
         }
       ],
-      "rating_count": 433812
+      "rating_count": 616
     },
     {
-      "id": "1555389200",
+      "id": "1528468737",
       "rank": 90,
-      "name": "Truist Mobile",
-      "developer": "Truist Financial Corporation",
-      "url": "https://apps.apple.com/us/app/id1555389200",
-      "first_seen": "2026-11-10",
+      "name": "Amazon Flex Debit Card",
+      "developer": "Green Dot Corporation",
+      "url": "https://apps.apple.com/us/app/id1528468737",
+      "first_seen": "2026-11-11",
       "charts": [
         {
           "category": "Finance",
           "rank": 90
         }
       ],
-      "rating_count": 1119009
+      "rating_count": 12650
     },
     {
-      "id": "6796547048",
-      "rank": 85,
-      "name": "Cutie Sort - Magic Color Fever",
-      "developer": "Ladaneta Games",
-      "url": "https://apps.apple.com/us/app/id6796547048",
-      "first_seen": "2026-11-10",
+      "id": "1456325213",
+      "rank": 78,
+      "name": "HighRoller Vegas: Casino Games",
+      "developer": "PLAYLINKS Corp.",
+      "url": "https://apps.apple.com/us/app/id1456325213",
+      "first_seen": "2026-11-11",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 78
+        }
+      ],
+      "rating_count": 16338
+    },
+    {
+      "id": "6742152082",
+      "rank": 99,
+      "name": "Aritzia",
+      "developer": "Aritzia LP",
+      "url": "https://apps.apple.com/us/app/id6742152082",
+      "first_seen": "2026-11-11",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 99
+        }
+      ],
+      "rating_count": 40318
+    },
+    {
+      "id": "6740617332",
+      "rank": 20,
+      "name": "UnGodly",
+      "developer": "Azra Games",
+      "url": "https://apps.apple.com/us/app/id6740617332",
+      "first_seen": "2026-11-11",
       "charts": [
         {
           "category": "Games",
-          "rank": 85
-        }
-      ],
-      "rating_count": 2916
-    },
-    {
-      "id": "6474999628",
-      "rank": 52,
-      "name": "FANS - For Fans & Artists",
-      "developer": "Blue Garage Corporation",
-      "url": "https://apps.apple.com/us/app/id6474999628",
-      "first_seen": "2026-11-10",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 52
-        }
-      ],
-      "rating_count": 2900
-    },
-    {
-      "id": "6768202244",
-      "rank": 69,
-      "name": "Novagram Messenger",
-      "developer": "VipAds",
-      "url": "https://apps.apple.com/us/app/id6768202244",
-      "first_seen": "2026-11-10",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 69
-        }
-      ],
-      "rating_count": 74
-    },
-    {
-      "id": "1608615554",
-      "rank": 84,
-      "name": "Scopely Explore Campfire",
-      "developer": "Scopely Explore, Inc.",
-      "url": "https://apps.apple.com/us/app/id1608615554",
-      "first_seen": "2026-11-10",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 84
-        }
-      ],
-      "rating_count": 1449
-    },
-    {
-      "id": "6807114595",
-      "rank": 92,
-      "name": "AyuGram",
-      "developer": "Uliana Kulibaba",
-      "url": "https://apps.apple.com/us/app/id6807114595",
-      "first_seen": "2026-11-10",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 92
-        }
-      ],
-      "rating_count": 8
-    },
-    {
-      "id": "6824909896",
-      "rank": 100,
-      "name": "DooDrama",
-      "developer": "Nguyen Minh Thach",
-      "url": "https://apps.apple.com/us/app/id6824909896",
-      "first_seen": "2026-11-10",
-      "charts": [
-        {
-          "category": "Entertainment",
-          "rank": 100
+          "rank": 20
         }
       ],
       "rating_count": 0
     },
     {
-      "id": "6754047293",
-      "rank": 32,
-      "name": "Onyx - Sports Picks",
-      "developer": "Onyx Games LLC",
-      "url": "https://apps.apple.com/us/app/id6754047293",
-      "first_seen": "2026-11-10",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 32
-        }
-      ],
-      "rating_count": 16583
-    },
-    {
-      "id": "502877810",
-      "rank": 50,
-      "name": "Minnesota Vikings",
-      "developer": "Minnesota Vikings Football",
-      "url": "https://apps.apple.com/us/app/id502877810",
-      "first_seen": "2026-11-10",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 50
-        }
-      ],
-      "rating_count": 2624
-    },
-    {
-      "id": "1562901389",
+      "id": "1587368271",
       "rank": 96,
-      "name": "OPTIMAL: Player Props & Picks",
-      "developer": "Hergott Technologies, Inc",
-      "url": "https://apps.apple.com/us/app/id1562901389",
-      "first_seen": "2026-11-10",
+      "name": "Army-Navy Game",
+      "developer": "Army West Point Athletic Association Inc.",
+      "url": "https://apps.apple.com/us/app/id1587368271",
+      "first_seen": "2026-11-11",
       "charts": [
         {
           "category": "Sports",
           "rank": 96
         }
       ],
-      "rating_count": 8396
+      "rating_count": 2
     },
     {
-      "id": "1485352913",
-      "rank": 50,
-      "name": "Pokémon HOME",
-      "developer": "The Pokemon Company",
-      "url": "https://apps.apple.com/us/app/id1485352913",
-      "first_seen": "2026-11-10",
+      "id": "6824923408",
+      "rank": 95,
+      "name": "TeleCar",
+      "developer": "ADELINA RAILEAN",
+      "url": "https://apps.apple.com/us/app/id6824923408",
+      "first_seen": "2026-11-11",
       "charts": [
         {
-          "category": "Utilities",
-          "rank": 50
+          "category": "Entertainment",
+          "rank": 95
         }
       ],
-      "rating_count": 15773
-    },
-    {
-      "id": "1602061522",
-      "rank": 93,
-      "name": "Authenticator ·",
-      "developer": "SMM service, s.r.o.",
-      "url": "https://apps.apple.com/us/app/id1602061522",
-      "first_seen": "2026-11-10",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 93
-        }
-      ],
-      "rating_count": 26429
+      "rating_count": 0
     }
   ],
   "errors": {},
@@ -265,5 +160,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-11-10T09:17:14.512743+01:00"
+  "ratings_checked_at": "2026-11-11T09:17:17.347181+01:00"
 }
