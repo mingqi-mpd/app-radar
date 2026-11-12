@@ -1,0 +1,239 @@
+{
+  "date": "2026-11-12",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-13",
+  "comparison_to": "2026-11-11",
+  "retained_from": "2026-10-14",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 791,
+  "leads": [
+    {
+      "id": "1179213067",
+      "rank": 92,
+      "name": "Webull: Investing & Trading",
+      "developer": "Webull Technologies Pte. Ltd.",
+      "url": "https://apps.apple.com/us/app/id1179213067",
+      "first_seen": "2026-11-12",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 92
+        }
+      ],
+      "rating_count": 343474
+    },
+    {
+      "id": "6790448544",
+      "rank": 66,
+      "name": "Power Life 2.0",
+      "developer": "Power Life",
+      "url": "https://apps.apple.com/us/app/id6790448544",
+      "first_seen": "2026-11-12",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 66
+        }
+      ],
+      "rating_count": 1
+    },
+    {
+      "id": "6449044191",
+      "rank": 99,
+      "name": "F1 Las Vegas",
+      "developer": "Las Vegas Grand Prix, Inc.",
+      "url": "https://apps.apple.com/us/app/id6449044191",
+      "first_seen": "2026-11-12",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 99
+        }
+      ],
+      "rating_count": 2290
+    },
+    {
+      "id": "6761374913",
+      "rank": 86,
+      "name": "WorkBuddy - AI Work Agent",
+      "developer": "Tencent Technology (Shanghai) Company Limited",
+      "url": "https://apps.apple.com/us/app/id6761374913",
+      "first_seen": "2026-11-12",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 86
+        }
+      ],
+      "rating_count": 37
+    },
+    {
+      "id": "1507763697",
+      "rank": 93,
+      "name": "BiuBiuVPN: Browser Private VPN",
+      "developer": "Super Tools Technology Co., Limited",
+      "url": "https://apps.apple.com/us/app/id1507763697",
+      "first_seen": "2026-11-12",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 93
+        }
+      ],
+      "rating_count": 281
+    },
+    {
+      "id": "673354210",
+      "rank": 87,
+      "name": "High 5 Casino - Slots & Casino",
+      "developer": "High 5 Casino LLC",
+      "url": "https://apps.apple.com/us/app/id673354210",
+      "first_seen": "2026-11-12",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 87
+        }
+      ],
+      "rating_count": 44302
+    },
+    {
+      "id": "6740924814",
+      "rank": 100,
+      "name": "Hard Rock Jackpot Planet Slots",
+      "developer": "Hard Rock Games",
+      "url": "https://apps.apple.com/us/app/id6740924814",
+      "first_seen": "2026-11-12",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 100
+        }
+      ],
+      "rating_count": 345
+    },
+    {
+      "id": "6817187484",
+      "rank": 40,
+      "name": "Untraced: Find the Suspect",
+      "developer": "XUAN TUNG NGO",
+      "url": "https://apps.apple.com/us/app/id6817187484",
+      "first_seen": "2026-11-12",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 40
+        }
+      ],
+      "rating_count": 4
+    },
+    {
+      "id": "6799002491",
+      "rank": 80,
+      "name": "Hidden Clearances",
+      "developer": "Rios LLC",
+      "url": "https://apps.apple.com/us/app/id6799002491",
+      "first_seen": "2026-11-12",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 80
+        }
+      ],
+      "rating_count": 222
+    },
+    {
+      "id": "571457538",
+      "rank": 100,
+      "name": "Woot",
+      "developer": "Woot Mobile LLC",
+      "url": "https://apps.apple.com/us/app/id571457538",
+      "first_seen": "2026-11-12",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 100
+        }
+      ],
+      "rating_count": 96251
+    },
+    {
+      "id": "557997762",
+      "rank": 85,
+      "name": "Waplog - Dating & Video Call",
+      "developer": "VLMedia Inc.",
+      "url": "https://apps.apple.com/us/app/id557997762",
+      "first_seen": "2026-11-12",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 85
+        }
+      ],
+      "rating_count": 55673
+    },
+    {
+      "id": "6449217258",
+      "rank": 93,
+      "name": "Throne - Wishlist for Creators",
+      "developer": "Global Gifting Technologies Inc.",
+      "url": "https://apps.apple.com/us/app/id6449217258",
+      "first_seen": "2026-11-12",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 93
+        }
+      ],
+      "rating_count": 8324
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-12T09:17:13.605121+01:00"
+}
