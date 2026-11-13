@@ -1,0 +1,314 @@
+{
+  "date": "2026-11-13",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-14",
+  "comparison_to": "2026-11-12",
+  "retained_from": "2026-10-15",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 792,
+  "leads": [
+    {
+      "id": "1460077113",
+      "rank": 95,
+      "name": "Coupert: Coupons & Cash Back",
+      "developer": "Coupert Science LLC",
+      "url": "https://apps.apple.com/us/app/id1460077113",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 95
+        }
+      ],
+      "rating_count": 25124
+    },
+    {
+      "id": "1502197298",
+      "rank": 98,
+      "name": "Tractor Supply",
+      "developer": "Tractor Supply Company",
+      "url": "https://apps.apple.com/us/app/id1502197298",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 98
+        }
+      ],
+      "rating_count": 47844
+    },
+    {
+      "id": "6772922295",
+      "rank": 8,
+      "name": "Transformers: Eternal War",
+      "developer": "HOOLAI GAME LIMITED",
+      "url": "https://apps.apple.com/us/app/id6772922295",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 8
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6590876141",
+      "rank": 81,
+      "name": "Color Slide - Hexa Puzzle",
+      "developer": "SayGames LTD",
+      "url": "https://apps.apple.com/us/app/id6590876141",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 81
+        }
+      ],
+      "rating_count": 60342
+    },
+    {
+      "id": "1330123889",
+      "rank": 87,
+      "name": "PUBG MOBILE",
+      "developer": "Tencent Mobile International Limited",
+      "url": "https://apps.apple.com/us/app/id1330123889",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 87
+        }
+      ],
+      "rating_count": 1615686
+    },
+    {
+      "id": "6824655215",
+      "rank": 88,
+      "name": "TidyUp! Everything",
+      "developer": "SayGames LTD",
+      "url": "https://apps.apple.com/us/app/id6824655215",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 88
+        }
+      ],
+      "rating_count": 22
+    },
+    {
+      "id": "1274132545",
+      "rank": 96,
+      "name": "Total Battle: War Strategy",
+      "developer": "Scorewarrior",
+      "url": "https://apps.apple.com/us/app/id1274132545",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 96
+        }
+      ],
+      "rating_count": 70741
+    },
+    {
+      "id": "6797530374",
+      "rank": 99,
+      "name": "Jam Bus:Sandfall",
+      "developer": "Nova Games Technology Limited",
+      "url": "https://apps.apple.com/us/app/id6797530374",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 99
+        }
+      ],
+      "rating_count": 9871
+    },
+    {
+      "id": "1491383648",
+      "rank": 56,
+      "name": "Bruins+TD Garden",
+      "developer": "Delaware North Companies, Inc. - Boston",
+      "url": "https://apps.apple.com/us/app/id1491383648",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 56
+        }
+      ],
+      "rating_count": 379
+    },
+    {
+      "id": "897277470",
+      "rank": 77,
+      "name": "MO Hunting",
+      "developer": "Missouri Department of Conservation (MDC)",
+      "url": "https://apps.apple.com/us/app/id897277470",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 77
+        }
+      ],
+      "rating_count": 363
+    },
+    {
+      "id": "1631380834",
+      "rank": 82,
+      "name": "Michigan DNR Hunt Fish",
+      "developer": "State of Michigan - Department of Technology, Management and Budget",
+      "url": "https://apps.apple.com/us/app/id1631380834",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 82
+        }
+      ],
+      "rating_count": 182
+    },
+    {
+      "id": "975776347",
+      "rank": 76,
+      "name": "Bridgefy - Offline Messages",
+      "developer": "Bridgefy, Inc.",
+      "url": "https://apps.apple.com/us/app/id975776347",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 76
+        }
+      ],
+      "rating_count": 65
+    },
+    {
+      "id": "6743524521",
+      "rank": 53,
+      "name": "1Zone",
+      "developer": "EVENTISTA LIMITED COMPANY",
+      "url": "https://apps.apple.com/us/app/id6743524521",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 53
+        }
+      ],
+      "rating_count": 63
+    },
+    {
+      "id": "1620679167",
+      "rank": 80,
+      "name": "SSME - 8K Live Wallpaper",
+      "developer": "Endless Holding Limited",
+      "url": "https://apps.apple.com/us/app/id1620679167",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 80
+        }
+      ],
+      "rating_count": 14973
+    },
+    {
+      "id": "1194582243",
+      "rank": 63,
+      "name": "Cleaner Kit - Clean Up Storage",
+      "developer": "BPMobile",
+      "url": "https://apps.apple.com/us/app/id1194582243",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 63
+        }
+      ],
+      "rating_count": 354385
+    },
+    {
+      "id": "6787894841",
+      "rank": 87,
+      "name": "Cleaner X: Storage Cleanup",
+      "developer": "SPARK TECH LIMITED",
+      "url": "https://apps.apple.com/us/app/id6787894841",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 87
+        }
+      ],
+      "rating_count": 1109
+    },
+    {
+      "id": "1186159417",
+      "rank": 99,
+      "name": "TP-Link Deco",
+      "developer": "TP-Link Systems Inc.",
+      "url": "https://apps.apple.com/us/app/id1186159417",
+      "first_seen": "2026-11-13",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 99
+        }
+      ],
+      "rating_count": 88330
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-13T09:17:15.131849+01:00"
+}
