@@ -1,0 +1,209 @@
+{
+  "date": "2026-11-14",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-15",
+  "comparison_to": "2026-11-13",
+  "retained_from": "2026-10-16",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 793,
+  "leads": [
+    {
+      "id": "6740521489",
+      "rank": 4,
+      "name": "PUBG MOBILE FLASH",
+      "developer": "Tencent Mobile International Limited",
+      "url": "https://apps.apple.com/us/app/id6740521489",
+      "first_seen": "2026-11-14",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 4
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6445798948",
+      "rank": 96,
+      "name": "Dixxon Flannel Co.",
+      "developer": "Dixxon Flannel",
+      "url": "https://apps.apple.com/us/app/id6445798948",
+      "first_seen": "2026-11-14",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 96
+        }
+      ],
+      "rating_count": 23907
+    },
+    {
+      "id": "659532790",
+      "rank": 99,
+      "name": "Free People",
+      "developer": "Free People",
+      "url": "https://apps.apple.com/us/app/id659532790",
+      "first_seen": "2026-11-14",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 99
+        }
+      ],
+      "rating_count": 307282
+    },
+    {
+      "id": "595560554",
+      "rank": 34,
+      "name": "Two Way : Walkie Talkie",
+      "developer": "Selvaraj LLC",
+      "url": "https://apps.apple.com/us/app/id595560554",
+      "first_seen": "2026-11-14",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 34
+        }
+      ],
+      "rating_count": 365
+    },
+    {
+      "id": "1535500412",
+      "rank": 65,
+      "name": "Berty Messenger",
+      "developer": "Berty Technologies",
+      "url": "https://apps.apple.com/us/app/id1535500412",
+      "first_seen": "2026-11-14",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 65
+        }
+      ],
+      "rating_count": 23
+    },
+    {
+      "id": "1561354060",
+      "rank": 65,
+      "name": "TRACX - The Event App",
+      "developer": "SportUnity",
+      "url": "https://apps.apple.com/us/app/id1561354060",
+      "first_seen": "2026-11-14",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 65
+        }
+      ],
+      "rating_count": 785
+    },
+    {
+      "id": "6446257872",
+      "rank": 69,
+      "name": "AGFC Mobile",
+      "developer": "Sovereign Sportsman Solutions, LLC",
+      "url": "https://apps.apple.com/us/app/id6446257872",
+      "first_seen": "2026-11-14",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 69
+        }
+      ],
+      "rating_count": 170
+    },
+    {
+      "id": "1292859802",
+      "rank": 76,
+      "name": "CFBPlayoff",
+      "developer": "SIDEARM Sports",
+      "url": "https://apps.apple.com/us/app/id1292859802",
+      "first_seen": "2026-11-14",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 76
+        }
+      ],
+      "rating_count": 139
+    },
+    {
+      "id": "6745784692",
+      "rank": 54,
+      "name": "Wifi Scan - Security",
+      "developer": "Livehill",
+      "url": "https://apps.apple.com/us/app/id6745784692",
+      "first_seen": "2026-11-14",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 54
+        }
+      ],
+      "rating_count": 13
+    },
+    {
+      "id": "1586432531",
+      "rank": 84,
+      "name": "Meshtastic",
+      "developer": "Meshtastic LLC",
+      "url": "https://apps.apple.com/us/app/id1586432531",
+      "first_seen": "2026-11-14",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 84
+        }
+      ],
+      "rating_count": 849
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-14T09:17:12.602362+01:00"
+}
