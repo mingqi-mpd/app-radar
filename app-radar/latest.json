@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,9 +8,9 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-10-16",
-  "comparison_to": "2026-11-14",
-  "retained_from": "2026-10-17",
+  "comparison_from": "2026-10-17",
+  "comparison_to": "2026-11-15",
+  "retained_from": "2026-10-18",
   "history_days": 30,
   "complete_history_days": 30,
   "incomplete_history_dates": [],
@@ -20,154 +20,154 @@
   "observed_count": 796,
   "leads": [
     {
-      "id": "6766474583",
-      "rank": 83,
-      "name": "Payday Cash Advance - Future",
-      "developer": "Future Cash Finance LLC",
-      "url": "https://apps.apple.com/us/app/id6766474583",
-      "first_seen": "2026-11-15",
-      "charts": [
-        {
-          "category": "Finance",
-          "rank": 83
-        }
-      ],
-      "rating_count": 1051
-    },
-    {
-      "id": "673347869",
-      "rank": 88,
-      "name": "Belk",
-      "developer": "Belk, Inc.",
-      "url": "https://apps.apple.com/us/app/id673347869",
-      "first_seen": "2026-11-15",
+      "id": "6761849289",
+      "rank": 70,
+      "name": "Tuckernuck",
+      "developer": "Fuego Studios",
+      "url": "https://apps.apple.com/us/app/id6761849289",
+      "first_seen": "2026-11-16",
       "charts": [
         {
           "category": "Shopping",
-          "rank": 88
+          "rank": 70
         }
       ],
-      "rating_count": 186870
+      "rating_count": 45
     },
     {
-      "id": "1120208392",
-      "rank": 46,
-      "name": "UFC Collect by Topps®",
-      "developer": "The Topps Company, Inc.",
-      "url": "https://apps.apple.com/us/app/id1120208392",
-      "first_seen": "2026-11-15",
+      "id": "6821255781",
+      "rank": 100,
+      "name": "Wonder Reel Carnival Slots",
+      "developer": "Lombard Equipment South LLC",
+      "url": "https://apps.apple.com/us/app/id6821255781",
+      "first_seen": "2026-11-16",
       "charts": [
         {
-          "category": "Sports",
-          "rank": 46
-        }
-      ],
-      "rating_count": 27
-    },
-    {
-      "id": "460494117",
-      "rank": 90,
-      "name": "Official New York Jets",
-      "developer": "New York Jets",
-      "url": "https://apps.apple.com/us/app/id460494117",
-      "first_seen": "2026-11-15",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 90
-        }
-      ],
-      "rating_count": 28427
-    },
-    {
-      "id": "6456941954",
-      "rank": 94,
-      "name": "RugbyPass – Live Scores & News",
-      "developer": "RUGBYPASS LIMITED",
-      "url": "https://apps.apple.com/us/app/id6456941954",
-      "first_seen": "2026-11-15",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 94
-        }
-      ],
-      "rating_count": 2065
-    },
-    {
-      "id": "6812166638",
-      "rank": 59,
-      "name": "Sort Streak: Color Puzzle",
-      "developer": "Oakever Games",
-      "url": "https://apps.apple.com/us/app/id6812166638",
-      "first_seen": "2026-11-15",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 59
-        }
-      ],
-      "rating_count": 659
-    },
-    {
-      "id": "6824124102",
-      "rank": 65,
-      "name": "Street League Football",
-      "developer": "Hues House LLC",
-      "url": "https://apps.apple.com/us/app/id6824124102",
-      "first_seen": "2026-11-15",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 65
+          "category": "Casino",
+          "rank": 100
         }
       ],
       "rating_count": 0
     },
     {
-      "id": "6770735315",
-      "rank": 72,
-      "name": "Roku App (Official)",
-      "developer": "ROKU INC",
-      "url": "https://apps.apple.com/us/app/id6770735315",
-      "first_seen": "2026-11-15",
+      "id": "492570103",
+      "rank": 19,
+      "name": "Cincinnati Bengals",
+      "developer": "Bengals / YinzCam",
+      "url": "https://apps.apple.com/us/app/id492570103",
+      "first_seen": "2026-11-16",
       "charts": [
         {
-          "category": "Entertainment",
-          "rank": 72
+          "category": "Sports",
+          "rank": 19
         }
       ],
-      "rating_count": 10
+      "rating_count": 2130
     },
     {
-      "id": "6826707391",
-      "rank": 81,
-      "name": "Ome TV • Scene Relay",
-      "developer": "Diego Portela",
-      "url": "https://apps.apple.com/us/app/id6826707391",
-      "first_seen": "2026-11-15",
+      "id": "6717610298",
+      "rank": 74,
+      "name": "Philadelphia Marathon Weekend",
+      "developer": "Dilltree Inc",
+      "url": "https://apps.apple.com/us/app/id6717610298",
+      "first_seen": "2026-11-16",
       "charts": [
         {
-          "category": "Entertainment",
-          "rank": 81
+          "category": "Sports",
+          "rank": 74
         }
       ],
-      "rating_count": 2
+      "rating_count": 311
     },
     {
-      "id": "6758007786",
-      "rank": 100,
-      "name": "AI Cleaner Storage Cleanup",
-      "developer": "Komal Gangani",
-      "url": "https://apps.apple.com/us/app/id6758007786",
-      "first_seen": "2026-11-15",
+      "id": "683474012",
+      "rank": 95,
+      "name": "New Orleans Saints",
+      "developer": "YinzCam, Inc.",
+      "url": "https://apps.apple.com/us/app/id683474012",
+      "first_seen": "2026-11-16",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 95
+        }
+      ],
+      "rating_count": 3654
+    },
+    {
+      "id": "1456965228",
+      "rank": 99,
+      "name": "GHome - GHome Smart",
+      "developer": "Shenzhen Gosund Technology Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id1456965228",
+      "first_seen": "2026-11-16",
       "charts": [
         {
           "category": "Utilities",
-          "rank": 100
+          "rank": 99
         }
       ],
-      "rating_count": 1003
+      "rating_count": 79729
+    },
+    {
+      "id": "6741790631",
+      "rank": 87,
+      "name": "Crushie AI: Chat & Companion",
+      "developer": "SoulZ AI Inc.",
+      "url": "https://apps.apple.com/us/app/id6741790631",
+      "first_seen": "2026-11-16",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 87
+        }
+      ],
+      "rating_count": 3812
+    },
+    {
+      "id": "6765632953",
+      "rank": 89,
+      "name": "Crossi: Crossed Paths Before?",
+      "developer": "Reframes Group, LLC",
+      "url": "https://apps.apple.com/us/app/id6765632953",
+      "first_seen": "2026-11-16",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 89
+        }
+      ],
+      "rating_count": 590
+    },
+    {
+      "id": "6814768605",
+      "rank": 97,
+      "name": "MeloToon: Manga Reader",
+      "developer": "NORTHWEST TECHNOLOGY COLLECTIVE",
+      "url": "https://apps.apple.com/us/app/id6814768605",
+      "first_seen": "2026-11-16",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 97
+        }
+      ],
+      "rating_count": 4
+    },
+    {
+      "id": "6775769772",
+      "rank": 98,
+      "name": "NiceFlick",
+      "developer": "Minh Thang Le",
+      "url": "https://apps.apple.com/us/app/id6775769772",
+      "first_seen": "2026-11-16",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 98
+        }
+      ],
+      "rating_count": 109
     }
   ],
   "errors": {},
@@ -205,5 +205,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-11-15T09:17:15.215043+01:00"
+  "ratings_checked_at": "2026-11-16T09:17:15.398085+01:00"
 }
