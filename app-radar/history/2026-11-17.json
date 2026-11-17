@@ -1,0 +1,179 @@
+{
+  "date": "2026-11-17",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-18",
+  "comparison_to": "2026-11-16",
+  "retained_from": "2026-10-19",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 793,
+  "leads": [
+    {
+      "id": "553311886",
+      "rank": 93,
+      "name": "FanSided: Sports News Hub",
+      "developer": "FanSided",
+      "url": "https://apps.apple.com/us/app/id553311886",
+      "first_seen": "2026-11-17",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 93
+        }
+      ],
+      "rating_count": 308
+    },
+    {
+      "id": "497407923",
+      "rank": 94,
+      "name": "Miami HEAT Mobile",
+      "developer": "Miami Heat Limited Partnership",
+      "url": "https://apps.apple.com/us/app/id497407923",
+      "first_seen": "2026-11-17",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 94
+        }
+      ],
+      "rating_count": 7814
+    },
+    {
+      "id": "6817881720",
+      "rank": 95,
+      "name": "Fantasy Hall of Fame",
+      "developer": "Fantasy Hall of Fame",
+      "url": "https://apps.apple.com/us/app/id6817881720",
+      "first_seen": "2026-11-17",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 95
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6746925342",
+      "rank": 94,
+      "name": "FanDuel Poker: PokerStars",
+      "developer": "FanDuel, Inc.",
+      "url": "https://apps.apple.com/us/app/id6746925342",
+      "first_seen": "2026-11-17",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 94
+        }
+      ],
+      "rating_count": 6659
+    },
+    {
+      "id": "680595680",
+      "rank": 20,
+      "name": "Telemundo: Series y TV en vivo",
+      "developer": "NBCUniversal Media, LLC",
+      "url": "https://apps.apple.com/us/app/id680595680",
+      "first_seen": "2026-11-17",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 20
+        }
+      ],
+      "rating_count": 353101
+    },
+    {
+      "id": "6787539717",
+      "rank": 88,
+      "name": "Xzuper TV : Movies & TV Shows",
+      "developer": "Selik Morav",
+      "url": "https://apps.apple.com/us/app/id6787539717",
+      "first_seen": "2026-11-17",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 88
+        }
+      ],
+      "rating_count": 1335
+    },
+    {
+      "id": "579875139",
+      "rank": 95,
+      "name": "Bass Pro Shops",
+      "developer": "Bass Pro, Inc.",
+      "url": "https://apps.apple.com/us/app/id579875139",
+      "first_seen": "2026-11-17",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 95
+        }
+      ],
+      "rating_count": 48253
+    },
+    {
+      "id": "1658763158",
+      "rank": 99,
+      "name": "LesPark:Lesbian Stories",
+      "developer": "ORIENT BASIC SCIENCE AND TECHNOLOGY PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id1658763158",
+      "first_seen": "2026-11-17",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 99
+        }
+      ],
+      "rating_count": 305
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-17T09:17:17.543347+01:00"
+}
