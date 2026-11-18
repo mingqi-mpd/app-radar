@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,136 +8,301 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-10-18",
-  "comparison_to": "2026-11-16",
-  "retained_from": "2026-10-19",
+  "comparison_from": "2026-10-19",
+  "comparison_to": "2026-11-17",
+  "retained_from": "2026-10-20",
   "history_days": 30,
   "complete_history_days": 30,
   "incomplete_history_dates": [],
   "unrecorded_history_days": 0,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 793,
+  "observed_count": 792,
   "leads": [
     {
-      "id": "553311886",
-      "rank": 93,
-      "name": "FanSided: Sports News Hub",
-      "developer": "FanSided",
-      "url": "https://apps.apple.com/us/app/id553311886",
-      "first_seen": "2026-11-17",
+      "id": "6791661517",
+      "rank": 50,
+      "name": "MyIBCCardControls",
+      "developer": "International Bancshares Corporation",
+      "url": "https://apps.apple.com/us/app/id6791661517",
+      "first_seen": "2026-11-18",
       "charts": [
         {
-          "category": "Sports",
-          "rank": 93
+          "category": "Finance",
+          "rank": 50
         }
       ],
-      "rating_count": 308
+      "rating_count": 15
     },
     {
-      "id": "497407923",
-      "rank": 94,
-      "name": "Miami HEAT Mobile",
-      "developer": "Miami Heat Limited Partnership",
-      "url": "https://apps.apple.com/us/app/id497407923",
-      "first_seen": "2026-11-17",
+      "id": "6761894497",
+      "rank": 85,
+      "name": "First Community CU (OR)",
+      "developer": "First Community Credit Union",
+      "url": "https://apps.apple.com/us/app/id6761894497",
+      "first_seen": "2026-11-18",
       "charts": [
         {
-          "category": "Sports",
+          "category": "Finance",
+          "rank": 85
+        }
+      ],
+      "rating_count": 8
+    },
+    {
+      "id": "1397972267",
+      "rank": 100,
+      "name": "LPL Account View",
+      "developer": "LPL Financial",
+      "url": "https://apps.apple.com/us/app/id1397972267",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 100
+        }
+      ],
+      "rating_count": 4675
+    },
+    {
+      "id": "6758431435",
+      "rank": 92,
+      "name": "Go Go Gold: Casino",
+      "developer": "Kernel Games Inc.",
+      "url": "https://apps.apple.com/us/app/id6758431435",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 92
+        }
+      ],
+      "rating_count": 13228
+    },
+    {
+      "id": "6802245431",
+      "rank": 98,
+      "name": "Godly Bolt",
+      "developer": "Bofan Games",
+      "url": "https://apps.apple.com/us/app/id6802245431",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 98
+        }
+      ],
+      "rating_count": 7
+    },
+    {
+      "id": "538212549",
+      "rank": 99,
+      "name": "Big Fish Casino: Slots Games",
+      "developer": "Product Madness",
+      "url": "https://apps.apple.com/us/app/id538212549",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 99
+        }
+      ],
+      "rating_count": 235802
+    },
+    {
+      "id": "6761419783",
+      "rank": 78,
+      "name": "Word Jam - Screw Puzzle",
+      "developer": "Zego Global Pte Ltd",
+      "url": "https://apps.apple.com/us/app/id6761419783",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 78
+        }
+      ],
+      "rating_count": 4571
+    },
+    {
+      "id": "6745761596",
+      "rank": 92,
+      "name": "Coin Master - Board Adventure",
+      "developer": "Moon Active",
+      "url": "https://apps.apple.com/us/app/id6745761596",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 92
+        }
+      ],
+      "rating_count": 57149
+    },
+    {
+      "id": "6733244789",
+      "rank": 94,
+      "name": "Little Farm Story: Idle Tycoon",
+      "developer": "SayGames LTD",
+      "url": "https://apps.apple.com/us/app/id6733244789",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Games",
           "rank": 94
         }
       ],
-      "rating_count": 7814
+      "rating_count": 41618
     },
     {
-      "id": "6817881720",
-      "rank": 95,
-      "name": "Fantasy Hall of Fame",
-      "developer": "Fantasy Hall of Fame",
-      "url": "https://apps.apple.com/us/app/id6817881720",
-      "first_seen": "2026-11-17",
+      "id": "6761386270",
+      "rank": 29,
+      "name": "Google Wallet",
+      "developer": "Google",
+      "url": "https://apps.apple.com/us/app/id6761386270",
+      "first_seen": "2026-11-18",
       "charts": [
         {
-          "category": "Sports",
-          "rank": 95
+          "category": "Utilities",
+          "rank": 29
         }
       ],
       "rating_count": 0
     },
     {
-      "id": "6746925342",
-      "rank": 94,
-      "name": "FanDuel Poker: PokerStars",
-      "developer": "FanDuel, Inc.",
-      "url": "https://apps.apple.com/us/app/id6746925342",
-      "first_seen": "2026-11-17",
-      "charts": [
-        {
-          "category": "Casino",
-          "rank": 94
-        }
-      ],
-      "rating_count": 6659
-    },
-    {
-      "id": "680595680",
-      "rank": 20,
-      "name": "Telemundo: Series y TV en vivo",
-      "developer": "NBCUniversal Media, LLC",
-      "url": "https://apps.apple.com/us/app/id680595680",
-      "first_seen": "2026-11-17",
-      "charts": [
-        {
-          "category": "Entertainment",
-          "rank": 20
-        }
-      ],
-      "rating_count": 353101
-    },
-    {
-      "id": "6787539717",
+      "id": "1278474169",
       "rank": 88,
-      "name": "Xzuper TV : Movies & TV Shows",
-      "developer": "Selik Morav",
-      "url": "https://apps.apple.com/us/app/id6787539717",
-      "first_seen": "2026-11-17",
+      "name": "Norton 360 Mobile Security VPN",
+      "developer": "Gen Digital Inc.",
+      "url": "https://apps.apple.com/us/app/id1278474169",
+      "first_seen": "2026-11-18",
       "charts": [
         {
-          "category": "Entertainment",
+          "category": "Utilities",
           "rank": 88
         }
       ],
-      "rating_count": 1335
+      "rating_count": 185842
     },
     {
-      "id": "579875139",
-      "rank": 95,
-      "name": "Bass Pro Shops",
-      "developer": "Bass Pro, Inc.",
-      "url": "https://apps.apple.com/us/app/id579875139",
-      "first_seen": "2026-11-17",
+      "id": "1568033706",
+      "rank": 93,
+      "name": "Nothing X",
+      "developer": "Nothing Technology Limited",
+      "url": "https://apps.apple.com/us/app/id1568033706",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 93
+        }
+      ],
+      "rating_count": 3488
+    },
+    {
+      "id": "6739770913",
+      "rank": 74,
+      "name": "Talk.AI - Chat with Characters",
+      "developer": "BE.AI",
+      "url": "https://apps.apple.com/us/app/id6739770913",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 74
+        }
+      ],
+      "rating_count": 1762
+    },
+    {
+      "id": "6475806539",
+      "rank": 35,
+      "name": "Fans First Tickets",
+      "developer": "Fans First Entertainment, LLC",
+      "url": "https://apps.apple.com/us/app/id6475806539",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 35
+        }
+      ],
+      "rating_count": 111
+    },
+    {
+      "id": "578834522",
+      "rank": 86,
+      "name": "LA Lakers Official App",
+      "developer": "The Los Angeles Lakers, Inc.",
+      "url": "https://apps.apple.com/us/app/id578834522",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 86
+        }
+      ],
+      "rating_count": 22431
+    },
+    {
+      "id": "6789690562",
+      "rank": 90,
+      "name": "Snapp AI: Picks, Fantasy, DFS",
+      "developer": "Snapp Stats, Inc.",
+      "url": "https://apps.apple.com/us/app/id6789690562",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 90
+        }
+      ],
+      "rating_count": 96
+    },
+    {
+      "id": "1243733345",
+      "rank": 81,
+      "name": "Garage: Online Fashion",
+      "developer": "Groupe Dynamite",
+      "url": "https://apps.apple.com/us/app/id1243733345",
+      "first_seen": "2026-11-18",
       "charts": [
         {
           "category": "Shopping",
-          "rank": 95
+          "rank": 81
         }
       ],
-      "rating_count": 48253
+      "rating_count": 33784
     },
     {
-      "id": "1658763158",
+      "id": "6449706677",
+      "rank": 97,
+      "name": "On: Shop Shoes & Apparel",
+      "developer": "On AG",
+      "url": "https://apps.apple.com/us/app/id6449706677",
+      "first_seen": "2026-11-18",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 97
+        }
+      ],
+      "rating_count": 78753
+    },
+    {
+      "id": "6463125365",
       "rank": 99,
-      "name": "LesPark:Lesbian Stories",
-      "developer": "ORIENT BASIC SCIENCE AND TECHNOLOGY PTE. LTD.",
-      "url": "https://apps.apple.com/us/app/id1658763158",
-      "first_seen": "2026-11-17",
+      "name": "Free Text App Plus 2nd Calling",
+      "developer": "Crowded Road",
+      "url": "https://apps.apple.com/us/app/id6463125365",
+      "first_seen": "2026-11-18",
       "charts": [
         {
           "category": "Social Networking",
           "rank": 99
         }
       ],
-      "rating_count": 305
+      "rating_count": 554
     }
   ],
   "errors": {},
@@ -175,5 +340,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-11-17T09:17:17.543347+01:00"
+  "ratings_checked_at": "2026-11-18T09:17:13.528454+01:00"
 }
