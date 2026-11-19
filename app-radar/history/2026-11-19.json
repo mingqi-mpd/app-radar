@@ -1,0 +1,269 @@
+{
+  "date": "2026-11-19",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-20",
+  "comparison_to": "2026-11-18",
+  "retained_from": "2026-10-21",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 791,
+  "leads": [
+    {
+      "id": "6752422663",
+      "rank": 57,
+      "name": "Novo App CAIXA",
+      "developer": "Caixa Econômica Federal",
+      "url": "https://apps.apple.com/us/app/id6752422663",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 57
+        }
+      ],
+      "rating_count": 5
+    },
+    {
+      "id": "1636531300",
+      "rank": 51,
+      "name": "J.Crew",
+      "developer": "JCrew Group INC",
+      "url": "https://apps.apple.com/us/app/id1636531300",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 51
+        }
+      ],
+      "rating_count": 948
+    },
+    {
+      "id": "6782153507",
+      "rank": 79,
+      "name": "Packed: Rip Packs, Pull Grails",
+      "developer": "PlayPacked, Inc",
+      "url": "https://apps.apple.com/us/app/id6782153507",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 79
+        }
+      ],
+      "rating_count": 4600
+    },
+    {
+      "id": "6811131032",
+      "rank": 100,
+      "name": "SET ACTIVE",
+      "developer": "Fuego Studios",
+      "url": "https://apps.apple.com/us/app/id6811131032",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 100
+        }
+      ],
+      "rating_count": 2
+    },
+    {
+      "id": "6761043541",
+      "rank": 65,
+      "name": "Last Beacon: Survival",
+      "developer": "YG Technology FZ-LLC",
+      "url": "https://apps.apple.com/us/app/id6761043541",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 65
+        }
+      ],
+      "rating_count": 3039
+    },
+    {
+      "id": "6566176181",
+      "rank": 95,
+      "name": "Gleaming Slots - Win Real Cash",
+      "developer": "ETERNAL BOOM LIMITED",
+      "url": "https://apps.apple.com/us/app/id6566176181",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 95
+        }
+      ],
+      "rating_count": 153683
+    },
+    {
+      "id": "6695750930",
+      "rank": 72,
+      "name": "Win Money Solitaire",
+      "developer": "Bear Hug Entertainment Limited",
+      "url": "https://apps.apple.com/us/app/id6695750930",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 72
+        }
+      ],
+      "rating_count": 11900
+    },
+    {
+      "id": "6740245857",
+      "rank": 83,
+      "name": "Rolling Riches: Social Casino",
+      "developer": "Rolling Riches Ltd.",
+      "url": "https://apps.apple.com/us/app/id6740245857",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 83
+        }
+      ],
+      "rating_count": 25
+    },
+    {
+      "id": "6825688063",
+      "rank": 94,
+      "name": "W777 Slots",
+      "developer": "Trellis Point",
+      "url": "https://apps.apple.com/us/app/id6825688063",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 94
+        }
+      ],
+      "rating_count": 3
+    },
+    {
+      "id": "1493217043",
+      "rank": 56,
+      "name": "United Football League",
+      "developer": "Alpha Entertainment LLC",
+      "url": "https://apps.apple.com/us/app/id1493217043",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 56
+        }
+      ],
+      "rating_count": 4020
+    },
+    {
+      "id": "6821205678",
+      "rank": 60,
+      "name": "SnowPal - Ski and Snowboard",
+      "developer": "TalkUp LLC",
+      "url": "https://apps.apple.com/us/app/id6821205678",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 60
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "762283377",
+      "rank": 79,
+      "name": "Globe Soccer",
+      "developer": "Globe Soccer DWC-LLC",
+      "url": "https://apps.apple.com/us/app/id762283377",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 79
+        }
+      ],
+      "rating_count": 54
+    },
+    {
+      "id": "6810980368",
+      "rank": 100,
+      "name": "Emoji Mural",
+      "developer": "敏超 白",
+      "url": "https://apps.apple.com/us/app/id6810980368",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 100
+        }
+      ],
+      "rating_count": 26
+    },
+    {
+      "id": "6799810207",
+      "rank": 92,
+      "name": "WarpLane VPN - Proxy for Phone",
+      "developer": "Brother Business Limited",
+      "url": "https://apps.apple.com/us/app/id6799810207",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 92
+        }
+      ],
+      "rating_count": 244
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-19T09:17:21.971433+01:00"
+}

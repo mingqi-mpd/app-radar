@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,301 +8,226 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-10-19",
-  "comparison_to": "2026-11-17",
-  "retained_from": "2026-10-20",
+  "comparison_from": "2026-10-20",
+  "comparison_to": "2026-11-18",
+  "retained_from": "2026-10-21",
   "history_days": 30,
   "complete_history_days": 30,
   "incomplete_history_dates": [],
   "unrecorded_history_days": 0,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 792,
+  "observed_count": 791,
   "leads": [
     {
-      "id": "6791661517",
-      "rank": 50,
-      "name": "MyIBCCardControls",
-      "developer": "International Bancshares Corporation",
-      "url": "https://apps.apple.com/us/app/id6791661517",
-      "first_seen": "2026-11-18",
+      "id": "6752422663",
+      "rank": 57,
+      "name": "Novo App CAIXA",
+      "developer": "Caixa Econômica Federal",
+      "url": "https://apps.apple.com/us/app/id6752422663",
+      "first_seen": "2026-11-19",
       "charts": [
         {
           "category": "Finance",
-          "rank": 50
+          "rank": 57
         }
       ],
-      "rating_count": 15
+      "rating_count": 5
     },
     {
-      "id": "6761894497",
-      "rank": 85,
-      "name": "First Community CU (OR)",
-      "developer": "First Community Credit Union",
-      "url": "https://apps.apple.com/us/app/id6761894497",
-      "first_seen": "2026-11-18",
+      "id": "1636531300",
+      "rank": 51,
+      "name": "J.Crew",
+      "developer": "JCrew Group INC",
+      "url": "https://apps.apple.com/us/app/id1636531300",
+      "first_seen": "2026-11-19",
       "charts": [
         {
-          "category": "Finance",
-          "rank": 85
+          "category": "Shopping",
+          "rank": 51
         }
       ],
-      "rating_count": 8
+      "rating_count": 948
     },
     {
-      "id": "1397972267",
+      "id": "6782153507",
+      "rank": 79,
+      "name": "Packed: Rip Packs, Pull Grails",
+      "developer": "PlayPacked, Inc",
+      "url": "https://apps.apple.com/us/app/id6782153507",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 79
+        }
+      ],
+      "rating_count": 4600
+    },
+    {
+      "id": "6811131032",
       "rank": 100,
-      "name": "LPL Account View",
-      "developer": "LPL Financial",
-      "url": "https://apps.apple.com/us/app/id1397972267",
-      "first_seen": "2026-11-18",
+      "name": "SET ACTIVE",
+      "developer": "Fuego Studios",
+      "url": "https://apps.apple.com/us/app/id6811131032",
+      "first_seen": "2026-11-19",
       "charts": [
         {
-          "category": "Finance",
+          "category": "Shopping",
           "rank": 100
         }
       ],
-      "rating_count": 4675
+      "rating_count": 2
     },
     {
-      "id": "6758431435",
-      "rank": 92,
-      "name": "Go Go Gold: Casino",
-      "developer": "Kernel Games Inc.",
-      "url": "https://apps.apple.com/us/app/id6758431435",
-      "first_seen": "2026-11-18",
-      "charts": [
-        {
-          "category": "Casino",
-          "rank": 92
-        }
-      ],
-      "rating_count": 13228
-    },
-    {
-      "id": "6802245431",
-      "rank": 98,
-      "name": "Godly Bolt",
-      "developer": "Bofan Games",
-      "url": "https://apps.apple.com/us/app/id6802245431",
-      "first_seen": "2026-11-18",
-      "charts": [
-        {
-          "category": "Casino",
-          "rank": 98
-        }
-      ],
-      "rating_count": 7
-    },
-    {
-      "id": "538212549",
-      "rank": 99,
-      "name": "Big Fish Casino: Slots Games",
-      "developer": "Product Madness",
-      "url": "https://apps.apple.com/us/app/id538212549",
-      "first_seen": "2026-11-18",
-      "charts": [
-        {
-          "category": "Casino",
-          "rank": 99
-        }
-      ],
-      "rating_count": 235802
-    },
-    {
-      "id": "6761419783",
-      "rank": 78,
-      "name": "Word Jam - Screw Puzzle",
-      "developer": "Zego Global Pte Ltd",
-      "url": "https://apps.apple.com/us/app/id6761419783",
-      "first_seen": "2026-11-18",
+      "id": "6761043541",
+      "rank": 65,
+      "name": "Last Beacon: Survival",
+      "developer": "YG Technology FZ-LLC",
+      "url": "https://apps.apple.com/us/app/id6761043541",
+      "first_seen": "2026-11-19",
       "charts": [
         {
           "category": "Games",
-          "rank": 78
+          "rank": 65
         }
       ],
-      "rating_count": 4571
+      "rating_count": 3039
     },
     {
-      "id": "6745761596",
-      "rank": 92,
-      "name": "Coin Master - Board Adventure",
-      "developer": "Moon Active",
-      "url": "https://apps.apple.com/us/app/id6745761596",
-      "first_seen": "2026-11-18",
+      "id": "6566176181",
+      "rank": 95,
+      "name": "Gleaming Slots - Win Real Cash",
+      "developer": "ETERNAL BOOM LIMITED",
+      "url": "https://apps.apple.com/us/app/id6566176181",
+      "first_seen": "2026-11-19",
       "charts": [
         {
           "category": "Games",
-          "rank": 92
+          "rank": 95
         }
       ],
-      "rating_count": 57149
+      "rating_count": 153683
     },
     {
-      "id": "6733244789",
+      "id": "6695750930",
+      "rank": 72,
+      "name": "Win Money Solitaire",
+      "developer": "Bear Hug Entertainment Limited",
+      "url": "https://apps.apple.com/us/app/id6695750930",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 72
+        }
+      ],
+      "rating_count": 11900
+    },
+    {
+      "id": "6740245857",
+      "rank": 83,
+      "name": "Rolling Riches: Social Casino",
+      "developer": "Rolling Riches Ltd.",
+      "url": "https://apps.apple.com/us/app/id6740245857",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 83
+        }
+      ],
+      "rating_count": 25
+    },
+    {
+      "id": "6825688063",
       "rank": 94,
-      "name": "Little Farm Story: Idle Tycoon",
-      "developer": "SayGames LTD",
-      "url": "https://apps.apple.com/us/app/id6733244789",
-      "first_seen": "2026-11-18",
+      "name": "W777 Slots",
+      "developer": "Trellis Point",
+      "url": "https://apps.apple.com/us/app/id6825688063",
+      "first_seen": "2026-11-19",
       "charts": [
         {
-          "category": "Games",
+          "category": "Casino",
           "rank": 94
         }
       ],
-      "rating_count": 41618
+      "rating_count": 3
     },
     {
-      "id": "6761386270",
-      "rank": 29,
-      "name": "Google Wallet",
-      "developer": "Google",
-      "url": "https://apps.apple.com/us/app/id6761386270",
-      "first_seen": "2026-11-18",
+      "id": "1493217043",
+      "rank": 56,
+      "name": "United Football League",
+      "developer": "Alpha Entertainment LLC",
+      "url": "https://apps.apple.com/us/app/id1493217043",
+      "first_seen": "2026-11-19",
       "charts": [
         {
-          "category": "Utilities",
-          "rank": 29
+          "category": "Sports",
+          "rank": 56
+        }
+      ],
+      "rating_count": 4020
+    },
+    {
+      "id": "6821205678",
+      "rank": 60,
+      "name": "SnowPal - Ski and Snowboard",
+      "developer": "TalkUp LLC",
+      "url": "https://apps.apple.com/us/app/id6821205678",
+      "first_seen": "2026-11-19",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 60
         }
       ],
       "rating_count": 0
     },
     {
-      "id": "1278474169",
-      "rank": 88,
-      "name": "Norton 360 Mobile Security VPN",
-      "developer": "Gen Digital Inc.",
-      "url": "https://apps.apple.com/us/app/id1278474169",
-      "first_seen": "2026-11-18",
+      "id": "762283377",
+      "rank": 79,
+      "name": "Globe Soccer",
+      "developer": "Globe Soccer DWC-LLC",
+      "url": "https://apps.apple.com/us/app/id762283377",
+      "first_seen": "2026-11-19",
       "charts": [
         {
-          "category": "Utilities",
-          "rank": 88
+          "category": "Sports",
+          "rank": 79
         }
       ],
-      "rating_count": 185842
+      "rating_count": 54
     },
     {
-      "id": "1568033706",
-      "rank": 93,
-      "name": "Nothing X",
-      "developer": "Nothing Technology Limited",
-      "url": "https://apps.apple.com/us/app/id1568033706",
-      "first_seen": "2026-11-18",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 93
-        }
-      ],
-      "rating_count": 3488
-    },
-    {
-      "id": "6739770913",
-      "rank": 74,
-      "name": "Talk.AI - Chat with Characters",
-      "developer": "BE.AI",
-      "url": "https://apps.apple.com/us/app/id6739770913",
-      "first_seen": "2026-11-18",
+      "id": "6810980368",
+      "rank": 100,
+      "name": "Emoji Mural",
+      "developer": "敏超 白",
+      "url": "https://apps.apple.com/us/app/id6810980368",
+      "first_seen": "2026-11-19",
       "charts": [
         {
           "category": "Entertainment",
-          "rank": 74
+          "rank": 100
         }
       ],
-      "rating_count": 1762
+      "rating_count": 26
     },
     {
-      "id": "6475806539",
-      "rank": 35,
-      "name": "Fans First Tickets",
-      "developer": "Fans First Entertainment, LLC",
-      "url": "https://apps.apple.com/us/app/id6475806539",
-      "first_seen": "2026-11-18",
+      "id": "6799810207",
+      "rank": 92,
+      "name": "WarpLane VPN - Proxy for Phone",
+      "developer": "Brother Business Limited",
+      "url": "https://apps.apple.com/us/app/id6799810207",
+      "first_seen": "2026-11-19",
       "charts": [
         {
-          "category": "Sports",
-          "rank": 35
+          "category": "Utilities",
+          "rank": 92
         }
       ],
-      "rating_count": 111
-    },
-    {
-      "id": "578834522",
-      "rank": 86,
-      "name": "LA Lakers Official App",
-      "developer": "The Los Angeles Lakers, Inc.",
-      "url": "https://apps.apple.com/us/app/id578834522",
-      "first_seen": "2026-11-18",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 86
-        }
-      ],
-      "rating_count": 22431
-    },
-    {
-      "id": "6789690562",
-      "rank": 90,
-      "name": "Snapp AI: Picks, Fantasy, DFS",
-      "developer": "Snapp Stats, Inc.",
-      "url": "https://apps.apple.com/us/app/id6789690562",
-      "first_seen": "2026-11-18",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 90
-        }
-      ],
-      "rating_count": 96
-    },
-    {
-      "id": "1243733345",
-      "rank": 81,
-      "name": "Garage: Online Fashion",
-      "developer": "Groupe Dynamite",
-      "url": "https://apps.apple.com/us/app/id1243733345",
-      "first_seen": "2026-11-18",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 81
-        }
-      ],
-      "rating_count": 33784
-    },
-    {
-      "id": "6449706677",
-      "rank": 97,
-      "name": "On: Shop Shoes & Apparel",
-      "developer": "On AG",
-      "url": "https://apps.apple.com/us/app/id6449706677",
-      "first_seen": "2026-11-18",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 97
-        }
-      ],
-      "rating_count": 78753
-    },
-    {
-      "id": "6463125365",
-      "rank": 99,
-      "name": "Free Text App Plus 2nd Calling",
-      "developer": "Crowded Road",
-      "url": "https://apps.apple.com/us/app/id6463125365",
-      "first_seen": "2026-11-18",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 99
-        }
-      ],
-      "rating_count": 554
+      "rating_count": 244
     }
   ],
   "errors": {},
@@ -340,5 +265,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-11-18T09:17:13.528454+01:00"
+  "ratings_checked_at": "2026-11-19T09:17:21.971433+01:00"
 }
