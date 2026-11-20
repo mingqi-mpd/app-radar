@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,226 +8,241 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-10-20",
-  "comparison_to": "2026-11-18",
-  "retained_from": "2026-10-21",
+  "comparison_from": "2026-10-21",
+  "comparison_to": "2026-11-19",
+  "retained_from": "2026-10-22",
   "history_days": 30,
   "complete_history_days": 30,
   "incomplete_history_dates": [],
   "unrecorded_history_days": 0,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 791,
+  "observed_count": 790,
   "leads": [
     {
-      "id": "6752422663",
-      "rank": 57,
-      "name": "Novo App CAIXA",
-      "developer": "Caixa Econômica Federal",
-      "url": "https://apps.apple.com/us/app/id6752422663",
-      "first_seen": "2026-11-19",
+      "id": "6756128226",
+      "rank": 68,
+      "name": "Félix Pago - Envíos de dinero",
+      "developer": "Felix Technologies, Inc.",
+      "url": "https://apps.apple.com/us/app/id6756128226",
+      "first_seen": "2026-11-20",
       "charts": [
         {
           "category": "Finance",
-          "rank": 57
+          "rank": 68
         }
       ],
-      "rating_count": 5
+      "rating_count": 1158
     },
     {
-      "id": "1636531300",
-      "rank": 51,
-      "name": "J.Crew",
-      "developer": "JCrew Group INC",
-      "url": "https://apps.apple.com/us/app/id1636531300",
-      "first_seen": "2026-11-19",
+      "id": "1065921908",
+      "rank": 85,
+      "name": "Ria Money Transfer",
+      "developer": "Ria Envia Inc.",
+      "url": "https://apps.apple.com/us/app/id1065921908",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 85
+        }
+      ],
+      "rating_count": 306940
+    },
+    {
+      "id": "846717081",
+      "rank": 88,
+      "name": "Sendwave Send & Transfer Money",
+      "developer": "Chime Inc.",
+      "url": "https://apps.apple.com/us/app/id846717081",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 88
+        }
+      ],
+      "rating_count": 87441
+    },
+    {
+      "id": "1588185331",
+      "rank": 33,
+      "name": "Slot Mate - Vegas Slot Casino",
+      "developer": "PLAYLINKS Corp.",
+      "url": "https://apps.apple.com/us/app/id1588185331",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 33
+        }
+      ],
+      "rating_count": 1137
+    },
+    {
+      "id": "1256307081",
+      "rank": 85,
+      "name": "Ignite Classic Slots Casino",
+      "developer": "Mobee Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id1256307081",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 85
+        }
+      ],
+      "rating_count": 23430
+    },
+    {
+      "id": "1449164533",
+      "rank": 99,
+      "name": "Prizes by GAMEE: Earn Rewards",
+      "developer": "Gamee Mobile",
+      "url": "https://apps.apple.com/us/app/id1449164533",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 99
+        }
+      ],
+      "rating_count": 33029
+    },
+    {
+      "id": "342809508",
+      "rank": 43,
+      "name": "Athleta: Activewear & Apparel",
+      "developer": "Gap Inc.",
+      "url": "https://apps.apple.com/us/app/id342809508",
+      "first_seen": "2026-11-20",
       "charts": [
         {
           "category": "Shopping",
-          "rank": 51
+          "rank": 43
         }
       ],
-      "rating_count": 948
+      "rating_count": 229150
     },
     {
-      "id": "6782153507",
-      "rank": 79,
-      "name": "Packed: Rip Packs, Pull Grails",
-      "developer": "PlayPacked, Inc",
-      "url": "https://apps.apple.com/us/app/id6782153507",
-      "first_seen": "2026-11-19",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 79
-        }
-      ],
-      "rating_count": 4600
-    },
-    {
-      "id": "6811131032",
-      "rank": 100,
-      "name": "SET ACTIVE",
-      "developer": "Fuego Studios",
-      "url": "https://apps.apple.com/us/app/id6811131032",
-      "first_seen": "2026-11-19",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 100
-        }
-      ],
-      "rating_count": 2
-    },
-    {
-      "id": "6761043541",
-      "rank": 65,
-      "name": "Last Beacon: Survival",
-      "developer": "YG Technology FZ-LLC",
-      "url": "https://apps.apple.com/us/app/id6761043541",
-      "first_seen": "2026-11-19",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 65
-        }
-      ],
-      "rating_count": 3039
-    },
-    {
-      "id": "6566176181",
+      "id": "1215372874",
       "rank": 95,
-      "name": "Gleaming Slots - Win Real Cash",
-      "developer": "ETERNAL BOOM LIMITED",
-      "url": "https://apps.apple.com/us/app/id6566176181",
-      "first_seen": "2026-11-19",
+      "name": "Pura",
+      "developer": "Pura",
+      "url": "https://apps.apple.com/us/app/id1215372874",
+      "first_seen": "2026-11-20",
       "charts": [
         {
-          "category": "Games",
+          "category": "Shopping",
           "rank": 95
         }
       ],
-      "rating_count": 153683
+      "rating_count": 182987
     },
     {
-      "id": "6695750930",
-      "rank": 72,
-      "name": "Win Money Solitaire",
-      "developer": "Bear Hug Entertainment Limited",
-      "url": "https://apps.apple.com/us/app/id6695750930",
-      "first_seen": "2026-11-19",
+      "id": "6748948029",
+      "rank": 66,
+      "name": "Sin Streets: Open World RPG",
+      "developer": "Pixelvoid Games Ltd",
+      "url": "https://apps.apple.com/us/app/id6748948029",
+      "first_seen": "2026-11-20",
       "charts": [
         {
-          "category": "Casino",
-          "rank": 72
+          "category": "Games",
+          "rank": 66
         }
       ],
-      "rating_count": 11900
+      "rating_count": 885
     },
     {
-      "id": "6740245857",
-      "rank": 83,
-      "name": "Rolling Riches: Social Casino",
-      "developer": "Rolling Riches Ltd.",
-      "url": "https://apps.apple.com/us/app/id6740245857",
-      "first_seen": "2026-11-19",
+      "id": "6805725616",
+      "rank": 85,
+      "name": "Line Tangle - Dots Jam Escape",
+      "developer": "Shycheese",
+      "url": "https://apps.apple.com/us/app/id6805725616",
+      "first_seen": "2026-11-20",
       "charts": [
         {
-          "category": "Casino",
-          "rank": 83
+          "category": "Games",
+          "rank": 85
         }
       ],
-      "rating_count": 25
+      "rating_count": 781
     },
     {
-      "id": "6825688063",
-      "rank": 94,
-      "name": "W777 Slots",
-      "developer": "Trellis Point",
-      "url": "https://apps.apple.com/us/app/id6825688063",
-      "first_seen": "2026-11-19",
-      "charts": [
-        {
-          "category": "Casino",
-          "rank": 94
-        }
-      ],
-      "rating_count": 3
-    },
-    {
-      "id": "1493217043",
-      "rank": 56,
-      "name": "United Football League",
-      "developer": "Alpha Entertainment LLC",
-      "url": "https://apps.apple.com/us/app/id1493217043",
-      "first_seen": "2026-11-19",
+      "id": "1604602913",
+      "rank": 81,
+      "name": "WIAA Sports Live",
+      "developer": "Allen Media Broadcasting, LLC",
+      "url": "https://apps.apple.com/us/app/id1604602913",
+      "first_seen": "2026-11-20",
       "charts": [
         {
           "category": "Sports",
-          "rank": 56
+          "rank": 81
         }
       ],
-      "rating_count": 4020
+      "rating_count": 271
     },
     {
-      "id": "6821205678",
-      "rank": 60,
-      "name": "SnowPal - Ski and Snowboard",
-      "developer": "TalkUp LLC",
-      "url": "https://apps.apple.com/us/app/id6821205678",
-      "first_seen": "2026-11-19",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 60
-        }
-      ],
-      "rating_count": 0
-    },
-    {
-      "id": "762283377",
-      "rank": 79,
-      "name": "Globe Soccer",
-      "developer": "Globe Soccer DWC-LLC",
-      "url": "https://apps.apple.com/us/app/id762283377",
-      "first_seen": "2026-11-19",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 79
-        }
-      ],
-      "rating_count": 54
-    },
-    {
-      "id": "6810980368",
-      "rank": 100,
-      "name": "Emoji Mural",
-      "developer": "敏超 白",
-      "url": "https://apps.apple.com/us/app/id6810980368",
-      "first_seen": "2026-11-19",
-      "charts": [
-        {
-          "category": "Entertainment",
-          "rank": 100
-        }
-      ],
-      "rating_count": 26
-    },
-    {
-      "id": "6799810207",
-      "rank": 92,
-      "name": "WarpLane VPN - Proxy for Phone",
-      "developer": "Brother Business Limited",
-      "url": "https://apps.apple.com/us/app/id6799810207",
-      "first_seen": "2026-11-19",
+      "id": "6763088329",
+      "rank": 59,
+      "name": "Photo Screensaver for TV",
+      "developer": "Viacheslav Ryabinin",
+      "url": "https://apps.apple.com/us/app/id6763088329",
+      "first_seen": "2026-11-20",
       "charts": [
         {
           "category": "Utilities",
-          "rank": 92
+          "rank": 59
         }
       ],
-      "rating_count": 244
+      "rating_count": 313
+    },
+    {
+      "id": "6749566371",
+      "rank": 86,
+      "name": "Pulse Monitor-Blood Sugar",
+      "developer": "PIECES OF WOOD CO., LIMITED",
+      "url": "https://apps.apple.com/us/app/id6749566371",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 86
+        }
+      ],
+      "rating_count": 8
+    },
+    {
+      "id": "6747003427",
+      "rank": 94,
+      "name": "Storage Cleaner*",
+      "developer": "Takamaka Ltd.",
+      "url": "https://apps.apple.com/us/app/id6747003427",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 94
+        }
+      ],
+      "rating_count": 57
+    },
+    {
+      "id": "6755528083",
+      "rank": 96,
+      "name": "Clean AI・Phone Storage Cleanup",
+      "developer": "BAO Apps",
+      "url": "https://apps.apple.com/us/app/id6755528083",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 96
+        }
+      ],
+      "rating_count": 1986
     }
   ],
   "errors": {},
@@ -265,5 +280,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-11-19T09:17:21.971433+01:00"
+  "ratings_checked_at": "2026-11-20T09:17:14.985301+01:00"
 }

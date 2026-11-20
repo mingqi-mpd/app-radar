@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-20",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-21",
+  "comparison_to": "2026-11-19",
+  "retained_from": "2026-10-22",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 790,
+  "leads": [
+    {
+      "id": "6756128226",
+      "rank": 68,
+      "name": "Félix Pago - Envíos de dinero",
+      "developer": "Felix Technologies, Inc.",
+      "url": "https://apps.apple.com/us/app/id6756128226",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 68
+        }
+      ],
+      "rating_count": 1158
+    },
+    {
+      "id": "1065921908",
+      "rank": 85,
+      "name": "Ria Money Transfer",
+      "developer": "Ria Envia Inc.",
+      "url": "https://apps.apple.com/us/app/id1065921908",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 85
+        }
+      ],
+      "rating_count": 306940
+    },
+    {
+      "id": "846717081",
+      "rank": 88,
+      "name": "Sendwave Send & Transfer Money",
+      "developer": "Chime Inc.",
+      "url": "https://apps.apple.com/us/app/id846717081",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 88
+        }
+      ],
+      "rating_count": 87441
+    },
+    {
+      "id": "1588185331",
+      "rank": 33,
+      "name": "Slot Mate - Vegas Slot Casino",
+      "developer": "PLAYLINKS Corp.",
+      "url": "https://apps.apple.com/us/app/id1588185331",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 33
+        }
+      ],
+      "rating_count": 1137
+    },
+    {
+      "id": "1256307081",
+      "rank": 85,
+      "name": "Ignite Classic Slots Casino",
+      "developer": "Mobee Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id1256307081",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 85
+        }
+      ],
+      "rating_count": 23430
+    },
+    {
+      "id": "1449164533",
+      "rank": 99,
+      "name": "Prizes by GAMEE: Earn Rewards",
+      "developer": "Gamee Mobile",
+      "url": "https://apps.apple.com/us/app/id1449164533",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 99
+        }
+      ],
+      "rating_count": 33029
+    },
+    {
+      "id": "342809508",
+      "rank": 43,
+      "name": "Athleta: Activewear & Apparel",
+      "developer": "Gap Inc.",
+      "url": "https://apps.apple.com/us/app/id342809508",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 43
+        }
+      ],
+      "rating_count": 229150
+    },
+    {
+      "id": "1215372874",
+      "rank": 95,
+      "name": "Pura",
+      "developer": "Pura",
+      "url": "https://apps.apple.com/us/app/id1215372874",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 95
+        }
+      ],
+      "rating_count": 182987
+    },
+    {
+      "id": "6748948029",
+      "rank": 66,
+      "name": "Sin Streets: Open World RPG",
+      "developer": "Pixelvoid Games Ltd",
+      "url": "https://apps.apple.com/us/app/id6748948029",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 66
+        }
+      ],
+      "rating_count": 885
+    },
+    {
+      "id": "6805725616",
+      "rank": 85,
+      "name": "Line Tangle - Dots Jam Escape",
+      "developer": "Shycheese",
+      "url": "https://apps.apple.com/us/app/id6805725616",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 85
+        }
+      ],
+      "rating_count": 781
+    },
+    {
+      "id": "1604602913",
+      "rank": 81,
+      "name": "WIAA Sports Live",
+      "developer": "Allen Media Broadcasting, LLC",
+      "url": "https://apps.apple.com/us/app/id1604602913",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 81
+        }
+      ],
+      "rating_count": 271
+    },
+    {
+      "id": "6763088329",
+      "rank": 59,
+      "name": "Photo Screensaver for TV",
+      "developer": "Viacheslav Ryabinin",
+      "url": "https://apps.apple.com/us/app/id6763088329",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 59
+        }
+      ],
+      "rating_count": 313
+    },
+    {
+      "id": "6749566371",
+      "rank": 86,
+      "name": "Pulse Monitor-Blood Sugar",
+      "developer": "PIECES OF WOOD CO., LIMITED",
+      "url": "https://apps.apple.com/us/app/id6749566371",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 86
+        }
+      ],
+      "rating_count": 8
+    },
+    {
+      "id": "6747003427",
+      "rank": 94,
+      "name": "Storage Cleaner*",
+      "developer": "Takamaka Ltd.",
+      "url": "https://apps.apple.com/us/app/id6747003427",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 94
+        }
+      ],
+      "rating_count": 57
+    },
+    {
+      "id": "6755528083",
+      "rank": 96,
+      "name": "Clean AI・Phone Storage Cleanup",
+      "developer": "BAO Apps",
+      "url": "https://apps.apple.com/us/app/id6755528083",
+      "first_seen": "2026-11-20",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 96
+        }
+      ],
+      "rating_count": 1986
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-20T09:17:14.985301+01:00"
+}
