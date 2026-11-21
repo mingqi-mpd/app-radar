@@ -1,0 +1,314 @@
+{
+  "date": "2026-11-21",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-22",
+  "comparison_to": "2026-11-20",
+  "retained_from": "2026-10-23",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 791,
+  "leads": [
+    {
+      "id": "6468845173",
+      "rank": 80,
+      "name": "GTA: Vice City – Definitive",
+      "developer": "Rockstar Games",
+      "url": "https://apps.apple.com/us/app/id6468845173",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 80
+        }
+      ],
+      "rating_count": 901
+    },
+    {
+      "id": "1597760047",
+      "rank": 89,
+      "name": "OneState RP: Role Play Online",
+      "developer": "CHILLBASE LTD",
+      "url": "https://apps.apple.com/us/app/id1597760047",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 89
+        }
+      ],
+      "rating_count": 26964
+    },
+    {
+      "id": "6444407009",
+      "rank": 90,
+      "name": "Treasure Masters",
+      "developer": "Gimica GmbH",
+      "url": "https://apps.apple.com/us/app/id6444407009",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 90
+        }
+      ],
+      "rating_count": 23294
+    },
+    {
+      "id": "1533066809",
+      "rank": 76,
+      "name": "LemFi — Send. Save. Grow.",
+      "developer": "Lemonade Finance",
+      "url": "https://apps.apple.com/us/app/id1533066809",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 76
+        }
+      ],
+      "rating_count": 78219
+    },
+    {
+      "id": "1620568565",
+      "rank": 98,
+      "name": "InmateSales",
+      "developer": "Combined Public Communications",
+      "url": "https://apps.apple.com/us/app/id1620568565",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 98
+        }
+      ],
+      "rating_count": 249
+    },
+    {
+      "id": "6449501345",
+      "rank": 78,
+      "name": "SKIMS",
+      "developer": "Skims Body, Inc.",
+      "url": "https://apps.apple.com/us/app/id6449501345",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 78
+        }
+      ],
+      "rating_count": 59610
+    },
+    {
+      "id": "1590610314",
+      "rank": 94,
+      "name": "Ralph Lauren: Luxury Shopping",
+      "developer": "Ralph Lauren Corporation",
+      "url": "https://apps.apple.com/us/app/id1590610314",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 94
+        }
+      ],
+      "rating_count": 61665
+    },
+    {
+      "id": "6819345481",
+      "rank": 43,
+      "name": "Basket Under Review",
+      "developer": "Brent Lane",
+      "url": "https://apps.apple.com/us/app/id6819345481",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 43
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6829358645",
+      "rank": 70,
+      "name": "Migration Station",
+      "developer": "Migration Station LLC",
+      "url": "https://apps.apple.com/us/app/id6829358645",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 70
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "1156583606",
+      "rank": 88,
+      "name": "IHSAA TV",
+      "developer": "BlueFrame Technology, LLC",
+      "url": "https://apps.apple.com/us/app/id1156583606",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 88
+        }
+      ],
+      "rating_count": 479
+    },
+    {
+      "id": "1526866869",
+      "rank": 90,
+      "name": "HuntFish OH",
+      "developer": "Sovereign Sportsman Solutions, LLC",
+      "url": "https://apps.apple.com/us/app/id1526866869",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 90
+        }
+      ],
+      "rating_count": 173
+    },
+    {
+      "id": "6660989840",
+      "rank": 95,
+      "name": "Boutboard",
+      "developer": "Rokfin, Inc.",
+      "url": "https://apps.apple.com/us/app/id6660989840",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 95
+        }
+      ],
+      "rating_count": 1324
+    },
+    {
+      "id": "1497729109",
+      "rank": 99,
+      "name": "Bare Knuckle TV",
+      "developer": "BK OTT LLC",
+      "url": "https://apps.apple.com/us/app/id1497729109",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 99
+        }
+      ],
+      "rating_count": 13
+    },
+    {
+      "id": "6747678685",
+      "rank": 43,
+      "name": "WebShield - Phone Defender",
+      "developer": "NJUS AB",
+      "url": "https://apps.apple.com/us/app/id6747678685",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 43
+        }
+      ],
+      "rating_count": 5
+    },
+    {
+      "id": "6463778651",
+      "rank": 87,
+      "name": "iLoveCleaner: Clean Up Storage",
+      "developer": "ZHONGZHI YOLO HK LIMITED",
+      "url": "https://apps.apple.com/us/app/id6463778651",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 87
+        }
+      ],
+      "rating_count": 71
+    },
+    {
+      "id": "1381226716",
+      "rank": 91,
+      "name": "Secure VPN: Private & Fast",
+      "developer": "DUY KY TRADING PRODUCTION ONE MEMBER COMPANY LIMITED",
+      "url": "https://apps.apple.com/us/app/id1381226716",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 91
+        }
+      ],
+      "rating_count": 420
+    },
+    {
+      "id": "1226650677",
+      "rank": 97,
+      "name": "QR Code Reader，Barcode Scanner",
+      "developer": "Air Apps Systems",
+      "url": "https://apps.apple.com/us/app/id1226650677",
+      "first_seen": "2026-11-21",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 97
+        }
+      ],
+      "rating_count": 74108
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-21T09:17:18.269921+01:00"
+}
