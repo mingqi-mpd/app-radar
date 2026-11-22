@@ -1,0 +1,299 @@
+{
+  "date": "2026-11-22",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-23",
+  "comparison_to": "2026-11-21",
+  "retained_from": "2026-10-24",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 796,
+  "leads": [
+    {
+      "id": "6818465459",
+      "rank": 44,
+      "name": "Tank Busters: Cannon Battle",
+      "developer": "SayGames LTD",
+      "url": "https://apps.apple.com/us/app/id6818465459",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 44
+        }
+      ],
+      "rating_count": 226
+    },
+    {
+      "id": "6831317859",
+      "rank": 62,
+      "name": "Tidy Room!",
+      "developer": "Circle Games",
+      "url": "https://apps.apple.com/us/app/id6831317859",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 62
+        }
+      ],
+      "rating_count": 151
+    },
+    {
+      "id": "1366478176",
+      "rank": 81,
+      "name": "Meta Horizon",
+      "developer": "Meta Platforms, Inc.",
+      "url": "https://apps.apple.com/us/app/id1366478176",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 81
+        }
+      ],
+      "rating_count": 230598
+    },
+    {
+      "id": "6737214802",
+      "rank": 91,
+      "name": "Mini Games: Calm & Chill",
+      "developer": "CTC Technology Limited",
+      "url": "https://apps.apple.com/us/app/id6737214802",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 91
+        }
+      ],
+      "rating_count": 536644
+    },
+    {
+      "id": "1486214495",
+      "rank": 100,
+      "name": "Brain Test: Tricky Puzzles",
+      "developer": "UNICO STUDIO",
+      "url": "https://apps.apple.com/us/app/id1486214495",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 100
+        }
+      ],
+      "rating_count": 1485671
+    },
+    {
+      "id": "6804930165",
+      "rank": 88,
+      "name": "Scavenger: Penny Deal Finder",
+      "developer": "Scale Ventures LLC",
+      "url": "https://apps.apple.com/us/app/id6804930165",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 88
+        }
+      ],
+      "rating_count": 180
+    },
+    {
+      "id": "1262148500",
+      "rank": 81,
+      "name": "Crypto.com: Trade Every Market",
+      "developer": "Crypto.com",
+      "url": "https://apps.apple.com/us/app/id1262148500",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 81
+        }
+      ],
+      "rating_count": 336887
+    },
+    {
+      "id": "1516658187",
+      "rank": 93,
+      "name": "Miami Hurricanes",
+      "developer": "WEBME TECHNOLOGIES LLC",
+      "url": "https://apps.apple.com/us/app/id1516658187",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 93
+        }
+      ],
+      "rating_count": 88
+    },
+    {
+      "id": "6793075281",
+      "rank": 86,
+      "name": "RepostZap: Repost Remover",
+      "developer": "Appalex Ltd.",
+      "url": "https://apps.apple.com/us/app/id6793075281",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 86
+        }
+      ],
+      "rating_count": 2372
+    },
+    {
+      "id": "6785443638",
+      "rank": 95,
+      "name": "Truba messenger",
+      "developer": "Maksim Slobodianiuk",
+      "url": "https://apps.apple.com/us/app/id6785443638",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 95
+        }
+      ],
+      "rating_count": 124
+    },
+    {
+      "id": "627958823",
+      "rank": 100,
+      "name": "JusTalk - Video Chat & Calls",
+      "developer": "Jus",
+      "url": "https://apps.apple.com/us/app/id627958823",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 100
+        }
+      ],
+      "rating_count": 76712
+    },
+    {
+      "id": "6831699886",
+      "rank": 71,
+      "name": "iTell: Second Phone Bridge",
+      "developer": "Amir AKBARZADEH",
+      "url": "https://apps.apple.com/us/app/id6831699886",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 71
+        }
+      ],
+      "rating_count": 2
+    },
+    {
+      "id": "6815758190",
+      "rank": 80,
+      "name": "CarScreen - Car Video Player",
+      "developer": "Emre Ayar",
+      "url": "https://apps.apple.com/us/app/id6815758190",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 80
+        }
+      ],
+      "rating_count": 8
+    },
+    {
+      "id": "6745494895",
+      "rank": 82,
+      "name": "iQR Scanner Pro",
+      "developer": "thuy nguyen thi thu",
+      "url": "https://apps.apple.com/us/app/id6745494895",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 82
+        }
+      ],
+      "rating_count": 76
+    },
+    {
+      "id": "1562781829",
+      "rank": 98,
+      "name": "Dice Roller!",
+      "developer": "Harry Foster",
+      "url": "https://apps.apple.com/us/app/id1562781829",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 98
+        }
+      ],
+      "rating_count": 10886
+    },
+    {
+      "id": "6820929686",
+      "rank": 66,
+      "name": "Leaked - Detective Story",
+      "developer": "CARA VN TRADE AND INVESTMENT JOINT STOCK COMPANY",
+      "url": "https://apps.apple.com/us/app/id6820929686",
+      "first_seen": "2026-11-22",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 66
+        }
+      ],
+      "rating_count": 65
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-22T09:17:21.173430+01:00"
+}
