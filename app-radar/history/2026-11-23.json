@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-23",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-24",
+  "comparison_to": "2026-11-22",
+  "retained_from": "2026-10-25",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 794,
+  "leads": [
+    {
+      "id": "6740699102",
+      "rank": 100,
+      "name": "Hole It 3D",
+      "developer": "SUPERSONIC STUDIOS LTD",
+      "url": "https://apps.apple.com/us/app/id6740699102",
+      "first_seen": "2026-11-23",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 100
+        }
+      ],
+      "rating_count": 32261
+    },
+    {
+      "id": "6813456910",
+      "rank": 100,
+      "name": "Cash Advance • Money Borrowing",
+      "developer": "Ay Kredieten",
+      "url": "https://apps.apple.com/us/app/id6813456910",
+      "first_seen": "2026-11-23",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 100
+        }
+      ],
+      "rating_count": 12
+    },
+    {
+      "id": "522990206",
+      "rank": 97,
+      "name": "The North Face",
+      "developer": "V.F. Corporation",
+      "url": "https://apps.apple.com/us/app/id522990206",
+      "first_seen": "2026-11-23",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 97
+        }
+      ],
+      "rating_count": 39646
+    },
+    {
+      "id": "1571680865",
+      "rank": 84,
+      "name": "Publer: Social Media Tools",
+      "developer": "Kalemi LLC",
+      "url": "https://apps.apple.com/us/app/id1571680865",
+      "first_seen": "2026-11-23",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 84
+        }
+      ],
+      "rating_count": 27577
+    },
+    {
+      "id": "1486781691",
+      "rank": 68,
+      "name": "MU Fan",
+      "developer": "Choicely Oy",
+      "url": "https://apps.apple.com/us/app/id1486781691",
+      "first_seen": "2026-11-23",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 68
+        }
+      ],
+      "rating_count": 16
+    },
+    {
+      "id": "6833790998",
+      "rank": 80,
+      "name": "Zeta AI: Chat, Story, Play",
+      "developer": "YU-TRADE DOO CACAK",
+      "url": "https://apps.apple.com/us/app/id6833790998",
+      "first_seen": "2026-11-23",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 80
+        }
+      ],
+      "rating_count": 4
+    },
+    {
+      "id": "6737295423",
+      "rank": 74,
+      "name": "Led Banner - Neon Signboard",
+      "developer": "Hieu Tran Thanh",
+      "url": "https://apps.apple.com/us/app/id6737295423",
+      "first_seen": "2026-11-23",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 74
+        }
+      ],
+      "rating_count": 60
+    },
+    {
+      "id": "1499828123",
+      "rank": 89,
+      "name": "enbrighten",
+      "developer": "Jasco Products Company LLC",
+      "url": "https://apps.apple.com/us/app/id1499828123",
+      "first_seen": "2026-11-23",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 89
+        }
+      ],
+      "rating_count": 11516
+    },
+    {
+      "id": "6473000053",
+      "rank": 100,
+      "name": "Momcozy",
+      "developer": "HONG KONG LUTE TECHNOLOGY CO., LIMITED",
+      "url": "https://apps.apple.com/us/app/id6473000053",
+      "first_seen": "2026-11-23",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 100
+        }
+      ],
+      "rating_count": 1579
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-23T09:17:17.219579+01:00"
+}
