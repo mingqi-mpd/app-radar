@@ -1,0 +1,179 @@
+{
+  "date": "2026-11-24",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-25",
+  "comparison_to": "2026-11-23",
+  "retained_from": "2026-10-26",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 794,
+  "leads": [
+    {
+      "id": "6757914159",
+      "rank": 96,
+      "name": "Cash Advance by Money Lend",
+      "developer": "Money Lend Express LLC",
+      "url": "https://apps.apple.com/us/app/id6757914159",
+      "first_seen": "2026-11-24",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 96
+        }
+      ],
+      "rating_count": 68
+    },
+    {
+      "id": "6755425214",
+      "rank": 61,
+      "name": "Pocket Sort: Coin Merge Puzzle",
+      "developer": "SayGames LTD",
+      "url": "https://apps.apple.com/us/app/id6755425214",
+      "first_seen": "2026-11-24",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 61
+        }
+      ],
+      "rating_count": 42111
+    },
+    {
+      "id": "6797583890",
+      "rank": 99,
+      "name": "Fill It: Organize Puzzle",
+      "developer": "Quoc Thuan Mai",
+      "url": "https://apps.apple.com/us/app/id6797583890",
+      "first_seen": "2026-11-24",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 99
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6748417469",
+      "rank": 99,
+      "name": "Newroz SC",
+      "developer": "DREEXLE",
+      "url": "https://apps.apple.com/us/app/id6748417469",
+      "first_seen": "2026-11-24",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 99
+        }
+      ],
+      "rating_count": 71
+    },
+    {
+      "id": "542751329",
+      "rank": 90,
+      "name": "Albertsons: Grocery & Deals",
+      "developer": "Albertsons Companies, LLC",
+      "url": "https://apps.apple.com/us/app/id542751329",
+      "first_seen": "2026-11-24",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 90
+        }
+      ],
+      "rating_count": 613533
+    },
+    {
+      "id": "1659556678",
+      "rank": 97,
+      "name": "Caden Lane",
+      "developer": "Caden Lane",
+      "url": "https://apps.apple.com/us/app/id1659556678",
+      "first_seen": "2026-11-24",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 97
+        }
+      ],
+      "rating_count": 13306
+    },
+    {
+      "id": "6630367408",
+      "rank": 84,
+      "name": "PDF Reader - Easy Editor",
+      "developer": "SPARK TECH LIMITED",
+      "url": "https://apps.apple.com/us/app/id6630367408",
+      "first_seen": "2026-11-24",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 84
+        }
+      ],
+      "rating_count": 5196
+    },
+    {
+      "id": "6739498078",
+      "rank": 89,
+      "name": "AR Ruler Measuring Tape：Metrix",
+      "developer": "MobileTech OU",
+      "url": "https://apps.apple.com/us/app/id6739498078",
+      "first_seen": "2026-11-24",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 89
+        }
+      ],
+      "rating_count": 1253
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-24T09:17:22.096150+01:00"
+}
