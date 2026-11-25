@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,136 +8,241 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-10-25",
-  "comparison_to": "2026-11-23",
-  "retained_from": "2026-10-26",
+  "comparison_from": "2026-10-26",
+  "comparison_to": "2026-11-24",
+  "retained_from": "2026-10-27",
   "history_days": 30,
   "complete_history_days": 30,
   "incomplete_history_dates": [],
   "unrecorded_history_days": 0,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 794,
+  "observed_count": 795,
   "leads": [
     {
-      "id": "6757914159",
-      "rank": 96,
-      "name": "Cash Advance by Money Lend",
-      "developer": "Money Lend Express LLC",
-      "url": "https://apps.apple.com/us/app/id6757914159",
-      "first_seen": "2026-11-24",
+      "id": "6499444724",
+      "rank": 34,
+      "name": "Arena Club: Sports & TCG Card",
+      "developer": "Arena Club",
+      "url": "https://apps.apple.com/us/app/id6499444724",
+      "first_seen": "2026-11-25",
       "charts": [
         {
-          "category": "Finance",
-          "rank": 96
+          "category": "Shopping",
+          "rank": 34
         }
       ],
-      "rating_count": 68
+      "rating_count": 8131
     },
     {
-      "id": "6755425214",
-      "rank": 61,
-      "name": "Pocket Sort: Coin Merge Puzzle",
-      "developer": "SayGames LTD",
-      "url": "https://apps.apple.com/us/app/id6755425214",
-      "first_seen": "2026-11-24",
+      "id": "6443457632",
+      "rank": 77,
+      "name": "YoungLA",
+      "developer": "YoungLA",
+      "url": "https://apps.apple.com/us/app/id6443457632",
+      "first_seen": "2026-11-25",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 77
+        }
+      ],
+      "rating_count": 11238
+    },
+    {
+      "id": "6741860812",
+      "rank": 18,
+      "name": "Cash Legends™: Win Real Money",
+      "developer": "Bring It On Games Ltd.",
+      "url": "https://apps.apple.com/us/app/id6741860812",
+      "first_seen": "2026-11-25",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 18
+        }
+      ],
+      "rating_count": 51226
+    },
+    {
+      "id": "1065980436",
+      "rank": 98,
+      "name": "POP! Slots™: Casino Slot Games",
+      "developer": "PlayStudios",
+      "url": "https://apps.apple.com/us/app/id1065980436",
+      "first_seen": "2026-11-25",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 98
+        }
+      ],
+      "rating_count": 114586
+    },
+    {
+      "id": "6828679757",
+      "rank": 90,
+      "name": "Pixelora Flow: Pixel Busters",
+      "developer": "HappyTapLand Technology Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id6828679757",
+      "first_seen": "2026-11-25",
       "charts": [
         {
           "category": "Games",
-          "rank": 61
+          "rank": 90
         }
       ],
-      "rating_count": 42111
+      "rating_count": 224
     },
     {
-      "id": "6797583890",
-      "rank": 99,
-      "name": "Fill It: Organize Puzzle",
-      "developer": "Quoc Thuan Mai",
-      "url": "https://apps.apple.com/us/app/id6797583890",
-      "first_seen": "2026-11-24",
+      "id": "6774321349",
+      "rank": 91,
+      "name": "Shoot Die Repeat",
+      "developer": "Heseri Games Inc",
+      "url": "https://apps.apple.com/us/app/id6774321349",
+      "first_seen": "2026-11-25",
       "charts": [
         {
           "category": "Games",
-          "rank": 99
+          "rank": 91
+        }
+      ],
+      "rating_count": 1988
+    },
+    {
+      "id": "6836912259",
+      "rank": 41,
+      "name": "Wingfall: Bird Hunting",
+      "developer": "CONNOR KENNEDY HAYES",
+      "url": "https://apps.apple.com/us/app/id6836912259",
+      "first_seen": "2026-11-25",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 41
+        }
+      ],
+      "rating_count": 2
+    },
+    {
+      "id": "942550677",
+      "rank": 100,
+      "name": "Fish | Hunt FL",
+      "developer": "Florida Fish and Wildlife",
+      "url": "https://apps.apple.com/us/app/id942550677",
+      "first_seen": "2026-11-25",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 100
+        }
+      ],
+      "rating_count": 576
+    },
+    {
+      "id": "6825400740",
+      "rank": 85,
+      "name": "Gamung",
+      "developer": "Nbwi Sut Aung",
+      "url": "https://apps.apple.com/us/app/id6825400740",
+      "first_seen": "2026-11-25",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 85
+        }
+      ],
+      "rating_count": 2
+    },
+    {
+      "id": "6824396014",
+      "rank": 93,
+      "name": "Vaheer",
+      "developer": "FRESCO WEB SERVICES PRIVATE LIMITED",
+      "url": "https://apps.apple.com/us/app/id6824396014",
+      "first_seen": "2026-11-25",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 93
         }
       ],
       "rating_count": 0
     },
     {
-      "id": "6748417469",
-      "rank": 99,
-      "name": "Newroz SC",
-      "developer": "DREEXLE",
-      "url": "https://apps.apple.com/us/app/id6748417469",
-      "first_seen": "2026-11-24",
+      "id": "6755986190",
+      "rank": 12,
+      "name": "NJ Gift Card:sell gift cards",
+      "developer": "KANKAN'S COMPASS PTE. LTD.",
+      "url": "https://apps.apple.com/us/app/id6755986190",
+      "first_seen": "2026-11-25",
       "charts": [
         {
-          "category": "Sports",
-          "rank": 99
+          "category": "Utilities",
+          "rank": 12
         }
       ],
-      "rating_count": 71
+      "rating_count": 46
     },
     {
-      "id": "542751329",
-      "rank": 90,
-      "name": "Albertsons: Grocery & Deals",
-      "developer": "Albertsons Companies, LLC",
-      "url": "https://apps.apple.com/us/app/id542751329",
-      "first_seen": "2026-11-24",
+      "id": "6748255435",
+      "rank": 98,
+      "name": "AI Cleaner: Clean Up Now",
+      "developer": "金旺 沈",
+      "url": "https://apps.apple.com/us/app/id6748255435",
+      "first_seen": "2026-11-25",
       "charts": [
         {
-          "category": "Shopping",
-          "rank": 90
+          "category": "Utilities",
+          "rank": 98
         }
       ],
-      "rating_count": 613533
+      "rating_count": 39
     },
     {
-      "id": "1659556678",
+      "id": "6745482135",
+      "rank": 37,
+      "name": "REELZ+ | Watch On Patrol: Live",
+      "developer": "Katapy",
+      "url": "https://apps.apple.com/us/app/id6745482135",
+      "first_seen": "2026-11-25",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 37
+        }
+      ],
+      "rating_count": 5
+    },
+    {
+      "id": "6754498343",
+      "rank": 77,
+      "name": "Shwe Nadi",
+      "developer": "Myo Min Thu",
+      "url": "https://apps.apple.com/us/app/id6754498343",
+      "first_seen": "2026-11-25",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 77
+        }
+      ],
+      "rating_count": 6
+    },
+    {
+      "id": "6780423105",
       "rank": 97,
-      "name": "Caden Lane",
-      "developer": "Caden Lane",
-      "url": "https://apps.apple.com/us/app/id1659556678",
-      "first_seen": "2026-11-24",
+      "name": "Afizzy: AI Interactive Stories",
+      "developer": "Sophos AI",
+      "url": "https://apps.apple.com/us/app/id6780423105",
+      "first_seen": "2026-11-25",
       "charts": [
         {
-          "category": "Shopping",
+          "category": "Entertainment",
           "rank": 97
         }
       ],
-      "rating_count": 13306
-    },
-    {
-      "id": "6630367408",
-      "rank": 84,
-      "name": "PDF Reader - Easy Editor",
-      "developer": "SPARK TECH LIMITED",
-      "url": "https://apps.apple.com/us/app/id6630367408",
-      "first_seen": "2026-11-24",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 84
-        }
-      ],
-      "rating_count": 5196
-    },
-    {
-      "id": "6739498078",
-      "rank": 89,
-      "name": "AR Ruler Measuring Tape：Metrix",
-      "developer": "MobileTech OU",
-      "url": "https://apps.apple.com/us/app/id6739498078",
-      "first_seen": "2026-11-24",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 89
-        }
-      ],
-      "rating_count": 1253
+      "rating_count": 1299
     }
   ],
   "errors": {},
@@ -175,5 +280,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-11-24T09:17:22.096150+01:00"
+  "ratings_checked_at": "2026-11-25T09:17:17.461298+01:00"
 }
