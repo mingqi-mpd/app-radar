@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-26",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-27",
+  "comparison_to": "2026-11-25",
+  "retained_from": "2026-10-28",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 797,
+  "leads": [
+    {
+      "id": "6798433802",
+      "rank": 76,
+      "name": "Prediction Radar",
+      "developer": "Quad Innovations Inc.",
+      "url": "https://apps.apple.com/us/app/id6798433802",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 76
+        }
+      ],
+      "rating_count": 1344
+    },
+    {
+      "id": "6754885325",
+      "rank": 42,
+      "name": "EVEREVE",
+      "developer": "EVEREVE",
+      "url": "https://apps.apple.com/us/app/id6754885325",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 42
+        }
+      ],
+      "rating_count": 20
+    },
+    {
+      "id": "1178741843",
+      "rank": 69,
+      "name": "Hot Topic: Pop Culture Fashion",
+      "developer": "Hot Topic, Inc.",
+      "url": "https://apps.apple.com/us/app/id1178741843",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 69
+        }
+      ],
+      "rating_count": 67856
+    },
+    {
+      "id": "366459988",
+      "rank": 86,
+      "name": "Blackjack",
+      "developer": "TapTapBoom Ltd.",
+      "url": "https://apps.apple.com/us/app/id366459988",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Casino",
+          "rank": 86
+        }
+      ],
+      "rating_count": 37164
+    },
+    {
+      "id": "6800790450",
+      "rank": 59,
+      "name": "Playbook Sports Betting",
+      "developer": "Better Collective",
+      "url": "https://apps.apple.com/us/app/id6800790450",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 59
+        }
+      ],
+      "rating_count": 13
+    },
+    {
+      "id": "643351983",
+      "rank": 100,
+      "name": "Slopes: Ski & Snowboard",
+      "developer": "Breakpoint Studio LLC",
+      "url": "https://apps.apple.com/us/app/id643351983",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 100
+        }
+      ],
+      "rating_count": 88330
+    },
+    {
+      "id": "6756058501",
+      "rank": 6,
+      "name": "Jelly Busters: Puzzle Game",
+      "developer": "Moon Active",
+      "url": "https://apps.apple.com/us/app/id6756058501",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 6
+        }
+      ],
+      "rating_count": 12371
+    },
+    {
+      "id": "6745321429",
+      "rank": 25,
+      "name": "DIGIMON ALYSION",
+      "developer": "BANDAI Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id6745321429",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 25
+        }
+      ],
+      "rating_count": 17
+    },
+    {
+      "id": "6818054527",
+      "rank": 84,
+      "name": "Slice Away! - Physics Puzzle",
+      "developer": "Pickcel Games",
+      "url": "https://apps.apple.com/us/app/id6818054527",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 84
+        }
+      ],
+      "rating_count": 1876
+    },
+    {
+      "id": "1518047412",
+      "rank": 86,
+      "name": "IQ Boost: Training Brain Games",
+      "developer": "Brightika, Inc.",
+      "url": "https://apps.apple.com/us/app/id1518047412",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 86
+        }
+      ],
+      "rating_count": 56606
+    },
+    {
+      "id": "1147094379",
+      "rank": 45,
+      "name": "WhatSticker - Sticker Maker",
+      "developer": "WHATSTICKER APPS SRL",
+      "url": "https://apps.apple.com/us/app/id1147094379",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 45
+        }
+      ],
+      "rating_count": 77468
+    },
+    {
+      "id": "6504139702",
+      "rank": 48,
+      "name": "TempPro",
+      "developer": "iTronics Co., Limited",
+      "url": "https://apps.apple.com/us/app/id6504139702",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 48
+        }
+      ],
+      "rating_count": 621
+    },
+    {
+      "id": "1490517668",
+      "rank": 74,
+      "name": "TempPro BBQ",
+      "developer": "iTronics Co., Limited",
+      "url": "https://apps.apple.com/us/app/id1490517668",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 74
+        }
+      ],
+      "rating_count": 26162
+    },
+    {
+      "id": "1318233975",
+      "rank": 96,
+      "name": "Dazzly: Color by Number Game",
+      "developer": "GEODE",
+      "url": "https://apps.apple.com/us/app/id1318233975",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 96
+        }
+      ],
+      "rating_count": 276405
+    },
+    {
+      "id": "6736637530",
+      "rank": 97,
+      "name": "AI Voice Changer・Sound Effects",
+      "developer": "TVSMART.APP",
+      "url": "https://apps.apple.com/us/app/id6736637530",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 97
+        }
+      ],
+      "rating_count": 11418
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-26T09:17:31.860612+01:00"
+}

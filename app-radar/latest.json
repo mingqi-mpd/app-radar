@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,241 +8,241 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-10-26",
-  "comparison_to": "2026-11-24",
-  "retained_from": "2026-10-27",
+  "comparison_from": "2026-10-27",
+  "comparison_to": "2026-11-25",
+  "retained_from": "2026-10-28",
   "history_days": 30,
   "complete_history_days": 30,
   "incomplete_history_dates": [],
   "unrecorded_history_days": 0,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 795,
+  "observed_count": 797,
   "leads": [
     {
-      "id": "6499444724",
-      "rank": 34,
-      "name": "Arena Club: Sports & TCG Card",
-      "developer": "Arena Club",
-      "url": "https://apps.apple.com/us/app/id6499444724",
-      "first_seen": "2026-11-25",
+      "id": "6798433802",
+      "rank": 76,
+      "name": "Prediction Radar",
+      "developer": "Quad Innovations Inc.",
+      "url": "https://apps.apple.com/us/app/id6798433802",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 76
+        }
+      ],
+      "rating_count": 1344
+    },
+    {
+      "id": "6754885325",
+      "rank": 42,
+      "name": "EVEREVE",
+      "developer": "EVEREVE",
+      "url": "https://apps.apple.com/us/app/id6754885325",
+      "first_seen": "2026-11-26",
       "charts": [
         {
           "category": "Shopping",
-          "rank": 34
+          "rank": 42
         }
       ],
-      "rating_count": 8131
+      "rating_count": 20
     },
     {
-      "id": "6443457632",
-      "rank": 77,
-      "name": "YoungLA",
-      "developer": "YoungLA",
-      "url": "https://apps.apple.com/us/app/id6443457632",
-      "first_seen": "2026-11-25",
+      "id": "1178741843",
+      "rank": 69,
+      "name": "Hot Topic: Pop Culture Fashion",
+      "developer": "Hot Topic, Inc.",
+      "url": "https://apps.apple.com/us/app/id1178741843",
+      "first_seen": "2026-11-26",
       "charts": [
         {
           "category": "Shopping",
-          "rank": 77
+          "rank": 69
         }
       ],
-      "rating_count": 11238
+      "rating_count": 67856
     },
     {
-      "id": "6741860812",
-      "rank": 18,
-      "name": "Cash Legends™: Win Real Money",
-      "developer": "Bring It On Games Ltd.",
-      "url": "https://apps.apple.com/us/app/id6741860812",
-      "first_seen": "2026-11-25",
+      "id": "366459988",
+      "rank": 86,
+      "name": "Blackjack",
+      "developer": "TapTapBoom Ltd.",
+      "url": "https://apps.apple.com/us/app/id366459988",
+      "first_seen": "2026-11-26",
       "charts": [
         {
           "category": "Casino",
-          "rank": 18
+          "rank": 86
         }
       ],
-      "rating_count": 51226
+      "rating_count": 37164
     },
     {
-      "id": "1065980436",
-      "rank": 98,
-      "name": "POP! Slots™: Casino Slot Games",
-      "developer": "PlayStudios",
-      "url": "https://apps.apple.com/us/app/id1065980436",
-      "first_seen": "2026-11-25",
-      "charts": [
-        {
-          "category": "Casino",
-          "rank": 98
-        }
-      ],
-      "rating_count": 114586
-    },
-    {
-      "id": "6828679757",
-      "rank": 90,
-      "name": "Pixelora Flow: Pixel Busters",
-      "developer": "HappyTapLand Technology Co., Ltd.",
-      "url": "https://apps.apple.com/us/app/id6828679757",
-      "first_seen": "2026-11-25",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 90
-        }
-      ],
-      "rating_count": 224
-    },
-    {
-      "id": "6774321349",
-      "rank": 91,
-      "name": "Shoot Die Repeat",
-      "developer": "Heseri Games Inc",
-      "url": "https://apps.apple.com/us/app/id6774321349",
-      "first_seen": "2026-11-25",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 91
-        }
-      ],
-      "rating_count": 1988
-    },
-    {
-      "id": "6836912259",
-      "rank": 41,
-      "name": "Wingfall: Bird Hunting",
-      "developer": "CONNOR KENNEDY HAYES",
-      "url": "https://apps.apple.com/us/app/id6836912259",
-      "first_seen": "2026-11-25",
+      "id": "6800790450",
+      "rank": 59,
+      "name": "Playbook Sports Betting",
+      "developer": "Better Collective",
+      "url": "https://apps.apple.com/us/app/id6800790450",
+      "first_seen": "2026-11-26",
       "charts": [
         {
           "category": "Sports",
-          "rank": 41
+          "rank": 59
         }
       ],
-      "rating_count": 2
+      "rating_count": 13
     },
     {
-      "id": "942550677",
+      "id": "643351983",
       "rank": 100,
-      "name": "Fish | Hunt FL",
-      "developer": "Florida Fish and Wildlife",
-      "url": "https://apps.apple.com/us/app/id942550677",
-      "first_seen": "2026-11-25",
+      "name": "Slopes: Ski & Snowboard",
+      "developer": "Breakpoint Studio LLC",
+      "url": "https://apps.apple.com/us/app/id643351983",
+      "first_seen": "2026-11-26",
       "charts": [
         {
           "category": "Sports",
           "rank": 100
         }
       ],
-      "rating_count": 576
+      "rating_count": 88330
     },
     {
-      "id": "6825400740",
-      "rank": 85,
-      "name": "Gamung",
-      "developer": "Nbwi Sut Aung",
-      "url": "https://apps.apple.com/us/app/id6825400740",
-      "first_seen": "2026-11-25",
+      "id": "6756058501",
+      "rank": 6,
+      "name": "Jelly Busters: Puzzle Game",
+      "developer": "Moon Active",
+      "url": "https://apps.apple.com/us/app/id6756058501",
+      "first_seen": "2026-11-26",
       "charts": [
         {
-          "category": "Social Networking",
-          "rank": 85
+          "category": "Games",
+          "rank": 6
         }
       ],
-      "rating_count": 2
+      "rating_count": 12371
     },
     {
-      "id": "6824396014",
-      "rank": 93,
-      "name": "Vaheer",
-      "developer": "FRESCO WEB SERVICES PRIVATE LIMITED",
-      "url": "https://apps.apple.com/us/app/id6824396014",
-      "first_seen": "2026-11-25",
+      "id": "6745321429",
+      "rank": 25,
+      "name": "DIGIMON ALYSION",
+      "developer": "BANDAI Co., Ltd.",
+      "url": "https://apps.apple.com/us/app/id6745321429",
+      "first_seen": "2026-11-26",
       "charts": [
         {
-          "category": "Social Networking",
-          "rank": 93
+          "category": "Games",
+          "rank": 25
         }
       ],
-      "rating_count": 0
+      "rating_count": 17
     },
     {
-      "id": "6755986190",
-      "rank": 12,
-      "name": "NJ Gift Card:sell gift cards",
-      "developer": "KANKAN'S COMPASS PTE. LTD.",
-      "url": "https://apps.apple.com/us/app/id6755986190",
-      "first_seen": "2026-11-25",
+      "id": "6818054527",
+      "rank": 84,
+      "name": "Slice Away! - Physics Puzzle",
+      "developer": "Pickcel Games",
+      "url": "https://apps.apple.com/us/app/id6818054527",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 84
+        }
+      ],
+      "rating_count": 1876
+    },
+    {
+      "id": "1518047412",
+      "rank": 86,
+      "name": "IQ Boost: Training Brain Games",
+      "developer": "Brightika, Inc.",
+      "url": "https://apps.apple.com/us/app/id1518047412",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 86
+        }
+      ],
+      "rating_count": 56606
+    },
+    {
+      "id": "1147094379",
+      "rank": 45,
+      "name": "WhatSticker - Sticker Maker",
+      "developer": "WHATSTICKER APPS SRL",
+      "url": "https://apps.apple.com/us/app/id1147094379",
+      "first_seen": "2026-11-26",
       "charts": [
         {
           "category": "Utilities",
-          "rank": 12
+          "rank": 45
         }
       ],
-      "rating_count": 46
+      "rating_count": 77468
     },
     {
-      "id": "6748255435",
-      "rank": 98,
-      "name": "AI Cleaner: Clean Up Now",
-      "developer": "金旺 沈",
-      "url": "https://apps.apple.com/us/app/id6748255435",
-      "first_seen": "2026-11-25",
+      "id": "6504139702",
+      "rank": 48,
+      "name": "TempPro",
+      "developer": "iTronics Co., Limited",
+      "url": "https://apps.apple.com/us/app/id6504139702",
+      "first_seen": "2026-11-26",
       "charts": [
         {
           "category": "Utilities",
-          "rank": 98
+          "rank": 48
         }
       ],
-      "rating_count": 39
+      "rating_count": 621
     },
     {
-      "id": "6745482135",
-      "rank": 37,
-      "name": "REELZ+ | Watch On Patrol: Live",
-      "developer": "Katapy",
-      "url": "https://apps.apple.com/us/app/id6745482135",
-      "first_seen": "2026-11-25",
+      "id": "1490517668",
+      "rank": 74,
+      "name": "TempPro BBQ",
+      "developer": "iTronics Co., Limited",
+      "url": "https://apps.apple.com/us/app/id1490517668",
+      "first_seen": "2026-11-26",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 74
+        }
+      ],
+      "rating_count": 26162
+    },
+    {
+      "id": "1318233975",
+      "rank": 96,
+      "name": "Dazzly: Color by Number Game",
+      "developer": "GEODE",
+      "url": "https://apps.apple.com/us/app/id1318233975",
+      "first_seen": "2026-11-26",
       "charts": [
         {
           "category": "Entertainment",
-          "rank": 37
+          "rank": 96
         }
       ],
-      "rating_count": 5
+      "rating_count": 276405
     },
     {
-      "id": "6754498343",
-      "rank": 77,
-      "name": "Shwe Nadi",
-      "developer": "Myo Min Thu",
-      "url": "https://apps.apple.com/us/app/id6754498343",
-      "first_seen": "2026-11-25",
-      "charts": [
-        {
-          "category": "Entertainment",
-          "rank": 77
-        }
-      ],
-      "rating_count": 6
-    },
-    {
-      "id": "6780423105",
+      "id": "6736637530",
       "rank": 97,
-      "name": "Afizzy: AI Interactive Stories",
-      "developer": "Sophos AI",
-      "url": "https://apps.apple.com/us/app/id6780423105",
-      "first_seen": "2026-11-25",
+      "name": "AI Voice Changer・Sound Effects",
+      "developer": "TVSMART.APP",
+      "url": "https://apps.apple.com/us/app/id6736637530",
+      "first_seen": "2026-11-26",
       "charts": [
         {
           "category": "Entertainment",
           "rank": 97
         }
       ],
-      "rating_count": 1299
+      "rating_count": 11418
     }
   ],
   "errors": {},
@@ -280,5 +280,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-11-25T09:17:17.461298+01:00"
+  "ratings_checked_at": "2026-11-26T09:17:31.860612+01:00"
 }
