@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "timezone": "Europe/Rome",
   "country": "US",
   "device": "iPhone",
@@ -8,481 +8,301 @@
   "window_days": 30,
   "started_on": "2026-09-28",
   "baseline_date": "2026-09-28",
-  "comparison_from": "2026-10-28",
-  "comparison_to": "2026-11-26",
-  "retained_from": "2026-10-29",
+  "comparison_from": "2026-10-29",
+  "comparison_to": "2026-11-27",
+  "retained_from": "2026-10-30",
   "history_days": 30,
   "complete_history_days": 30,
   "incomplete_history_dates": [],
   "unrecorded_history_days": 0,
   "complete": true,
   "is_baseline": false,
-  "observed_count": 797,
+  "observed_count": 796,
   "leads": [
     {
-      "id": "413251709",
+      "id": "6790776425",
+      "rank": 40,
+      "name": "BRAVE FRONTIER LEGION",
+      "developer": "ALPSE PTE, LTE.",
+      "url": "https://apps.apple.com/us/app/id6790776425",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 40
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6738281686",
+      "rank": 67,
+      "name": "Doki Doki Literature Club!",
+      "developer": "Serenity Forge",
+      "url": "https://apps.apple.com/us/app/id6738281686",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 67
+        }
+      ],
+      "rating_count": 12849
+    },
+    {
+      "id": "6514323796",
+      "rank": 46,
+      "name": "Windsor Store",
+      "developer": "Windsor Fashions, LLC",
+      "url": "https://apps.apple.com/us/app/id6514323796",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 46
+        }
+      ],
+      "rating_count": 5370
+    },
+    {
+      "id": "599608562",
+      "rank": 90,
+      "name": "UNiDAYS: Student Discount App",
+      "developer": "UNiDAYS",
+      "url": "https://apps.apple.com/us/app/id599608562",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 90
+        }
+      ],
+      "rating_count": 167853
+    },
+    {
+      "id": "583093664",
+      "rank": 94,
+      "name": "Meijer - Delivery & Pickup",
+      "developer": "Meijer, Inc.",
+      "url": "https://apps.apple.com/us/app/id583093664",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 94
+        }
+      ],
+      "rating_count": 142417
+    },
+    {
+      "id": "6754253312",
+      "rank": 95,
+      "name": "coach outlet store",
+      "developer": "Solano Venegas Arellano",
+      "url": "https://apps.apple.com/us/app/id6754253312",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 95
+        }
+      ],
+      "rating_count": 59
+    },
+    {
+      "id": "339883869",
+      "rank": 100,
+      "name": "Bed Bath & Beyond",
+      "developer": "Bed Bath & Beyond, Inc.",
+      "url": "https://apps.apple.com/us/app/id339883869",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 100
+        }
+      ],
+      "rating_count": 143587
+    },
+    {
+      "id": "6737785495",
+      "rank": 74,
+      "name": "Settlemate: Claim Savings",
+      "developer": "Settlemate Inc",
+      "url": "https://apps.apple.com/us/app/id6737785495",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 74
+        }
+      ],
+      "rating_count": 76176
+    },
+    {
+      "id": "6755202426",
+      "rank": 88,
+      "name": "ClaimHunt – Claim Settlement",
+      "developer": "Push Apps",
+      "url": "https://apps.apple.com/us/app/id6755202426",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 88
+        }
+      ],
+      "rating_count": 3577
+    },
+    {
+      "id": "1623228342",
       "rank": 92,
-      "name": "MetaTrader 5",
-      "developer": "MetaQuotes Software Corp.",
-      "url": "https://apps.apple.com/us/app/id413251709",
-      "first_seen": "2026-11-27",
+      "name": "Link: A smarter way to pay",
+      "developer": "Stripe, LLC",
+      "url": "https://apps.apple.com/us/app/id1623228342",
+      "first_seen": "2026-11-28",
       "charts": [
         {
           "category": "Finance",
           "rank": 92
         }
       ],
-      "rating_count": 88236
-    },
-    {
-      "id": "6811113499",
-      "rank": 72,
-      "name": "Ripit - Real Trading Cards",
-      "developer": "Ripit LLC",
-      "url": "https://apps.apple.com/us/app/id6811113499",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 72
-        }
-      ],
-      "rating_count": 54
-    },
-    {
-      "id": "386656478",
-      "rank": 84,
-      "name": "Express",
-      "developer": "Express, Inc.",
-      "url": "https://apps.apple.com/us/app/id386656478",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 84
-        }
-      ],
-      "rating_count": 23179
-    },
-    {
-      "id": "966758561",
-      "rank": 91,
-      "name": "GOAT – Sneakers & Apparel",
-      "developer": "1661, Inc.",
-      "url": "https://apps.apple.com/us/app/id966758561",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Shopping",
-          "rank": 91
-        }
-      ],
-      "rating_count": 2046899
-    },
-    {
-      "id": "1424246763",
-      "rank": 27,
-      "name": "Charades: Headbands Team Game",
-      "developer": "DKraft Studio s.r.o.",
-      "url": "https://apps.apple.com/us/app/id1424246763",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 27
-        }
-      ],
-      "rating_count": 40860
-    },
-    {
-      "id": "1621483628",
-      "rank": 34,
-      "name": "HITSTER",
-      "developer": "Koninklijke Jumbo B.V",
-      "url": "https://apps.apple.com/us/app/id1621483628",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 34
-        }
-      ],
-      "rating_count": 4137
-    },
-    {
-      "id": "1512834505",
-      "rank": 47,
-      "name": "Wavelength",
-      "developer": "Palm Court LLC",
-      "url": "https://apps.apple.com/us/app/id1512834505",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 47
-        }
-      ],
-      "rating_count": 65265
-    },
-    {
-      "id": "6749012623",
-      "rank": 51,
-      "name": "Imposter Game — Fakeit",
-      "developer": "smak apps",
-      "url": "https://apps.apple.com/us/app/id6749012623",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 51
-        }
-      ],
-      "rating_count": 28393
-    },
-    {
-      "id": "6812733413",
-      "rank": 93,
-      "name": "Last Combat: Z Shooter",
-      "developer": "PIXEL KING PTE. LTD.",
-      "url": "https://apps.apple.com/us/app/id6812733413",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 93
-        }
-      ],
-      "rating_count": 3486
-    },
-    {
-      "id": "1344700142",
-      "rank": 95,
-      "name": "UNO!™",
-      "developer": "Mattel Game Studios HK Limited",
-      "url": "https://apps.apple.com/us/app/id1344700142",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 95
-        }
-      ],
-      "rating_count": 663113
-    },
-    {
-      "id": "1247071705",
-      "rank": 96,
-      "name": "Baraja de Loteria Mexicana",
-      "developer": "Alan Salinas",
-      "url": "https://apps.apple.com/us/app/id1247071705",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 96
-        }
-      ],
-      "rating_count": 26601
-    },
-    {
-      "id": "6788498566",
-      "rank": 100,
-      "name": "Gartic Phone",
-      "developer": "Gartic",
-      "url": "https://apps.apple.com/us/app/id6788498566",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Games",
-          "rank": 100
-        }
-      ],
-      "rating_count": 1661
-    },
-    {
-      "id": "465346806",
-      "rank": 67,
-      "name": "Buffalo Bills Mobile",
-      "developer": "Buffalo Bills, Inc.",
-      "url": "https://apps.apple.com/us/app/id465346806",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 67
-        }
-      ],
-      "rating_count": 103392
-    },
-    {
-      "id": "1535874175",
-      "rank": 76,
-      "name": "The Manchester Road Race",
-      "developer": "Dilltree Inc",
-      "url": "https://apps.apple.com/us/app/id1535874175",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 76
-        }
-      ],
-      "rating_count": 49
-    },
-    {
-      "id": "6587576453",
-      "rank": 82,
-      "name": "MDWFP HuntFish",
-      "developer": "Sovereign Sportsman Solutions, LLC",
-      "url": "https://apps.apple.com/us/app/id6587576453",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 82
-        }
-      ],
       "rating_count": 105
     },
     {
-      "id": "599664106",
+      "id": "1612074883",
+      "rank": 96,
+      "name": "Katapult | Shop & Lease to Own",
+      "developer": "Katapult",
+      "url": "https://apps.apple.com/us/app/id1612074883",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 96
+        }
+      ],
+      "rating_count": 29716
+    },
+    {
+      "id": "1460013401",
+      "rank": 42,
+      "name": "US Mobile",
+      "developer": "US Mobile Inc.",
+      "url": "https://apps.apple.com/us/app/id1460013401",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 42
+        }
+      ],
+      "rating_count": 2131
+    },
+    {
+      "id": "6502297763",
+      "rank": 75,
+      "name": "SteelSeries Arctis Companion",
+      "developer": "GN Audio AS",
+      "url": "https://apps.apple.com/us/app/id6502297763",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 75
+        }
+      ],
+      "rating_count": 7393
+    },
+    {
+      "id": "1621229655",
+      "rank": 92,
+      "name": "Sony | BRAVIA Connect",
+      "developer": "Sony Corporation",
+      "url": "https://apps.apple.com/us/app/id1621229655",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 92
+        }
+      ],
+      "rating_count": 12202
+    },
+    {
+      "id": "393159815",
+      "rank": 84,
+      "name": "SeaWorld",
+      "developer": "SeaWorld Parks & Entertainment Inc.",
+      "url": "https://apps.apple.com/us/app/id393159815",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 84
+        }
+      ],
+      "rating_count": 132183
+    },
+    {
+      "id": "6830140849",
+      "rank": 95,
+      "name": "StandUPDrama",
+      "developer": "Jiya Khopkar",
+      "url": "https://apps.apple.com/us/app/id6830140849",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 95
+        }
+      ],
+      "rating_count": 4
+    },
+    {
+      "id": "6787166418",
+      "rank": 73,
+      "name": "Mini Match - iMessage Games",
+      "developer": "Apps And Things, Inc.",
+      "url": "https://apps.apple.com/us/app/id6787166418",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 73
+        }
+      ],
+      "rating_count": 70
+    },
+    {
+      "id": "6736470866",
+      "rank": 75,
+      "name": "ASICSㅤ",
+      "developer": "ASICS Corporation",
+      "url": "https://apps.apple.com/us/app/id6736470866",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 75
+        }
+      ],
+      "rating_count": 52
+    },
+    {
+      "id": "6785865215",
       "rank": 91,
-      "name": "FanDuel Fantasy",
-      "developer": "FanDuel, Inc.",
-      "url": "https://apps.apple.com/us/app/id599664106",
-      "first_seen": "2026-11-27",
+      "name": "WNT TV",
+      "developer": "StayLive AB",
+      "url": "https://apps.apple.com/us/app/id6785865215",
+      "first_seen": "2026-11-28",
       "charts": [
         {
           "category": "Sports",
           "rank": 91
         }
       ],
-      "rating_count": 227658
-    },
-    {
-      "id": "1065985398",
-      "rank": 95,
-      "name": "FOX Deportes",
-      "developer": "FOX Sports Interactive",
-      "url": "https://apps.apple.com/us/app/id1065985398",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 95
-        }
-      ],
-      "rating_count": 33
-    },
-    {
-      "id": "1511427031",
-      "rank": 99,
-      "name": "Darts Scoreboard: Scorekeeper",
-      "developer": "Yosyp Hameliak",
-      "url": "https://apps.apple.com/us/app/id1511427031",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Sports",
-          "rank": 99
-        }
-      ],
-      "rating_count": 2790
-    },
-    {
-      "id": "6834787235",
-      "rank": 76,
-      "name": "ALinkgram",
-      "developer": "Chao Zhang",
-      "url": "https://apps.apple.com/us/app/id6834787235",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 76
-        }
-      ],
-      "rating_count": 6
-    },
-    {
-      "id": "6751143764",
-      "rank": 82,
-      "name": "CountIt: Counter with Friends",
-      "developer": "FORB LABS SL",
-      "url": "https://apps.apple.com/us/app/id6751143764",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 82
-        }
-      ],
-      "rating_count": 194
-    },
-    {
-      "id": "6736846044",
-      "rank": 98,
-      "name": "Llama app",
-      "developer": "Emergency Tasker",
-      "url": "https://apps.apple.com/us/app/id6736846044",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 98
-        }
-      ],
-      "rating_count": 25
-    },
-    {
-      "id": "1612681512",
-      "rank": 99,
-      "name": "NCIC Mobile Video Visitation",
-      "developer": "NCIC",
-      "url": "https://apps.apple.com/us/app/id1612681512",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Social Networking",
-          "rank": 99
-        }
-      ],
-      "rating_count": 2190
-    },
-    {
-      "id": "6746781192",
-      "rank": 55,
-      "name": "Imposter Who? - Word Game",
-      "developer": "Sokak Technologies Inc.",
-      "url": "https://apps.apple.com/us/app/id6746781192",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Entertainment",
-          "rank": 55
-        }
-      ],
-      "rating_count": 32719
-    },
-    {
-      "id": "1669091583",
-      "rank": 92,
-      "name": "Bluey: Let's Play!",
-      "developer": "Budge Studios",
-      "url": "https://apps.apple.com/us/app/id1669091583",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Entertainment",
-          "rank": 92
-        }
-      ],
-      "rating_count": 1122406
-    },
-    {
-      "id": "1467343690",
-      "rank": 98,
-      "name": "Spin The Wheel - Random Picker",
-      "developer": "Taurius Petraitis",
-      "url": "https://apps.apple.com/us/app/id1467343690",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Entertainment",
-          "rank": 98
-        }
-      ],
-      "rating_count": 98404
-    },
-    {
-      "id": "917932200",
-      "rank": 54,
-      "name": "GIF Keyboard",
-      "developer": "Tenor",
-      "url": "https://apps.apple.com/us/app/id917932200",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 54
-        }
-      ],
-      "rating_count": 1439334
-    },
-    {
-      "id": "1525917880",
-      "rank": 55,
-      "name": "Dominion Energy",
-      "developer": "Dominion",
-      "url": "https://apps.apple.com/us/app/id1525917880",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 55
-        }
-      ],
-      "rating_count": 50779
-    },
-    {
-      "id": "6755316041",
-      "rank": 92,
-      "name": "TCL Remote Control for TV",
-      "developer": "Apps Venture Inc.",
-      "url": "https://apps.apple.com/us/app/id6755316041",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 92
-        }
-      ],
-      "rating_count": 5588
-    },
-    {
-      "id": "1618200738",
-      "rank": 95,
-      "name": "Nextline - Second Phone Number",
-      "developer": "GRAND APPS YAZILIM VE TEKNOLOJI ANONIM SIRKETI",
-      "url": "https://apps.apple.com/us/app/id1618200738",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 95
-        }
-      ],
-      "rating_count": 9563
-    },
-    {
-      "id": "6815615283",
-      "rank": 96,
-      "name": "Car TV - IPTV M3U Video Player",
-      "developer": "Vandana Merja",
-      "url": "https://apps.apple.com/us/app/id6815615283",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 96
-        }
-      ],
-      "rating_count": 754
-    },
-    {
-      "id": "6804629968",
-      "rank": 98,
-      "name": "RingTune Studio: Maker&Editor",
-      "developer": "龙龙 曹",
-      "url": "https://apps.apple.com/us/app/id6804629968",
-      "first_seen": "2026-11-27",
-      "charts": [
-        {
-          "category": "Utilities",
-          "rank": 98
-        }
-      ],
-      "rating_count": 14
+      "rating_count": 5
     }
   ],
   "errors": {},
@@ -520,5 +340,5 @@
       "current_available": true
     }
   },
-  "ratings_checked_at": "2026-11-27T09:17:17.742160+01:00"
+  "ratings_checked_at": "2026-11-28T09:17:16.776539+01:00"
 }

@@ -1,0 +1,344 @@
+{
+  "date": "2026-11-28",
+  "timezone": "Europe/Rome",
+  "country": "US",
+  "device": "iPhone",
+  "chart": "Top Free",
+  "rule": "rolling-30-day-absence",
+  "window_days": 30,
+  "started_on": "2026-09-28",
+  "baseline_date": "2026-09-28",
+  "comparison_from": "2026-10-29",
+  "comparison_to": "2026-11-27",
+  "retained_from": "2026-10-30",
+  "history_days": 30,
+  "complete_history_days": 30,
+  "incomplete_history_dates": [],
+  "unrecorded_history_days": 0,
+  "complete": true,
+  "is_baseline": false,
+  "observed_count": 796,
+  "leads": [
+    {
+      "id": "6790776425",
+      "rank": 40,
+      "name": "BRAVE FRONTIER LEGION",
+      "developer": "ALPSE PTE, LTE.",
+      "url": "https://apps.apple.com/us/app/id6790776425",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 40
+        }
+      ],
+      "rating_count": 0
+    },
+    {
+      "id": "6738281686",
+      "rank": 67,
+      "name": "Doki Doki Literature Club!",
+      "developer": "Serenity Forge",
+      "url": "https://apps.apple.com/us/app/id6738281686",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Games",
+          "rank": 67
+        }
+      ],
+      "rating_count": 12849
+    },
+    {
+      "id": "6514323796",
+      "rank": 46,
+      "name": "Windsor Store",
+      "developer": "Windsor Fashions, LLC",
+      "url": "https://apps.apple.com/us/app/id6514323796",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 46
+        }
+      ],
+      "rating_count": 5370
+    },
+    {
+      "id": "599608562",
+      "rank": 90,
+      "name": "UNiDAYS: Student Discount App",
+      "developer": "UNiDAYS",
+      "url": "https://apps.apple.com/us/app/id599608562",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 90
+        }
+      ],
+      "rating_count": 167853
+    },
+    {
+      "id": "583093664",
+      "rank": 94,
+      "name": "Meijer - Delivery & Pickup",
+      "developer": "Meijer, Inc.",
+      "url": "https://apps.apple.com/us/app/id583093664",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 94
+        }
+      ],
+      "rating_count": 142417
+    },
+    {
+      "id": "6754253312",
+      "rank": 95,
+      "name": "coach outlet store",
+      "developer": "Solano Venegas Arellano",
+      "url": "https://apps.apple.com/us/app/id6754253312",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 95
+        }
+      ],
+      "rating_count": 59
+    },
+    {
+      "id": "339883869",
+      "rank": 100,
+      "name": "Bed Bath & Beyond",
+      "developer": "Bed Bath & Beyond, Inc.",
+      "url": "https://apps.apple.com/us/app/id339883869",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Shopping",
+          "rank": 100
+        }
+      ],
+      "rating_count": 143587
+    },
+    {
+      "id": "6737785495",
+      "rank": 74,
+      "name": "Settlemate: Claim Savings",
+      "developer": "Settlemate Inc",
+      "url": "https://apps.apple.com/us/app/id6737785495",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 74
+        }
+      ],
+      "rating_count": 76176
+    },
+    {
+      "id": "6755202426",
+      "rank": 88,
+      "name": "ClaimHunt – Claim Settlement",
+      "developer": "Push Apps",
+      "url": "https://apps.apple.com/us/app/id6755202426",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 88
+        }
+      ],
+      "rating_count": 3577
+    },
+    {
+      "id": "1623228342",
+      "rank": 92,
+      "name": "Link: A smarter way to pay",
+      "developer": "Stripe, LLC",
+      "url": "https://apps.apple.com/us/app/id1623228342",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 92
+        }
+      ],
+      "rating_count": 105
+    },
+    {
+      "id": "1612074883",
+      "rank": 96,
+      "name": "Katapult | Shop & Lease to Own",
+      "developer": "Katapult",
+      "url": "https://apps.apple.com/us/app/id1612074883",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Finance",
+          "rank": 96
+        }
+      ],
+      "rating_count": 29716
+    },
+    {
+      "id": "1460013401",
+      "rank": 42,
+      "name": "US Mobile",
+      "developer": "US Mobile Inc.",
+      "url": "https://apps.apple.com/us/app/id1460013401",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 42
+        }
+      ],
+      "rating_count": 2131
+    },
+    {
+      "id": "6502297763",
+      "rank": 75,
+      "name": "SteelSeries Arctis Companion",
+      "developer": "GN Audio AS",
+      "url": "https://apps.apple.com/us/app/id6502297763",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 75
+        }
+      ],
+      "rating_count": 7393
+    },
+    {
+      "id": "1621229655",
+      "rank": 92,
+      "name": "Sony | BRAVIA Connect",
+      "developer": "Sony Corporation",
+      "url": "https://apps.apple.com/us/app/id1621229655",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Utilities",
+          "rank": 92
+        }
+      ],
+      "rating_count": 12202
+    },
+    {
+      "id": "393159815",
+      "rank": 84,
+      "name": "SeaWorld",
+      "developer": "SeaWorld Parks & Entertainment Inc.",
+      "url": "https://apps.apple.com/us/app/id393159815",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 84
+        }
+      ],
+      "rating_count": 132183
+    },
+    {
+      "id": "6830140849",
+      "rank": 95,
+      "name": "StandUPDrama",
+      "developer": "Jiya Khopkar",
+      "url": "https://apps.apple.com/us/app/id6830140849",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Entertainment",
+          "rank": 95
+        }
+      ],
+      "rating_count": 4
+    },
+    {
+      "id": "6787166418",
+      "rank": 73,
+      "name": "Mini Match - iMessage Games",
+      "developer": "Apps And Things, Inc.",
+      "url": "https://apps.apple.com/us/app/id6787166418",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Social Networking",
+          "rank": 73
+        }
+      ],
+      "rating_count": 70
+    },
+    {
+      "id": "6736470866",
+      "rank": 75,
+      "name": "ASICSㅤ",
+      "developer": "ASICS Corporation",
+      "url": "https://apps.apple.com/us/app/id6736470866",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 75
+        }
+      ],
+      "rating_count": 52
+    },
+    {
+      "id": "6785865215",
+      "rank": 91,
+      "name": "WNT TV",
+      "developer": "StayLive AB",
+      "url": "https://apps.apple.com/us/app/id6785865215",
+      "first_seen": "2026-11-28",
+      "charts": [
+        {
+          "category": "Sports",
+          "rank": 91
+        }
+      ],
+      "rating_count": 5
+    }
+  ],
+  "errors": {},
+  "coverage": {
+    "Games": {
+      "ready": true,
+      "current_available": true
+    },
+    "Finance": {
+      "ready": true,
+      "current_available": true
+    },
+    "Shopping": {
+      "ready": true,
+      "current_available": true
+    },
+    "Casino": {
+      "ready": true,
+      "current_available": true
+    },
+    "Sports": {
+      "ready": true,
+      "current_available": true
+    },
+    "Social Networking": {
+      "ready": true,
+      "current_available": true
+    },
+    "Utilities": {
+      "ready": true,
+      "current_available": true
+    },
+    "Entertainment": {
+      "ready": true,
+      "current_available": true
+    }
+  },
+  "ratings_checked_at": "2026-11-28T09:17:16.776539+01:00"
+}
